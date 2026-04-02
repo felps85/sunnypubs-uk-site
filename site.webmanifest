@@ -1,0 +1,16 @@
+{
+  "name": "Sunny Pubs in the UK",
+  "short_name": "Sunny Pubs UK",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#202736",
+  "theme_color": "#202736",
+  "icons": [
+    {
+      "src": "./favicon-default.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
