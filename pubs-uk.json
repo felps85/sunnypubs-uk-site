@@ -5766,8 +5766,8 @@
     "lon": -3.1775315
   },
   {
-    "id": "bonnie-rogues-proud-mary-s-swansea-way-835360584",
-    "name": "Bonnie Rogues (Proud Mary's)",
+    "id": "bonnie-rogues-swansea-way-835360584",
+    "name": "Bonnie Rogues",
     "lat": 51.6195516,
     "lon": -3.9400952
   },
@@ -55316,7 +55316,7 @@
   {
     "id": "the-gateshead-legion-club-newcastle-way-441588605",
     "name": "The Gateshead Legion Club",
-    "lat": 54.952011,
+    "lat": 54.9520186,
     "lon": -1.6054261
   },
   {
@@ -80694,8 +80694,8 @@
     "lon": -2.569183
   },
   {
-    "id": "three-brass-monkeys-hogarths-swansea-node-6277359319",
-    "name": "Three Brass Monkeys (Hogarths)",
+    "id": "three-brass-monkeys-swansea-node-6277359319",
+    "name": "Three Brass Monkeys",
     "lat": 51.6194491,
     "lon": -3.9414601
   },
