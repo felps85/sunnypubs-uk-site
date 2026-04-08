@@ -1,7 +1,7 @@
 {
-  "name": "Sunny Pubs in the UK",
-  "short_name": "Sunny Pubs UK",
-  "start_url": "/uk",
+  "name": "Sunny Pubs in Ireland",
+  "short_name": "Sunny Pubs",
+  "start_url": "/ie",
   "display": "standalone",
   "background_color": "#202736",
   "theme_color": "#202736",
