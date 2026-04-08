@@ -1,13 +1,27 @@
 {
   "name": "Sunny Pubs in Ireland",
   "short_name": "Sunny Pubs",
-  "start_url": "/ie",
+  "id": "/ie/",
+  "start_url": "/ie/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#202736",
   "theme_color": "#202736",
   "icons": [
     {
-      "src": "./favicon-default.svg",
+      "src": "/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-default.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
