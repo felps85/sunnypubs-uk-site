@@ -1722,12 +1722,6 @@
     "lon": -5.9400319
   },
   {
-    "id": "brewdog-outpost-dublin-manual",
-    "name": "BrewDog Outpost Dublin",
-    "lat": 53.3446057,
-    "lon": -6.2308212
-  },
-  {
     "id": "brewers-fayre-node-4675564526",
     "name": "Brewers Fayre",
     "lat": 54.9924304,
@@ -10756,12 +10750,6 @@
     "name": "Mckenna",
     "lat": 54.4282217,
     "lon": -7.1306554
-  },
-  {
-    "id": "mckennas-dun-laoghaire-manual",
-    "name": "McKenna's",
-    "lat": 53.2946393,
-    "lon": -6.1392252
   },
   {
     "id": "mckenna-s-bar-node-12972146526",
