@@ -1740,7 +1740,12 @@
     "town": "Dublin",
     "county": "Dublin",
     "addressText": "Three Locks Square, 4, Grand Canal Dock, Dublin 2, D02 E5R7, Ireland",
-    "sourceName": "BrewDog Dublin"
+    "sourceName": "BrewDog Dublin",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
   },
   {
     "id": "brewers-fayre-node-4675564526",
@@ -2707,6 +2712,26 @@
     "lon": -8.4666913
   },
   {
+    "id": "charlotte-quay-node-4452570750",
+    "name": "Charlotte Quay",
+    "lat": 53.3428817,
+    "lon": -6.2369889,
+    "town": "Dublin",
+    "county": "Dublin",
+    "addressText": "Charlotte Quay Dock, Millennium Tower, Ground Floor, Ringsend Rd, Dublin 4, D04 H9F8, Ireland",
+    "sourceName": "Bereen Brothers / OpenStreetMap",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed",
+      "source": "https://bereenbrothers.com/charlotte-quay"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/charlotte-quay-restaurant"
+    }
+  },
+  {
     "id": "charter-bar-node-10621505038",
     "name": "Charter Bar",
     "lat": 53.0349331,
@@ -2913,6 +2938,17 @@
     "name": "Cleary's (The Blondes)",
     "lat": 52.8565419,
     "lon": -9.4009374
+  },
+  {
+    "id": "cleeres-bar-theatre-manual",
+    "name": "Cleere's Bar & Theatre",
+    "lat": 52.6550488,
+    "lon": -7.2551955,
+    "town": "Kilkenny",
+    "county": "Kilkenny",
+    "addressText": "28 Parliament Street, Kilkenny, Co. Kilkenny, R95 YR61, Ireland",
+    "googleFormattedAddress": "28 Parliament Street, Kilkenny, Co. Kilkenny, R95 YR61, Ireland",
+    "sourceName": "Cleere's Bar & Theatre"
   },
   {
     "id": "clem-s-node-1720508165",
@@ -4099,6 +4135,17 @@
     "sourceName": "De Barra’s"
   },
   {
+    "id": "de-barras-folk-club-manual",
+    "name": "De Barra's Folk Club",
+    "lat": 51.6229263,
+    "lon": -8.8889988,
+    "town": "Clonakilty",
+    "county": "Cork",
+    "addressText": "55 Pearse Street, Clonakilty, Co. Cork, P85 RH95, Ireland",
+    "googleFormattedAddress": "55 Pearse Street, Clonakilty, Co. Cork, P85 RH95, Ireland",
+    "sourceName": "De Barra's Folk Club"
+  },
+  {
     "id": "dead-centre-taproom-node-9456241413",
     "name": "Dead Centre Taproom",
     "lat": 53.4235811,
@@ -4365,6 +4412,17 @@
     "lon": -9.141875
   },
   {
+    "id": "disndat-node-11522240569",
+    "name": "Disndat",
+    "lat": 53.3436679,
+    "lon": -6.2636608,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
+  },
+  {
     "id": "doheny-and-nesbitt-curated",
     "name": "Doheny and Nesbitt",
     "lat": 53.338089,
@@ -4615,7 +4673,12 @@
     "county": "Dublin",
     "addressText": "160 Phibsborough Road, Dublin, Co. Dublin, D07 R26N",
     "googleFormattedAddress": "160/161 Phibsborough Rd, Phibsborough, Dublin 7, D07 R26N",
-    "sourceName": "Doyle’s Corner"
+    "sourceName": "Doyle’s Corner",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/119218"
+    }
   },
   {
     "id": "doyles-pub-node-347381168",
@@ -5110,7 +5173,12 @@
     "lon": -6.2387507,
     "addressText": "68 Clonskeagh Rd, Rathmines, Dublin, D06 EH93",
     "googleFormattedAddress": "68 Clonskeagh Rd, Rathmines, Dublin, D06 EH93",
-    "sourceName": "Farmer Browns Clonskeagh"
+    "sourceName": "Farmer Browns Clonskeagh",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
   },
   {
     "id": "farrell-s-bar-node-9945580900",
@@ -5838,6 +5906,17 @@
     "name": "Frank Owens",
     "lat": 55.0525388,
     "lon": -6.9508318
+  },
+  {
+    "id": "frank-ryan-s-node-446785642",
+    "name": "Frank Ryan’s",
+    "lat": 53.3470056,
+    "lon": -6.2800493,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/70604"
+    }
   },
   {
     "id": "frank-s-node-4378143876",
@@ -7237,7 +7316,12 @@
     "lon": -6.322955400000001,
     "addressText": "Blackhorse Ave, Phoenix Park, Castleknock (part of Phoenix Park), Dublin 7, D07 V663",
     "googleFormattedAddress": "Blackhorse Ave, Phoenix Park, Castleknock (part of Phoenix Park), Dublin 7, D07 V663",
-    "sourceName": "Hole in the Wall, Europe’s Longest Pub"
+    "sourceName": "Hole in the Wall, Europe’s Longest Pub",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
   },
   {
     "id": "holohan-s-node-3045709850",
@@ -10887,7 +10971,11 @@
     "id": "mclynn-s-node-663000722",
     "name": "McLynn’s",
     "lat": 54.2692046,
-    "lon": -8.4719591
+    "lon": -8.4719591,
+    "town": "Sligo",
+    "county": "Sligo",
+    "addressText": "Old Market Street, Sligo, Co. Sligo, F91 P89X, Ireland",
+    "sourceName": "McLynn's Bar"
   },
   {
     "id": "mclysaght-s-node-5041749661",
@@ -11718,6 +11806,17 @@
     "name": "Mulligan's",
     "lat": 53.34739,
     "lon": -6.25998
+  },
+  {
+    "id": "mulligans-poolbeg-street-manual",
+    "name": "Mulligan's",
+    "lat": 53.3469594,
+    "lon": -6.2555548,
+    "town": "Dublin",
+    "county": "Dublin",
+    "addressText": "8-9 Poolbeg Street, Dublin 2, D02 TK71, Ireland",
+    "googleFormattedAddress": "8-9 Poolbeg Street, Dublin 2, D02 TK71, Ireland",
+    "sourceName": "Mulligan's of Poolbeg Street"
   },
   {
     "id": "mulligan-s-pub-lake-view-node-12159572489",
@@ -13765,10 +13864,25 @@
     "sourceName": "The Peacock Steakhouse"
   },
   {
+    "id": "peadar-browns-node-583257143",
+    "name": "Peadar Browns",
+    "lat": 53.3362336,
+    "lon": -6.2734533,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
+  },
+  {
     "id": "peadar-o-donnell-s-node-5270429921",
     "name": "Peadar O’Donnell's",
     "lat": 54.9974872,
-    "lon": -7.3217754
+    "lon": -7.3217754,
+    "town": "Derry",
+    "county": "County Londonderry",
+    "addressText": "59-63 William Street, Derry, BT48 6HD, United Kingdom",
+    "sourceName": "Peadar O'Donnell's"
   },
   {
     "id": "pedigree-corner-node-822494998",
@@ -15176,7 +15290,12 @@
     "id": "sean-s-bar-node-6565871347",
     "name": "Sean's Bar",
     "lat": 53.4226707,
-    "lon": -7.942265
+    "lon": -7.942265,
+    "town": "Athlone",
+    "county": "Westmeath",
+    "addressText": "13 Main Street, Athlone, Co. Westmeath, N37 DW76, Ireland",
+    "googleFormattedAddress": "13 Main Street, Athlone, Co. Westmeath, N37 DW76, Ireland",
+    "sourceName": "Sean's Bar"
   },
   {
     "id": "sea-nie-s-bar-node-9831660489",
@@ -16530,7 +16649,12 @@
     "county": "Dublin",
     "addressText": "199 Phibsborough Road, Phibsborough, Dublin, Co. Dublin, D07 A0X2",
     "googleFormattedAddress": "199 Phibsborough Rd, Phibsborough, Dublin 7, D07 A0X2",
-    "sourceName": "The Back Page"
+    "sourceName": "The Back Page",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
   },
   {
     "id": "the-bailey-node-11073348362",
@@ -16780,6 +16904,11 @@
       "type": "beer-garden",
       "confidence": "likely",
       "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     }
   },
   {
@@ -19094,6 +19223,11 @@
       "type": "beer-garden",
       "confidence": "likely",
       "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     }
   },
   {
@@ -20717,7 +20851,12 @@
     "county": "Dublin",
     "addressText": "Templeogue Road, Templeogue, Co. Dublin, D6W HH79",
     "googleFormattedAddress": "The Morgue Pub, Templeogue Rd, Terenure, Dublin 6w, Co. Dublin, D6W HH79",
-    "sourceName": "The Morgue"
+    "sourceName": "The Morgue",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
   },
   {
     "id": "the-mountain-node-5814673523",
@@ -23128,6 +23267,17 @@
     "name": "The Twelfth Lock",
     "lat": 53.3821395,
     "lon": -6.3672381
+  },
+  {
+    "id": "the-two-sisters-node-1425374427",
+    "name": "The Two Sisters",
+    "lat": 53.3091194,
+    "lon": -6.305349,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
+    }
   },
   {
     "id": "the-union-bar-node-13191077469",
