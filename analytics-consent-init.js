@@ -18,7 +18,7 @@
   window.gtag =
     window.gtag ||
     function gtag() {
-      window.dataLayer.push(Array.prototype.slice.call(arguments));
+      window.dataLayer.push(arguments);
     };
 
   if (!window.__sunnyAnalyticsConfigured) {
