@@ -24393,7 +24393,21 @@
     "addressText": "Lansdown Road, Bath, BA1 5TJ",
     "googleFormattedAddress": "Lansdown Road, Bath, Somerset, BA1 5TJ",
     "sourceName": "CAMRA WhatPub Hare & Hounds",
-    "regionId": "bath"
+    "regionId": "bath",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://hareandhoundsbath.com/"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://hareandhoundsbath.com/"
+    },
+    "websiteUrl": "https://hareandhoundsbath.com",
+    "websiteSource": "https://hareandhoundsbath.com/",
+    "instagramUrl": "https://instagram.com/harehoundsbath",
+    "instagramSource": "https://hareandhoundsbath.com/"
   },
   {
     "id": "hare-hounds-maidstone-node-1776119019",
@@ -44877,7 +44891,16 @@
     "addressText": "25 North Road, Highgate, London, N6 4BE",
     "googleFormattedAddress": "25 North Road, Highgate, London, N6 4BE",
     "sourceName": "The Red Lion and Sun",
-    "regionId": "london"
+    "regionId": "london",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.theredlionandsun.com/eat-drink"
+    },
+    "websiteUrl": "https://www.theredlionandsun.com",
+    "websiteSource": "https://www.theredlionandsun.com/",
+    "instagramUrl": "https://instagram.com/theredlionandsun",
+    "instagramSource": "https://www.theredlionandsun.com/"
   },
   {
     "id": "red-lion-hotel-london-way-1056918105",
@@ -63177,7 +63200,16 @@
     "addressText": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
     "googleFormattedAddress": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
     "sourceName": "The Canton Arms",
-    "regionId": "london"
+    "regionId": "london",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://cantonarms.com/"
+    },
+    "websiteUrl": "https://cantonarms.com",
+    "websiteSource": "https://cantonarms.com/",
+    "instagramUrl": "https://instagram.com/cantonarms",
+    "instagramSource": "https://cantonarms.com/"
   },
   {
     "id": "the-cape-horn-aberdeen-node-927269376",
@@ -68605,7 +68637,16 @@
     "addressText": "17 Denman Street, Soho, London, W1D 7HW",
     "googleFormattedAddress": "17 Denman Street, Soho, London, W1D 7HW",
     "sourceName": "The Devonshire Soho",
-    "regionId": "london"
+    "regionId": "london",
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://www.devonshiresoho.co.uk/"
+    },
+    "websiteUrl": "https://www.devonshiresoho.co.uk",
+    "websiteSource": "https://www.devonshiresoho.co.uk/",
+    "instagramUrl": "https://instagram.com/devonshiresoho",
+    "instagramSource": "https://www.devonshiresoho.co.uk/"
   },
   {
     "id": "the-devonshire-arms-london-way-151789101",
@@ -102816,7 +102857,16 @@
     "county": "Suffolk",
     "addressText": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
     "googleFormattedAddress": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
-    "sourceName": "Top 50 Gastropubs The Unruly Pig"
+    "sourceName": "Top 50 Gastropubs The Unruly Pig",
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://theunrulypig.co.uk/"
+    },
+    "websiteUrl": "https://theunrulypig.co.uk",
+    "websiteSource": "https://theunrulypig.co.uk/",
+    "instagramUrl": "https://instagram.com/unrulypig",
+    "instagramSource": "https://theunrulypig.co.uk/"
   },
   {
     "id": "the-unthank-arms-norwich-way-122732862",
@@ -107187,7 +107237,24 @@
     "county": "Gloucestershire",
     "addressText": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
     "googleFormattedAddress": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
-    "sourceName": "Top 50 Gastropubs The Woolpack"
+    "sourceName": "Top 50 Gastropubs The Woolpack",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.thewoolpackinn-slad.com/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.thewoolpackinn-slad.com/"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.thewoolpackinn-slad.com/"
+    },
+    "websiteUrl": "https://www.thewoolpackinn-slad.com",
+    "websiteSource": "https://www.thewoolpackinn-slad.com/"
   },
   {
     "id": "the-world-s-end-london-node-296891969",

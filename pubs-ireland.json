@@ -1377,7 +1377,22 @@
       "type": "outdoor-seating",
       "confidence": "confirmed",
       "source": "https://www.blackbirdrathmines.com/"
-    }
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed",
+      "source": "https://www.blackbirdrathmines.com/home"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://www.blackbirdrathmines.com/"
+    },
+    "websiteUrl": "https://www.blackbirdrathmines.com",
+    "websiteSource": "https://www.blackbirdrathmines.com/"
   },
   {
     "id": "blacks-bark-node-13293522271",
@@ -1481,7 +1496,31 @@
       "status": "pet-friendly",
       "confidence": "confirmed",
       "source": "https://boarddublin.com/faq/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://boarddublin.com/info/"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed",
+      "source": "https://boarddublin.com/info/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://boarddublin.com/whats-on/"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://boarddublin.com/discoboard/"
+    },
+    "websiteUrl": "https://boarddublin.com",
+    "websiteSource": "https://boarddublin.com/"
   },
   {
     "id": "boat-house-node-12269754404",
@@ -1883,7 +1922,24 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed",
+      "source": "https://brewdog.com/pages/bars/dublin"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "pizza"
+      ],
+      "confidence": "confirmed",
+      "source": "https://brewdog.com/pages/bars/dublin"
+    },
+    "websiteUrl": "https://brewdog.com/pages/bars/dublin",
+    "websiteSource": "https://brewdog.com/pages/bars/dublin",
+    "instagramUrl": "https://instagram.com/brewdogdublin",
+    "instagramSource": "https://brewdog.com/pages/bars/dublin"
   },
   {
     "id": "brewers-fayre-node-4675564526",
@@ -2770,7 +2826,21 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://catandcage.ie/food-and-drink/food-menus/dinner-2/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://catandcage.ie/whats-on/"
+    },
+    "websiteUrl": "https://catandcage.ie",
+    "websiteSource": "https://catandcage.ie/",
+    "instagramUrl": "https://instagram.com/thecatandcage",
+    "instagramSource": "https://catandcage.ie/"
   },
   {
     "id": "cat-s-craddle-node-507023909",
@@ -2945,7 +3015,24 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/charlotte-quay-restaurant"
-    }
+    },
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://bereenbrothers.com/charlotte-quay"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://bereenbrothers.com/media/pages/charlotte-quay/e4d0abf403-1774360017/cq-lunch-march-2026.docx.pdf"
+    },
+    "websiteUrl": "https://bereenbrothers.com/charlotte-quay",
+    "websiteSource": "https://bereenbrothers.com/charlotte-quay",
+    "instagramUrl": "https://instagram.com/charlottequay",
+    "instagramSource": "https://bereenbrothers.com/charlotte-quay"
   },
   {
     "id": "charter-bar-node-10621505038",
@@ -4750,7 +4837,33 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed",
+      "source": "https://disndat.ie/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://disndat.ie/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://disndat.ie/"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://disndat.ie/"
+    },
+    "websiteUrl": "https://disndat.ie",
+    "websiteSource": "https://disndat.ie/",
+    "instagramUrl": "https://instagram.com/disndatdublin",
+    "instagramSource": "https://disndat.ie/"
   },
   {
     "id": "dockers-node-9264108045",
@@ -5585,7 +5698,29 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
+    },
+    "websiteUrl": "https://www.farmerbrowns.ie/clonskeagh-pub",
+    "websiteSource": "https://www.farmerbrowns.ie/clonskeagh-pub",
+    "instagramUrl": "https://instagram.com/farmerbrownsdublin",
+    "instagramSource": "https://www.farmerbrowns.ie/clonskeagh-pub"
   },
   {
     "id": "farrell-s-bar-node-9945580900",
@@ -5779,7 +5914,26 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.fidelitybar.ie/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.fidelitybar.ie/whats-on"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.fidelitybar.ie/whats-on"
+    },
+    "websiteUrl": "https://www.fidelitybar.ie",
+    "websiteSource": "https://www.fidelitybar.ie/",
+    "instagramUrl": "https://instagram.com/fidelitydublin",
+    "instagramSource": "https://www.fidelitybar.ie/"
   },
   {
     "id": "figgerty-s-node-1540097372",
@@ -6341,7 +6495,28 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/70604"
-    }
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed",
+      "source": "http://www.frankryans.com/menus_food.html"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed",
+      "source": "http://www.frankryans.com/menus_food.html"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "http://www.frankryans.com/musicpg.html"
+    },
+    "websiteUrl": "http://www.frankryans.com",
+    "websiteSource": "http://www.frankryans.com/",
+    "instagramUrl": "https://instagram.com/frankryansbar",
+    "instagramSource": "http://www.frankryans.com/"
   },
   {
     "id": "frank-s-node-4378143876",
@@ -7834,9 +8009,37 @@
     "sourceName": "Hole in the Wall, Europe’s Longest Pub",
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "likely",
-      "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+      "confidence": "confirmed",
+      "source": "https://holeinthewallpub.com/faqs/"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://holeinthewallpub.com/menus/"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://holeinthewallpub.com/menus/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://holeinthewallpub.com/events/live-music-every-saturday/"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://holeinthewallpub.com/how-to-get-here/"
+    },
+    "websiteUrl": "https://holeinthewallpub.com",
+    "websiteSource": "https://holeinthewallpub.com/",
+    "instagramUrl": "https://instagram.com/holeinthewalldublin",
+    "instagramSource": "https://holeinthewallpub.com/"
   },
   {
     "id": "holohan-s-node-3045709850",
@@ -11057,7 +11260,28 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed",
+      "source": "https://marysbar.ie/food-drink/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://marysbar.ie/our-story"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://marysbar.ie/"
+    },
+    "websiteUrl": "https://marysbar.ie",
+    "websiteSource": "https://marysbar.ie/",
+    "instagramUrl": "https://instagram.com/marysbardublin",
+    "instagramSource": "https://marysbar.ie/"
   },
   {
     "id": "marys-node-12021278480",
@@ -13570,7 +13794,16 @@
       "type": "beer-garden",
       "confidence": "likely",
       "source": "https://venuesearch.ie/best-beer-gardens-dublin/"
-    }
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.odonoghues.ie/"
+    },
+    "websiteUrl": "https://www.odonoghues.ie",
+    "websiteSource": "https://www.odonoghues.ie/",
+    "instagramUrl": "https://instagram.com/odonoghuespub",
+    "instagramSource": "https://www.odonoghues.ie/"
   },
   {
     "id": "o-donoghues-bar-node-1881449476",
@@ -14831,7 +15064,14 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://peadarbrowns.com/"
+    },
+    "websiteUrl": "https://peadarbrowns.com",
+    "websiteSource": "https://peadarbrowns.com/"
   },
   {
     "id": "peadar-kearney-s-node-2386542318",
@@ -14876,7 +15116,21 @@
       "type": "beer-garden",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://peggykellys.ie/"
+    },
+    "foodTags": {
+      "tags": [
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://peggykellys.ie/"
+    },
+    "websiteUrl": "https://peggykellys.ie",
+    "websiteSource": "https://peggykellys.ie/"
   },
   {
     "id": "peig-s-node-339489249",
@@ -15261,7 +15515,24 @@
       "status": "pet-friendly",
       "confidence": "confirmed",
       "source": "https://pye.ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://pye.ie/menus/"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://pye.ie/"
+    },
+    "websiteUrl": "https://pye.ie",
+    "websiteSource": "https://pye.ie/",
+    "instagramUrl": "https://instagram.com/pyedundrum",
+    "instagramSource": "https://pye.ie/"
   },
   {
     "id": "pygmalion-node-907142997",
@@ -17781,7 +18052,28 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed",
+      "source": "https://www.onthebackpage.com/"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed",
+      "source": "https://www.onthebackpage.com/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.onthebackpage.com/whats-on/"
+    },
+    "websiteUrl": "https://www.onthebackpage.com",
+    "websiteSource": "https://www.onthebackpage.com/",
+    "instagramUrl": "https://instagram.com/the_back_page",
+    "instagramSource": "https://www.onthebackpage.com/"
   },
   {
     "id": "the-bailey-node-11073348362",
@@ -17881,7 +18173,16 @@
       "status": "pet-friendly",
       "confidence": "confirmed",
       "source": "https://thebarbers.ie/contact/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://thebarbers.ie/menu/"
+    },
+    "websiteUrl": "https://thebarbers.ie",
+    "websiteSource": "https://thebarbers.ie/contact/",
+    "instagramUrl": "https://instagram.com/barbersbardublin",
+    "instagramSource": "https://thebarbers.ie/contact/"
   },
   {
     "id": "the-barge-node-133193958",
@@ -17961,7 +18262,24 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://thebathpub.ie/menus/"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://thebathpub.ie/menus/"
+    },
+    "websiteUrl": "https://thebathpub.ie",
+    "websiteSource": "https://thebathpub.ie/",
+    "instagramUrl": "https://instagram.com/bathpubdub",
+    "instagramSource": "https://thebathpub.ie/"
   },
   {
     "id": "the-beach-node-9949401156",
@@ -18060,7 +18378,26 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://thebernardshaw.com/menu/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://thebernardshaw.com/music-at-the-bernard-shaw/"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://thebernardshaw.com/music/"
+    },
+    "websiteUrl": "https://thebernardshaw.com",
+    "websiteSource": "https://thebernardshaw.com/",
+    "instagramUrl": "https://instagram.com/thebernardshaw",
+    "instagramSource": "https://www.instagram.com/thebernardshaw/"
   },
   {
     "id": "the-betsy-node-6073174873",
@@ -20553,7 +20890,23 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.theglimmerman.com/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://www.theglimmerman.com/"
+    },
+    "websiteUrl": "https://www.theglimmerman.com",
+    "websiteSource": "https://www.theglimmerman.com/",
+    "instagramUrl": "https://instagram.com/Theglimmermand7",
+    "instagramSource": "https://www.theglimmerman.com/"
   },
   {
     "id": "the-globe-node-8724950866",
@@ -22349,7 +22702,22 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.themorgue.ie/"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://www.themorgue.ie/services/15/from-the-grill/"
+    },
+    "websiteUrl": "https://www.themorgue.ie",
+    "websiteSource": "https://www.themorgue.ie/"
   },
   {
     "id": "the-morris-bar-node-12920142701",
@@ -22714,7 +23082,28 @@
       "type": "beer-garden",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://theoldschoolhouse.ie/bar-food-menu/"
+    },
+    "foodTags": {
+      "tags": [
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://theoldschoolhouse.ie/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://theoldschoolhouse.ie/"
+    },
+    "websiteUrl": "https://theoldschoolhouse.ie",
+    "websiteSource": "https://theoldschoolhouse.ie/",
+    "instagramUrl": "https://instagram.com/schoolhouseswords",
+    "instagramSource": "https://theoldschoolhouse.ie/"
   },
   {
     "id": "the-old-ship-node-6961668040",
@@ -24920,7 +25309,23 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://thetwosisters.ie/menus/"
+    },
+    "foodTags": {
+      "tags": [
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://thetwosisters.ie/menus/kids-menu/"
+    },
+    "websiteUrl": "https://thetwosisters.ie",
+    "websiteSource": "https://thetwosisters.ie/",
+    "instagramUrl": "https://instagram.com/thetwosisterspub",
+    "instagramSource": "https://thetwosisters.ie/"
   },
   {
     "id": "the-union-bar-node-13191077469",
@@ -26009,7 +26414,11 @@
       "type": "outdoor-seating",
       "confidence": "confirmed",
       "source": "https://www.tonerspub.ie/"
-    }
+    },
+    "websiteUrl": "https://www.tonerspub.ie",
+    "websiteSource": "https://www.tonerspub.ie/",
+    "instagramUrl": "https://instagram.com/tonerspub",
+    "instagramSource": "https://www.tonerspub.ie/"
   },
   {
     "id": "tony-horan-node-1372190286",
@@ -26684,7 +27093,29 @@
       "type": "outdoor-seating",
       "confidence": "likely",
       "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
-    }
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.wigwamdublin.com/menu"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "pizza"
+      ],
+      "confidence": "confirmed",
+      "source": "https://www.wigwamdublin.com/menu"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.wigwamdublin.com/wigwampresents"
+    },
+    "websiteUrl": "https://www.wigwamdublin.com",
+    "websiteSource": "https://www.wigwamdublin.com/",
+    "instagramUrl": "https://instagram.com/wigwamdublin",
+    "instagramSource": "https://www.wigwamdublin.com/"
   },
   {
     "id": "wilkin-s-of-church-hill-node-12826415870",
