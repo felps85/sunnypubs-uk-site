@@ -24384,6 +24384,14 @@
     "regionId": "sheffield"
   },
   {
+    "id": "hare-hounds-maidstone-node-1776119019",
+    "name": "Hare & Hounds",
+    "lat": 51.2795679,
+    "lon": 0.5210334,
+    "city": "Maidstone",
+    "regionId": "maidstone"
+  },
+  {
     "id": "hare-hounds-bath-manual-1",
     "name": "Hare & Hounds",
     "lat": 51.402055,
@@ -24394,14 +24402,6 @@
     "googleFormattedAddress": "Lansdown Road, Bath, Somerset, BA1 5TJ",
     "sourceName": "CAMRA WhatPub Hare & Hounds",
     "regionId": "bath"
-  },
-  {
-    "id": "hare-hounds-maidstone-node-1776119019",
-    "name": "Hare & Hounds",
-    "lat": 51.2795679,
-    "lon": 0.5210334,
-    "city": "Maidstone",
-    "regionId": "maidstone"
   },
   {
     "id": "hare-and-hounds-london-node-36487478",
@@ -44873,10 +44873,6 @@
     "lat": 51.5726081,
     "lon": -0.1502606,
     "city": "London",
-    "county": "Greater London",
-    "addressText": "25 North Road, Highgate, London, N6 4BE",
-    "googleFormattedAddress": "25 North Road, Highgate, London, N6 4BE",
-    "sourceName": "The Red Lion and Sun",
     "regionId": "london"
   },
   {
@@ -63173,10 +63169,6 @@
     "lat": 51.4771539,
     "lon": -0.122896,
     "city": "London",
-    "county": "Greater London",
-    "addressText": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
-    "googleFormattedAddress": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
-    "sourceName": "The Canton Arms",
     "regionId": "london"
   },
   {
@@ -68593,18 +68585,6 @@
     "lat": 51.4469022,
     "lon": -0.1490137,
     "city": "London",
-    "regionId": "london"
-  },
-  {
-    "id": "the-devonshire-soho-manual",
-    "name": "The Devonshire",
-    "lat": 51.5106407,
-    "lon": -0.1353307,
-    "city": "London",
-    "county": "Greater London",
-    "addressText": "17 Denman Street, Soho, London, W1D 7HW",
-    "googleFormattedAddress": "17 Denman Street, Soho, London, W1D 7HW",
-    "sourceName": "The Devonshire Soho",
     "regionId": "london"
   },
   {
@@ -102808,17 +102788,6 @@
     "regionId": "sheffield"
   },
   {
-    "id": "the-unruly-pig-manual",
-    "name": "The Unruly Pig",
-    "lat": 52.1020547,
-    "lon": 1.357141,
-    "city": "Woodbridge",
-    "county": "Suffolk",
-    "addressText": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
-    "googleFormattedAddress": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
-    "sourceName": "Top 50 Gastropubs The Unruly Pig"
-  },
-  {
     "id": "the-unthank-arms-norwich-way-122732862",
     "name": "The Unthank Arms",
     "lat": 52.620987,
@@ -107177,17 +107146,6 @@
     "lon": 1.2969258,
     "city": "Norwich",
     "regionId": "norwich"
-  },
-  {
-    "id": "the-woolpack-inn-slad-manual",
-    "name": "The Woolpack Inn",
-    "lat": 51.7642477,
-    "lon": -2.18699,
-    "city": "Stroud",
-    "county": "Gloucestershire",
-    "addressText": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
-    "googleFormattedAddress": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
-    "sourceName": "Top 50 Gastropubs The Woolpack"
   },
   {
     "id": "the-world-s-end-london-node-296891969",
