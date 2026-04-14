@@ -1372,7 +1372,12 @@
     "id": "blackbird-curated",
     "name": "Blackbird",
     "lat": 53.3268571,
-    "lon": -6.264612
+    "lon": -6.264612,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://www.blackbirdrathmines.com/"
+    }
   },
   {
     "id": "blacks-bark-node-13293522271",
@@ -1471,7 +1476,12 @@
     "id": "board-node-943350476",
     "name": "Board",
     "lat": 53.3304221,
-    "lon": -6.275613
+    "lon": -6.275613,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://boarddublin.com/faq/"
+    }
   },
   {
     "id": "boat-house-node-12269754404",
@@ -1573,7 +1583,17 @@
     "id": "bonobo-node-768520263",
     "name": "Bonobo",
     "lat": 53.3503544,
-    "lon": -6.2746953
+    "lon": -6.2746953,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://www.canbe.ie/blog.html/the-best-beergardens-in-dublin?lang=fr"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://kimtastestheworld.com/dog-friendly-dublin-ultimate-guide/"
+    }
   },
   {
     "id": "boom-boom-rooms-node-790513540",
@@ -2740,7 +2760,12 @@
     "county": "Dublin",
     "addressText": "74 Drumcondra Road Upper, Dublin, Co. Dublin, D09 X620",
     "googleFormattedAddress": "74 Drumcondra Rd Upper, Drumcondra, Dublin, D09 X620",
-    "sourceName": "The Cat and Cage"
+    "sourceName": "The Cat and Cage",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
+    }
   },
   {
     "id": "cat-s-craddle-node-507023909",
@@ -5682,7 +5707,12 @@
     "id": "fidelity-node-446785628",
     "name": "Fidelity",
     "lat": 53.3471016,
-    "lon": -6.2802916
+    "lon": -6.2802916,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
+    }
   },
   {
     "id": "figgerty-s-node-1540097372",
@@ -9716,7 +9746,12 @@
     "id": "kodiak-node-1030106427",
     "name": "Kodiak",
     "lat": 53.3218115,
-    "lon": -6.2656362
+    "lon": -6.2656362,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://kimtastestheworld.com/dog-friendly-dublin-ultimate-guide/"
+    }
   },
   {
     "id": "krugers-bar-node-6831949251",
@@ -10940,7 +10975,12 @@
     "id": "mary-s-bar-hardware-shop-node-6245890989",
     "name": "Mary’s Bar & Hardware Shop",
     "lat": 53.3428631,
-    "lon": -6.2603751
+    "lon": -6.2603751,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
+    }
   },
   {
     "id": "marys-node-12021278480",
@@ -13433,7 +13473,12 @@
     "id": "odonoghues-curated",
     "name": "O'Donoghue's",
     "lat": 53.3401,
-    "lon": -6.25936
+    "lon": -6.25936,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://venuesearch.ie/best-beer-gardens-dublin/"
+    }
   },
   {
     "id": "o-donoghues-bar-node-1881449476",
@@ -14013,7 +14058,12 @@
     "lon": -6.3036807,
     "addressText": "11 Kilmainham Ln, Saint James, Dublin",
     "googleFormattedAddress": "11 Kilmainham Ln, Saint James, Dublin",
-    "sourceName": "Old Royal Oak"
+    "sourceName": "Old Royal Oak",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
+    }
   },
   {
     "id": "olde-castle-bar-node-1906721904",
@@ -14720,7 +14770,12 @@
     "id": "peggy-kelly-s-node-3005899379",
     "name": "Peggy Kelly’s",
     "lat": 53.3237548,
-    "lon": -6.278506
+    "lon": -6.278506,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
+    }
   },
   {
     "id": "peig-s-node-339489249",
@@ -15095,7 +15150,17 @@
     "id": "pye-node-11572594365",
     "name": "Pye",
     "lat": 53.289046,
-    "lon": -6.243152
+    "lon": -6.243152,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://pye.ie/2024/08/19/is-pye-dundrum-dublins-most-dog-friendly-bar/"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://pye.ie/"
+    }
   },
   {
     "id": "pygmalion-node-907142997",
@@ -17006,7 +17071,17 @@
     "id": "t-humphrey-s-node-12543374557",
     "name": "T. Humphrey’s",
     "lat": 53.3241037,
-    "lon": -6.2522877
+    "lon": -6.2522877,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://www.designmynight.com/dublin/beer-gardens-in-dublin"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
+    }
   },
   {
     "id": "t-j-clarke-node-7925517285",
@@ -17690,7 +17765,12 @@
     "county": "Dublin",
     "addressText": "19 Grangegorman Lower, Dublin, Co. Dublin, D07 H583",
     "googleFormattedAddress": "19 Grangegorman Lower, Grangegorman, Dublin, D07 H583",
-    "sourceName": "Barbers Bar"
+    "sourceName": "Barbers Bar",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://thebarbers.ie/contact/"
+    }
   },
   {
     "id": "the-barge-node-133193958",
@@ -17760,7 +17840,17 @@
     "county": "Dublin",
     "addressText": "26 Bath Avenue, Dublin, Co. Dublin, D04 X7P8",
     "googleFormattedAddress": "26 Bath Ave, Dublin 4, D04 X7P8",
-    "sourceName": "The Bath"
+    "sourceName": "The Bath",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://thebathpub.ie/about-us/"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
+    }
   },
   {
     "id": "the-beach-node-9949401156",
@@ -17849,7 +17939,12 @@
     "id": "bernard-shaw-curated",
     "name": "The Bernard Shaw",
     "lat": 53.3647,
-    "lon": -6.2713612
+    "lon": -6.2713612,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
+    }
   },
   {
     "id": "the-betsy-node-6073174873",
@@ -20332,7 +20427,12 @@
     "county": "Dublin",
     "addressText": "14-15 Stoneybatter, Dublin, Co. Dublin, D07 RK37",
     "googleFormattedAddress": "14 Stoneybatter, Dublin, D07 RK37",
-    "sourceName": "The Glimmer Man"
+    "sourceName": "The Glimmer Man",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
+    }
   },
   {
     "id": "the-globe-node-8724950866",
@@ -22483,7 +22583,12 @@
     "county": "Dublin",
     "addressText": "Well Road, Swords, Co. Dublin, K67 Y935",
     "googleFormattedAddress": "Church Rd, Townparks, Swords, Co. Dublin, K67 Y935",
-    "sourceName": "The Old Schoolhouse"
+    "sourceName": "The Old Schoolhouse",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
+    }
   },
   {
     "id": "the-old-ship-node-6961668040",
@@ -25768,7 +25873,12 @@
     "id": "toners-yard-node-13356563701",
     "name": "Toners Yard",
     "lat": 53.3375534,
-    "lon": -6.252479
+    "lon": -6.252479,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://www.tonerspub.ie/"
+    }
   },
   {
     "id": "tony-horan-node-1372190286",
@@ -26438,7 +26548,12 @@
     "id": "wigwam-node-4998192522",
     "name": "Wigwam",
     "lat": 53.3480043,
-    "lon": -6.2621526
+    "lon": -6.2621526,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "likely",
+      "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
+    }
   },
   {
     "id": "wilkin-s-of-church-hill-node-12826415870",
