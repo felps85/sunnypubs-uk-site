@@ -1,1 +1,0 @@
-import{j as o}from"./vendor-react-BoP_4_Nk.js";import{p as m}from"./index-bnFJeKWc.js";function n({href:r,onClick:a,target:s,rel:u,...i}){const f=t=>{a==null||a(t),!t.defaultPrevented&&(s&&s!=="_self"||t.metaKey||t.ctrlKey||t.shiftKey||t.altKey||t.button!==0||r.startsWith("/")&&(t.preventDefault(),m(r)))};return o.jsx("a",{...i,href:r,onClick:f,target:s,rel:u})}export{n as R};
