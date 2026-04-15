@@ -14388,6 +14388,21 @@
       "type": "outdoor-seating",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.corner.inc/place/71667"
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "likely",
+      "source": "https://www.corner.inc/place/71667"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "likely",
+      "source": "https://www.corner.inc/place/71667"
     }
   },
   {

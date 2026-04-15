@@ -24394,6 +24394,16 @@
     "googleFormattedAddress": "Lansdown Road, Bath, Somerset, BA1 5TJ",
     "sourceName": "CAMRA WhatPub Hare & Hounds",
     "regionId": "bath",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed",
+      "source": "https://hareandhoundsbath.com/"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://hareandhoundsbath.com/"
+    },
     "foodOffer": {
       "category": "full-menu",
       "confidence": "confirmed",
@@ -44892,6 +44902,16 @@
     "googleFormattedAddress": "25 North Road, Highgate, London, N6 4BE",
     "sourceName": "The Red Lion and Sun",
     "regionId": "london",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed",
+      "source": "https://www.theredlionandsun.com/social"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://www.theredlionandsun.com/social"
+    },
     "foodOffer": {
       "category": "full-menu",
       "confidence": "confirmed",
@@ -63201,6 +63221,11 @@
     "googleFormattedAddress": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
     "sourceName": "The Canton Arms",
     "regionId": "london",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://cantonarms.com/bookings/"
+    },
     "foodOffer": {
       "category": "full-menu",
       "confidence": "confirmed",
@@ -68638,6 +68663,16 @@
     "googleFormattedAddress": "17 Denman Street, Soho, London, W1D 7HW",
     "sourceName": "The Devonshire Soho",
     "regionId": "london",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed",
+      "source": "https://www.devonshiresoho.co.uk/"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://www.devonshiresoho.co.uk/"
+    },
     "foodOffer": {
       "category": "restaurant-grade",
       "confidence": "confirmed",
