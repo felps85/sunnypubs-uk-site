@@ -1,16 +1,19 @@
+self.__SUNNY_SHELL_CACHE__ = "sunny-pubs-shell-v2";
+const SHELL_CACHE = self.__SUNNY_SHELL_CACHE__;
+const PRECACHE_URLS = [
+  "/",
+  "/site.webmanifest",
+  "/apple-touch-icon.png",
+  "/pwa-192.png",
+  "/pwa-512.png",
+  "/favicon-default.svg"
+];
+const CACHEABLE_DESTINATIONS = new Set(["style", "script", "image", "font", "worker"]);
+
 self.addEventListener("install", (event) => {
   self.skipWaiting();
   event.waitUntil(
-    caches.open("sunny-pubs-shell-v1").then((cache) =>
-      cache.addAll([
-        "/",
-        "/site.webmanifest",
-        "/apple-touch-icon.png",
-        "/pwa-192.png",
-        "/pwa-512.png",
-        "/favicon-default.svg"
-      ])
-    )
+    caches.open(SHELL_CACHE).then((cache) => cache.addAll(PRECACHE_URLS))
   );
 });
 
@@ -18,7 +21,7 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
       const keys = await caches.keys();
-      await Promise.all(keys.filter((key) => key !== "sunny-pubs-shell-v1").map((key) => caches.delete(key)));
+      await Promise.all(keys.filter((key) => key !== SHELL_CACHE).map((key) => caches.delete(key)));
       await self.clients.claim();
     })()
   );
@@ -40,17 +43,21 @@ self.addEventListener("fetch", (event) => {
   }
 
   event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request).then((response) => {
-        if (!response.ok) return response;
-        const destination = event.request.destination;
-        if (destination === "style" || destination === "script" || destination === "image" || destination === "font") {
+    (async () => {
+      const destination = event.request.destination;
+      const shouldCacheResponse = CACHEABLE_DESTINATIONS.has(destination);
+
+      try {
+        const response = await fetch(event.request);
+        if (response.ok && shouldCacheResponse) {
           const responseCopy = response.clone();
-          caches.open("sunny-pubs-shell-v1").then((cache) => cache.put(event.request, responseCopy));
+          caches.open(SHELL_CACHE).then((cache) => cache.put(event.request, responseCopy));
         }
         return response;
-      });
-    })
+      } catch {
+        const cached = await caches.match(event.request);
+        return cached || Response.error();
+      }
+    })()
   );
 });
