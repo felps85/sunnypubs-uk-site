@@ -1,27 +1,5 @@
 [
   {
-    "id": "4-dame-lane-manual",
-    "name": "4 Dame Lane",
-    "lat": 53.3437629,
-    "lon": -6.2628588,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "4 Dame Lane, Dublin 2, D02 YD79",
-    "sourceName": "4 Dame Lane",
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://4damelane.ie/our-venue/"
-    },
-    "dj": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://4damelane.ie/our-venue/"
-    },
-    "websiteUrl": "https://4damelane.ie",
-    "websiteSource": "https://4damelane.ie/"
-  },
-  {
     "id": "5th-avenue-node-2444800137",
     "name": "5th Avenue",
     "lat": 53.9903627,
@@ -52,19 +30,7 @@
     "lon": -8.2746801
   },
   {
-    "id": "53-south-william-node-5729185009",
-    "name": "53 South William",
-    "lat": 53.34174,
-    "lon": -6.2626634
-  },
-  {
-    "id": "74-talbot-node-562072082",
-    "name": "74 Talbot",
-    "lat": 53.350879,
-    "lon": -6.2529113
-  },
-  {
-    "id": "101-chijczxtbgrcw0grz60bsfdm",
+    "id": "101-node-4020703863",
     "name": "101",
     "lat": 52.661551499999995,
     "lon": -8.6294709,
@@ -170,22 +136,10 @@
     "lon": -8.6486518
   },
   {
-    "id": "alfred-s-node-5787220032",
-    "name": "Alfred's",
-    "lat": 53.342004,
-    "lon": -6.2866892
-  },
-  {
     "id": "alice-brady-s-node-11067770137",
     "name": "Alice Brady's",
     "lat": 52.3230981,
     "lon": -6.6546844
-  },
-  {
-    "id": "all-my-friends-node-1373977813",
-    "name": "All My Friends",
-    "lat": 53.3406636,
-    "lon": -6.27815
   },
   {
     "id": "all-star-bar-node-13392648158",
@@ -334,9 +288,7 @@
     "county": "Dublin",
     "addressText": "Naas Road, Rathcoole, Co. Dublin, D24 XNR0",
     "googleFormattedAddress": "Main St, Tootenhill, Rathcoole, Co. Dublin, D24 XNR0",
-    "sourceName": "An Poitín Stil",
-    "websiteUrl": "https://anpoitinstil.ie",
-    "websiteSource": "https://anpoitinstil.ie/"
+    "sourceName": "An Poitín Stil"
   },
   {
     "id": "an-puc-fada-node-6184439396",
@@ -540,12 +492,6 @@
     "lon": -8.4447568
   },
   {
-    "id": "anseo-node-446783419",
-    "name": "Anseo",
-    "lat": 53.3353226,
-    "lon": -6.264995
-  },
-  {
     "id": "anthony-doherty-node-11330082949",
     "name": "Anthony Doherty",
     "lat": 54.1201569,
@@ -588,47 +534,10 @@
     "lon": -8.6497446
   },
   {
-    "id": "ardlea-inn-node-1529996763",
-    "name": "Ardlea Inn",
-    "lat": 53.3866526,
-    "lon": -6.2115954
-  },
-  {
     "id": "arkle-bar-node-629030586",
     "name": "Arkle Bar",
     "lat": 53.3801579,
     "lon": -6.5877438
-  },
-  {
-    "id": "arlington-bar-restaurant-node-279915988",
-    "name": "Arlington Bar & Restaurant",
-    "lat": 53.3472522,
-    "lon": -6.2609325,
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed",
-      "source": "https://www.arlington.ie/dining/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv",
-        "projector"
-      ],
-      "screenLocations": [
-        "indoor"
-      ],
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://www.arlington.ie/knightsbridge-bar/"
-    },
-    "websiteUrl": "https://www.arlington.ie/dining",
-    "websiteSource": "https://www.openstreetmap.org/node/279915988"
   },
   {
     "id": "armshaw-s-pub-node-4019631215",
@@ -641,12 +550,6 @@
     "name": "Arthur Guinness Bar",
     "lat": 53.4280097,
     "lon": -6.2455995
-  },
-  {
-    "id": "arthur-mayne-s-node-3028480445",
-    "name": "Arthur Mayne’s",
-    "lat": 53.3216783,
-    "lon": -6.2352699
   },
   {
     "id": "arthur-mayne-s-pharmacy-node-5763268659",
@@ -736,12 +639,6 @@
     "lon": -8.7908976
   },
   {
-    "id": "autobahn-roadhouse-node-1484733482",
-    "name": "Autobahn Roadhouse",
-    "lat": 53.3897043,
-    "lon": -6.2712214
-  },
-  {
     "id": "avenue-bar-node-1012964252",
     "name": "Avenue Bar",
     "lat": 51.9000539,
@@ -787,45 +684,6 @@
     "name": "B. Hopkins",
     "lat": 54.212765,
     "lon": -9.0930186
-  },
-  {
-    "id": "bad-bob-s-node-1423559556",
-    "name": "Bad Bobs",
-    "lat": 53.3450328,
-    "lon": -6.2659898,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "35-37 Essex Street East, Temple Bar, Dublin 2, D02 Y891",
-    "sourceName": "Bad Bobs",
-    "outdoorArea": {
-      "type": "roof-terrace",
-      "confidence": "confirmed",
-      "source": "https://badbobs.ie/venue/our-roof-terrace/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://badbobs.ie/food/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger"
-      ],
-      "confidence": "confirmed",
-      "source": "https://badbobs.ie/food/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://badbobs.ie/whats-on/"
-    },
-    "dj": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://badbobs.ie/whats-on/"
-    },
-    "websiteUrl": "https://badbobs.ie",
-    "websiteSource": "https://badbobs.ie/contact/"
   },
   {
     "id": "bagnall-s-pub-node-899428722",
@@ -891,12 +749,6 @@
     "name": "Ballinkillen Community Centre Members' Lounge",
     "lat": 52.6500695,
     "lon": -6.9299283
-  },
-  {
-    "id": "ballinteer-house-node-132186038",
-    "name": "Ballinteer House",
-    "lat": 53.2747643,
-    "lon": -6.2545959
   },
   {
     "id": "ballintemple-inn-node-3915222728",
@@ -971,21 +823,6 @@
     "lon": -9.2448627
   },
   {
-    "id": "bar-1661-node-635273448",
-    "name": "Bar 1661",
-    "lat": 53.3492625,
-    "lon": -6.2704646,
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed",
-      "source": "https://bar1661.ie/summer-spritz"
-    },
-    "websiteUrl": "https://bar1661.ie",
-    "websiteSource": "https://bar1661.ie/",
-    "instagramUrl": "https://instagram.com/1661bar",
-    "instagramSource": "https://bar1661.ie/"
-  },
-  {
     "id": "bar-no-8-node-450242569",
     "name": "Bar No. 8",
     "lat": 53.2702585,
@@ -1014,12 +851,6 @@
     "sourceName": "Bar Rua"
   },
   {
-    "id": "bar-tolka-node-280123269",
-    "name": "Bar@Tolka",
-    "lat": 53.3676758,
-    "lon": -6.2512678
-  },
-  {
     "id": "barbarossa-node-5814718247",
     "name": "BarBarossa",
     "lat": 51.8972497,
@@ -1030,12 +861,6 @@
     "name": "Barcadia",
     "lat": 51.8981457,
     "lon": -8.4812168
-  },
-  {
-    "id": "barcode-node-1509769787",
-    "name": "Barcode",
-    "lat": 53.3629792,
-    "lon": -6.2287076
   },
   {
     "id": "bardon-s-node-1028194568",
@@ -1113,12 +938,6 @@
     "name": "Barrys",
     "lat": 52.8786939,
     "lon": -8.2954384
-  },
-  {
-    "id": "bartley-s-bar-node-768231200",
-    "name": "Bartley’s Bar",
-    "lat": 53.3410955,
-    "lon": -6.2641191
   },
   {
     "id": "baurnafea-house-chijo75jpbh0z0grhgq-cekd",
@@ -1247,12 +1066,6 @@
     "lon": -6.7188815
   },
   {
-    "id": "belvedere-bar-node-5590669322",
-    "name": "Belvedere Bar",
-    "lat": 53.3550126,
-    "lon": -6.262401
-  },
-  {
     "id": "bennett-s-bar-node-4656374053",
     "name": "Bennett's Bar",
     "lat": 54.4219895,
@@ -1377,31 +1190,6 @@
     "sourceName": "Billy Kelly's"
   },
   {
-    "id": "birchall-s-node-565770327",
-    "name": "Birchall’s",
-    "lat": 53.3233904,
-    "lon": -6.2503391
-  },
-  {
-    "id": "birchall-s-node-612623532",
-    "name": "Birchall’s",
-    "lat": 53.328038,
-    "lon": -6.304945
-  },
-  {
-    "id": "bison-bar-node-2175861132",
-    "name": "Bison Bar",
-    "lat": 53.3454018,
-    "lon": -6.2663687,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d4153809-Reviews-Bison_Bar_and_BBQ-Dublin_County_Dublin.html"
-    },
-    "websiteUrl": "https://bisonbar.ie",
-    "websiteSource": "https://bisonbar.ie/"
-  },
-  {
     "id": "bittles-bar-chijd32ir1uiyugrhulu-nln",
     "name": "Bittles Bar",
     "lat": 54.5986482,
@@ -1447,12 +1235,6 @@
     "name": "Black Tom's Tavern",
     "lat": 52.7996495,
     "lon": -6.4632171
-  },
-  {
-    "id": "blackbanks-bar-grill-node-2080832424",
-    "name": "Blackbanks Bar & Grill",
-    "lat": 53.3859746,
-    "lon": -6.1555082
   },
   {
     "id": "blackbird-node-9759283604",
@@ -1596,7 +1378,7 @@
       "source": "https://boarddublin.com/faq/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://boarddublin.com/info/"
     },
@@ -1616,20 +1398,6 @@
       "status": "yes",
       "confidence": "confirmed",
       "source": "https://boarddublin.com/discoboard/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://boarddublin.com/olympics/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "board-games",
-        "quiz"
-      ],
-      "source": "https://boarddublin.com/games/"
     },
     "websiteUrl": "https://boarddublin.com",
     "websiteSource": "https://boarddublin.com/"
@@ -1659,16 +1427,16 @@
     "lon": -6.4500685
   },
   {
-    "id": "bob-s-bar-node-5566859021",
-    "name": "Bob's Bar",
-    "lat": 52.480254,
-    "lon": -6.4232789
-  },
-  {
     "id": "bob-s-bar-node-11090208938",
     "name": "Bob's Bar",
     "lat": 52.5988535,
     "lon": -6.9216124
+  },
+  {
+    "id": "bob-s-bar-node-5566859021",
+    "name": "Bob's Bar",
+    "lat": 52.480254,
+    "lon": -6.4232789
   },
   {
     "id": "bob-s-bar-bistro-node-2394406317",
@@ -1699,12 +1467,6 @@
     "name": "Boland’s",
     "lat": 52.2548616,
     "lon": -10.0224591
-  },
-  {
-    "id": "bolands-node-11975728522",
-    "name": "Bolands",
-    "lat": 53.2887722,
-    "lon": -6.198286
   },
   {
     "id": "bolands-of-ballyhane-node-321897441",
@@ -1738,29 +1500,13 @@
     "outdoorArea": {
       "type": "beer-garden",
       "confidence": "likely",
-      "source": "https://www.corner.inc/place/22878"
+      "source": "https://www.canbe.ie/blog.html/the-best-beergardens-in-dublin?lang=fr"
     },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://kimtastestheworld.com/dog-friendly-dublin-ultimate-guide/"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "confirmed",
-      "source": "https://mapcarta.com/N768520263"
-    },
-    "foodTags": {
-      "tags": [
-        "pizza"
-      ],
-      "confidence": "confirmed",
-      "source": "https://mapcarta.com/N768520263"
-    },
-    "websiteUrl": "https://bonobodublin.com",
-    "websiteSource": "https://www.bizireland.com/bonobo-smithfield",
-    "instagramUrl": "https://instagram.com/bonobo_smithfield",
-    "instagramSource": "https://www.lovindublin.com/best-of/cocktails-and-food-dublin-24614"
+    }
   },
   {
     "id": "boom-boom-rooms-node-790513540",
@@ -1842,9 +1588,7 @@
     "county": "Dublin",
     "addressText": "31 Fleet Street, Dublin, Co. Dublin, D02 DF77",
     "googleFormattedAddress": "31 Fleet St, Dublin 2, D02 DF77",
-    "sourceName": "Bowe’s",
-    "websiteUrl": "https://bowespub.com",
-    "websiteSource": "https://bowespub.com/"
+    "sourceName": "Bowe’s"
   },
   {
     "id": "bowler-s-node-4378143872",
@@ -1913,12 +1657,6 @@
     "lon": -8.501635
   },
   {
-    "id": "brady-s-node-299225092",
-    "name": "Brady’s",
-    "lat": 53.3098046,
-    "lon": -6.2841368
-  },
-  {
     "id": "brady-s-node-1357036510",
     "name": "Brady’s",
     "lat": 53.4190917,
@@ -1966,35 +1704,7 @@
     "county": "Dublin",
     "addressText": "9 Cathedral Street, Dublin, Co. Dublin, D01 FH29",
     "googleFormattedAddress": "9 Cathedral St, North City, Dublin, D01 FH29",
-    "sourceName": "Brannigan’s",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Brannigans-Dublin"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://brannigansbar.ie/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "gaa",
-        "football",
-        "rugby"
-      ],
-      "source": "https://brannigansbar.ie/"
-    },
-    "websiteUrl": "https://brannigansbar.ie",
-    "websiteSource": "https://brannigansbar.ie/"
-  },
-  {
-    "id": "brass-node-5171529312",
-    "name": "Brass",
-    "lat": 53.2952467,
-    "lon": -6.2029446
+    "sourceName": "Brannigan’s"
   },
   {
     "id": "bree-s-bar-chijocfk9h-dxkgrdysi09ai",
@@ -2070,11 +1780,6 @@
     "county": "Dublin",
     "addressText": "Three Locks Square, 4, Grand Canal Dock, Dublin 2, D02 E5R7, Ireland",
     "sourceName": "BrewDog Dublin",
-    "outdoorArea": {
-      "type": "roof-terrace",
-      "confidence": "confirmed",
-      "source": "https://brewdog.com/pages/bars/dublin"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
@@ -2093,20 +1798,6 @@
       "confidence": "confirmed",
       "source": "https://brewdog.com/pages/bars/dublin"
     },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://brewdog.com/pages/bars/dublin"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "quiz",
-        "shuffleboard"
-      ],
-      "source": "https://brewdog.com/pages/bars/dublin"
-    },
     "websiteUrl": "https://brewdog.com/pages/bars/dublin",
     "websiteSource": "https://brewdog.com/pages/bars/dublin",
     "instagramUrl": "https://instagram.com/brewdogdublin",
@@ -2117,12 +1808,6 @@
     "name": "Brewers Fayre",
     "lat": 54.9924304,
     "lon": -7.2790446
-  },
-  {
-    "id": "brewery-bar-node-1521409481",
-    "name": "Brewery Bar",
-    "lat": 53.3404859,
-    "lon": -6.2868779
   },
   {
     "id": "brewery-corner-chijzzb7ghy6xugrllebhppd",
@@ -2182,12 +1867,6 @@
     "name": "Brickwork Lounge",
     "lat": 54.9966166,
     "lon": -7.3218845
-  },
-  {
-    "id": "brickyard-node-4266126756",
-    "name": "Brickyard",
-    "lat": 53.2863405,
-    "lon": -6.23705
   },
   {
     "id": "bridge-bar-node-10984568391",
@@ -2344,14 +2023,7 @@
     "id": "bruxelles-curated",
     "name": "Bruxelles",
     "lat": 53.3413724,
-    "lon": -6.2608444,
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed",
-      "source": "https://bruxelles.ie/home/"
-    },
-    "websiteUrl": "https://bruxelles.ie",
-    "websiteSource": "https://bruxelles.ie/"
+    "lon": -6.2608444
   },
   {
     "id": "bryan-s-node-313995252",
@@ -2406,12 +2078,6 @@
     "name": "Bugler Doyles",
     "lat": 52.3359798,
     "lon": -6.4594832
-  },
-  {
-    "id": "bugler-s-pub-node-286817205",
-    "name": "Bugler's Pub",
-    "lat": 53.2840791,
-    "lon": -6.2954161
   },
   {
     "id": "bulben-node-10879449914",
@@ -2508,43 +2174,6 @@
     "lon": -9.054335
   },
   {
-    "id": "busker-s-bar-node-2419698552",
-    "name": "Busker's Bar",
-    "lat": 53.345838,
-    "lon": -6.2604831
-  },
-  {
-    "id": "buskers-on-the-ball-manual",
-    "name": "Buskers On The Ball",
-    "lat": 53.345838,
-    "lon": -6.260483,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "13-17 Fleet Street, Temple Bar, Dublin 2, D02 WD51",
-    "sourceName": "Buskers On The Ball",
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby"
-      ],
-      "source": "https://buskersbar.com/about-us/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "ping-pong",
-        "shuffleboard",
-        "darts"
-      ],
-      "source": "https://buskersbar.com/home/"
-    },
-    "websiteUrl": "https://buskersbar.com",
-    "websiteSource": "https://buskersbar.com/"
-  },
-  {
     "id": "butler-barry-chijhw8ba2ioz0grpw-hfhtc",
     "name": "Butler & Barry",
     "lat": 53.203491,
@@ -2596,16 +2225,16 @@
     "lon": -6.2244203
   },
   {
-    "id": "byrne-s-node-2970706638",
-    "name": "Byrne's",
-    "lat": 52.5030037,
-    "lon": -6.9059348
-  },
-  {
     "id": "byrne-s-node-4986810122",
     "name": "Byrne's",
     "lat": 52.2449387,
     "lon": -6.9682276
+  },
+  {
+    "id": "byrne-s-node-2970706638",
+    "name": "Byrne's",
+    "lat": 52.5030037,
+    "lon": -6.9059348
   },
   {
     "id": "byrne-s-node-1541610644",
@@ -2655,12 +2284,6 @@
     "sourceName": "Byrne's Galloping Green"
   },
   {
-    "id": "c-central-node-778690166",
-    "name": "C Central",
-    "lat": 53.3331138,
-    "lon": -6.2647717
-  },
-  {
     "id": "c-j-finlay-node-12074970595",
     "name": "C. J. Finlay",
     "lat": 53.1381412,
@@ -2703,22 +2326,10 @@
     "lon": -7.9690956
   },
   {
-    "id": "cafe-bar-h-node-1223267149",
-    "name": "Cafe Bar H",
-    "lat": 53.3433861,
-    "lon": -6.2388784
-  },
-  {
     "id": "cafe-ceol-node-790512796",
     "name": "Cafe Ceol",
     "lat": 54.6636824,
     "lon": -5.6665206
-  },
-  {
-    "id": "cafe-en-seine-node-10601110758",
-    "name": "Café en Seine",
-    "lat": 53.3407232,
-    "lon": -6.2585998
   },
   {
     "id": "caffrey-s-node-667135412",
@@ -2755,18 +2366,6 @@
     "name": "Callanan",
     "lat": 51.8954735,
     "lon": -8.4723182
-  },
-  {
-    "id": "camden-bites-brews-node-2980368136",
-    "name": "Camden Bites & Brews",
-    "lat": 53.3359048,
-    "lon": -6.2650316
-  },
-  {
-    "id": "camden-exchange-node-3567190069",
-    "name": "Camden Exchange",
-    "lat": 53.3351088,
-    "lon": -6.2654328
   },
   {
     "id": "campbell-s-node-722389756",
@@ -2873,12 +2472,6 @@
     "name": "Carey's Bar",
     "lat": 52.3517594,
     "lon": -7.7112658
-  },
-  {
-    "id": "caribou-node-768231205",
-    "name": "Caribou",
-    "lat": 53.3412009,
-    "lon": -6.2642908
   },
   {
     "id": "carlingford-arms-node-10739895063",
@@ -3031,28 +2624,15 @@
     "addressText": "74 Drumcondra Road Upper, Dublin, Co. Dublin, D09 X620",
     "googleFormattedAddress": "74 Drumcondra Rd Upper, Drumcondra, Dublin, D09 X620",
     "sourceName": "The Cat and Cage",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.designmynight.com/dublin/pubs/cat-and-cage"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://catandcage.ie/food-and-drink/food-menus/dinner-2/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "pizza"
-      ],
-      "confidence": "confirmed",
-      "source": "https://catandcage.ie/food-and-drink/food-menus/"
     },
     "liveMusic": {
       "status": "yes",
@@ -3095,12 +2675,6 @@
     "lon": -6.5288757
   },
   {
-    "id": "cellar-bar-node-2127757454",
-    "name": "Cellar Bar",
-    "lat": 53.3387556,
-    "lon": -6.2526088
-  },
-  {
     "id": "celtic-bar-node-967163101",
     "name": "Celtic Bar",
     "lat": 54.9943092,
@@ -3131,12 +2705,6 @@
     "lon": -7.8482008
   },
   {
-    "id": "centurion-bar-node-10792357138",
-    "name": "Centurion Bar",
-    "lat": 53.3274636,
-    "lon": -6.2296624
-  },
-  {
     "id": "chamfers-restaurant-node-2472892794",
     "name": "Chamfers Restaurant",
     "lat": 52.2702695,
@@ -3147,12 +2715,6 @@
     "name": "Chaplin's",
     "lat": 51.7491145,
     "lon": -8.7399926
-  },
-  {
-    "id": "charlemont-bar-bistro-node-4357798892",
-    "name": "Charlemont Bar & Bistro",
-    "lat": 53.3309476,
-    "lon": -6.259287
   },
   {
     "id": "charlesland-golf-club-search-greystones",
@@ -3239,7 +2801,7 @@
       "source": "https://www.visitdublin.com/charlotte-quay-restaurant"
     },
     "foodOffer": {
-      "category": "gastropub",
+      "category": "restaurant-grade",
       "confidence": "confirmed",
       "source": "https://bereenbrothers.com/charlotte-quay"
     },
@@ -3297,12 +2859,6 @@
     "name": "Cheevers Bar",
     "lat": 53.4877227,
     "lon": -8.5670095
-  },
-  {
-    "id": "chelsea-drugstore-node-2997549697",
-    "name": "Chelsea Drugstore",
-    "lat": 53.3422541,
-    "lon": -6.2644346
   },
   {
     "id": "chelsea-wine-bar-node-1615888475",
@@ -3363,12 +2919,6 @@
     "name": "Christys",
     "lat": 54.1006782,
     "lon": -9.32017
-  },
-  {
-    "id": "churchtown-stores-node-5142751224",
-    "name": "Churchtown Stores",
-    "lat": 53.2957712,
-    "lon": -6.2603223
   },
   {
     "id": "ciaran-s-bar-node-864066791",
@@ -3549,19 +3099,7 @@
     "county": "Dublin",
     "addressText": "43-44 Ballybough Road, Dublin, Co. Dublin, D03 VE24",
     "googleFormattedAddress": "43 Ballybough Rd, Dublin 3, D03 VE24",
-    "sourceName": "Clonliffe House",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://clonliffehouse.ie/"
-    },
-    "foodOffer": {
-      "category": "snacks",
-      "confidence": "confirmed",
-      "source": "https://clonliffehouse.ie/"
-    },
-    "websiteUrl": "https://clonliffehouse.ie",
-    "websiteSource": "https://clonliffehouse.ie/"
+    "sourceName": "Clonliffe House"
   },
   {
     "id": "clonsilla-inn-chija22fpk1yz0graqduaaue",
@@ -3656,12 +3194,6 @@
     "lon": -9.3064897
   },
   {
-    "id": "cois-life-bar-node-10576430555",
-    "name": "Cois Life Bar",
-    "lat": 53.3483928,
-    "lon": -6.2556319
-  },
-  {
     "id": "colette-s-node-1937884715",
     "name": "Colette’s",
     "lat": 54.0154286,
@@ -3705,12 +3237,6 @@
     "name": "Columbia",
     "lat": 53.5253319,
     "lon": -7.3415278
-  },
-  {
-    "id": "coman-s-node-415803254",
-    "name": "Coman's",
-    "lat": 53.312007,
-    "lon": -6.2748056
   },
   {
     "id": "comer-s-node-13067665104",
@@ -3841,12 +3367,6 @@
     "lon": -8.9842216
   },
   {
-    "id": "conway-s-node-2435852904",
-    "name": "Conway’s",
-    "lat": 53.3017544,
-    "lon": -6.1781923
-  },
-  {
     "id": "cooke-s-thatch-bar-node-12029554541",
     "name": "Cooke’s Thatch Bar",
     "lat": 53.2724332,
@@ -3869,12 +3389,6 @@
     "name": "Cooleys",
     "lat": 52.9406479,
     "lon": -9.2936164
-  },
-  {
-    "id": "cooper-s-corner-node-12691947431",
-    "name": "Cooper’s Corner",
-    "lat": 53.342514,
-    "lon": -6.2966716
   },
   {
     "id": "coopers-node-766578213",
@@ -4012,12 +3526,6 @@
     "name": "Corrig House",
     "lat": 53.1621334,
     "lon": -7.1897531
-  },
-  {
-    "id": "corrigan-s-node-564399648",
-    "name": "Corrigan’s",
-    "lat": 53.3275519,
-    "lon": -6.2616703
   },
   {
     "id": "corrigan-s-bar-node-3559353597",
@@ -4312,18 +3820,6 @@
     "lon": -6.3898849
   },
   {
-    "id": "crowbar-node-6659454386",
-    "name": "Crowbar",
-    "lat": 53.3450768,
-    "lon": -6.2643305
-  },
-  {
-    "id": "crowe-s-node-312577264",
-    "name": "Crowe’s",
-    "lat": 53.3291081,
-    "lon": -6.2305605
-  },
-  {
     "id": "crowe-s-sports-bar-node-1601136157",
     "name": "Crowe’s Sports Bar",
     "lat": 53.2774145,
@@ -4360,22 +3856,10 @@
     "lon": -8.9817437
   },
   {
-    "id": "crystal-bar-node-504986812",
-    "name": "Crystal Bar",
-    "lat": 53.2766878,
-    "lon": -6.2205303
-  },
-  {
     "id": "cu-chulainn-s-node-6344025089",
     "name": "Cú Chulainn's",
     "lat": 53.3959848,
     "lon": -6.4400019
-  },
-  {
-    "id": "cu-chulainn-s-at-croke-park-node-3158435067",
-    "name": "Cú Chulainn's at Croke Park",
-    "lat": 53.3563652,
-    "lon": -6.2507754
   },
   {
     "id": "cuckoo-node-3487748987",
@@ -4412,14 +3896,6 @@
     "name": "Culloville House",
     "lat": 54.0617886,
     "lon": -6.6437536
-  },
-  {
-    "id": "cumiskey-s-node-2131267850",
-    "name": "Cumiskey’s",
-    "lat": 53.3543418,
-    "lon": -6.2720059,
-    "websiteUrl": "https://cumiskeysbar.ie",
-    "websiteSource": "https://cumiskeysbar.ie/"
   },
   {
     "id": "cunniffes-pub-node-1601684110",
@@ -4506,12 +3982,6 @@
     "lon": -7.4455179
   },
   {
-    "id": "d-two-node-775415430",
-    "name": "D-Two",
-    "lat": 53.3344059,
-    "lon": -6.2629302
-  },
-  {
     "id": "d-mccarthy-node-9528186943",
     "name": "D. McCarthy",
     "lat": 51.9555591,
@@ -4590,12 +4060,6 @@
     "lon": -8.3032596
   },
   {
-    "id": "dame-tavern-node-1300613610",
-    "name": "Dame Tavern",
-    "lat": 53.3438207,
-    "lon": -6.263915
-  },
-  {
     "id": "dan-and-mollys-node-12413881638",
     "name": "Dan and Mollys",
     "lat": 53.1737131,
@@ -4661,12 +4125,6 @@
     "lon": -9.0476288
   },
   {
-    "id": "darkey-kelly-s-node-2349855098",
-    "name": "Darkey Kelly’s",
-    "lat": 53.3439563,
-    "lon": -6.2699696
-  },
-  {
     "id": "darmody-s-node-9397115395",
     "name": "Darmody’s",
     "lat": 52.6390091,
@@ -4720,27 +4178,7 @@
     "county": "Dublin",
     "addressText": "21 Duke Street, Dublin, Co. Dublin, D02 K380",
     "googleFormattedAddress": "21 Duke St, Dublin, D02 K380",
-    "sourceName": "Davy Byrne’s",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.ie/Restaurant_Review-g186605-d696203-Reviews-Davy_Byrnes-Dublin_County_Dublin.html"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://davybyrnes.com/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://davybyrnes.com/food-menu/"
-    },
-    "websiteUrl": "https://davybyrnes.com",
-    "websiteSource": "https://davybyrnes.com/"
+    "sourceName": "Davy Byrne’s"
   },
   {
     "id": "davy-macs-node-4002236519",
@@ -4758,9 +4196,7 @@
     "id": "dawson-lounge-curated",
     "name": "Dawson Lounge",
     "lat": 53.33937,
-    "lon": -6.25974,
-    "websiteUrl": "https://dawsonlounge.ie",
-    "websiteSource": "https://dawsonlounge.ie/"
+    "lon": -6.25974
   },
   {
     "id": "dawsons-node-10827098205",
@@ -4856,12 +4292,6 @@
     "lon": -6.7192363
   },
   {
-    "id": "delahunty-s-node-2372309923",
-    "name": "Delahunty's",
-    "lat": 53.3556298,
-    "lon": -6.2658025
-  },
-  {
     "id": "delaney-node-2090352339",
     "name": "Delaney",
     "lat": 53.7615076,
@@ -4884,18 +4314,6 @@
     "name": "Delaney’s",
     "lat": 52.9483516,
     "lon": -7.3043808
-  },
-  {
-    "id": "delaney-s-node-632666705",
-    "name": "Delaney’s",
-    "lat": 53.3498059,
-    "lon": -6.2784995
-  },
-  {
-    "id": "den-bar-node-4329853451",
-    "name": "Den Bar",
-    "lat": 53.3322511,
-    "lon": -6.2412802
   },
   {
     "id": "denis-coyne-s-node-4874378780",
@@ -4966,26 +4384,7 @@
     "id": "devitts-curated",
     "name": "Devitt's",
     "lat": 53.3355526,
-    "lon": -6.2655319,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Devitts-Dublin"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://devittspub.ie/about/"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://devittspub.ie/about/"
-    },
-    "websiteUrl": "https://devittspub.ie",
-    "websiteSource": "https://devittspub.ie/"
+    "lon": -6.2655319
   },
   {
     "id": "devlin-s-node-1933784098",
@@ -5040,12 +4439,6 @@
     "name": "Dicey Reilly’s",
     "lat": 54.5028585,
     "lon": -8.1900878
-  },
-  {
-    "id": "dicey-s-garden-node-4337347089",
-    "name": "Dicey’s Garden",
-    "lat": 53.3359091,
-    "lon": -6.2635598
   },
   {
     "id": "dick-mack-s-pub-chijou4h48b7t0grlu3ft6cm",
@@ -5110,11 +4503,6 @@
     "name": "Disndat",
     "lat": 53.3436679,
     "lon": -6.2636608,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/disndat-Dublin"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
@@ -5142,45 +4530,16 @@
       "confidence": "confirmed",
       "source": "https://disndat.ie/"
     },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "source": "https://disndat.ie/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "board-games"
-      ],
-      "source": "https://disndat.ie/"
-    },
     "websiteUrl": "https://disndat.ie",
     "websiteSource": "https://disndat.ie/",
     "instagramUrl": "https://instagram.com/disndatdublin",
     "instagramSource": "https://disndat.ie/"
   },
   {
-    "id": "dockers-node-9264108045",
-    "name": "Dockers",
-    "lat": 53.3464282,
-    "lon": -6.2456211
-  },
-  {
     "id": "doheny-and-nesbitt-curated",
     "name": "Doheny and Nesbitt",
     "lat": 53.338089,
-    "lon": -6.2528851,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Doheny-and-Nesbitt-Dublin"
-    },
-    "websiteUrl": "https://www.dohenyandnesbitts.ie",
-    "websiteSource": "https://www.dohenyandnesbitts.ie/"
+    "lon": -6.2528851
   },
   {
     "id": "doherty-s-node-3314919203",
@@ -5395,16 +4754,16 @@
     "lon": -7.6194261
   },
   {
-    "id": "doyle-s-node-5003948109",
-    "name": "Doyle's",
-    "lat": 52.240391,
-    "lon": -6.731847
-  },
-  {
     "id": "doyle-s-node-8890618840",
     "name": "Doyle's",
     "lat": 52.2557406,
     "lon": -7.119859
+  },
+  {
+    "id": "doyle-s-node-5003948109",
+    "name": "Doyle's",
+    "lat": 52.240391,
+    "lon": -6.731847
   },
   {
     "id": "doyle-s-node-5015491764",
@@ -5428,30 +4787,11 @@
     "addressText": "160 Phibsborough Road, Dublin, Co. Dublin, D07 R26N",
     "googleFormattedAddress": "160/161 Phibsborough Rd, Phibsborough, Dublin 7, D07 R26N",
     "sourceName": "Doyle’s Corner",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.me2you.ie/shop/doyles-corner/"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/119218"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "likely",
-      "source": "https://www.me2you.ie/shop/doyles-corner/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "likely",
-      "source": "https://dublinevents.com/events/woodzy-doyles-corner-phibsborough/"
-    },
-    "websiteUrl": "https://www.doylescorner.ie",
-    "websiteSource": "https://www.bizireland.com/doyles-corner_3u-01-699-1999",
-    "instagramUrl": "https://instagram.com/doylescorner",
-    "instagramSource": "https://wanderlog.com/place/details/2658524/doyles-corner"
+    }
   },
   {
     "id": "doyles-pub-node-347381168",
@@ -5515,18 +4855,6 @@
     "addressText": "Drumlane Bar, Milltown, Co. Cavan, H14 VW81",
     "googleFormattedAddress": "Drumlane bar, Milltown, Co. Cavan, H14 VW81",
     "sourceName": "Drumlane Bar"
-  },
-  {
-    "id": "drunken-fish-node-5044580221",
-    "name": "Drunken Fish",
-    "lat": 53.3491745,
-    "lon": -6.244184
-  },
-  {
-    "id": "drury-buildings-bar-node-12087084525",
-    "name": "Drury Buildings Bar",
-    "lat": 53.3419319,
-    "lon": -6.2634461
   },
   {
     "id": "dry-dock-bar-node-10982019581",
@@ -5618,12 +4946,6 @@
     "sourceName": "Dundrum House"
   },
   {
-    "id": "dungeon-bar-node-12596062894",
-    "name": "Dungeon Bar",
-    "lat": 53.2692813,
-    "lon": -6.112998
-  },
-  {
     "id": "dunloe-lodge-node-4329628194",
     "name": "Dunloe Lodge",
     "lat": 52.0587226,
@@ -5658,18 +4980,6 @@
     "name": "Durty Nelly’s",
     "lat": 52.6964118,
     "lon": -8.8116942
-  },
-  {
-    "id": "dusk-nightclub-node-1526077721",
-    "name": "Dusk Nightclub",
-    "lat": 53.3964581,
-    "lon": -6.2149245
-  },
-  {
-    "id": "dv8-bar-venue-node-768231918",
-    "name": "DV8 Bar & Venue",
-    "lat": 53.3434972,
-    "lon": -6.2905632
   },
   {
     "id": "dwyer-s-of-cork-node-6428308448",
@@ -5729,12 +5039,6 @@
     "lon": -10.2205239
   },
   {
-    "id": "eccles-townhouse-node-2573726983",
-    "name": "Eccles Townhouse",
-    "lat": 53.3574023,
-    "lon": -6.2641644
-  },
-  {
     "id": "ed-lynch-s-bar-node-10821559203",
     "name": "Ed Lynch's Bar",
     "lat": 52.4507066,
@@ -5768,12 +5072,6 @@
     "sourceName": "Eden House Gastro Bar"
   },
   {
-    "id": "edenmore-house-node-1432780730",
-    "name": "Edenmore House",
-    "lat": 53.3882621,
-    "lon": -6.1834132
-  },
-  {
     "id": "edison-node-9734351231",
     "name": "Edison",
     "lat": 51.897748,
@@ -5784,12 +5082,6 @@
     "name": "Edward Harrigan & Sons",
     "lat": 53.1822439,
     "lon": -6.7948332
-  },
-  {
-    "id": "egans-node-1146292447",
-    "name": "Egans",
-    "lat": 53.3402594,
-    "lon": -6.2655755
   },
   {
     "id": "eileens-node-4816616221",
@@ -5834,12 +5126,6 @@
     "lon": -8.3999863
   },
   {
-    "id": "ely-bar-brasserie-node-759295279",
-    "name": "ely bar & brasserie",
-    "lat": 53.3492828,
-    "lon": -6.2480239
-  },
-  {
     "id": "ely-wine-bar-chijytu-y5koz0grueldcbdt",
     "name": "Ely Wine Bar",
     "lat": 53.3379531,
@@ -5848,14 +5134,7 @@
     "county": "Dublin",
     "addressText": "22 Ely Place, Dublin, Co. Dublin, D02 AH73",
     "googleFormattedAddress": "22 Ely Pl, Dublin 2, D02 AH73",
-    "sourceName": "Ely Wine Bar",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Ely-Winebar-Dublin"
-    },
-    "websiteUrl": "https://www.elywinebar.ie",
-    "websiteSource": "https://www.elywinebar.ie/"
+    "sourceName": "Ely Wine Bar"
   },
   {
     "id": "emerald-bar-node-11114624705",
@@ -5886,12 +5165,6 @@
     "name": "Enright's",
     "lat": 52.5012296,
     "lon": -9.370725
-  },
-  {
-    "id": "epicenter-node-1521570233",
-    "name": "EpiCenter",
-    "lat": 53.3572808,
-    "lon": -6.2269266
   },
   {
     "id": "ernie-s-bar-node-6845067324",
@@ -5977,12 +5250,6 @@
     "lon": -7.5237358
   },
   {
-    "id": "fallon-s-node-280958210",
-    "name": "Fallon’s",
-    "lat": 53.3389839,
-    "lon": -6.2733761
-  },
-  {
     "id": "fallons-bar-node-7380674419",
     "name": "Fallons Bar",
     "lat": 53.4636177,
@@ -6031,7 +5298,7 @@
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
     },
@@ -6046,24 +5313,6 @@
     "dj": {
       "status": "yes",
       "confidence": "confirmed",
-      "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "projector",
-        "tv"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "quiz"
-      ],
       "source": "https://www.farmerbrowns.ie/clonskeagh-pub"
     },
     "websiteUrl": "https://www.farmerbrowns.ie/clonskeagh-pub",
@@ -6111,12 +5360,6 @@
     "addressText": "Slievebane, Co. Donegal, F93 FX56",
     "googleFormattedAddress": "Slievebawn, Malin Head, Co. Donegal, F93 FX56",
     "sourceName": "Farren’s Bar"
-  },
-  {
-    "id": "farrier-draper-bar-restaurant-node-6666742585",
-    "name": "Farrier & Draper Bar & Restaurant",
-    "lat": 53.3424295,
-    "lon": -6.2621681
   },
   {
     "id": "fat-willy-s-node-9839791735",
@@ -6219,12 +5462,6 @@
     "lon": -9.0488378
   },
   {
-    "id": "fibber-magee-s-node-5301569915",
-    "name": "Fibber Magee’s",
-    "lat": 53.3528545,
-    "lon": -6.2605121
-  },
-  {
     "id": "fiddler-s-node-1014294516",
     "name": "Fiddler’s",
     "lat": 54.2713422,
@@ -6259,18 +5496,13 @@
     "name": "Fidelity",
     "lat": 53.3471016,
     "lon": -6.2802916,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Fidelity-Bar-Dublin"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.fidelitybar.ie/"
     },
@@ -6491,12 +5723,6 @@
     "lon": -6.0442511
   },
   {
-    "id": "fitzsimon-s-node-1431043154",
-    "name": "Fitzsimon's",
-    "lat": 53.3454708,
-    "lon": -6.2651166
-  },
-  {
     "id": "five-alley-node-320092568",
     "name": "Five Alley",
     "lat": 52.8418492,
@@ -6635,9 +5861,7 @@
     "county": "Dublin",
     "addressText": "1 Fownes Street Upper, Dublin, Co. Dublin, D02 PV20",
     "googleFormattedAddress": "1 Fownes St Upper, Temple Bar, Dublin 2, D02 WP21",
-    "sourceName": "Foggy Dew",
-    "websiteUrl": "https://www.thefoggydewpubdublin.com",
-    "websiteSource": "https://www.thefoggydewpubdublin.com/"
+    "sourceName": "Foggy Dew"
   },
   {
     "id": "foley-s-node-10171410195",
@@ -6847,11 +6071,6 @@
     "name": "Frank Ryan’s",
     "lat": 53.3470056,
     "lon": -6.2800493,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Frank-Ryans-Dublin"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
@@ -6964,12 +6183,6 @@
     "name": "Furlong's New Geneva Bar",
     "lat": 52.238427,
     "lon": -6.9722653
-  },
-  {
-    "id": "furry-bog-node-1320104241",
-    "name": "Furry Bog",
-    "lat": 53.2781494,
-    "lon": -6.2882697
   },
   {
     "id": "fusion-node-1678142042",
@@ -7243,12 +6456,6 @@
     "lon": -8.9856831
   },
   {
-    "id": "gleesons-of-booterstown-node-1418302667",
-    "name": "Gleesons of Booterstown",
-    "lat": 53.3054689,
-    "lon": -6.197606
-  },
-  {
     "id": "glen-head-tavern-teach-john-eoini-n-node-3011690812",
     "name": "Glen Head Tavern - Teach John Eoinín",
     "lat": 54.7078646,
@@ -7301,12 +6508,6 @@
     "name": "Glue Pot",
     "lat": 51.866161,
     "lon": -8.3314974
-  },
-  {
-    "id": "glynn-s-node-2372306728",
-    "name": "Glynn’s",
-    "lat": 53.3555164,
-    "lon": -6.2659646
   },
   {
     "id": "goldbergs-chijv1he8wqqregrp-3tqagq",
@@ -7378,12 +6579,6 @@
     "sourceName": "Grace Neill's Bar"
   },
   {
-    "id": "grace-s-node-2885369320",
-    "name": "Grace’s",
-    "lat": 53.3218142,
-    "lon": -6.2664357
-  },
-  {
     "id": "grace-s-bar-node-247118714",
     "name": "Grace's Bar",
     "lat": 52.9432911,
@@ -7408,12 +6603,6 @@
     "lon": -7.1109812
   },
   {
-    "id": "grain-grill-node-5759625992",
-    "name": "Grain & Grill",
-    "lat": 53.3381976,
-    "lon": -6.2717563
-  },
-  {
     "id": "grain-grill-bar-node-5590277112",
     "name": "Grain & Grill Bar",
     "lat": 53.2840894,
@@ -7424,18 +6613,6 @@
     "name": "Grain & Grill Bar",
     "lat": 53.3131172,
     "lon": -6.3929869
-  },
-  {
-    "id": "grain-grill-bar-node-5590594966",
-    "name": "Grain & Grill Bar",
-    "lat": 53.3496315,
-    "lon": -6.2786626
-  },
-  {
-    "id": "grain-grill-bar-node-5590642309",
-    "name": "Grain & Grill Bar",
-    "lat": 53.3435319,
-    "lon": -6.2436233
   },
   {
     "id": "grain-grill-bar-node-5590265211",
@@ -7483,12 +6660,6 @@
     "name": "Granny Annies",
     "lat": 54.9953963,
     "lon": -7.3224739
-  },
-  {
-    "id": "gravity-bar-node-629750018",
-    "name": "Gravity Bar",
-    "lat": 53.3419024,
-    "lon": -6.286488
   },
   {
     "id": "gre-asa-n-an-damha-i-n-alla-node-4432643222",
@@ -7798,12 +6969,6 @@
     "lon": -6.944143
   },
   {
-    "id": "harbour-bar-node-880923549",
-    "name": "Harbour Bar",
-    "lat": 53.3870047,
-    "lon": -6.0663234
-  },
-  {
     "id": "harbour-bar-node-11067781893",
     "name": "Harbour Bar",
     "lat": 54.6366093,
@@ -7822,12 +6987,6 @@
     "lon": -6.7070054
   },
   {
-    "id": "hardy-s-bar-bistro-node-597119697",
-    "name": "Hardy’s Bar & Bistro",
-    "lat": 53.2919874,
-    "lon": -6.1341504
-  },
-  {
     "id": "hargardon-s-node-652953550",
     "name": "Hargardon’s",
     "lat": 54.2707158,
@@ -7838,12 +6997,6 @@
     "name": "Harisons",
     "lat": 53.9645959,
     "lon": -6.3646308
-  },
-  {
-    "id": "harkin-s-node-298721803",
-    "name": "Harkin’s",
-    "lat": 53.3424988,
-    "lon": -6.2885248
   },
   {
     "id": "harley-s-node-13039488488",
@@ -7890,19 +7043,7 @@
     "county": "Dublin",
     "addressText": "107-109 Howth Road, Clontarf, Dublin, Co. Dublin, D03 KN97",
     "googleFormattedAddress": "107 Howth Rd, Clontarf West, Dublin 3, D03 KN97",
-    "sourceName": "Harry Byrne’s",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely",
-      "source": "https://wanderlog.com/place/details/6090942/harry-byrnes-pub"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.harrybyrnespub.com/"
-    },
-    "websiteUrl": "https://www.harrybyrnespub.com",
-    "websiteSource": "https://www.harrybyrnespub.com/"
+    "sourceName": "Harry Byrne’s"
   },
   {
     "id": "harry-s-node-2144960088",
@@ -7974,12 +7115,6 @@
     "name": "Hartstown House",
     "lat": 53.3926692,
     "lon": -6.4197547
-  },
-  {
-    "id": "harty-s-bar-node-12167965955",
-    "name": "Harty's bar",
-    "lat": 53.3430247,
-    "lon": -6.2588249
   },
   {
     "id": "harty-s-pub-node-431998432",
@@ -8139,18 +7274,6 @@
     "name": "Hell Cat Maggies",
     "lat": 54.5969704,
     "lon": -5.9317462
-  },
-  {
-    "id": "hely-s-bar-node-3676943504",
-    "name": "Hely's Bar",
-    "lat": 53.3440535,
-    "lon": -6.2642601
-  },
-  {
-    "id": "hemidemisemiquaver-bar-node-1711807593",
-    "name": "Hemidemisemiquaver Bar",
-    "lat": 53.3487544,
-    "lon": -6.2285572
   },
   {
     "id": "henchey-s-bar-node-488567265",
@@ -8361,12 +7484,6 @@
     "lon": -9.1554359
   },
   {
-    "id": "hogan-s-bar-node-367411336",
-    "name": "Hogan’s Bar",
-    "lat": 53.3419933,
-    "lon": -6.2646102
-  },
-  {
     "id": "hole-in-the-wall-node-9930478879",
     "name": "Hole In The Wall",
     "lat": 53.2751943,
@@ -8380,18 +7497,13 @@
     "addressText": "Blackhorse Ave, Phoenix Park, Castleknock (part of Phoenix Park), Dublin 7, D07 V663",
     "googleFormattedAddress": "Blackhorse Ave, Phoenix Park, Castleknock (part of Phoenix Park), Dublin 7, D07 V663",
     "sourceName": "Hole in the Wall, Europe’s Longest Pub",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://holeinthewallpub.com/about/"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed",
       "source": "https://holeinthewallpub.com/faqs/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://holeinthewallpub.com/menus/"
     },
@@ -8484,12 +7596,6 @@
     "lon": -7.7756762
   },
   {
-    "id": "horse-show-house-node-312576602",
-    "name": "Horse Show House",
-    "lat": 53.3285197,
-    "lon": -6.2289281
-  },
-  {
     "id": "horseshoe-inn-node-348810338",
     "name": "Horseshoe Inn",
     "lat": 51.88499,
@@ -8508,28 +7614,10 @@
     "lon": -7.3893938
   },
   {
-    "id": "house-dublin-node-4249403390",
-    "name": "House Dublin",
-    "lat": 53.3340014,
-    "lon": -6.2551574
-  },
-  {
     "id": "house-of-mcdonnell-node-1537197348",
     "name": "House of McDonnell",
     "lat": 55.200456,
     "lon": -6.2509728
-  },
-  {
-    "id": "howth-yacht-club-node-6796636983",
-    "name": "Howth Yacht Club",
-    "lat": 53.3887912,
-    "lon": -6.0678483
-  },
-  {
-    "id": "huck-s-node-2998757813",
-    "name": "Huck’s",
-    "lat": 53.3359626,
-    "lon": -6.2650767
   },
   {
     "id": "hudson-bar-grill-node-13381316749",
@@ -8637,12 +7725,6 @@
     "lon": -9.5105855
   },
   {
-    "id": "hyde-node-12710702758",
-    "name": "Hyde",
-    "lat": 53.3415541,
-    "lon": -6.2593326
-  },
-  {
     "id": "hyde-bar-node-1764584003",
     "name": "HYDE Bar",
     "lat": 53.274876,
@@ -8674,12 +7756,6 @@
     "name": "Ice House Bar & Lounge",
     "lat": 54.1272946,
     "lon": -9.1402031
-  },
-  {
-    "id": "idlewild-node-9238631400",
-    "name": "IdleWild",
-    "lat": 53.3420846,
-    "lon": -6.2641425
   },
   {
     "id": "igo-inn-chijj7yfx-ghz0grec5e2vy-",
@@ -8723,26 +7799,7 @@
     "county": "Dublin",
     "addressText": "23 Wicklow Street, Dublin, Co. Dublin, D02 VH59",
     "googleFormattedAddress": "23 Wicklow St, Dublin, D02 VH59",
-    "sourceName": "The International Bar",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/The-International-Dublin; corroborated by https://www.pubsaroundme.com/city/dublin/features/cozy"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.theinternationalbar.com/food/"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://www.theinternationalbar.com/food/"
-    },
-    "websiteUrl": "https://www.theinternationalbar.com",
-    "websiteSource": "https://www.theinternationalbar.com/location/"
+    "sourceName": "The International Bar"
   },
   {
     "id": "irish-whip-chijjfryefyhrugrqfwgyyjb",
@@ -8791,12 +7848,6 @@
     "lon": -8.5750498
   },
   {
-    "id": "iveagh-bistro-node-12179155624",
-    "name": "Iveagh Bistro",
-    "lat": 53.3480666,
-    "lon": -6.2910693
-  },
-  {
     "id": "ivy-bar-node-8776805588",
     "name": "Ivy Bar",
     "lat": 54.5917157,
@@ -8839,12 +7890,6 @@
     "lon": -7.5833314
   },
   {
-    "id": "j-p-mooneys-node-434153487",
-    "name": "J P Mooneys",
-    "lat": 53.3421487,
-    "lon": -6.2548436
-  },
-  {
     "id": "j-turners-bar-node-12913987401",
     "name": "J Turners Bar",
     "lat": 52.2691441,
@@ -8855,12 +7900,6 @@
     "name": "J Woods Bar & Lounge",
     "lat": 51.9733812,
     "lon": -8.2170049
-  },
-  {
-    "id": "j-m-cleary-node-890854720",
-    "name": "J. & M. Cleary",
-    "lat": 53.3523358,
-    "lon": -6.2495435
   },
   {
     "id": "j-anderson-node-466209015",
@@ -8921,12 +7960,6 @@
     "name": "J. Noonan",
     "lat": 52.6562682,
     "lon": -8.6281038
-  },
-  {
-    "id": "j-o-connell-node-778699196",
-    "name": "J. O'Connell",
-    "lat": 53.3306448,
-    "lon": -6.2641688
   },
   {
     "id": "j-s-murray-node-2122712720",
@@ -9000,25 +8033,6 @@
     "lon": -7.360373
   },
   {
-    "id": "j-r-mahon-s-node-11030599280",
-    "name": "J.R. Mahon's",
-    "lat": 53.3470014,
-    "lon": -6.2581487,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d696294-Reviews-J_R_Mahon_s_Public_House_Brewery-Dublin_County_Dublin.html"
-    },
-    "websiteUrl": "https://www.jrmahons.ie",
-    "websiteSource": "https://www.jrmahons.ie/"
-  },
-  {
-    "id": "j-t-pims-node-3466369334",
-    "name": "J.T. Pims",
-    "lat": 53.3437155,
-    "lon": -6.2642627
-  },
-  {
     "id": "j-s-node-3222627106",
     "name": "J’s",
     "lat": 52.2666753,
@@ -9059,12 +8073,6 @@
     "name": "Jack Mac's",
     "lat": 52.2695806,
     "lon": -9.7045799
-  },
-  {
-    "id": "jack-o-rourke-s-node-662938466",
-    "name": "Jack O’Rourke’s",
-    "lat": 53.3015086,
-    "lon": -6.1778326
   },
   {
     "id": "jack-t-s-bar-node-3730537609",
@@ -9129,11 +8137,7 @@
     "county": "Dublin",
     "addressText": "40 Francis Street, Dublin, Co. Dublin, D08 W208",
     "googleFormattedAddress": "79 Aungier St, Dublin 2, D02 KF89",
-    "sourceName": "Jackie’s",
-    "websiteUrl": "https://www.jackies.ie",
-    "websiteSource": "https://www.jackies.ie/",
-    "instagramUrl": "https://instagram.com/jackiesdublin",
-    "instagramSource": "https://www.jackies.ie/"
+    "sourceName": "Jackie’s"
   },
   {
     "id": "jacko-s-bar-node-488567240",
@@ -9315,11 +8319,7 @@
     "county": "Dublin",
     "addressText": "87 Camden Street Lower, Dublin, Co. Dublin, D02 DH36",
     "googleFormattedAddress": "84, 84-87 Camden Street Lower, d2, Dublin, D02 DH36",
-    "sourceName": "Jimmy Rabbitte’s",
-    "websiteUrl": "http://jimmyrabbittes.com",
-    "websiteSource": "http://jimmyrabbittes.com/",
-    "instagramUrl": "https://instagram.com/jimmyrabbittes",
-    "instagramSource": "http://jimmyrabbittes.com/"
+    "sourceName": "Jimmy Rabbitte’s"
   },
   {
     "id": "jimmy-white-s-pub-node-6222748899",
@@ -9438,12 +8438,6 @@
     "lon": -6.6162614
   },
   {
-    "id": "john-clarke-and-sons-node-312566081",
-    "name": "John Clarke and Sons",
-    "lat": 53.3416873,
-    "lon": -6.2275843
-  },
-  {
     "id": "john-cryan-node-2471541179",
     "name": "John Cryan",
     "lat": 53.9717322,
@@ -9551,12 +8545,6 @@
     "lon": -8.5677684
   },
   {
-    "id": "john-s-bar-haberdashery-node-3125025423",
-    "name": "John's Bar & Haberdashery",
-    "lat": 53.3426862,
-    "lon": -6.2775224
-  },
-  {
     "id": "johnnie-fox-s-pub-chijbti2ilunz0grsazwfllv",
     "name": "Johnnie Fox's Pub",
     "lat": 53.221758099999995,
@@ -9565,14 +8553,7 @@
     "county": "Dublin",
     "addressText": "Ballybetagh Road, Glencullen, Co. Dublin, D18 X635",
     "googleFormattedAddress": "Ballybetagh Rd, Glencullen, Co. Dublin, D18 X635",
-    "sourceName": "Johnnie Fox’s",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://johnniefoxs.com/about/the-living-museum/"
-    },
-    "websiteUrl": "https://johnniefoxs.com",
-    "websiteSource": "https://johnniefoxs.com/drink-dine/menus/"
+    "sourceName": "Johnnie Fox’s"
   },
   {
     "id": "johnny-burke-s-node-10699818721",
@@ -9607,14 +8588,7 @@
     "county": "Dublin",
     "addressText": "65 William Street South, Dublin, Co. Dublin, D02 TH24",
     "googleFormattedAddress": "65 William St S, Dublin 2, D02 TH24",
-    "sourceName": "Johnny Rush's",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://maps.apple.com/place?place-id=IA31C88611103D4BF"
-    },
-    "websiteUrl": "https://www.johnnyrushs.ie",
-    "websiteSource": "https://www.johnnyrushs.ie/"
+    "sourceName": "Johnny Rush's"
   },
   {
     "id": "johnos-pub-node-7304472075",
@@ -9739,14 +8713,7 @@
     "county": "Dublin",
     "addressText": "57-58 Dorset Street Lower, Dublin, Co. Dublin, D01 V0Y8",
     "googleFormattedAddress": "58 Dorset Street Lower, Dublin 1, D01 EP86",
-    "sourceName": "Juno",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d26589803-Reviews-Juno-Dublin_County_Dublin.html"
-    },
-    "websiteUrl": "https://www.junobar.ie",
-    "websiteSource": "https://www.junobar.ie/"
+    "sourceName": "Juno"
   },
   {
     "id": "k-sixty-seven-node-1560022630",
@@ -9759,12 +8726,6 @@
     "name": "K-Town Bar",
     "lat": 52.0580003,
     "lon": -9.5105117
-  },
-  {
-    "id": "k-c-r-house-node-2065207024",
-    "name": "K.C.R. House",
-    "lat": 53.3141966,
-    "lon": -6.2964378
   },
   {
     "id": "k67-node-1560022631",
@@ -9839,12 +8800,6 @@
     "lon": -6.6642171
   },
   {
-    "id": "kavanagh-s-node-1593209605",
-    "name": "Kavanagh’s",
-    "lat": 53.3363545,
-    "lon": -6.2728363
-  },
-  {
     "id": "kazbar-node-2129904841",
     "name": "Kazbar",
     "lat": 52.2580301,
@@ -9859,9 +8814,7 @@
     "county": "Dublin",
     "addressText": "Swords Road, Cloghran, Co. Dublin, K67 P957",
     "googleFormattedAddress": "Swords Rd, Cloghran, Dublin, K67 P957",
-    "sourceName": "Kealy’s",
-    "websiteUrl": "https://kealys.ie",
-    "websiteSource": "https://kealys.ie/"
+    "sourceName": "Kealy’s"
   },
   {
     "id": "keane-s-node-5026660723",
@@ -9904,12 +8857,6 @@
     "name": "Keating's",
     "lat": 52.5694371,
     "lon": -9.8630568
-  },
-  {
-    "id": "keavan-s-port-node-10078115749",
-    "name": "Keavan's Port",
-    "lat": 53.3334693,
-    "lon": -6.2651754
   },
   {
     "id": "kee-s-hotel-bar-node-13137975585",
@@ -9956,16 +8903,7 @@
     "id": "kehoes-curated",
     "name": "Kehoe's",
     "lat": 53.33988,
-    "lon": -6.26077,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/John-Kehoe-Dublin-2"
-    },
-    "websiteUrl": "https://kehoesdublin.ie",
-    "websiteSource": "https://kehoesdublin.ie/",
-    "instagramUrl": "https://instagram.com/kehoesdublin",
-    "instagramSource": "https://kehoesdublin.ie/"
+    "lon": -6.26077
   },
   {
     "id": "kehoe-s-node-10553691045",
@@ -9978,12 +8916,6 @@
     "name": "Kehoe’s",
     "lat": 53.0158952,
     "lon": -7.1493434
-  },
-  {
-    "id": "kelly-and-coopers-node-662970909",
-    "name": "Kelly and Coopers",
-    "lat": 53.3010267,
-    "lon": -6.1772278
   },
   {
     "id": "kelly-s-node-1857877197",
@@ -10081,12 +9013,6 @@
     "lon": -8.2383597
   },
   {
-    "id": "kennedy-s-node-10016178636",
-    "name": "Kennedy's",
-    "lat": 53.3421535,
-    "lon": -6.2507516
-  },
-  {
     "id": "kennedy-s-node-2651655794",
     "name": "Kennedy's",
     "lat": 53.9999511,
@@ -10115,18 +9041,6 @@
     "name": "Kennedy’s",
     "lat": 54.2712595,
     "lon": -8.4725606
-  },
-  {
-    "id": "kennedys-bar-node-3926668805",
-    "name": "Kennedys Bar",
-    "lat": 53.296478,
-    "lon": -6.211426
-  },
-  {
-    "id": "kenny-s-node-3124957096",
-    "name": "Kenny’s",
-    "lat": 53.3424332,
-    "lon": -6.2944638
   },
   {
     "id": "kenny-s-bar-node-11949819901",
@@ -10203,9 +9117,7 @@
     "county": "Dublin",
     "addressText": "Lispopple Cross, Swords, Co. Dublin",
     "googleFormattedAddress": "Lispopple Cross, Swords, Co. Dublin",
-    "sourceName": "Kettles Country House Hotel",
-    "websiteUrl": "https://www.kettleshotel.ie",
-    "websiteSource": "https://www.kettleshotel.ie/"
+    "sourceName": "Kettles Country House Hotel"
   },
   {
     "id": "kiely-s-bar-node-3396998880",
@@ -10445,12 +9357,6 @@
     "lon": -7.3605786
   },
   {
-    "id": "knights-bar-node-12178058608",
-    "name": "Knights Bar",
-    "lat": 53.364874,
-    "lon": -6.2066272
-  },
-  {
     "id": "knights-inn-node-1257321554",
     "name": "Knights Inn",
     "lat": 53.1990852,
@@ -10473,48 +9379,17 @@
     "name": "Kodiak",
     "lat": 53.3218115,
     "lon": -6.2656362,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.corner.inc/place/269654"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
-      "source": "https://www.corner.inc/place/269654"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "likely",
-      "source": "https://www.allthefood.ie/restaurants/kodiak"
-    },
-    "foodTags": {
-      "tags": [
-        "pizza"
-      ],
-      "confidence": "likely",
-      "source": "https://www.allthefood.ie/restaurants/kodiak"
-    },
-    "instagramUrl": "https://instagram.com/kodiak_rathmines",
-    "instagramSource": "https://maps.apple.com/place?place-id=I4EABCFBBB35A158"
+      "source": "https://kimtastestheworld.com/dog-friendly-dublin-ultimate-guide/"
+    }
   },
   {
     "id": "krugers-bar-node-6831949251",
     "name": "Krugers Bar",
     "lat": 53.5146199,
     "lon": -8.8510598
-  },
-  {
-    "id": "krystle-node-739778204",
-    "name": "Krystle",
-    "lat": 53.3358434,
-    "lon": -6.2635641
-  },
-  {
-    "id": "kyle-s-node-1521660943",
-    "name": "Kyle’s",
-    "lat": 53.3888556,
-    "lon": -6.2008612
   },
   {
     "id": "kyteler-s-inn-chijjxwz9xu6xugr3ywo0oma",
@@ -10536,19 +9411,7 @@
     "county": "Dublin",
     "addressText": "18 Stoneybatter, Dublin, Co. Dublin, D07 KN77",
     "googleFormattedAddress": "18 Stoneybatter, Dublin 7, D07 KN77",
-    "sourceName": "L. Mulligan Grocer",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.dishcult.com/restaurant/lmulligangrocer?page=1&sortOrder=0"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.lmulligangrocer.com/"
-    },
-    "websiteUrl": "https://www.lmulligangrocer.com",
-    "websiteSource": "https://www.lmulligangrocer.com/"
+    "sourceName": "L. Mulligan Grocer"
   },
   {
     "id": "la-bodega-node-7241000181",
@@ -10723,18 +9586,6 @@
     "lon": -8.4725119
   },
   {
-    "id": "le-monde-cafe-bar-node-130156802",
-    "name": "Le Monde Café Bar",
-    "lat": 53.3501917,
-    "lon": -6.2527615
-  },
-  {
-    "id": "le-petite-renard-node-13059423001",
-    "name": "Le Petite Renard",
-    "lat": 53.3196604,
-    "lon": -6.2911567
-  },
-  {
     "id": "leavy-s-node-5491324428",
     "name": "Leavy's",
     "lat": 53.5915554,
@@ -10774,27 +9625,6 @@
     "sourceName": "Legency Bar"
   },
   {
-    "id": "leggs-pub-node-4337941791",
-    "name": "Leggs pub",
-    "lat": 53.3341764,
-    "lon": -6.254773
-  },
-  {
-    "id": "lemon-duke-node-12416156738",
-    "name": "Lemon & Duke",
-    "lat": 53.3415562,
-    "lon": -6.2591307,
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.lemonandduke.ie/"
-    },
-    "websiteUrl": "https://www.lemonandduke.ie",
-    "websiteSource": "https://www.lemonandduke.ie/",
-    "instagramUrl": "https://instagram.com/lemonandduke",
-    "instagramSource": "https://www.lemonandduke.ie/"
-  },
-  {
     "id": "lennon-node-11065573939",
     "name": "Lennon",
     "lat": 52.6554003,
@@ -10821,14 +9651,7 @@
     "county": "Dublin",
     "addressText": "117 South Circular Road, Dublin, Co. Dublin, D08 PVF1",
     "googleFormattedAddress": "117 S Circular Rd, Dublin 8, D08 K522",
-    "sourceName": "Leonard’s Corner",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://www.leonardscorner.com/venue"
-    },
-    "websiteUrl": "https://www.leonardscorner.com",
-    "websiteSource": "https://www.leonardscorner.com/"
+    "sourceName": "Leonard’s Corner"
   },
   {
     "id": "letia-s-greenview-bar-node-9727051793",
@@ -11020,12 +9843,6 @@
     "lon": -9.9243297
   },
   {
-    "id": "love-tempo-node-12101176582",
-    "name": "Love Tempo",
-    "lat": 53.3429245,
-    "lon": -6.2792593
-  },
-  {
     "id": "lowe-s-node-13260276977",
     "name": "Lowe's",
     "lat": 52.4524512,
@@ -11036,12 +9853,6 @@
     "name": "Lower Falls Social and Recreation Club",
     "lat": 54.5953545,
     "lon": -5.9498652
-  },
-  {
-    "id": "lowes-bar-node-358543320",
-    "name": "Lowes Bar",
-    "lat": 53.333764,
-    "lon": -6.2906371
   },
   {
     "id": "lowry-s-node-1809978642",
@@ -11064,26 +9875,7 @@
     "county": "Dublin",
     "addressText": "78 Meath Street, Dublin, Co. Dublin, D08 A318",
     "googleFormattedAddress": "78 Meath St, The Liberties, Dublin 8, D08 A318",
-    "sourceName": "Lucky’s",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://www.luckys.ie/"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "confirmed",
-      "source": "https://www.luckys.ie/food"
-    },
-    "foodTags": {
-      "tags": [
-        "pizza"
-      ],
-      "confidence": "confirmed",
-      "source": "https://www.luckys.ie/food"
-    },
-    "websiteUrl": "https://www.luckys.ie",
-    "websiteSource": "https://www.luckys.ie/"
+    "sourceName": "Lucky’s"
   },
   {
     "id": "lukers-node-5024994823",
@@ -11106,21 +9898,7 @@
     "county": "Dublin",
     "addressText": "13 Essex Gate, Dublin, Co. Dublin, D08 PN7C",
     "googleFormattedAddress": "Lundy Foot's Bar and Restaurant, Essex Gate, D2, Dublin",
-    "sourceName": "Lundy Foot’s",
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://lundyfoots.ie/menus/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger"
-      ],
-      "confidence": "confirmed",
-      "source": "https://lundyfoots.ie/menus/"
-    },
-    "websiteUrl": "https://lundyfoots.ie",
-    "websiteSource": "https://lundyfoots.ie/"
+    "sourceName": "Lundy Foot’s"
   },
   {
     "id": "lusitania-bar-node-7728337959",
@@ -11181,12 +9959,6 @@
     "name": "Lysters Pub",
     "lat": 53.4143983,
     "lon": -7.300564
-  },
-  {
-    "id": "m-o-loughlin-node-3939811610",
-    "name": "M O'Loughlin",
-    "lat": 53.2939394,
-    "lon": -6.1400615
   },
   {
     "id": "m-a-heffernan-node-8043933947",
@@ -11253,12 +10025,6 @@
     "name": "M. Morrissey",
     "lat": 52.7503602,
     "lon": -7.5557277
-  },
-  {
-    "id": "m-o-brien-node-10568217814",
-    "name": "M. O’Brien",
-    "lat": 53.331314,
-    "lon": -6.2516295
   },
   {
     "id": "m-o-shea-node-9740140145",
@@ -11433,18 +10199,6 @@
     "lon": -8.2013403
   },
   {
-    "id": "madigan-s-node-467744840",
-    "name": "Madigan’s",
-    "lat": 53.3514196,
-    "lon": -6.2605498
-  },
-  {
-    "id": "madigan-s-bar-grill-node-636958169",
-    "name": "Madigan's Bar & Grill",
-    "lat": 53.3514108,
-    "lon": -6.2497907
-  },
-  {
     "id": "madigans-node-11716836865",
     "name": "Madigans",
     "lat": 53.1179321,
@@ -11497,12 +10251,6 @@
     "name": "Maggie May's",
     "lat": 52.3414382,
     "lon": -6.463213
-  },
-  {
-    "id": "magic-glasses-node-1326745943",
-    "name": "Magic Glasses",
-    "lat": 53.3374044,
-    "lon": -6.2634682
   },
   {
     "id": "maginns-chijqzjk3o4iyugrnsc5v-th",
@@ -11665,12 +10413,6 @@
     "lon": -5.708794
   },
   {
-    "id": "marino-house-kavanagh-s-node-249426205",
-    "name": "Marino House (Kavanagh's)",
-    "lat": 53.365756,
-    "lon": -6.2288162
-  },
-  {
     "id": "market-bar-node-1961887048",
     "name": "Market Bar",
     "lat": 54.4142639,
@@ -11687,12 +10429,6 @@
     "name": "Marrinan's",
     "lat": 52.8559961,
     "lon": -9.4007208
-  },
-  {
-    "id": "martin-b-slattery-node-560602898",
-    "name": "Martin B. Slattery",
-    "lat": 53.3221545,
-    "lon": -6.26589
   },
   {
     "id": "martin-flynns-the-players-club-node-7021775176",
@@ -11742,12 +10478,6 @@
     "lon": -8.963068
   },
   {
-    "id": "mary-mac-s-node-312576904",
-    "name": "Mary Mac’s",
-    "lat": 53.3290475,
-    "lon": -6.2303733
-  },
-  {
     "id": "mary-mullen-s-node-9855905489",
     "name": "Mary Mullen’s",
     "lat": 53.2754431,
@@ -11782,11 +10512,6 @@
     "name": "Mary’s Bar & Hardware Shop",
     "lat": 53.3428631,
     "lon": -6.2603751,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d6887570-Reviews-Mary_s_Bar_Hardware_Shop-Dublin_County_Dublin.html"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
@@ -11841,14 +10566,7 @@
     "county": "Mayo",
     "addressText": "Bridge Street, Westport, Co. Mayo, F28 FV40",
     "googleFormattedAddress": "Bridge St, Cahernamart, Westport, Co. Mayo",
-    "sourceName": "Matt Molloy’s",
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.mattmolloy.com/"
-    },
-    "websiteUrl": "https://www.mattmolloy.com",
-    "websiteSource": "https://www.mattmolloy.com/"
+    "sourceName": "Matt Molloy’s"
   },
   {
     "id": "matt-the-thresher-node-307741752",
@@ -12122,12 +10840,6 @@
     "lon": -7.3612426
   },
   {
-    "id": "mccloskeys-node-479092745",
-    "name": "McCloskeys",
-    "lat": 53.3244334,
-    "lon": -6.2404236
-  },
-  {
     "id": "mcconville-s-node-1673641338",
     "name": "McConville's",
     "lat": 54.4221183,
@@ -12213,12 +10925,6 @@
     "addressText": "Teergonean, Doolin, Co. Clare, V95 TKF8",
     "googleFormattedAddress": "Teergonean, Doolin, Co. Clare, V95 TKF8",
     "sourceName": "McGann’s"
-  },
-  {
-    "id": "mcgarry-s-bar-node-415802976",
-    "name": "McGarry’s Bar",
-    "lat": 53.3216994,
-    "lon": -6.2795312
   },
   {
     "id": "mcgeough-s-node-3085148377",
@@ -12467,12 +11173,6 @@
     "lon": -7.7854925
   },
   {
-    "id": "mcloughlin-s-node-593844444",
-    "name": "McLoughlin’s",
-    "lat": 53.2900598,
-    "lon": -6.1306744
-  },
-  {
     "id": "mcloughlin-s-node-3318462681",
     "name": "McLoughlin’s",
     "lat": 53.9066724,
@@ -12558,12 +11258,6 @@
     "lon": -8.5317412
   },
   {
-    "id": "mcneill-s-node-941319049",
-    "name": "McNeill’s",
-    "lat": 53.3846515,
-    "lon": -6.0653171
-  },
-  {
     "id": "mcneill-s-bar-node-11079109508",
     "name": "McNeill's Bar",
     "lat": 53.4225041,
@@ -12644,19 +11338,7 @@
     "county": "Dublin",
     "addressText": "155 Parnell Street, Rotunda, Dublin, Co. Dublin, D01 N8C7",
     "googleFormattedAddress": "155 R803, Rotunda, Dublin",
-    "sourceName": "Mema’s",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://memas.ie/"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "confirmed",
-      "source": "https://memas.ie/"
-    },
-    "websiteUrl": "https://memas.ie",
-    "websiteSource": "https://memas.ie/"
+    "sourceName": "Mema’s"
   },
   {
     "id": "member-s-bar-chijewffkimfz0grrcsd06zk",
@@ -12685,14 +11367,7 @@
     "county": "Dublin",
     "addressText": "48-49 Wellington Quay, Dublin, Co. Dublin, D02 RC56",
     "googleFormattedAddress": "48-49 Wellington Quay, Temple Bar, Dublin, D02 EY65",
-    "sourceName": "Merchant's Arch",
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.merchantsarch.ie/menus"
-    },
-    "websiteUrl": "https://www.merchantsarch.ie",
-    "websiteSource": "https://www.merchantsarch.ie/"
+    "sourceName": "Merchant's Arch"
   },
   {
     "id": "mernaghs-chijw4hadgvwxugrpnq3klle",
@@ -12704,12 +11379,6 @@
     "addressText": "Oylegate, Co. Wexford, Y21 FY67",
     "googleFormattedAddress": "Oylegate, Coolnaboy, Enniscorthy, Co. Wexford",
     "sourceName": "Mernagh’s"
-  },
-  {
-    "id": "metzo-node-6248574948",
-    "name": "Metzo",
-    "lat": 53.3966916,
-    "lon": -6.2637118
   },
   {
     "id": "mexx-nitelife-node-1757147322",
@@ -12854,12 +11523,6 @@
     "lon": -6.5338271
   },
   {
-    "id": "mill-house-node-11975728519",
-    "name": "Mill House",
-    "lat": 53.288397,
-    "lon": -6.2046435
-  },
-  {
     "id": "millars-node-290501178",
     "name": "Millars",
     "lat": 54.7725095,
@@ -12972,12 +11635,6 @@
     "lon": -7.1537141
   },
   {
-    "id": "molloy-s-node-2860454401",
-    "name": "Molloy’s",
-    "lat": 53.3511395,
-    "lon": -6.2513336
-  },
-  {
     "id": "molloy-s-bar-node-479196074",
     "name": "Molloy’s Bar",
     "lat": 52.1912377,
@@ -13012,12 +11669,6 @@
     "name": "Molly Mallone's",
     "lat": 55.0193303,
     "lon": -7.3415864
-  },
-  {
-    "id": "molly-s-node-10994405522",
-    "name": "Molly's",
-    "lat": 53.3406332,
-    "lon": -6.2744931
   },
   {
     "id": "molly-s-node-5229549828",
@@ -13194,12 +11845,6 @@
     "lon": -8.5577818
   },
   {
-    "id": "morrissey-s-node-1426100409",
-    "name": "Morrissey's",
-    "lat": 53.3368452,
-    "lon": -6.2876954
-  },
-  {
     "id": "morrissey-s-node-621953939",
     "name": "Morrissey’s",
     "lat": 52.3746878,
@@ -13244,12 +11889,6 @@
     "addressText": "8-9 High Street, Limerick, Co. Limerick, V94 W8XF",
     "googleFormattedAddress": "9 High St, Prior's-Land, Limerick, V94 W8XF",
     "sourceName": "Mother Mac’s"
-  },
-  {
-    "id": "mother-reilly-s-bar-restaurant-node-3040139014",
-    "name": "Mother Reilly’s Bar & Restaurant",
-    "lat": 53.3207806,
-    "lon": -6.2651459
   },
   {
     "id": "mothers-pub-search-drogheda",
@@ -13392,18 +12031,6 @@
     "lon": -7.0809287
   },
   {
-    "id": "mullet-s-node-2071381885",
-    "name": "Mullet’s",
-    "lat": 53.3525793,
-    "lon": -6.2493006
-  },
-  {
-    "id": "mulligan-and-haines-node-3470507586",
-    "name": "Mulligan and Haines",
-    "lat": 53.3440757,
-    "lon": -6.2634747
-  },
-  {
     "id": "mulligans-curated",
     "name": "Mulligan's",
     "lat": 53.34739,
@@ -13418,14 +12045,7 @@
     "county": "Dublin",
     "addressText": "8-9 Poolbeg Street, Dublin 2, D02 TK71, Ireland",
     "googleFormattedAddress": "8-9 Poolbeg Street, Dublin 2, D02 TK71, Ireland",
-    "sourceName": "Mulligan's of Poolbeg Street",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Mulligans-Dublin"
-    },
-    "websiteUrl": "https://www.mulligans.ie",
-    "websiteSource": "https://www.mulligans.ie/"
+    "sourceName": "Mulligan's of Poolbeg Street"
   },
   {
     "id": "mulligan-s-pub-lake-view-node-12159572489",
@@ -13584,26 +12204,6 @@
     "lon": -8.7945108
   },
   {
-    "id": "murray-s-node-1348370992",
-    "name": "Murray’s",
-    "lat": 53.3525164,
-    "lon": -6.2610978,
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.murraysbar.ie/menu"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://www.murraysbar.ie/menu"
-    },
-    "websiteUrl": "https://www.murraysbar.ie",
-    "websiteSource": "https://www.murraysbar.ie/"
-  },
-  {
     "id": "murray-s-node-300599699",
     "name": "Murray’s",
     "lat": 53.5246556,
@@ -13746,30 +12346,16 @@
     "lon": -7.1271044
   },
   {
-    "id": "national-concert-hall-bar-node-13294228736",
-    "name": "National Concert Hall Bar",
-    "lat": 53.3346275,
-    "lon": -6.2592462
-  },
-  {
     "id": "nearys-bar-and-lounge-curated",
     "name": "Neary’s Bar & Lounge",
     "lat": 53.3406967,
-    "lon": -6.2611424,
-    "websiteUrl": "https://www.nearys.ie",
-    "websiteSource": "https://www.nearys.ie/"
+    "lon": -6.2611424
   },
   {
     "id": "ned-natterjack-s-node-4302212007",
     "name": "Ned Natterjack’s",
     "lat": 52.2554024,
     "lon": -10.0248861
-  },
-  {
-    "id": "ned-o-shea-s-node-12165523255",
-    "name": "Ned O'Shea's",
-    "lat": 53.3448912,
-    "lon": -6.2759004
   },
   {
     "id": "nedeen-s-bar-node-5029088771",
@@ -13930,12 +12516,6 @@
     "lon": -7.9292333
   },
   {
-    "id": "no-27-bar-lounge-node-12170327422",
-    "name": "No. 27 Bar & Lounge",
-    "lat": 53.3390172,
-    "lon": -6.2562314
-  },
-  {
     "id": "noel-phair-node-3061471203",
     "name": "Noel Phair",
     "lat": 51.6469295,
@@ -14011,12 +12591,6 @@
     "name": "Nuala's Bar & Restaurant",
     "lat": 52.8987224,
     "lon": -8.5404222
-  },
-  {
-    "id": "nubar-node-1496775243",
-    "name": "Nubar",
-    "lat": 53.3850696,
-    "lon": -6.2589215
   },
   {
     "id": "nudes-craft-cocktails-node-3149951829",
@@ -14198,6 +12772,12 @@
     "lon": -8.4768644
   },
   {
+    "id": "o-connell-s-node-9891854091",
+    "name": "O'Connell's",
+    "lat": 52.818661,
+    "lon": -7.4751141
+  },
+  {
     "id": "o-connell-s-node-766489253",
     "name": "O'Connell's",
     "lat": 53.5857091,
@@ -14214,12 +12794,6 @@
     "name": "O’Connell’s",
     "lat": 53.1316945,
     "lon": -6.7417104
-  },
-  {
-    "id": "o-connell-s-node-880923510",
-    "name": "O’Connell’s",
-    "lat": 53.388225,
-    "lon": -6.0639896
   },
   {
     "id": "o-connell-s-bar-node-11860364862",
@@ -14380,14 +12954,6 @@
       "confidence": "confirmed",
       "source": "https://www.odonoghues.ie/"
     },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "source": "https://www.odonoghues.ie/"
-    },
     "websiteUrl": "https://www.odonoghues.ie",
     "websiteSource": "https://www.odonoghues.ie/",
     "instagramUrl": "https://instagram.com/odonoghuespub",
@@ -14397,18 +12963,7 @@
     "id": "o-donoghues-bar-node-1881449476",
     "name": "O'Donoghues Bar",
     "lat": 53.2083997,
-    "lon": -8.8676404,
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "sportsFocus": [
-        "rugby"
-      ],
-      "source": "https://www.odonoghues.ie/bar/rugby"
-    }
+    "lon": -8.8676404
   },
   {
     "id": "o-donovan-s-bar-node-6377683070",
@@ -14421,12 +12976,6 @@
     "name": "O'Donovans",
     "lat": 51.5724329,
     "lon": -8.9616933
-  },
-  {
-    "id": "o-donovans-pub-node-3451159167",
-    "name": "O'Donovans Pub",
-    "lat": 51.6476641,
-    "lon": -9.1546586
   },
   {
     "id": "o-driscoll-trave-node-11564421202",
@@ -14673,12 +13222,6 @@
     "lon": -7.1538754
   },
   {
-    "id": "o-neill-s-node-2859655009",
-    "name": "O’Neill’s",
-    "lat": 53.3438336,
-    "lon": -6.260743
-  },
-  {
     "id": "o-neills-node-836043024",
     "name": "O'Neills",
     "lat": 51.920921,
@@ -14707,18 +13250,6 @@
     "name": "O'Reilleys",
     "lat": 53.8205854,
     "lon": -7.768687
-  },
-  {
-    "id": "o-reilly-s-node-306276661",
-    "name": "O'Reilly's",
-    "lat": 53.3470972,
-    "lon": -6.254074
-  },
-  {
-    "id": "o-reilly-s-node-312574927",
-    "name": "O’Reilly’s",
-    "lat": 53.3328247,
-    "lon": -6.2152427
   },
   {
     "id": "o-reilly-s-bar-and-kitchen-node-11203291443",
@@ -14802,12 +13333,6 @@
     "name": "O’Shea’s",
     "lat": 52.2685396,
     "lon": -10.1616553
-  },
-  {
-    "id": "o-shea-s-node-1712118211",
-    "name": "O’Shea’s",
-    "lat": 53.3508625,
-    "lon": -6.2542696
   },
   {
     "id": "o-shea-s-corner-node-11056352021",
@@ -14900,28 +13425,10 @@
     "lon": -7.0530996
   },
   {
-    "id": "oarsman-node-312565824",
-    "name": "Oarsman",
-    "lat": 53.3416674,
-    "lon": -6.2277525
-  },
-  {
     "id": "off-the-bone-node-5747306354",
     "name": "Off The Bone",
     "lat": 52.6281449,
     "lon": -8.6634505
-  },
-  {
-    "id": "ohana-tiki-bar-node-7138761089",
-    "name": "Ohana Tiki Bar",
-    "lat": 53.3362565,
-    "lon": -6.2634875
-  },
-  {
-    "id": "oil-can-harry-s-node-592066036",
-    "name": "Oil Can Harry's",
-    "lat": 53.3383463,
-    "lon": -6.2432199
   },
   {
     "id": "old-arch-bar-node-1604317070",
@@ -15023,23 +13530,10 @@
     "lon": -5.7996008
   },
   {
-    "id": "olive-green-node-4806183922",
-    "name": "Olive Green",
-    "lat": 53.3362743,
-    "lon": -6.2485692
-  },
-  {
     "id": "gogartys-curated",
     "name": "Oliver St. John Gogarty",
     "lat": 53.34587,
-    "lon": -6.26463,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.ie/Restaurant_Review-g186605-d4236147-Reviews-Oliver_Saint_John_Gogarty-Dublin_County_Dublin.html"
-    },
-    "websiteUrl": "https://www.gogartys.ie",
-    "websiteSource": "https://www.gogartys.ie/bar"
+    "lon": -6.26463
   },
   {
     "id": "ollie-hayes-pub-node-356483094",
@@ -15052,12 +13546,6 @@
     "name": "Ollie's Bar",
     "lat": 52.2460878,
     "lon": -8.4263726
-  },
-  {
-    "id": "ollie-s-lounge-bar-node-504990897",
-    "name": "Ollie's Lounge & Bar",
-    "lat": 53.2767305,
-    "lon": -6.2240158
   },
   {
     "id": "ollies-node-2624736051",
@@ -15081,18 +13569,6 @@
     "name": "One New Row",
     "lat": 53.2157081,
     "lon": -6.6651957
-  },
-  {
-    "id": "open-gate-brewery-node-5044959521",
-    "name": "Open Gate Brewery",
-    "lat": 53.3432314,
-    "lon": -6.2869606
-  },
-  {
-    "id": "open-gate-taproom-node-9334710259",
-    "name": "Open Gate Taproom",
-    "lat": 53.3432175,
-    "lon": -6.2870532
   },
   {
     "id": "orchard-bar-node-1681837195",
@@ -15129,18 +13605,6 @@
     "name": "Oscar Madison’s",
     "lat": 51.7053609,
     "lon": -8.5232735
-  },
-  {
-    "id": "oscars-node-2365544967",
-    "name": "Oscars",
-    "lat": 53.348862,
-    "lon": -6.2785235
-  },
-  {
-    "id": "oscars-christchurch-node-3315487523",
-    "name": "Oscars Christchurch",
-    "lat": 53.3441347,
-    "lon": -6.2697764
   },
   {
     "id": "oskars-node-375833516",
@@ -15213,12 +13677,6 @@
     "name": "P. Clarke’s",
     "lat": 53.6512604,
     "lon": -6.6823258
-  },
-  {
-    "id": "p-duggan-s-node-6969068085",
-    "name": "P. Duggan’s",
-    "lat": 53.3481815,
-    "lon": -6.2932243
   },
   {
     "id": "p-dunne-node-1181448202",
@@ -15343,12 +13801,6 @@
     "lon": -9.9634141
   },
   {
-    "id": "paddy-cullen-node-312576639",
-    "name": "Paddy Cullen",
-    "lat": 53.3290182,
-    "lon": -6.230281
-  },
-  {
     "id": "paddy-flynn-s-pub-node-10598708269",
     "name": "Paddy Flynn's Pub",
     "lat": 53.2243556,
@@ -15445,12 +13897,6 @@
     "lon": -8.9501587
   },
   {
-    "id": "padraig-pearse-node-303968050",
-    "name": "Padraig Pearse",
-    "lat": 53.3433493,
-    "lon": -6.2447418
-  },
-  {
     "id": "padraigs-node-403413346",
     "name": "Padraigs",
     "lat": 53.2701664,
@@ -15533,12 +13979,6 @@
     "name": "Pat Fox's",
     "lat": 52.5159286,
     "lon": -7.8898821
-  },
-  {
-    "id": "pat-hanway-node-4223248090",
-    "name": "Pat Hanway",
-    "lat": 53.356763,
-    "lon": -6.263144
   },
   {
     "id": "pat-jordans-bar-node-5049735060",
@@ -15641,19 +14081,7 @@
     "county": "Dublin",
     "addressText": "Trinity College Dublin, College Green, Dublin, Co. Dublin, D02 E8C0",
     "googleFormattedAddress": "College Green, South-East Inner City, Dublin",
-    "sourceName": "The Pavilion",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://www.pavilionbar.ie/info"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.pavilionbar.ie/food"
-    },
-    "websiteUrl": "https://www.pavilionbar.ie",
-    "websiteSource": "https://www.pavilionbar.ie"
+    "sourceName": "The Pavilion"
   },
   {
     "id": "pavilion-bar-chijiypmroaiyugrf2tfhe7l",
@@ -15693,11 +14121,6 @@
     "name": "Peadar Browns",
     "lat": 53.3362336,
     "lon": -6.2734533,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Peadar-Browns-Dublin"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
@@ -15712,19 +14135,6 @@
     "websiteSource": "https://peadarbrowns.com/"
   },
   {
-    "id": "peadar-kearney-s-node-2386542318",
-    "name": "Peadar Kearney's",
-    "lat": 53.3442729,
-    "lon": -6.265415,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Peadar-Kearneys-Dublin"
-    },
-    "websiteUrl": "https://www.peadarkearneys.ie",
-    "websiteSource": "https://www.peadarkearneys.ie/"
-  },
-  {
     "id": "peadar-o-donnell-s-node-5270429921",
     "name": "Peadar O’Donnell's",
     "lat": 54.9974872,
@@ -15733,12 +14143,6 @@
     "county": "County Londonderry",
     "addressText": "59-63 William Street, Derry, BT48 6HD, United Kingdom",
     "sourceName": "Peadar O'Donnell's"
-  },
-  {
-    "id": "pebble-beach-node-1521601306",
-    "name": "Pebble Beach",
-    "lat": 53.3594872,
-    "lon": -6.1896797
   },
   {
     "id": "pedigree-corner-node-822494998",
@@ -15763,7 +14167,7 @@
       "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://peggykellys.ie/"
     },
@@ -15794,23 +14198,6 @@
     "name": "Pencarnan Bar",
     "lat": 51.8839345,
     "lon": -5.3050326
-  },
-  {
-    "id": "pennylane-dublin-manual",
-    "name": "Pennylane",
-    "lat": 53.34643,
-    "lon": -6.2674372,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "2 Strand Street Great, Dublin 1, D01 P9K1",
-    "sourceName": "Pennylane",
-    "lgbtqFriendly": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.pennylane.site/"
-    },
-    "websiteUrl": "https://www.pennylane.site",
-    "websiteSource": "https://www.pennylane.site/"
   },
   {
     "id": "pepper-s-bar-node-285830833",
@@ -15865,12 +14252,6 @@
     "name": "Phelan's Market House",
     "lat": 52.9551501,
     "lon": -7.7993555
-  },
-  {
-    "id": "phibsborough-house-node-698087515",
-    "name": "Phibsborough House",
-    "lat": 53.3588257,
-    "lon": -6.2734242
   },
   {
     "id": "phil-carroll-s-node-10827470388",
@@ -15937,12 +14318,6 @@
     "sourceName": "Pier Head Inn"
   },
   {
-    "id": "pillar-bar-node-1348371058",
-    "name": "Pillar Bar",
-    "lat": 53.3465755,
-    "lon": -6.2587894
-  },
-  {
     "id": "pilot-bar-node-1766049829",
     "name": "Pilot Bar",
     "lat": 54.2130315,
@@ -15969,9 +14344,7 @@
     "county": "Dublin",
     "addressText": "105-106 Marlborough Street, Dublin, Co. Dublin, D01 FD28",
     "googleFormattedAddress": "105-106 Marlborough St, North City, Dublin, D01 FD28",
-    "sourceName": "Piper’s Corner",
-    "websiteUrl": "https://piperscorner.ie",
-    "websiteSource": "https://piperscorner.ie/"
+    "sourceName": "Piper’s Corner"
   },
   {
     "id": "pitstop-sports-bar-node-408980014",
@@ -15998,12 +14371,6 @@
     "lon": -8.1869792
   },
   {
-    "id": "point-a-hotel-bar-node-12601007283",
-    "name": "Point A Hotel Bar",
-    "lat": 53.3517334,
-    "lon": -6.2627375
-  },
-  {
     "id": "point-bar-node-5590472780",
     "name": "Point Bar",
     "lat": 53.2860321,
@@ -16014,12 +14381,6 @@
     "name": "Polly's",
     "lat": 52.7914262,
     "lon": -7.8395028
-  },
-  {
-    "id": "porters-node-1361340484",
-    "name": "Porters",
-    "lat": 53.3354316,
-    "lon": -6.2649572
   },
   {
     "id": "portley-s-bar-chijbvh2sglcw0grxabbxmaf",
@@ -16085,12 +14446,6 @@
     "lon": -9.3188497
   },
   {
-    "id": "powerhouse-bar-and-cocktail-village-node-9984256982",
-    "name": "Powerhouse Bar and Cocktail Village",
-    "lat": 53.3438898,
-    "lon": -6.2857093
-  },
-  {
     "id": "powers-node-2377899929",
     "name": "Powers",
     "lat": 52.8143826,
@@ -16119,12 +14474,6 @@
     "name": "Preacher’s Pub",
     "lat": 52.8436338,
     "lon": -8.9814788
-  },
-  {
-    "id": "premier-bar-node-4021198488",
-    "name": "Premier Bar",
-    "lat": 53.3819717,
-    "lon": -6.2917626
   },
   {
     "id": "prendergast-node-7221163256",
@@ -16181,7 +14530,7 @@
       "source": "https://pye.ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://pye.ie/menus/"
     },
@@ -16199,24 +14548,10 @@
     "instagramSource": "https://pye.ie/"
   },
   {
-    "id": "pygmalion-node-907142997",
-    "name": "Pygmalion",
-    "lat": 53.342172,
-    "lon": -6.2623045,
-    "websiteUrl": "https://pyg.ie",
-    "websiteSource": "https://pyg.ie/"
-  },
-  {
     "id": "q-bar-node-2037121427",
     "name": "Q Bar",
     "lat": 53.2778148,
     "lon": -8.9273609
-  },
-  {
-    "id": "quarry-house-node-1484713985",
-    "name": "Quarry House",
-    "lat": 53.382084,
-    "lon": -6.2767253
   },
   {
     "id": "queen-s-cafe-bar-node-12194398192",
@@ -16266,12 +14601,6 @@
     "lon": -8.1626288
   },
   {
-    "id": "quinn-s-node-13103448936",
-    "name": "Quinn's",
-    "lat": 53.3635433,
-    "lon": -6.258056
-  },
-  {
     "id": "quinn-s-node-7702319870",
     "name": "Quinn's",
     "lat": 53.8193878,
@@ -16294,18 +14623,6 @@
     "name": "R. Martin",
     "lat": 52.604244,
     "lon": -8.2493243
-  },
-  {
-    "id": "r-mcsorley-s-node-543384713",
-    "name": "R. McSorley’s",
-    "lat": 53.3233007,
-    "lon": -6.2500808
-  },
-  {
-    "id": "r-i-o-t-node-5367355656",
-    "name": "r.i.o.t.",
-    "lat": 53.3462583,
-    "lon": -6.2615322
   },
   {
     "id": "racecourse-inn-chijf2qfvtcfz0griuth5yhm",
@@ -16363,12 +14680,6 @@
     "name": "Raglan Road",
     "lat": 52.1613112,
     "lon": -7.1518923
-  },
-  {
-    "id": "raheny-united-clubhouse-bar-node-9352848206",
-    "name": "Raheny United Clubhouse Bar",
-    "lat": 53.378369,
-    "lon": -6.1791168
   },
   {
     "id": "railway-arms-node-761293898",
@@ -16433,22 +14744,7 @@
     "id": "rascals-hq-node-9322108900",
     "name": "Rascals HQ",
     "lat": 53.3359672,
-    "lon": -6.3240536,
-    "sourceName": "Rascals Brewing Company",
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "confirmed",
-      "source": "https://rascalsbrewing.com/"
-    },
-    "foodTags": {
-      "tags": [
-        "pizza"
-      ],
-      "confidence": "confirmed",
-      "source": "https://rascalsbrewing.com/menus/"
-    },
-    "websiteUrl": "https://rascalsbrewing.com",
-    "websiteSource": "https://rascalsbrewing.com/"
+    "lon": -6.3240536
   },
   {
     "id": "rasher-s-node-1440574679",
@@ -16641,12 +14937,6 @@
     "lon": -7.1221302
   },
   {
-    "id": "river-bar-node-677596888",
-    "name": "River Bar",
-    "lat": 53.3469048,
-    "lon": -6.2584016
-  },
-  {
     "id": "riverside-bar-node-2727221364",
     "name": "Riverside Bar",
     "lat": 54.2951019,
@@ -16663,12 +14953,6 @@
     "name": "Rob Roy Bar",
     "lat": 51.8505001,
     "lon": -8.2947723
-  },
-  {
-    "id": "robert-reade-bar-and-cafe-node-4770224022",
-    "name": "Robert Reade Bar and Cafe",
-    "lat": 53.3513605,
-    "lon": -6.2513919
   },
   {
     "id": "robinson-s-node-8245263310",
@@ -16723,12 +15007,6 @@
     "name": "Roddy Mc Corley",
     "lat": 54.5774798,
     "lon": -6.0131649
-  },
-  {
-    "id": "rody-boland-s-node-3040092718",
-    "name": "Rody Boland’s",
-    "lat": 53.3211247,
-    "lon": -6.2654634
   },
   {
     "id": "roger-s-son-node-488567279",
@@ -16957,27 +15235,7 @@
     "county": "Dublin",
     "addressText": "112-115 Haddington Road, Dublin, Co. Dublin, D04 H328",
     "googleFormattedAddress": "115 Haddington Rd, Beggar's Bush, Dublin, D04 H328",
-    "sourceName": "Ryan’s Beggar’s Bush",
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed",
-      "source": "https://beggarsbush.com/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://beggarsbush.com/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "source": "https://beggarsbush.com/match-day-gallery/"
-    },
-    "websiteUrl": "https://beggarsbush.com",
-    "websiteSource": "https://beggarsbush.com/"
+    "sourceName": "Ryan’s Beggar’s Bush"
   },
   {
     "id": "ryan-s-bridge-bar-node-8769360132",
@@ -17133,20 +15391,7 @@
     "county": "Dublin",
     "addressText": "Sandyford Road, Sandyford, Co. Dublin, D18 CY97",
     "googleFormattedAddress": "Sandyford Village, Woodside, Dublin",
-    "sourceName": "Sandyford House",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://www.sandyfordhouse.ie/"
-    },
-    "websiteUrl": "https://www.sandyfordhouse.ie",
-    "websiteSource": "https://www.sandyfordhouse.ie/"
-  },
-  {
-    "id": "sandymount-house-node-312574900",
-    "name": "Sandymount House",
-    "lat": 53.3323885,
-    "lon": -6.2152784
+    "sourceName": "Sandyford House"
   },
   {
     "id": "sarsfield-s-node-290784446",
@@ -17247,12 +15492,6 @@
     "name": "Screene's on the Square",
     "lat": 53.2755545,
     "lon": -9.0489516
-  },
-  {
-    "id": "seabank-house-node-2065167226",
-    "name": "Seabank House",
-    "lat": 53.3548879,
-    "lon": -6.2291889
   },
   {
     "id": "sean-collins-sons-bar-node-6052834492",
@@ -17370,19 +15609,7 @@
     "county": "Dublin",
     "addressText": "42-44 Baggot Street Upper, Dublin, Co. Dublin, D04 V210",
     "googleFormattedAddress": "42-44 Baggot Street Upper, Dublin 4, D04 V210",
-    "sourceName": "Searsons",
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed",
-      "source": "https://searsonsbar.ie/wp-content/uploads/2026/02/Chawke-Group-Brochure-2026.pdf"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://searsonsbar.ie/"
-    },
-    "websiteUrl": "https://searsonsbar.ie",
-    "websiteSource": "https://searsonsbar.ie/"
+    "sourceName": "Searsons"
   },
   {
     "id": "seatons-of-sailortown-chijiygbiaajyugrzla1syjg",
@@ -17412,12 +15639,6 @@
     "name": "Seery's Pub",
     "lat": 53.2984951,
     "lon": -7.2917637
-  },
-  {
-    "id": "senior-common-room-node-3163587327",
-    "name": "Senior Common Room",
-    "lat": 53.3448626,
-    "lon": -6.2575823
   },
   {
     "id": "setright-s-tavern-node-287452327",
@@ -17518,19 +15739,7 @@
     "county": "Dublin",
     "addressText": "17 Chatham Street, Dublin, Co. Dublin, D02 X923",
     "googleFormattedAddress": "17 Chatham St, Dublin 2, D02 X923",
-    "sourceName": "Sheehan’s",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://menuweb.menu/restaurants/dublin-10/sheehans; corroborated by https://restaurantguru.com/Sheehans-Dublin-2"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://sheehanspub.ie/"
-    },
-    "websiteUrl": "https://sheehanspub.ie",
-    "websiteSource": "https://sheehanspub.ie/"
+    "sourceName": "Sheehan’s"
   },
   {
     "id": "shennanigan-s-node-652990798",
@@ -17583,9 +15792,7 @@
     "county": "Dublin",
     "addressText": "Balcarrick, Donabate, Co. Dublin, K36 V064",
     "googleFormattedAddress": "Balcarrick, Donabate, Co. Dublin, K36 V064",
-    "sourceName": "The Waterside House Hotel",
-    "websiteUrl": "https://www.shorelinehotel.ie",
-    "websiteSource": "https://www.shorelinehotel.ie/"
+    "sourceName": "The Waterside House Hotel"
   },
   {
     "id": "shortall-s-node-9936195567",
@@ -17659,18 +15866,6 @@
     "lon": -8.4710895
   },
   {
-    "id": "sin-e-node-305312829",
-    "name": "Sin É",
-    "lat": 53.345976,
-    "lon": -6.2695992
-  },
-  {
-    "id": "sinnott-s-node-768231204",
-    "name": "Sinnott’s",
-    "lat": 53.3400902,
-    "lon": -6.2617022
-  },
-  {
     "id": "sinnott-s-bar-node-6279265691",
     "name": "Sinnott's Bar",
     "lat": 52.3296882,
@@ -17680,22 +15875,7 @@
     "id": "sinnotts-on-the-strand-node-1888427898",
     "name": "Sinnotts on the Strand",
     "lat": 52.2728744,
-    "lon": -6.3866173,
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "rugby",
-        "football"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://www.sinnotts.ie/best-irish-pub-dublin/",
-      "screenLocations": [
-        "indoor"
-      ]
-    },
-    "websiteUrl": "https://www.sinnotts.ie",
-    "websiteSource": "https://www.sinnotts.ie/"
+    "lon": -6.3866173
   },
   {
     "id": "sir-rowlands-bar-node-11541762674",
@@ -17824,12 +16004,6 @@
     "name": "Smyth's",
     "lat": 53.514294,
     "lon": -7.142454
-  },
-  {
-    "id": "smyth-s-node-12543374558",
-    "name": "Smyth’s",
-    "lat": 53.324124,
-    "lon": -6.252349
   },
   {
     "id": "smyths-bridge-house-search-donabate",
@@ -18031,12 +16205,6 @@
     "lon": -7.0695364
   },
   {
-    "id": "stella-cocktail-club-node-5245064896",
-    "name": "Stella Cocktail Club",
-    "lat": 53.322389,
-    "lon": -6.2658412
-  },
-  {
     "id": "steppes-bar-node-7096274196",
     "name": "Steppes Bar",
     "lat": 52.5428189,
@@ -18092,37 +16260,7 @@
     "county": "Dublin",
     "addressText": "33-34 Parliament Street, Dublin, Co. Dublin, D02 YP97",
     "googleFormattedAddress": "33-34 Parliament St, Temple Bar, Dublin 2",
-    "sourceName": "Street 66",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.newstalk.com/news/bike-rack-at-street-66-bar-in-dublin-a-health-and-safety-issue-1474476"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "https://street66bar.ie/"
-    },
-    "lgbtqFriendly": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://street66bar.ie/"
-    },
-    "dj": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://street66bar.ie/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "board-games"
-      ],
-      "source": "https://street66bar.ie/"
-    },
-    "websiteUrl": "https://street66bar.ie",
-    "websiteSource": "https://street66bar.ie/"
+    "sourceName": "Street 66"
   },
   {
     "id": "sullivan-s-taproom-chij15j4xxu6xugrf6rfkd6p",
@@ -18201,12 +16339,6 @@
     "lon": -5.9328398
   },
   {
-    "id": "swift-node-1373919801",
-    "name": "Swift",
-    "lat": 53.3433017,
-    "lon": -6.2810822
-  },
-  {
     "id": "sycamore-house-node-1439309322",
     "name": "Sycamore House",
     "lat": 52.3890916,
@@ -18237,9 +16369,7 @@
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
-    },
-    "instagramUrl": "https://instagram.com/humphreysranelagh",
-    "instagramSource": "https://ie.geoview.info/t_humphreys%2C12543374557n"
+    }
   },
   {
     "id": "t-j-clarke-node-7925517285",
@@ -18335,12 +16465,6 @@
     "name": "Tábhairne An Bhainc",
     "lat": 54.0523143,
     "lon": -7.8021993
-  },
-  {
-    "id": "tailor-s-hall-tavern-node-11621600199",
-    "name": "Tailor's Hall Tavern",
-    "lat": 53.3429288,
-    "lon": -6.2732298
   },
   {
     "id": "talbot-s-seafood-bar-node-9432277662",
@@ -18478,19 +16602,6 @@
     "lon": -7.3462534
   },
   {
-    "id": "tenters-node-10004624748",
-    "name": "Tenters",
-    "lat": 53.3371366,
-    "lon": -6.2753116,
-    "foodOffer": {
-      "category": "gastropub",
-      "confidence": "confirmed",
-      "source": "https://www.tenterspub.ie/"
-    },
-    "websiteUrl": "https://www.tenterspub.ie",
-    "websiteSource": "https://www.tenterspub.ie/"
-  },
-  {
     "id": "tess-burkes-node-916214635",
     "name": "Tess Burkes",
     "lat": 52.995231,
@@ -18517,32 +16628,7 @@
     "county": "Dublin",
     "addressText": "51 Haddington Road, Dublin, Co. Dublin, D04 FD83",
     "googleFormattedAddress": "Rere Of, 51 Haddington Rd, Dublin 4, D04 FD83",
-    "sourceName": "The 51",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://www.the51bar.ie/about/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.the51bar.ie/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "screenLocations": [
-        "indoor",
-        "outdoor"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://www.the51bar.ie/"
-    },
-    "websiteUrl": "https://www.the51bar.ie",
-    "websiteSource": "https://www.the51bar.ie/"
+    "sourceName": "The 51"
   },
   {
     "id": "the-79-inn-chijivtkjeumz0grvj-ehrad",
@@ -18585,12 +16671,6 @@
     "name": "The Abbey Bar",
     "lat": 52.0888647,
     "lon": -8.2341763
-  },
-  {
-    "id": "the-abbey-bar-node-11026623981",
-    "name": "The Abbey Bar",
-    "lat": 53.3484357,
-    "lon": -6.25733
   },
   {
     "id": "the-abbey-bar-node-2585283958",
@@ -18813,19 +16893,7 @@
     "county": "Dublin",
     "addressText": "24-25 Temple Bar, Dublin, Co. Dublin, D02 DX09",
     "googleFormattedAddress": "24 - 25, Temple Bar, Dublin",
-    "sourceName": "The Auld Dubliner",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://aulddubliner.ie/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://aulddubliner.ie/"
-    },
-    "websiteUrl": "https://aulddubliner.ie",
-    "websiteSource": "https://aulddubliner.ie/"
+    "sourceName": "The Auld Dubliner"
   },
   {
     "id": "the-auld-sod-node-9995596121",
@@ -18873,11 +16941,6 @@
     "addressText": "199 Phibsborough Road, Phibsborough, Dublin, Co. Dublin, D07 A0X2",
     "googleFormattedAddress": "199 Phibsborough Rd, Phibsborough, Dublin 7, D07 A0X2",
     "sourceName": "The Back Page",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://www.onthebackpage.com/book-a-party"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
@@ -18900,29 +16963,6 @@
       "confidence": "confirmed",
       "source": "https://www.onthebackpage.com/whats-on/"
     },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa",
-        "f1"
-      ],
-      "source": "https://www.onthebackpage.com/sports"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "quiz",
-        "board-games",
-        "darts",
-        "ping-pong",
-        "bingo"
-      ],
-      "source": "https://www.onthebackpage.com/games/"
-    },
     "websiteUrl": "https://www.onthebackpage.com",
     "websiteSource": "https://www.onthebackpage.com/",
     "instagramUrl": "https://instagram.com/the_back_page",
@@ -18943,37 +16983,7 @@
     "county": "Dublin",
     "addressText": "Malahide Road, Balgriffin, Dublin, Co. Dublin, D17 V128",
     "googleFormattedAddress": "Malahide Rd, Belcamp, DUBLIN 17, D17 V128",
-    "sourceName": "The Balgriffin Inn",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.pubsaroundme.com/merchants/the-balgriffin-inn-malahide-rd"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://thebalgriffin.ie/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "f1"
-      ],
-      "source": "https://thebalgriffin.ie/sports/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "bingo"
-      ],
-      "source": "https://thebalgriffin.ie/bingo/"
-    },
-    "websiteUrl": "https://thebalgriffin.ie",
-    "websiteSource": "https://thebalgriffin.ie/"
+    "sourceName": "The Balgriffin Inn"
   },
   {
     "id": "the-ballymac-inn-node-12563373395",
@@ -19022,19 +17032,7 @@
     "county": "Dublin",
     "addressText": "16 Trinity Street, Dublin, Co. Dublin, D02 FD26",
     "googleFormattedAddress": "Ard Finnan House, Trinity St, Dublin 2, D02 A440",
-    "sourceName": "The Bankers",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.ie/Restaurant_Review-g186605-d2336841-Reviews-The_Bankers_Bar-Dublin_County_Dublin.html"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.thebankersbar.ie/menu"
-    },
-    "websiteUrl": "https://www.thebankersbar.ie",
-    "websiteSource": "https://www.thebankersbar.ie/"
+    "sourceName": "The Bankers"
   },
   {
     "id": "the-bar-node-9265529546",
@@ -19049,12 +17047,6 @@
     "lon": -6.2184915
   },
   {
-    "id": "the-bar-with-no-name-node-5678239622",
-    "name": "The Bar With No Name",
-    "lat": 53.3419024,
-    "lon": -6.264235
-  },
-  {
     "id": "the-barbers-bar-chijuaqvtiwmz0grixwtz9v4",
     "name": "The Barbers Bar",
     "lat": 53.352129999999995,
@@ -19064,43 +17056,26 @@
     "addressText": "19 Grangegorman Lower, Dublin, Co. Dublin, D07 H583",
     "googleFormattedAddress": "19 Grangegorman Lower, Grangegorman, Dublin, D07 H583",
     "sourceName": "Barbers Bar",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.pubsaroundme.com/merchants/the-barbers-bar-19-grangegorman-lower"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed",
-      "source": "https://thebarbers.ie/"
+      "source": "https://thebarbers.ie/contact/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebarbers.ie/menu/"
     },
     "websiteUrl": "https://thebarbers.ie",
-    "websiteSource": "https://thebarbers.ie/",
+    "websiteSource": "https://thebarbers.ie/contact/",
     "instagramUrl": "https://instagram.com/barbersbardublin",
     "instagramSource": "https://thebarbers.ie/contact/"
-  },
-  {
-    "id": "the-barge-node-133193958",
-    "name": "The Barge",
-    "lat": 53.3305512,
-    "lon": -6.2605878
   },
   {
     "id": "the-barge-inn-node-708742986",
     "name": "The Barge Inn",
     "lat": 53.2704266,
     "lon": -6.8167057
-  },
-  {
-    "id": "the-barn-house-node-882292497",
-    "name": "The Barn House",
-    "lat": 53.3322249,
-    "lon": -6.2927681
   },
   {
     "id": "the-barracks-node-9860329518",
@@ -19164,7 +17139,7 @@
       "source": "https://www.visitdublin.com/guides/dog-friendly-restaurants-dublin"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebathpub.ie/menus/"
     },
@@ -19175,15 +17150,6 @@
       ],
       "confidence": "confirmed",
       "source": "https://thebathpub.ie/menus/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby"
-      ],
-      "source": "https://thebathpub.ie/"
     },
     "websiteUrl": "https://thebathpub.ie",
     "websiteSource": "https://thebathpub.ie/",
@@ -19268,12 +17234,6 @@
     "lon": -8.4734415
   },
   {
-    "id": "the-berkeley-node-2131267852",
-    "name": "The Berkeley",
-    "lat": 53.3561569,
-    "lon": -6.2678426
-  },
-  {
     "id": "bernard-shaw-curated",
     "name": "The Bernard Shaw",
     "lat": 53.3647,
@@ -19289,16 +17249,9 @@
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thebernardshaw.com/menu/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger"
-      ],
-      "confidence": "confirmed",
-      "source": "https://thebernardshaw.com/eatyard/"
     },
     "liveMusic": {
       "status": "yes",
@@ -19309,17 +17262,6 @@
       "status": "yes",
       "confidence": "confirmed",
       "source": "https://thebernardshaw.com/music/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "board-games",
-        "ping-pong",
-        "quiz",
-        "bingo"
-      ],
-      "source": "https://thebernardshaw.com/games/"
     },
     "websiteUrl": "https://thebernardshaw.com",
     "websiteSource": "https://thebernardshaw.com/",
@@ -19335,27 +17277,13 @@
     "county": "Dublin",
     "addressText": "16 Main Street, Swords, Co. Dublin, K67 RF70",
     "googleFormattedAddress": "Swords Garda Station, 16 Main Street, Swords, Co. Dublin, K67 RF70",
-    "sourceName": "The Betsy Swords",
-    "websiteUrl": "https://www.thebetsyswords.com",
-    "websiteSource": "https://www.thebetsyswords.com/"
+    "sourceName": "The Betsy Swords"
   },
   {
     "id": "the-big-apple-node-11499672837",
     "name": "The Big Apple",
     "lat": 53.4704197,
     "lon": -8.2660024
-  },
-  {
-    "id": "the-big-romance-node-7017217477",
-    "name": "The Big Romance",
-    "lat": 53.3534835,
-    "lon": -6.2592195
-  },
-  {
-    "id": "the-big-tree-node-9202222409",
-    "name": "The Big Tree",
-    "lat": 53.3598337,
-    "lon": -6.2608887
   },
   {
     "id": "the-big-wheel-node-7814003397",
@@ -19368,12 +17296,6 @@
     "name": "The Birch Grove",
     "lat": 53.3283616,
     "lon": -8.1672599
-  },
-  {
-    "id": "the-bird-flanagan-node-358543587",
-    "name": "The Bird Flanagan",
-    "lat": 53.3365462,
-    "lon": -6.299192
   },
   {
     "id": "the-bishops-node-760758515",
@@ -19432,16 +17354,7 @@
     "id": "the-black-sheep-node-1834113360",
     "name": "The Black Sheep",
     "lat": 55.425043,
-    "lon": -5.6040175,
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://galwaybaybrewery.com/blacksheep/"
-    },
-    "websiteUrl": "https://galwaybaybrewery.com/blacksheep",
-    "websiteSource": "https://galwaybaybrewery.com/blacksheep/",
-    "instagramUrl": "https://instagram.com/theblacksheepdub",
-    "instagramSource": "https://galwaybaybrewery.com/blacksheep/"
+    "lon": -5.6040175
   },
   {
     "id": "the-black-swan-node-5039867638",
@@ -19479,26 +17392,13 @@
     "county": "Dublin",
     "addressText": "1-5 Temple Road, Blackrock, Co. Dublin, A94 Y5F1",
     "googleFormattedAddress": "1-5 Temple Rd, Carysfort Ave, Newtown Blackrock, Blackrock, Co. Dublin, A94 Y5F1",
-    "sourceName": "The Blackrock",
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed",
-      "source": "https://www.theblackrock.ie/"
-    },
-    "websiteUrl": "https://www.theblackrock.ie",
-    "websiteSource": "https://www.theblackrock.ie/"
+    "sourceName": "The Blackrock"
   },
   {
     "id": "the-blackthorn-node-1600661151",
     "name": "The Blackthorn",
     "lat": 53.2945485,
     "lon": -7.2932709
-  },
-  {
-    "id": "the-blarney-inn-node-2681367476",
-    "name": "The Blarney Inn",
-    "lat": 53.3421258,
-    "lon": -6.2548307
   },
   {
     "id": "the-blasket-node-2211760046",
@@ -19516,37 +17416,13 @@
     "id": "bleeding-horse-curated",
     "name": "The Bleeding Horse",
     "lat": 53.33444,
-    "lon": -6.26473,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d696358-Reviews-Bleeding_Horse-Dublin_County_Dublin.html"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa",
-        "f1"
-      ],
-      "source": "https://bleedinghorse.ie/sports/"
-    },
-    "websiteUrl": "https://bleedinghorse.ie",
-    "websiteSource": "https://bleedinghorse.ie/"
+    "lon": -6.26473
   },
   {
     "id": "the-blind-tiger-node-9000720701",
     "name": "The Blind Tiger",
     "lat": 54.2718388,
     "lon": -8.473559
-  },
-  {
-    "id": "the-bloody-stream-node-368883560",
-    "name": "The Bloody Stream",
-    "lat": 53.3889795,
-    "lon": -6.0743615
   },
   {
     "id": "the-blue-bull-node-1830721544",
@@ -19659,12 +17535,6 @@
     "sourceName": "The Botanic Inn"
   },
   {
-    "id": "the-bottle-boy-node-9122380611",
-    "name": "The Bottle Boy",
-    "lat": 53.3471813,
-    "lon": -6.2325515
-  },
-  {
     "id": "the-bottle-of-benburb-node-5183671384",
     "name": "The Bottle Of Benburb",
     "lat": 54.4123041,
@@ -19715,35 +17585,10 @@
     "sourceName": "Brass Monkey"
   },
   {
-    "id": "the-brazen-head-node-10013398691",
-    "name": "The Brazen Head",
-    "lat": 53.3449368,
-    "lon": -6.2763108
-  },
-  {
     "id": "brazen-head-curated",
     "name": "The Brazen Head",
     "lat": 53.34389,
-    "lon": -6.28633,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d1884058-Reviews-The_Brazen_Head-Dublin_County_Dublin.html"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://brazenhead.com/all-day-menu/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://brazenhead.com/music/"
-    },
-    "websiteUrl": "https://brazenhead.com",
-    "websiteSource": "https://brazenhead.com/",
-    "instagramUrl": "https://instagram.com/brazenheaddublin",
-    "instagramSource": "https://brazenhead.com/"
+    "lon": -6.28633
   },
   {
     "id": "the-brazen-monkey-chijvscnq1pjxegrr4hvo6pb",
@@ -19765,21 +17610,7 @@
     "county": "Dublin",
     "addressText": "1 Amiens Street, Dublin, Co. Dublin, D01 FK19",
     "googleFormattedAddress": "1 Amiens St, Mountjoy, Dublin 1",
-    "sourceName": "The Brew Dock",
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://galwaybaybrewery.com/brewdock/"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://galwaybaybrewery.com/brewdock/"
-    },
-    "websiteUrl": "https://galwaybaybrewery.com/brewdock",
-    "websiteSource": "https://galwaybaybrewery.com/brewdock/"
+    "sourceName": "The Brew Dock"
   },
   {
     "id": "the-brewery-node-5940792785",
@@ -19833,12 +17664,6 @@
     "name": "The Bridge",
     "lat": 55.1319911,
     "lon": -6.6768139
-  },
-  {
-    "id": "the-bridge-1859-node-4799036110",
-    "name": "The Bridge 1859",
-    "lat": 53.3292911,
-    "lon": -6.2320003
   },
   {
     "id": "the-bridge-bar-node-1324008898",
@@ -19942,12 +17767,6 @@
     "lon": -8.3988849
   },
   {
-    "id": "the-bull-castle-bar-node-310408293",
-    "name": "The Bull & Castle Bar",
-    "lat": 53.3434574,
-    "lon": -6.2698697
-  },
-  {
     "id": "the-bull-green-node-7659238227",
     "name": "The Bull & Green",
     "lat": 52.2597552,
@@ -20024,28 +17843,6 @@
     "lon": -5.5558191
   },
   {
-    "id": "the-camden-node-739756772",
-    "name": "The Camden",
-    "lat": 53.3360277,
-    "lon": -6.2654765,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/The-Camden-Dublin"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenLocations": [
-        "indoor"
-      ],
-      "coverage": "venue-wide",
-      "source": "https://www.thecamden.ie/our-spaces"
-    },
-    "websiteUrl": "https://www.thecamden.ie",
-    "websiteSource": "https://www.thecamden.ie/"
-  },
-  {
     "id": "the-camelot-node-10696612239",
     "name": "The Camelot",
     "lat": 54.0093141,
@@ -20076,12 +17873,6 @@
     "lon": -6.462604
   },
   {
-    "id": "the-capitol-lounge-node-1146292428",
-    "name": "The Capitol Lounge",
-    "lat": 53.3412928,
-    "lon": -6.2653013
-  },
-  {
     "id": "the-captain-s-table-node-417522424",
     "name": "The Captain's Table",
     "lat": 52.9330581,
@@ -20092,12 +17883,6 @@
     "name": "The Cardan",
     "lat": 54.51339,
     "lon": -6.044658
-  },
-  {
-    "id": "the-carlisle-bar-node-3834934497",
-    "name": "The Carlisle Bar",
-    "lat": 53.2920178,
-    "lon": -6.1303418
   },
   {
     "id": "the-carlyann-node-2705632268",
@@ -20267,38 +18052,6 @@
     "lon": -6.3336926
   },
   {
-    "id": "the-celt-node-467744856",
-    "name": "The Celt",
-    "lat": 53.3505727,
-    "lon": -6.2548867,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/The-Celt-Dublin"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://thecelt.ie/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://thecelt.ie/",
-      "screenLocations": [
-        "indoor"
-      ]
-    },
-    "websiteUrl": "https://thecelt.ie",
-    "websiteSource": "https://thecelt.ie/"
-  },
-  {
     "id": "the-celtic-marine-bar-node-6622953198",
     "name": "The Celtic Marine Bar",
     "lat": 54.4764538,
@@ -20366,9 +18119,7 @@
     "county": "Dublin",
     "addressText": "Well Road, Swords, Co. Dublin, K67 Y935",
     "googleFormattedAddress": "Church Rd, Townparks, Swords, Co. Dublin",
-    "sourceName": "The Chalk Venue",
-    "websiteUrl": "https://thechalkvenue.ie",
-    "websiteSource": "https://thechalkvenue.ie/"
+    "sourceName": "The Chalk Venue"
   },
   {
     "id": "the-chaser-node-12346478399",
@@ -20381,22 +18132,6 @@
     "name": "The Chasin' Bull",
     "lat": 54.4802102,
     "lon": -8.2751711
-  },
-  {
-    "id": "the-circular-node-768231917",
-    "name": "The Circular",
-    "lat": 53.336171,
-    "lon": -6.297985,
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "quiz"
-      ],
-      "source": "https://thecircular.ie/pubquiz/"
-    },
-    "websiteUrl": "https://thecircular.ie",
-    "websiteSource": "https://thecircular.ie/"
   },
   {
     "id": "the-classroom-node-6657501137",
@@ -20464,18 +18199,6 @@
     "name": "The Club",
     "lat": 52.1759312,
     "lon": -7.3351752
-  },
-  {
-    "id": "the-club-node-2457893964",
-    "name": "The Club",
-    "lat": 53.2773116,
-    "lon": -6.1025984
-  },
-  {
-    "id": "the-clubhouse-node-256258286",
-    "name": "The Clubhouse",
-    "lat": 53.3082485,
-    "lon": -6.22707
   },
   {
     "id": "the-clubrooms-bar-node-13324035398",
@@ -20552,14 +18275,7 @@
     "id": "cobblestone-curated",
     "name": "The Cobblestone",
     "lat": 53.34836,
-    "lon": -6.28315,
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.cobblestonepub.ie/"
-    },
-    "websiteUrl": "https://www.cobblestonepub.ie",
-    "websiteSource": "https://www.cobblestonepub.ie/"
+    "lon": -6.28315
   },
   {
     "id": "the-cock-tavern-chija5-g9dwqz0grshfek447",
@@ -20581,15 +18297,7 @@
     "county": "Dublin",
     "addressText": "115/116 Coliemore Road, Dalkey, Co. Dublin, A96 HE22",
     "googleFormattedAddress": "115/116 Coliemore Rd, Dalkey Commons, Dublin, A96 HE22",
-    "sourceName": "The Coliemore",
-    "websiteUrl": "https://www.thecoliemore.ie",
-    "websiteSource": "https://www.thecoliemore.ie/"
-  },
-  {
-    "id": "the-comet-node-1496777115",
-    "name": "The Comet",
-    "lat": 53.388452,
-    "lon": -6.2460311
+    "sourceName": "The Coliemore"
   },
   {
     "id": "the-comet-node-5403857379",
@@ -20610,12 +18318,6 @@
     "lon": -9.9230341
   },
   {
-    "id": "the-concorde-node-1432780731",
-    "name": "The Concorde",
-    "lat": 53.3888986,
-    "lon": -6.1809861
-  },
-  {
     "id": "the-confession-box-chij5rq5zouoz0grmzplgbai",
     "name": "The Confession Box",
     "lat": 53.350339,
@@ -20624,18 +18326,7 @@
     "county": "Dublin",
     "addressText": "88 Marlborough Street, Dublin, Co. Dublin, D01 X267",
     "googleFormattedAddress": "88 Marlborough St, North City, Dublin 1, D01 X267",
-    "sourceName": "The Confession Box",
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://theconfessionbox.ie/"
-    },
-    "websiteUrl": "https://theconfessionbox.ie",
-    "websiteSource": "https://theconfessionbox.ie/about"
+    "sourceName": "The Confession Box"
   },
   {
     "id": "the-congo-node-9504572782",
@@ -20940,12 +18631,6 @@
     "lon": -8.813448
   },
   {
-    "id": "the-croft-node-12051815620",
-    "name": "The Croft",
-    "lat": 53.3774492,
-    "lon": -6.2465241
-  },
-  {
     "id": "the-crooked-glen-node-10064945164",
     "name": "The Crooked Glen",
     "lat": 54.6207162,
@@ -21187,6 +18872,12 @@
     "lon": -5.8412848
   },
   {
+    "id": "the-dirty-onion-node-4381113291",
+    "name": "The Dirty Onion",
+    "lat": 54.6015803,
+    "lon": -5.9264559
+  },
+  {
     "id": "the-dock-node-874552011",
     "name": "The Dock",
     "lat": 51.6966672,
@@ -21295,9 +18986,7 @@
     "county": "Dublin",
     "addressText": "Classon's Bridge, Milltown Road, Milltown, Co. Dublin, D06 YK38",
     "googleFormattedAddress": "Classon’s Bridge, Rathmines, Dublin, D06 YK38",
-    "sourceName": "The Dropping Well",
-    "websiteUrl": "https://droppingwell.com",
-    "websiteSource": "https://droppingwell.com/"
+    "sourceName": "The Dropping Well"
   },
   {
     "id": "the-druid-inn-node-3768186387",
@@ -21350,28 +19039,7 @@
     "id": "the-duke-node-330960216",
     "name": "The Duke",
     "lat": 52.9916177,
-    "lon": -6.9871176,
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.thedukedublin.com/the-duke-drinks-menu/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://www.thedukedublin.com/about-us/our-history/"
-    },
-    "websiteUrl": "https://www.thedukedublin.com",
-    "websiteSource": "https://www.thedukedublin.com/"
+    "lon": -6.9871176
   },
   {
     "id": "the-dunbrody-inn-node-7221163257",
@@ -21403,12 +19071,6 @@
     "lon": -8.2218472
   },
   {
-    "id": "the-dunmore-node-932249376",
-    "name": "The Dunmore",
-    "lat": 53.3242854,
-    "lon": -6.2651445
-  },
-  {
     "id": "the-durrow-inn-chijrftisyeyxugrk32hnlfe",
     "name": "The Durrow Inn",
     "lat": 52.8453679,
@@ -21432,22 +19094,10 @@
     "lon": -8.6550416
   },
   {
-    "id": "the-dyflin-bar-node-1326745948",
-    "name": "The Dyflin Bar",
-    "lat": 53.3408345,
-    "lon": -6.2681589
-  },
-  {
     "id": "the-dylan-node-10044189231",
     "name": "The Dylan",
     "lat": 52.6523506,
     "lon": -7.2495374
-  },
-  {
-    "id": "the-eagle-node-598519953",
-    "name": "The Eagle",
-    "lat": 53.2870206,
-    "lon": -6.1231501
   },
   {
     "id": "the-eagle-bar-node-11506995243",
@@ -21460,12 +19110,6 @@
     "name": "The Eagle's Nest",
     "lat": 52.797819,
     "lon": -8.1904665
-  },
-  {
-    "id": "the-elphin-node-2004412421",
-    "name": "The Elphin",
-    "lat": 53.3893347,
-    "lon": -6.1236878
   },
   {
     "id": "the-empty-glass-node-5008337294",
@@ -21496,12 +19140,6 @@
     "name": "The Europe Hotel",
     "lat": 52.0669421,
     "lon": -9.5733283
-  },
-  {
-    "id": "the-exchequer-node-768231201",
-    "name": "The Exchequer",
-    "lat": 53.3431203,
-    "lon": -6.263866
   },
   {
     "id": "the-fairgreen-node-10967839038",
@@ -21542,14 +19180,7 @@
     "county": "Dublin",
     "addressText": "35-36 Sir John Rogerson's Quay, Dublin, Co. Dublin, D02 E448",
     "googleFormattedAddress": "35 Sir John Rogerson's Quay, Grand Canal Dock, Dublin, D02 E448",
-    "sourceName": "The Ferryman",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://intravel.net/dublin/nightlife/the-ferryman"
-    },
-    "websiteUrl": "https://www.theferrymantownhouse.ie",
-    "websiteSource": "https://www.theferrymantownhouse.ie/"
+    "sourceName": "The Ferryman"
   },
   {
     "id": "the-fertha-node-4378143888",
@@ -21610,12 +19241,6 @@
     "sourceName": "Finches"
   },
   {
-    "id": "the-findlater-node-2372312459",
-    "name": "The Findlater",
-    "lat": 53.3569746,
-    "lon": -6.2645861
-  },
-  {
     "id": "the-fir-tree-bar-node-7524010646",
     "name": "The Fir Tree Bar",
     "lat": 52.0116549,
@@ -21648,14 +19273,7 @@
     "county": "Dublin",
     "addressText": "9 Abbey Street Lower, Dublin, Co. Dublin, D01 H6P1",
     "googleFormattedAddress": "9 Abbey Street Lower, North City, Dublin, D01 H6P1",
-    "sourceName": "The Flowing Tide",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://irishpubs.ie/pub/the-flowing-tide/"
-    },
-    "websiteUrl": "https://www.theflowingtide.ie",
-    "websiteSource": "https://www.theflowingtide.ie/"
+    "sourceName": "The Flowing Tide"
   },
   {
     "id": "the-flying-enterprise-lounge-and-restaurant-node-1176936359",
@@ -21698,12 +19316,6 @@
     "name": "The Forge Inn",
     "lat": 52.2909936,
     "lon": -7.3128654
-  },
-  {
-    "id": "the-forty-foot-node-593844510",
-    "name": "The Forty Foot",
-    "lat": 53.2940117,
-    "lon": -6.1337719
   },
   {
     "id": "the-forty-four-bar-node-3571512403",
@@ -21757,12 +19369,6 @@
     "name": "The Four Winds",
     "lat": 52.3531035,
     "lon": -8.6813077
-  },
-  {
-    "id": "the-fourth-corner-node-5866396179",
-    "name": "The Fourth Corner",
-    "lat": 53.3389208,
-    "lon": -6.2722998
   },
   {
     "id": "the-fowler-node-1664278134",
@@ -21855,12 +19461,6 @@
     "lon": -9.4970418
   },
   {
-    "id": "the-gallops-node-135547952",
-    "name": "The Gallops",
-    "lat": 53.2582331,
-    "lon": -6.1974199
-  },
-  {
     "id": "the-gallows-node-1495808706",
     "name": "The Gallows",
     "lat": 51.8926539,
@@ -21871,12 +19471,6 @@
     "name": "The Galtee Inn",
     "lat": 52.3750019,
     "lon": -7.9245901
-  },
-  {
-    "id": "the-galway-hooker-node-830659393",
-    "name": "The Galway Hooker",
-    "lat": 53.3467462,
-    "lon": -6.2924467
   },
   {
     "id": "the-gandon-inn-node-673478670",
@@ -21918,30 +19512,6 @@
     "name": "The Gate Inn",
     "lat": 54.5416148,
     "lon": -6.3193422
-  },
-  {
-    "id": "the-george-dublin-manual",
-    "name": "The George",
-    "lat": 53.3438133,
-    "lon": -6.2646446,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "89 South Great George's Street, Dublin 2, D02 R220",
-    "sourceName": "The George",
-    "lgbtqFriendly": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://thegeorge.ie/about/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://thegeorge.ie/about/"
-    },
-    "websiteUrl": "https://thegeorge.ie",
-    "websiteSource": "https://thegeorge.ie/",
-    "instagramUrl": "https://instagram.com/thegeorgedublin",
-    "instagramSource": "https://thegeorge.ie/"
   },
   {
     "id": "the-gin-mill-node-12476302193",
@@ -22017,7 +19587,7 @@
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.theglimmerman.com/"
     },
@@ -22064,12 +19634,6 @@
     "lon": -8.8695127
   },
   {
-    "id": "the-goblet-node-1530024649",
-    "name": "The Goblet",
-    "lat": 53.3803132,
-    "lon": -6.2100929
-  },
-  {
     "id": "the-golden-ball-kilternan-chijx1i89pyjz0grgl6e8s8a",
     "name": "The Golden Ball Kilternan",
     "lat": 53.2395401,
@@ -22113,12 +19677,6 @@
     "sourceName": "Goose Tavern"
   },
   {
-    "id": "the-graduate-bar-and-restaurant-node-1263991636",
-    "name": "The Graduate Bar and Restaurant",
-    "lat": 53.2670882,
-    "lon": -6.135798
-  },
-  {
     "id": "the-gra-inne-uaile-node-3014395600",
     "name": "The Gráinne Uaile",
     "lat": 53.8831771,
@@ -22145,36 +19703,7 @@
     "county": "Dublin",
     "addressText": "35 Liffey Street Lower, Dublin, Co. Dublin, D01 C3N0",
     "googleFormattedAddress": "35 Liffey St. Lower, North City, Dublin 1, D01 C3N0",
-    "sourceName": "The Grand Social",
-    "outdoorArea": {
-      "type": "roof-terrace",
-      "confidence": "confirmed",
-      "source": "https://www.thegrandsocial.ie/services-1"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.thegrandsocial.ie/front-bar"
-    },
-    "dj": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.thegrandsocial.ie/about"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "screenLocations": [
-        "outdoor"
-      ],
-      "source": "https://www.thegrandsocial.ie/about",
-      "coverage": "multi-screen"
-    },
-    "websiteUrl": "https://www.thegrandsocial.ie",
-    "websiteSource": "https://www.thegrandsocial.ie/"
+    "sourceName": "The Grand Social"
   },
   {
     "id": "the-grange-pub-chijacy3d4ejz0grb-eqiddj",
@@ -22235,12 +19764,6 @@
     "name": "The Green Heights",
     "lat": 54.2630064,
     "lon": -5.6098662
-  },
-  {
-    "id": "the-green-room-node-2065157408",
-    "name": "The Green Room",
-    "lat": 53.3498005,
-    "lon": -6.2299289
   },
   {
     "id": "the-green-room-bar-node-11199295904",
@@ -22346,14 +19869,7 @@
     "county": "Dublin",
     "addressText": "42 Wellington Quay, Dublin, Co. Dublin, D02 Y103",
     "googleFormattedAddress": "42 Wellington Quay, Temple Bar, Dublin 2, D02 Y103",
-    "sourceName": "Ha'penny Bridge Inn",
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.hapennybridgeinn.com"
-    },
-    "websiteUrl": "https://www.hapennybridgeinn.com",
-    "websiteSource": "https://www.hapennybridgeinn.com/"
+    "sourceName": "Ha'penny Bridge Inn"
   },
   {
     "id": "the-hacienda-bar-chijt-m6yskmz0gr6bmxpzzg",
@@ -22376,27 +19892,7 @@
     "id": "hairy-lemon-curated",
     "name": "The Hairy Lemon",
     "lat": 53.33998,
-    "lon": -6.26076,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://thehairylemon.ie/all-day-menu/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://thehairylemon.ie/all-day-menu/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://thehairylemon.ie/all-day-menu/"
-    },
-    "websiteUrl": "https://thehairylemon.ie",
-    "websiteSource": "https://thehairylemon.ie/"
+    "lon": -6.26076
   },
   {
     "id": "the-half-barrel-bar-node-2051539115",
@@ -22435,23 +19931,6 @@
     "lon": -6.328425
   },
   {
-    "id": "the-halfway-house-way-298356152",
-    "name": "The Halfway House",
-    "lat": 53.37245,
-    "lon": -6.33114,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "399 Navan Road, Ashtown, Dublin 7, D07 XR2H",
-    "sourceName": "The Halfway House",
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://halfwayhousedublin.com/"
-    },
-    "websiteUrl": "https://halfwayhousedublin.com",
-    "websiteSource": "https://halfwayhousedublin.com/"
-  },
-  {
     "id": "the-hamlet-node-486665134",
     "name": "The Hamlet",
     "lat": 52.5396102,
@@ -22467,26 +19946,7 @@
     "id": "the-harbour-bar-node-1607402481",
     "name": "The Harbour Bar",
     "lat": 52.7954738,
-    "lon": -6.1518424,
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.theharbourbar.ie/"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://www.theharbourbar.ie/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.theharbourbar.ie/"
-    },
-    "websiteUrl": "https://www.theharbourbar.ie/",
-    "websiteSource": "https://www.theharbourbar.ie/"
+    "lon": -6.1518424
   },
   {
     "id": "the-harbour-bar-node-5838026003",
@@ -22516,12 +19976,6 @@
     "name": "The Hardford Inn",
     "lat": 54.5950197,
     "lon": -5.7013194
-  },
-  {
-    "id": "the-harold-house-node-943350478",
-    "name": "The Harold House",
-    "lat": 53.3300206,
-    "lon": -6.2752027
   },
   {
     "id": "the-harp-shamrock-node-1424390755",
@@ -22741,12 +20195,6 @@
     "lon": -8.5670616
   },
   {
-    "id": "the-hill-node-1426051344",
-    "name": "The Hill",
-    "lat": 53.3266615,
-    "lon": -6.25838
-  },
-  {
     "id": "the-hill-node-930075324",
     "name": "The Hill",
     "lat": 53.5087935,
@@ -22857,12 +20305,6 @@
     "lon": -7.6318054
   },
   {
-    "id": "the-hot-sandwich-company-node-6685608660",
-    "name": "The Hot Sandwich Company",
-    "lat": 53.3993112,
-    "lon": -6.1469168
-  },
-  {
     "id": "the-hub-node-2129904889",
     "name": "The Hub",
     "lat": 52.2584952,
@@ -22915,12 +20357,6 @@
     "name": "The Hut",
     "lat": 52.0128256,
     "lon": -8.3418414
-  },
-  {
-    "id": "the-hut-node-538103859",
-    "name": "The Hut",
-    "lat": 53.3610075,
-    "lon": -6.2725355
   },
   {
     "id": "the-idle-hour-node-9963523493",
@@ -22997,12 +20433,6 @@
     "addressText": "Strand Rd, Portmarnock, Dublin, D13 V2X7",
     "googleFormattedAddress": "Strand Rd, Portmarnock, Dublin, D13 V2X7",
     "sourceName": "The Jameson Portmarnock"
-  },
-  {
-    "id": "the-jar-node-503224354",
-    "name": "The Jar",
-    "lat": 53.3369586,
-    "lon": -6.2657049
   },
   {
     "id": "the-jeggy-nettle-pub-chijkyxxrbejyugr3mykb7xo",
@@ -23216,18 +20646,6 @@
     "lon": -7.8031691
   },
   {
-    "id": "the-lamplighter-node-1373979474",
-    "name": "The Lamplighter",
-    "lat": 53.3397428,
-    "lon": -6.2780884
-  },
-  {
-    "id": "the-landmark-node-911170200",
-    "name": "The Landmark",
-    "lat": 53.3374409,
-    "lon": -6.2659032
-  },
-  {
     "id": "the-lane-node-4317475391",
     "name": "The Lane",
     "lat": 52.0582132,
@@ -23250,12 +20668,6 @@
     "name": "The Lark",
     "lat": 54.5103198,
     "lon": -6.0466952
-  },
-  {
-    "id": "the-lark-inn-node-1404763943",
-    "name": "The Lark Inn",
-    "lat": 53.341684,
-    "lon": -6.278673
   },
   {
     "id": "the-launch-node-6090390639",
@@ -23300,29 +20712,10 @@
     "lon": -8.415657
   },
   {
-    "id": "the-legal-eagle-node-2004657419",
-    "name": "The Legal Eagle",
-    "lat": 53.3458363,
-    "lon": -6.2721543,
-    "foodOffer": {
-      "category": "gastropub",
-      "confidence": "confirmed",
-      "source": "https://www.thelegaleagle.ie/menus/"
-    },
-    "websiteUrl": "https://www.thelegaleagle.ie",
-    "websiteSource": "https://www.thelegaleagle.ie/"
-  },
-  {
     "id": "the-leitrim-inn-node-1445758322",
     "name": "The Leitrim Inn",
     "lat": 53.9910481,
     "lon": -8.0656039
-  },
-  {
-    "id": "the-leopardstown-inn-node-2625914025",
-    "name": "The Leopardstown Inn",
-    "lat": 53.2792395,
-    "lon": -6.1967897
   },
   {
     "id": "the-liberty-node-10309543430",
@@ -23335,18 +20728,6 @@
     "name": "The Liberty Belle",
     "lat": 53.3415819,
     "lon": -6.2747157
-  },
-  {
-    "id": "the-library-bar-node-2940313238",
-    "name": "The Library Bar",
-    "lat": 53.3431428,
-    "lon": -6.2641152
-  },
-  {
-    "id": "the-library-bar-node-7659422639",
-    "name": "The Library Bar",
-    "lat": 53.2920486,
-    "lon": -6.1302061
   },
   {
     "id": "the-lifeboat-inn-node-6726076885",
@@ -23389,12 +20770,6 @@
     "lon": -8.6278587
   },
   {
-    "id": "the-liquor-rooms-node-4078397589",
-    "name": "The Liquor Rooms",
-    "lat": 53.3453384,
-    "lon": -6.2669388
-  },
-  {
     "id": "the-little-guys-node-11069030982",
     "name": "The Little Guys",
     "lat": 53.7190987,
@@ -23411,12 +20786,6 @@
     "name": "The Local",
     "lat": 52.4740455,
     "lon": -8.1576547
-  },
-  {
-    "id": "the-local-node-10745666702",
-    "name": "The Local",
-    "lat": 53.3032488,
-    "lon": -6.2192105
   },
   {
     "id": "the-local-node-1214321277",
@@ -23479,12 +20848,6 @@
     "lon": -8.4705669
   },
   {
-    "id": "the-lord-edward-node-583412899",
-    "name": "The Lord Edward",
-    "lat": 53.3431186,
-    "lon": -6.2700507
-  },
-  {
     "id": "the-lord-kingsale-node-2983274325",
     "name": "The Lord Kingsale",
     "lat": 51.705526,
@@ -23497,22 +20860,10 @@
     "lon": -6.4516682
   },
   {
-    "id": "the-lotts-node-613230592",
-    "name": "The Lotts",
-    "lat": 53.3473835,
-    "lon": -6.2633194
-  },
-  {
     "id": "the-lough-avoul-inn-node-1591395800",
     "name": "The Lough Avoul Inn",
     "lat": 51.7499661,
     "lon": -9.5518809
-  },
-  {
-    "id": "the-lough-inn-node-3909986251",
-    "name": "The Lough Inn",
-    "lat": 53.2466599,
-    "lon": -6.1288753
   },
   {
     "id": "the-lough-inn-node-7007899115",
@@ -23525,12 +20876,6 @@
     "name": "The Lounge Bar",
     "lat": 54.0031453,
     "lon": -6.402103
-  },
-  {
-    "id": "the-lower-deck-node-279464425",
-    "name": "The Lower Deck",
-    "lat": 53.330686,
-    "lon": -6.2652379
   },
   {
     "id": "the-lower-house-node-9545193544",
@@ -23573,12 +20918,6 @@
     "name": "The Mall Pub",
     "lat": 52.8427716,
     "lon": -6.9773706
-  },
-  {
-    "id": "the-malt-node-1260538148",
-    "name": "The Malt",
-    "lat": 53.3429392,
-    "lon": -6.291006
   },
   {
     "id": "the-malt-house-node-2000036397",
@@ -23653,12 +20992,6 @@
     "name": "The Market Bar",
     "lat": 52.6759959,
     "lon": -6.2937598
-  },
-  {
-    "id": "the-market-bar-node-5155648422",
-    "name": "The Market Bar",
-    "lat": 53.3420522,
-    "lon": -6.2640363
   },
   {
     "id": "the-market-stone-node-9731190622",
@@ -23755,27 +21088,7 @@
     "lon": -6.2111165999999995,
     "addressText": "188 Merrion Rd, Dublin 4, D04 Y512",
     "googleFormattedAddress": "188 Merrion Rd, Dublin 4, D04 Y512",
-    "sourceName": "The Merrion Inn",
-    "foodOffer": {
-      "category": "gastropub",
-      "confidence": "confirmed",
-      "source": "https://themerrioninn.com/a-la-carte-menu/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger"
-      ],
-      "confidence": "confirmed",
-      "source": "https://themerrioninn.com/a-la-carte-menu/"
-    },
-    "websiteUrl": "https://themerrioninn.com",
-    "websiteSource": "https://themerrioninn.com/"
-  },
-  {
-    "id": "the-merry-cobbler-node-312569935",
-    "name": "The Merry Cobbler",
-    "lat": 53.3385836,
-    "lon": -6.2225999
+    "sourceName": "The Merrion Inn"
   },
   {
     "id": "the-merry-elf-node-4631053498",
@@ -23853,34 +21166,10 @@
     "lon": -7.6145516
   },
   {
-    "id": "the-millennium-node-1332272327",
-    "name": "The Millennium",
-    "lat": 53.3480466,
-    "lon": -6.2900462
-  },
-  {
     "id": "the-millvale-bar-node-12650248691",
     "name": "The Millvale Bar",
     "lat": 54.1927532,
     "lon": -6.3746823
-  },
-  {
-    "id": "the-mint-node-12584654956",
-    "name": "The Mint",
-    "lat": 53.3455137,
-    "lon": -6.2582922
-  },
-  {
-    "id": "the-mint-bar-node-6659452185",
-    "name": "The Mint Bar",
-    "lat": 53.3456553,
-    "lon": -6.2589016
-  },
-  {
-    "id": "the-mission-node-1326700611",
-    "name": "The Mission",
-    "lat": 53.3470952,
-    "lon": -6.2836885
   },
   {
     "id": "the-moat-inn-node-1002846989",
@@ -23936,18 +21225,13 @@
     "addressText": "Templeogue Road, Templeogue, Co. Dublin, D6W HH79",
     "googleFormattedAddress": "The Morgue Pub, Templeogue Rd, Terenure, Dublin 6w, Co. Dublin, D6W HH79",
     "sourceName": "The Morgue",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.com/Restaurant_Review-g186605-d3807675-Reviews-The_Morgue-Dublin_County_Dublin.html"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "likely",
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.themorgue.ie/"
     },
@@ -23961,12 +21245,6 @@
     },
     "websiteUrl": "https://www.themorgue.ie",
     "websiteSource": "https://www.themorgue.ie/"
-  },
-  {
-    "id": "the-morris-bar-node-12920142701",
-    "name": "The Morris Bar",
-    "lat": 53.3507243,
-    "lon": -6.2553477
   },
   {
     "id": "the-mountain-node-5814673523",
@@ -24007,27 +21285,7 @@
     "county": "Dublin",
     "addressText": "Mullingar Terrace, Chapelizod, Dublin, Co. Dublin, D20 P685",
     "googleFormattedAddress": "Chapelizod, Dublin",
-    "sourceName": "Mullingar House",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.tripadvisor.ie/Restaurant_Review-g186605-d1828356-Reviews-Mullingar_House-Dublin_County_Dublin.html"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://themullingarhouse.ie/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "pizza"
-      ],
-      "confidence": "confirmed",
-      "source": "https://themullingarhouse.ie/evening-menu-24/"
-    },
-    "websiteUrl": "https://themullingarhouse.ie",
-    "websiteSource": "https://themullingarhouse.ie/"
+    "sourceName": "Mullingar House"
   },
   {
     "id": "the-munster-bar-node-9550216894",
@@ -24122,14 +21380,7 @@
     "county": "Dublin",
     "addressText": "28-29 Essex Street East, Dublin, Co. Dublin, D02 XH60",
     "googleFormattedAddress": "28E Essex St E, Temple Bar, Dublin 2, D02 XH60",
-    "sourceName": "The Norseman",
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.norseman.ie/"
-    },
-    "websiteUrl": "https://www.norseman.ie",
-    "websiteSource": "https://www.norseman.ie/"
+    "sourceName": "The Norseman"
   },
   {
     "id": "the-north-irish-horse-inn-node-3099832430",
@@ -24235,9 +21486,7 @@
     "county": "Dublin",
     "addressText": "72-74 Main Street, Swords, Co. Dublin, K67 E6W7",
     "googleFormattedAddress": "72 Main Street, Townparks, Swords, Co. Dublin",
-    "sourceName": "Old Boro Public House",
-    "websiteUrl": "https://www.jdwetherspoon.com/pubs/the-old-borough-swords",
-    "websiteSource": "https://www.jdwetherspoon.com/pubs/the-old-borough-swords/"
+    "sourceName": "Old Boro Public House"
   },
   {
     "id": "the-old-bridge-inn-node-1583220924",
@@ -24250,12 +21499,6 @@
     "name": "The Old Coach Inn",
     "lat": 54.1191874,
     "lon": -6.7364072
-  },
-  {
-    "id": "the-old-county-node-2066250086",
-    "name": "The Old County",
-    "lat": 53.3273937,
-    "lon": -6.3060022
   },
   {
     "id": "the-old-forge-node-7959985052",
@@ -24323,12 +21566,6 @@
     "lon": -7.7340356
   },
   {
-    "id": "the-old-punch-bowl-node-132228340",
-    "name": "The Old Punch Bowl",
-    "lat": 53.3087656,
-    "lon": -6.1966601
-  },
-  {
     "id": "the-old-quarter-node-655378207",
     "name": "The Old Quarter",
     "lat": 52.6642749,
@@ -24356,7 +21593,7 @@
       "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://theoldschoolhouse.ie/bar-food-menu/"
     },
@@ -24372,15 +21609,6 @@
       "confidence": "confirmed",
       "source": "https://theoldschoolhouse.ie/"
     },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "coverage": "multi-screen",
-      "source": "https://theoldschoolhouse.ie/",
-      "screenLocations": [
-        "indoor"
-      ]
-    },
     "websiteUrl": "https://theoldschoolhouse.ie",
     "websiteSource": "https://theoldschoolhouse.ie/",
     "instagramUrl": "https://instagram.com/schoolhouseswords",
@@ -24391,28 +21619,6 @@
     "name": "The Old Ship",
     "lat": 52.7982958,
     "lon": -6.1537891
-  },
-  {
-    "id": "the-old-spot-manual",
-    "name": "The Old Spot",
-    "lat": 53.3373765,
-    "lon": -6.2331795,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "14 Bath Avenue, Sandymount, Dublin 4, D04 Y726",
-    "sourceName": "The Old Spot",
-    "wheelchairAccess": {
-      "status": "limited",
-      "confidence": "confirmed",
-      "source": "https://theoldspot.ie/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://theoldspot.ie/menus/"
-    },
-    "websiteUrl": "https://theoldspot.ie",
-    "websiteSource": "https://theoldspot.ie/"
   },
   {
     "id": "the-old-stand-node-5056153386",
@@ -24431,47 +21637,6 @@
     "name": "The Old Still",
     "lat": 51.7469747,
     "lon": -8.7199244
-  },
-  {
-    "id": "the-old-storehouse-node-467744860",
-    "name": "The Old Storehouse",
-    "lat": 53.3451323,
-    "lon": -6.2626746,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://theoldstorehouse.ie/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://theoldstorehouse.ie/menus/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://theoldstorehouse.ie/menus/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://theoldstorehouse.ie/entertainment/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "f1"
-      ],
-      "source": "https://theoldstorehouse.ie/sports/"
-    },
-    "websiteUrl": "https://theoldstorehouse.ie",
-    "websiteSource": "https://theoldstorehouse.ie/"
   },
   {
     "id": "the-old-tom-bar-node-11655989748",
@@ -24582,14 +21747,7 @@
     "county": "Dublin",
     "addressText": "78 Middle Abbey Street, Dublin, Co. Dublin, D01 RW24",
     "googleFormattedAddress": "78 Middle Abbey St, North City, Dublin 1, D01 RW24",
-    "sourceName": "The Oval",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://theovalbar.com/about-the-pub/"
-    },
-    "websiteUrl": "https://theovalbar.com",
-    "websiteSource": "https://theovalbar.com/"
+    "sourceName": "The Oval"
   },
   {
     "id": "the-oyster-node-1828395090",
@@ -24607,14 +21765,7 @@
     "id": "palace-bar-curated",
     "name": "The Palace Bar",
     "lat": 53.34561,
-    "lon": -6.26357,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Palace-Bar-Dublin"
-    },
-    "websiteUrl": "https://www.thepalacebardublin.com",
-    "websiteSource": "https://www.thepalacebardublin.com/"
+    "lon": -6.26357
   },
   {
     "id": "the-palm-node-569979277",
@@ -24667,25 +21818,7 @@
     "county": "Dublin",
     "addressText": "760 South Circular Road, Dublin, Co. Dublin, D08 HV0A",
     "googleFormattedAddress": "760 S Circular Rd, Kilmainham, Dublin, D08 HV0A",
-    "sourceName": "The Patriot’s Inn",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/The-Patriots-Inn-Dublin"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa",
-        "f1"
-      ],
-      "source": "https://patriotsinn.ie/sports/"
-    },
-    "websiteUrl": "https://patriotsinn.ie",
-    "websiteSource": "https://patriotsinn.ie/"
+    "sourceName": "The Patriot’s Inn"
   },
   {
     "id": "the-penny-hill-node-263366607",
@@ -24742,12 +21875,6 @@
     "lon": -9.704887
   },
   {
-    "id": "the-pimlico-tavern-node-1404772647",
-    "name": "The Pimlico Tavern",
-    "lat": 53.3400639,
-    "lon": -6.2807211
-  },
-  {
     "id": "the-pinecroft-inn-node-5287637103",
     "name": "The Pinecroft Inn",
     "lat": 51.8677671,
@@ -24764,12 +21891,6 @@
     "name": "The Pipers Inn",
     "lat": 52.8524,
     "lon": -8.4794
-  },
-  {
-    "id": "the-place-node-5373194431",
-    "name": "The Place",
-    "lat": 53.3516917,
-    "lon": -6.2501036
   },
   {
     "id": "the-playwright-node-640587357",
@@ -24832,36 +21953,13 @@
     "id": "porterhouse-temple-bar-curated",
     "name": "The Porterhouse Temple Bar",
     "lat": 53.34556,
-    "lon": -6.26496,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Porterhouse-Temple-Bar-Dublin"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://www.theporterhouse.ie/live-sports"
-    },
-    "websiteUrl": "https://www.theporterhouse.ie",
-    "websiteSource": "https://www.theporterhouse.ie/"
+    "lon": -6.26496
   },
   {
     "id": "the-portholes-node-11835136734",
     "name": "The Portholes",
     "lat": 52.2499829,
     "lon": -6.336377
-  },
-  {
-    "id": "the-portobello-bar-node-1426048610",
-    "name": "The Portobello Bar",
-    "lat": 53.3303497,
-    "lon": -6.2640955
   },
   {
     "id": "the-pot-bar-node-1423592344",
@@ -24962,12 +22060,6 @@
     "lon": -6.3932185
   },
   {
-    "id": "the-purty-kitchen-node-593844518",
-    "name": "The Purty Kitchen",
-    "lat": 53.2951939,
-    "lon": -6.1481504
-  },
-  {
     "id": "the-quarry-cock-node-363751429",
     "name": "The Quarry Cock",
     "lat": 51.8527158,
@@ -25002,12 +22094,6 @@
     "name": "The Quays",
     "lat": 55.2034881,
     "lon": -6.6526435
-  },
-  {
-    "id": "the-quays-bar-node-559485123",
-    "name": "The Quays Bar",
-    "lat": 53.3456434,
-    "lon": -6.2633552
   },
   {
     "id": "the-queens-bar-chijrrvrtksgz0gr14acfwi2",
@@ -25045,22 +22131,7 @@
     "county": "Dublin",
     "addressText": "39-40 Drury Street, Dublin, Co. Dublin, D02 XR91",
     "googleFormattedAddress": "39 Drury St, Dublin",
-    "sourceName": "The Rag Trader",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "https://theragtrader.ie/whiskey-party/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv"
-      ],
-      "source": "https://theragtrader.ie/all-ireland-hurling-final-2025/"
-    },
-    "websiteUrl": "https://theragtrader.ie",
-    "websiteSource": "https://theragtrader.ie/"
+    "sourceName": "The Rag Trader"
   },
   {
     "id": "the-raheny-inn-chijkvar-4wpz0grhx2nykv8",
@@ -25288,19 +22359,7 @@
     "county": "Dublin",
     "addressText": "37 Main Street, Rathfarnham, Dublin, Co. Dublin, D14 PW02",
     "googleFormattedAddress": "37 Main St, Rathfarnham, Dublin 14, D14 PW02",
-    "sourceName": "The Revels",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://www.bizireland.com/the-revels-01-490-1376"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.revelsbar.com"
-    },
-    "websiteUrl": "https://www.revelsbar.com",
-    "websiteSource": "https://www.revelsbar.com"
+    "sourceName": "The Revels"
   },
   {
     "id": "the-richmond-inn-node-10247216555",
@@ -25480,12 +22539,6 @@
     "lon": -7.2329014
   },
   {
-    "id": "the-roundabout-node-1529996838",
-    "name": "The Roundabout",
-    "lat": 53.383917,
-    "lon": -6.2068448
-  },
-  {
     "id": "the-roundwood-inn-node-2032720427",
     "name": "The Roundwood Inn",
     "lat": 53.0646915,
@@ -25542,12 +22595,6 @@
     "name": "The Rusty Saddle",
     "lat": 54.595938,
     "lon": -5.9324349
-  },
-  {
-    "id": "the-saddle-room-node-5166614627",
-    "name": "The Saddle Room",
-    "lat": 53.3392353,
-    "lon": -6.2561461
   },
   {
     "id": "the-saddler-s-inn-node-1219267002",
@@ -25635,12 +22682,6 @@
     "lon": -8.2313471
   },
   {
-    "id": "the-schooner-bar-node-6676979026",
-    "name": "The Schooner Bar",
-    "lat": 53.3887467,
-    "lon": -6.110215
-  },
-  {
     "id": "the-scoring-end-node-12021280492",
     "name": "The Scoring End",
     "lat": 54.844263,
@@ -25663,12 +22704,6 @@
     "name": "The Seanachaoi",
     "lat": 52.8069918,
     "lon": -8.4403551
-  },
-  {
-    "id": "the-secret-bar-the-bar-with-no-name-node-583411333",
-    "name": "The Secret Bar / The Bar With No Name",
-    "lat": 53.3418854,
-    "lon": -6.2641559
   },
   {
     "id": "the-shack-node-1458903111",
@@ -25805,19 +22840,7 @@
     "id": "the-shire-node-4953208357",
     "name": "The Shire",
     "lat": 52.0601702,
-    "lon": -9.5064099,
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "https://www.theshirekillarney.com/"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.theshirekillarney.com/"
-    },
-    "websiteUrl": "https://www.theshirekillarney.com/",
-    "websiteSource": "https://www.theshirekillarney.com/"
+    "lon": -9.5064099
   },
   {
     "id": "the-shiven-inn-node-1209487056",
@@ -25836,12 +22859,6 @@
     "name": "The Silver Key",
     "lat": 51.8875662,
     "lon": -8.4332477
-  },
-  {
-    "id": "the-sin-bin-node-11384483172",
-    "name": "The Sin Bin",
-    "lat": 53.3413348,
-    "lon": -6.2508466
   },
   {
     "id": "the-sipster-bar-node-10941578638",
@@ -25896,12 +22913,6 @@
     "lon": -6.459101
   },
   {
-    "id": "the-skylon-bar-grill-node-491319647",
-    "name": "The Skylon Bar & Grill",
-    "lat": 53.3727647,
-    "lon": -6.253083
-  },
-  {
     "id": "the-sliding-rock-chijg2r-ifeww0grpye0ozjt",
     "name": "The Sliding Rock",
     "lat": 53.275692299999996,
@@ -25923,12 +22934,6 @@
     "name": "The Slíghe Mór",
     "lat": 53.4144451,
     "lon": -6.8311104
-  },
-  {
-    "id": "the-slipper-node-1496722632",
-    "name": "The Slipper",
-    "lat": 53.3853244,
-    "lon": -6.2656088
   },
   {
     "id": "the-snug-node-1808564370",
@@ -25961,22 +22966,10 @@
     "lon": -9.148079
   },
   {
-    "id": "the-snug-bar-node-5362108727",
-    "name": "The Snug Bar",
-    "lat": 53.341461,
-    "lon": -6.2659913
-  },
-  {
     "id": "the-snug-bar-node-2387768198",
     "name": "The Snug Bar",
     "lat": 54.8048033,
     "lon": -7.7686215
-  },
-  {
-    "id": "the-south-strand-node-516031805",
-    "name": "The South Strand",
-    "lat": 53.3443491,
-    "lon": -6.2381779
   },
   {
     "id": "the-southern-bar-node-2986978676",
@@ -26070,12 +23063,6 @@
     "lon": -8.0573063
   },
   {
-    "id": "the-sportsman-inn-node-9891854091",
-    "name": "The Sportsman Inn",
-    "lat": 52.818661,
-    "lon": -7.4751141
-  },
-  {
     "id": "the-sportsman-s-inn-node-6831927471",
     "name": "The Sportsman's Inn",
     "lat": 53.5141888,
@@ -26110,12 +23097,6 @@
     "name": "The Spout",
     "lat": 53.1304099,
     "lon": -6.7453751
-  },
-  {
-    "id": "the-square-ball-node-2068246787",
-    "name": "The Square Ball",
-    "lat": 53.340843,
-    "lon": -6.244782
   },
   {
     "id": "the-square-bar-node-4030176388",
@@ -26175,34 +23156,7 @@
     "id": "stags-head-curated",
     "name": "The Stag's Head",
     "lat": 53.3442,
-    "lon": -6.26668,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/Stags-Head-Dublin-Dublin"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://stagshead.ie/menus/"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://stagshead.ie/menus/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://stagshead.ie/"
-    },
-    "websiteUrl": "https://stagshead.ie",
-    "websiteSource": "https://stagshead.ie/",
-    "instagramUrl": "https://instagram.com/stags_head_dublin",
-    "instagramSource": "https://stagshead.ie/"
+    "lon": -6.26668
   },
   {
     "id": "the-stags-head-lounge-node-290480180",
@@ -26241,23 +23195,6 @@
     "lon": -6.3941733
   },
   {
-    "id": "the-step-inn-manual",
-    "name": "The Step Inn",
-    "lat": 53.25310064021625,
-    "lon": -6.214102608569275,
-    "town": "Stepaside",
-    "county": "Dublin",
-    "addressText": "Stepaside Village, Dublin D18 F248, Ireland",
-    "sourceName": "The Step Inn",
-    "parking": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.thestepinn.com/contact/"
-    },
-    "websiteUrl": "https://www.thestepinn.com",
-    "websiteSource": "https://www.thestepinn.com/"
-  },
-  {
     "id": "the-still-house-node-4030104132",
     "name": "The Still House",
     "lat": 52.6629857,
@@ -26268,12 +23205,6 @@
     "name": "The Stillhouse",
     "lat": 54.4807346,
     "lon": -6.2258781
-  },
-  {
-    "id": "the-stone-boat-node-2065197334",
-    "name": "The Stone Boat",
-    "lat": 53.3206435,
-    "lon": -6.2921726
   },
   {
     "id": "the-storyteller-pub-chij4twzwagpz0grsgjvluxc",
@@ -26300,12 +23231,6 @@
     "name": "The Strand",
     "lat": 54.2706471,
     "lon": -8.6084962
-  },
-  {
-    "id": "the-strand-house-node-2071381884",
-    "name": "The Strand House",
-    "lat": 53.3550033,
-    "lon": -6.2460175
   },
   {
     "id": "the-strand-tavern-node-3383086112",
@@ -26374,14 +23299,7 @@
     "id": "the-swan-curated",
     "name": "The Swan",
     "lat": 53.3396248,
-    "lon": -6.2655463,
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "likely",
-      "source": "https://www.visitdublin.com/guides/beer-gardens-dublin"
-    },
-    "websiteUrl": "https://www.theswanbar.com",
-    "websiteSource": "https://www.theswanbar.com/"
+    "lon": -6.2655463
   },
   {
     "id": "the-swan-bar-node-12272105051",
@@ -26503,12 +23421,6 @@
     "lon": -7.1190713
   },
   {
-    "id": "the-temple-node-1349656251",
-    "name": "The Temple",
-    "lat": 53.3573517,
-    "lon": -6.2637116
-  },
-  {
     "id": "the-temple-bar-node-10154281498",
     "name": "The Temple Bar",
     "lat": 52.7960729,
@@ -26518,49 +23430,7 @@
     "id": "temple-bar-curated",
     "name": "The Temple Bar",
     "lat": 53.34552,
-    "lon": -6.26413,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely",
-      "source": "https://www.visitdublin.com/guides/things-to-do-temple-bar"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://thetemplebarpub.com/food-drink/"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed",
-      "source": "https://thetemplebarpub.com/food-drink/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://thetemplebarpub.com/live-music/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenLocations": [
-        "indoor"
-      ],
-      "sportsFocus": [
-        "rugby"
-      ],
-      "coverage": "multi-screen",
-      "source": "https://thetemplebarpub.com/latest-news/where-to-watch-the-rugby-in-dublin/"
-    },
-    "websiteUrl": "https://thetemplebarpub.com",
-    "websiteSource": "https://thetemplebarpub.com/visit/"
-  },
-  {
-    "id": "the-terenure-inn-node-315252689",
-    "name": "The Terenure Inn",
-    "lat": 53.3113561,
-    "lon": -6.2830549
+    "lon": -6.26413
   },
   {
     "id": "the-terrace-node-6580148888",
@@ -26808,12 +23678,6 @@
     "lon": -6.3672381
   },
   {
-    "id": "the-two-foxes-node-658492175",
-    "name": "The Two Foxes",
-    "lat": 53.291744,
-    "lon": -6.1350718
-  },
-  {
     "id": "the-two-sisters-node-1425374427",
     "name": "The Two Sisters",
     "lat": 53.3091194,
@@ -26824,7 +23688,7 @@
       "source": "https://www.bringfido.com/restaurant/beer/city/dublin_ie/"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://thetwosisters.ie/menus/"
     },
@@ -26875,12 +23739,6 @@
     "name": "The Vaults",
     "lat": 52.8047198,
     "lon": -7.2102141
-  },
-  {
-    "id": "the-vaults-node-3677094036",
-    "name": "The Vaults",
-    "lat": 53.3513612,
-    "lon": -6.2494796
   },
   {
     "id": "the-venue-node-4433219457",
@@ -26987,14 +23845,7 @@
     "county": "Dublin",
     "addressText": "31 Main Street, Chapelizod, Dublin, Co. Dublin, D20 EP29",
     "googleFormattedAddress": "31 Main St, Chapelizod, Dublin 20, D20 EP29",
-    "sourceName": "The Villager",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://triptap.com/places/ie/leinster/dublin/the-villager-t016eb8a"
-    },
-    "websiteUrl": "https://www.thevillagerdublin.com",
-    "websiteSource": "https://www.thevillagerdublin.com/"
+    "sourceName": "The Villager"
   },
   {
     "id": "the-villager-inn-node-2640320515",
@@ -27015,12 +23866,6 @@
     "lon": -6.6536241
   },
   {
-    "id": "the-vintage-inn-node-312569767",
-    "name": "The Vintage Inn",
-    "lat": 53.3386881,
-    "lon": -6.2229321
-  },
-  {
     "id": "the-viper-room-node-3066796620",
     "name": "The Viper Room",
     "lat": 54.0029724,
@@ -27035,33 +23880,7 @@
     "county": "Dublin",
     "addressText": "89 Swords Road, Whitehall, Dublin, Co. Dublin, D09 E1T1",
     "googleFormattedAddress": "89 Swords Rd, Whitehall, Dublin, D09 E1T1",
-    "sourceName": "The Viscount",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://menuweb.menu/restaurants/dublin-10/the-viscount; corroborated by https://www.pubsaroundme.com/merchants/the-viscount-89-swords-rd"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "sportsFocus": [
-        "football",
-        "rugby",
-        "gaa"
-      ],
-      "source": "https://www.theviscount.ie/"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "darts",
-        "golf"
-      ],
-      "source": "https://www.theviscount.ie/"
-    },
-    "websiteUrl": "https://www.theviscount.ie",
-    "websiteSource": "https://www.theviscount.ie/"
+    "sourceName": "The Viscount"
   },
   {
     "id": "the-vortex-node-948977834",
@@ -27111,14 +23930,7 @@
     "county": "Dublin",
     "addressText": "411 Howth Road, Raheny, Co. Dublin, D05 Y1E5",
     "googleFormattedAddress": "411 Howth Rd, Clontarf East, Dublin 5, D05 Y1E5",
-    "sourceName": "The Watermill",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely",
-      "source": "https://restaurantguru.com/The-Watermill-Dublin-3"
-    },
-    "websiteUrl": "https://www.thewatermill.ie",
-    "websiteSource": "https://www.thewatermill.ie/"
+    "sourceName": "The Watermill"
   },
   {
     "id": "the-waterside-node-639367124",
@@ -27187,12 +23999,6 @@
     "lon": -7.6920336
   },
   {
-    "id": "the-well-node-6782589728",
-    "name": "The Well",
-    "lat": 53.3395239,
-    "lon": -6.2613297
-  },
-  {
     "id": "the-well-node-9504572781",
     "name": "The Well",
     "lat": 53.9897337,
@@ -27227,12 +24033,6 @@
     "name": "The Wheelhouse Bar",
     "lat": 51.6509392,
     "lon": -9.9104983
-  },
-  {
-    "id": "the-whiskey-reserve-node-11038174107",
-    "name": "The Whiskey Reserve",
-    "lat": 53.3452284,
-    "lon": -6.2642203
   },
   {
     "id": "the-whiskey-still-node-494340908",
@@ -27282,12 +24082,6 @@
     "lon": -8.6294518
   },
   {
-    "id": "the-white-house-node-9518890001",
-    "name": "The White House",
-    "lat": 53.3979933,
-    "lon": -6.1271007
-  },
-  {
     "id": "the-white-house-bar-node-10824674269",
     "name": "The White House Bar",
     "lat": 52.5029934,
@@ -27306,12 +24100,6 @@
     "lon": -9.1551148
   },
   {
-    "id": "the-wicked-wolf-node-1425999505",
-    "name": "The Wicked Wolf",
-    "lat": 53.3019262,
-    "lon": -6.1780007
-  },
-  {
     "id": "the-widow-pat-s-node-2122712993",
     "name": "The Widow Pat's",
     "lat": 53.575874,
@@ -27328,12 +24116,6 @@
     "name": "The Wild Atlantic Bar",
     "lat": 51.6874094,
     "lon": -9.6667696
-  },
-  {
-    "id": "the-wild-duck-node-3224845421",
-    "name": "The Wild Duck",
-    "lat": 53.3445718,
-    "lon": -6.2657887
   },
   {
     "id": "the-wild-duck-inn-node-1362857840",
@@ -27359,31 +24141,7 @@
     "county": "Dublin",
     "addressText": "28 Eden Quay, Dublin, Co. Dublin, D01 DE44",
     "googleFormattedAddress": "28 Eden Quay, North City, Dublin 1, D01 DE44",
-    "sourceName": "The Wiley Fox",
-    "outdoorArea": {
-      "type": "roof-terrace",
-      "confidence": "confirmed",
-      "source": "https://www.thewileyfox.ie/"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "confirmed",
-      "source": "https://www.thewileyfox.ie/"
-    },
-    "websiteUrl": "https://www.thewileyfox.ie",
-    "websiteSource": "https://www.thewileyfox.ie/"
-  },
-  {
-    "id": "the-willows-node-3705003678",
-    "name": "The Willows",
-    "lat": 53.2842099,
-    "lon": -6.2508159
-  },
-  {
-    "id": "the-wind-jammer-node-282342105",
-    "name": "The Wind Jammer",
-    "lat": 53.3452765,
-    "lon": -6.2483476
+    "sourceName": "The Wiley Fox"
   },
   {
     "id": "winding-stair-curated",
@@ -27478,30 +24236,6 @@
     "lon": -5.9345082
   },
   {
-    "id": "the-workmans-club-manual",
-    "name": "The Workman's Club",
-    "lat": 53.3453879,
-    "lon": -6.2664983,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "10 Wellington Quay, Dublin 2, D02 VX36",
-    "sourceName": "The Workman's Club",
-    "wheelchairAccess": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://theworkmansclub.com/events/rory-gallagher-tribute-night-2/"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://theworkmansclub.com/"
-    },
-    "websiteUrl": "https://theworkmansclub.com",
-    "websiteSource": "https://theworkmansclub.com/",
-    "instagramUrl": "https://instagram.com/workmansclub",
-    "instagramSource": "https://theworkmansclub.com/"
-  },
-  {
     "id": "the-workshop-pub-chijpz7ayyuoz0gruwwfvplx",
     "name": "The Workshop Pub",
     "lat": 53.3473507,
@@ -27537,12 +24271,6 @@
     "addressText": "Lower Rd, Chapelizod, Co. Dublin",
     "googleFormattedAddress": "Lower Rd, Chapelizod, Co. Dublin",
     "sourceName": "The Wren's Nest"
-  },
-  {
-    "id": "the-yacht-node-10136276602",
-    "name": "The Yacht",
-    "lat": 53.3420529,
-    "lon": -6.2274854
   },
   {
     "id": "the-yacht-bar-node-2685751767",
@@ -27592,12 +24320,6 @@
     "lon": -7.5827914
   },
   {
-    "id": "thomas-clarke-s-node-10275525043",
-    "name": "Thomas Clarke’s",
-    "lat": 53.3525394,
-    "lon": -6.2611108
-  },
-  {
     "id": "thomas-connolly-bar-chijl2gfjjtoxkgr6nzevymi",
     "name": "Thomas Connolly Bar",
     "lat": 54.2727943,
@@ -27624,12 +24346,6 @@
     "addressText": "Drogheda, Co. Louth",
     "googleFormattedAddress": "Drogheda, Co. Louth",
     "sourceName": "Hanratty's Bar And Lounge"
-  },
-  {
-    "id": "thomas-moore-inn-node-503224346",
-    "name": "Thomas Moore Inn",
-    "lat": 53.3405863,
-    "lon": -6.2654253
   },
   {
     "id": "thomastown-inn-node-2319882128",
@@ -27842,38 +24558,10 @@
     "lon": -8.2738597
   },
   {
-    "id": "token-node-725068375",
-    "name": "Token",
-    "lat": 53.3496181,
-    "lon": -6.2430718,
-    "wheelchairAccess": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.tokendublin.ie/games"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "quiz",
-        "darts"
-      ],
-      "source": "https://www.tokendublin.ie/games"
-    },
-    "websiteUrl": "https://www.tokendublin.ie",
-    "websiteSource": "https://www.tokendublin.ie/"
-  },
-  {
     "id": "tolands-bar-node-8037323273",
     "name": "Tolands Bar",
     "lat": 55.2636441,
     "lon": -7.4155247
-  },
-  {
-    "id": "tolka-house-node-1423546555",
-    "name": "Tolka House",
-    "lat": 53.3738004,
-    "lon": -6.2689642
   },
   {
     "id": "toll-bridge-tavern-node-706420944",
@@ -27931,12 +24619,6 @@
     "name": "Tom Delaney & Sons",
     "lat": 53.0017551,
     "lon": -7.4747395
-  },
-  {
-    "id": "tom-kennedy-s-node-1403120910",
-    "name": "Tom Kennedy’s",
-    "lat": 53.3427402,
-    "lon": -6.2772127
   },
   {
     "id": "tom-king-s-bar-snug-node-3929701385",
@@ -28163,12 +24845,6 @@
     "lon": -9.0753311
   },
   {
-    "id": "trinity-bar-venue-node-1423559526",
-    "name": "Trinity Bar & Venue",
-    "lat": 53.3443282,
-    "lon": -6.2636793
-  },
-  {
     "id": "trinity-sports-leisure-club-bar-node-598161343",
     "name": "Trinity Sports & Leisure Club & Bar",
     "lat": 53.4022449,
@@ -28257,12 +24933,6 @@
     "lon": -6.944489
   },
   {
-    "id": "ucd-clubhouse-bar-node-4022703882",
-    "name": "UCD Clubhouse Bar",
-    "lat": 53.3081294,
-    "lon": -6.2270405
-  },
-  {
     "id": "ui-dufaigh-node-3016785450",
     "name": "Ui Dufaigh",
     "lat": 53.7632137,
@@ -28289,14 +24959,7 @@
     "county": "Dublin",
     "addressText": "Dundrum Road, Dundrum, Co. Dublin, D14 W895",
     "googleFormattedAddress": "Dundrum Rd, Dundrum, Dublin 14, D14 W895",
-    "sourceName": "Uncle Tom’s Cabin",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://uncletomscabin.ie/"
-    },
-    "websiteUrl": "https://uncletomscabin.ie",
-    "websiteSource": "https://uncletomscabin.ie/"
+    "sourceName": "Uncle Tom’s Cabin"
   },
   {
     "id": "unicorn-node-679478599",
@@ -28314,12 +24977,6 @@
     "addressText": "12-14 Union Street, Belfast, Co. Antrim, BT1 2JF",
     "googleFormattedAddress": "8-14 Union St, Belfast BT1 2JF, UK",
     "sourceName": "Union Street Bar"
-  },
-  {
-    "id": "urban-brewing-node-5073432440",
-    "name": "Urban Brewing",
-    "lat": 53.3491172,
-    "lon": -6.2480644
   },
   {
     "id": "valley-inn-node-990448319",
@@ -28348,24 +25005,7 @@
     "county": "Dublin",
     "addressText": "Bloom's Hotel, 3 Anglesea Street, Dublin, Co. Dublin, D02 FK84",
     "googleFormattedAddress": "2 Anglesea St, Temple Bar, Dublin 2",
-    "sourceName": "The Vat House",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://vathouse.ie/entertaiment/"
-    },
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "screenTypes": [
-        "tv",
-        "projector"
-      ],
-      "source": "https://vathouse.ie/entertaiment/",
-      "coverage": "multi-screen"
-    },
-    "websiteUrl": "https://vathouse.ie",
-    "websiteSource": "https://vathouse.ie/"
+    "sourceName": "The Vat House"
   },
   {
     "id": "vaughan-s-node-10844468300",
@@ -28378,12 +25018,6 @@
     "name": "Vaughan’s",
     "lat": 53.4874813,
     "lon": -10.0191763
-  },
-  {
-    "id": "vaughan-s-eagle-house-node-299224403",
-    "name": "Vaughan’s Eagle House",
-    "lat": 53.3100543,
-    "lon": -6.2832454
   },
   {
     "id": "vaughans-anchor-inn-chijtxcwgf4bw0gr5vdy7t1s",
@@ -28431,12 +25065,6 @@
     "name": "Village Inn",
     "lat": 52.818878,
     "lon": -8.8670309
-  },
-  {
-    "id": "vintage-cocktail-club-node-4383657305",
-    "name": "Vintage Cocktail Club",
-    "lat": 53.34503,
-    "lon": -6.2628917
   },
   {
     "id": "vista-node-12898158701",
@@ -28564,12 +25192,6 @@
     "lon": -7.9489326
   },
   {
-    "id": "walter-s-node-658492392",
-    "name": "Walter’s",
-    "lat": 53.2897873,
-    "lon": -6.1300465
-  },
-  {
     "id": "warde-s-pub-node-1604343828",
     "name": "Warde's Pub",
     "lat": 53.7202319,
@@ -28648,25 +25270,6 @@
     "lon": -7.2263753
   },
   {
-    "id": "whelans-dublin-manual",
-    "name": "Whelan's",
-    "lat": 53.3365949,
-    "lon": -6.2658748,
-    "town": "Dublin",
-    "county": "Dublin",
-    "addressText": "25 Wexford Street, Dublin 2, D02 H527",
-    "sourceName": "Whelan's",
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.whelanslive.com/"
-    },
-    "websiteUrl": "https://www.whelanslive.com",
-    "websiteSource": "https://www.whelanslive.com/",
-    "instagramUrl": "https://instagram.com/whelanslive",
-    "instagramSource": "https://www.whelanslive.com/"
-  },
-  {
     "id": "whelans-bar-node-6578944285",
     "name": "Whelans Bar",
     "lat": 52.4506376,
@@ -28683,12 +25286,6 @@
     "name": "Whiskey Fly Bar",
     "lat": 55.1833018,
     "lon": -7.9699995
-  },
-  {
-    "id": "white-bar-node-3803973848",
-    "name": "White Bar",
-    "lat": 53.3470317,
-    "lon": -6.2376973
   },
   {
     "id": "white-s-node-1773566404",
@@ -28743,7 +25340,7 @@
       "source": "https://www.lovindublin.com/best-of/beer-gardens-northside-dublin"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed",
       "source": "https://www.wigwamdublin.com/menu"
     },
@@ -28759,16 +25356,6 @@
       "status": "yes",
       "confidence": "confirmed",
       "source": "https://www.wigwamdublin.com/wigwampresents"
-    },
-    "games": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "types": [
-        "quiz",
-        "ping-pong",
-        "bingo"
-      ],
-      "source": "https://www.wigwamdublin.com/games"
     },
     "websiteUrl": "https://www.wigwamdublin.com",
     "websiteSource": "https://www.wigwamdublin.com/",
@@ -28852,24 +25439,6 @@
     "lon": -8.4810973
   },
   {
-    "id": "woolshed-baa-grill-node-311099928",
-    "name": "Woolshed Baa & Grill",
-    "lat": 53.3502671,
-    "lon": -6.2674686,
-    "sportsScreenings": {
-      "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.woolshed.ie/",
-      "sportsFocus": [
-        "rugby",
-        "football"
-      ],
-      "coverage": "multi-screen"
-    },
-    "websiteUrl": "https://www.woolshed.ie",
-    "websiteSource": "https://www.woolshed.ie/"
-  },
-  {
     "id": "wright-s-cafe-bar-node-913567411",
     "name": "Wright's Café Bar",
     "lat": 53.4562481,
@@ -28899,12 +25468,6 @@
     "lon": -8.3036752
   },
   {
-    "id": "xico-node-4396351895",
-    "name": "Xico",
-    "lat": 53.337863,
-    "lon": -6.2527928
-  },
-  {
     "id": "yellow-bridge-node-320092567",
     "name": "Yellow Bridge",
     "lat": 52.8091636,
@@ -28921,17 +25484,5 @@
     "name": "Zanzibar",
     "lat": 52.2604606,
     "lon": -7.1085873
-  },
-  {
-    "id": "zanzibar-locke-bar-node-10765828306",
-    "name": "Zanzibar Locke Bar",
-    "lat": 53.3465593,
-    "lon": -6.2640167
-  },
-  {
-    "id": "zozimus-bar-node-6551427836",
-    "name": "Zozimus Bar",
-    "lat": 53.3405771,
-    "lon": -6.2597707
   }
 ]
