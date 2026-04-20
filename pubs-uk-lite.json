@@ -4752,14 +4752,6 @@
     "regionId": "bath"
   },
   {
-    "id": "bath-on-the-beach-bath-way-929241082",
-    "name": "Bath on the Beach",
-    "lat": 51.3847814,
-    "lon": -2.3658617,
-    "city": "Bath",
-    "regionId": "bath"
-  },
-  {
     "id": "bath-trades-labour-institute-bath-node-4910610596",
     "name": "Bath Trades & Labour Institute",
     "lat": 51.3809223,
@@ -18144,14 +18136,6 @@
     "regionId": "london"
   },
   {
-    "id": "eastcheap-records-london-way-156720845",
-    "name": "Eastcheap Records",
-    "lat": 51.5104777,
-    "lon": -0.0838082,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
     "id": "eastnor-castle-london-node-294765140",
     "name": "Eastnor Castle",
     "lat": 51.5333448,
@@ -21392,14 +21376,6 @@
     "regionId": "birmingham"
   },
   {
-    "id": "frizzenti-birmingham-way-1298530250",
-    "name": "Frizzenti",
-    "lat": 52.4776641,
-    "lon": -1.8992241,
-    "city": "Birmingham",
-    "regionId": "birmingham"
-  },
-  {
     "id": "froddington-arms-portsmouth-way-1483015739",
     "name": "Froddington Arms",
     "lat": 50.7979713,
@@ -23224,14 +23200,6 @@
     "regionId": "london"
   },
   {
-    "id": "grand-union-chancery-lane-london-node-1832688358",
-    "name": "Grand Union – Chancery Lane",
-    "lat": 51.5164013,
-    "lon": -0.1112117,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
     "id": "grandpa-dickie-s-shed-sunderland-node-13112973801",
     "name": "Grandpa Dickie's Shed",
     "lat": 54.9224087,
@@ -24392,32 +24360,25 @@
     "county": "Somerset",
     "addressText": "Lansdown Road, Bath, BA1 5TJ",
     "googleFormattedAddress": "Lansdown Road, Bath, Somerset, BA1 5TJ",
-    "sourceName": "CAMRA WhatPub Hare & Hounds",
     "regionId": "bath",
     "outdoorArea": {
       "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://hareandhoundsbath.com/"
+      "confidence": "confirmed"
     },
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "https://hareandhoundsbath.com/"
+      "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "full-menu",
-      "confidence": "confirmed",
-      "source": "https://hareandhoundsbath.com/"
+      "category": "pub-menu",
+      "confidence": "confirmed"
     },
     "parking": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://hareandhoundsbath.com/"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://hareandhoundsbath.com",
-    "websiteSource": "https://hareandhoundsbath.com/",
-    "instagramUrl": "https://instagram.com/harehoundsbath",
-    "instagramSource": "https://hareandhoundsbath.com/"
+    "instagramUrl": "https://instagram.com/harehoundsbath"
   },
   {
     "id": "hare-hounds-maidstone-node-1776119019",
@@ -27764,14 +27725,6 @@
     "regionId": "london"
   },
   {
-    "id": "jk-banquets-london-way-289799676",
-    "name": "JK Banquets",
-    "lat": 51.4394574,
-    "lon": -0.0519943,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
     "id": "joan-london-node-830477754",
     "name": "Joan",
     "lat": 51.5239027,
@@ -29480,14 +29433,6 @@
     "name": "Kingsway",
     "lat": 52.9243502,
     "lon": -1.5185863,
-    "city": "Derby",
-    "regionId": "derby"
-  },
-  {
-    "id": "kingsway-derby-way-105178849",
-    "name": "Kingsway",
-    "lat": 52.9243393,
-    "lon": -1.5185998,
     "city": "Derby",
     "regionId": "derby"
   },
@@ -38564,14 +38509,6 @@
     "regionId": "manchester"
   },
   {
-    "id": "oddfellows-arms-manchester-way-175677327",
-    "name": "Oddfellows Arms",
-    "lat": 53.5497582,
-    "lon": -2.1903312,
-    "city": "Manchester",
-    "regionId": "manchester"
-  },
-  {
     "id": "oddfellows-arms-manchester-way-185603701",
     "name": "Oddfellows Arms",
     "lat": 53.4842376,
@@ -41785,7 +41722,8 @@
     "lat": 53.484619,
     "lon": -2.2377801,
     "city": "Manchester",
-    "regionId": "manchester"
+    "regionId": "manchester",
+    "websiteUrl": "https://www.pixel-bar.co.uk/manchester"
   },
   {
     "id": "pixel-bar-leeds-node-12386285355",
@@ -41793,7 +41731,8 @@
     "lat": 53.8006787,
     "lon": -1.5483493,
     "city": "Leeds",
-    "regionId": "leeds"
+    "regionId": "leeds",
+    "websiteUrl": "https://www.pixel-bar.co.uk/leeds"
   },
   {
     "id": "pixel-bar-liverpool-liverpool-node-12398773101",
@@ -44900,27 +44839,21 @@
     "county": "Greater London",
     "addressText": "25 North Road, Highgate, London, N6 4BE",
     "googleFormattedAddress": "25 North Road, Highgate, London, N6 4BE",
-    "sourceName": "The Red Lion and Sun",
     "regionId": "london",
     "outdoorArea": {
       "type": "beer-garden",
-      "confidence": "confirmed",
-      "source": "https://www.theredlionandsun.com/social"
+      "confidence": "confirmed"
     },
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "https://www.theredlionandsun.com/social"
+      "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "full-menu",
-      "confidence": "confirmed",
-      "source": "https://www.theredlionandsun.com/eat-drink"
+      "category": "pub-menu",
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.theredlionandsun.com",
-    "websiteSource": "https://www.theredlionandsun.com/",
-    "instagramUrl": "https://instagram.com/theredlionandsun",
-    "instagramSource": "https://www.theredlionandsun.com/"
+    "instagramUrl": "https://instagram.com/theredlionandsun"
   },
   {
     "id": "red-lion-hotel-london-way-1056918105",
@@ -47471,14 +47404,6 @@
     "name": "Rufus T Firefly",
     "lat": 55.8635216,
     "lon": -4.2578216,
-    "city": "Glasgow",
-    "regionId": "glasgow"
-  },
-  {
-    "id": "rufus-t-firefly-glasgow-node-13013780513",
-    "name": "Rufus T Firefly",
-    "lat": 55.8636468,
-    "lon": -4.257751,
     "city": "Glasgow",
     "regionId": "glasgow"
   },
@@ -50047,14 +49972,6 @@
     "name": "Sir John Gibson",
     "lat": 51.4512858,
     "lon": -0.4752273,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
-    "id": "sir-john-gibson-london-way-1414645920",
-    "name": "Sir John Gibson",
-    "lat": 51.4511813,
-    "lon": -0.4753545,
     "city": "London",
     "regionId": "london"
   },
@@ -53047,14 +52964,6 @@
     "name": "Stoke Inn",
     "lat": 50.3809195,
     "lon": -4.165611,
-    "city": "Plymouth",
-    "regionId": "plymouth"
-  },
-  {
-    "id": "stoke-inn-plymouth-way-896638113",
-    "name": "Stoke Inn",
-    "lat": 50.3808266,
-    "lon": -4.1656381,
     "city": "Plymouth",
     "regionId": "plymouth"
   },
@@ -61547,14 +61456,6 @@
     "regionId": "leicester"
   },
   {
-    "id": "the-bridle-lane-tavern-leicester-relation-12529727",
-    "name": "The Bridle Lane Tavern",
-    "lat": 52.6438694,
-    "lon": -1.1267208,
-    "city": "Leicester",
-    "regionId": "leicester"
-  },
-  {
     "id": "the-bridle-path-newcastle-node-4423579546",
     "name": "The Bridle Path",
     "lat": 54.945697,
@@ -63219,22 +63120,23 @@
     "county": "Greater London",
     "addressText": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
     "googleFormattedAddress": "177 South Lambeth Road, Stockwell, London, SW8 1XP",
-    "sourceName": "The Canton Arms",
     "regionId": "london",
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "https://cantonarms.com/bookings/"
+      "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "full-menu",
-      "confidence": "confirmed",
-      "source": "https://cantonarms.com/"
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://cantonarms.com",
-    "websiteSource": "https://cantonarms.com/",
-    "instagramUrl": "https://instagram.com/cantonarms",
-    "instagramSource": "https://cantonarms.com/"
+    "instagramUrl": "https://instagram.com/cantonarms"
   },
   {
     "id": "the-cape-horn-aberdeen-node-927269376",
@@ -68661,27 +68563,21 @@
     "county": "Greater London",
     "addressText": "17 Denman Street, Soho, London, W1D 7HW",
     "googleFormattedAddress": "17 Denman Street, Soho, London, W1D 7HW",
-    "sourceName": "The Devonshire Soho",
     "regionId": "london",
     "outdoorArea": {
       "type": "roof-terrace",
-      "confidence": "confirmed",
-      "source": "https://www.devonshiresoho.co.uk/"
+      "confidence": "confirmed"
     },
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "https://www.devonshiresoho.co.uk/"
+      "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "restaurant-grade",
-      "confidence": "confirmed",
-      "source": "https://www.devonshiresoho.co.uk/"
+      "category": "gastropub",
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.devonshiresoho.co.uk",
-    "websiteSource": "https://www.devonshiresoho.co.uk/",
-    "instagramUrl": "https://instagram.com/devonshiresoho",
-    "instagramSource": "https://www.devonshiresoho.co.uk/"
+    "instagramUrl": "https://instagram.com/devonshiresoho"
   },
   {
     "id": "the-devonshire-arms-london-way-151789101",
@@ -68825,7 +68721,20 @@
     "lat": 54.6015803,
     "lon": -5.9264559,
     "city": "Belfast",
-    "regionId": "belfast"
+    "regionId": "belfast",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://thedirtyonion.com/"
   },
   {
     "id": "the-discovery-middlesbrough-way-1131263361",
@@ -72916,14 +72825,6 @@
     "regionId": "birmingham"
   },
   {
-    "id": "the-fox-birmingham-way-963075623",
-    "name": "The Fox",
-    "lat": 52.4722376,
-    "lon": -1.8956904,
-    "city": "Birmingham",
-    "regionId": "birmingham"
-  },
-  {
     "id": "the-fox-leeds-way-688233445",
     "name": "The Fox",
     "lat": 53.8573088,
@@ -73624,14 +73525,6 @@
     "name": "The Gardeners Arms",
     "lat": 51.6191577,
     "lon": 0.2991936,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
-    "id": "the-gardeners-arms-london-way-1338847029",
-    "name": "The Gardeners Arms",
-    "lat": 51.4100806,
-    "lon": -0.1617316,
     "city": "London",
     "regionId": "london"
   },
@@ -85088,14 +84981,6 @@
     "name": "The Minders Arms",
     "lat": 53.5439177,
     "lon": -2.1715264,
-    "city": "Manchester",
-    "regionId": "manchester"
-  },
-  {
-    "id": "the-minders-arms-manchester-way-175451293",
-    "name": "The Minders Arms",
-    "lat": 53.5439182,
-    "lon": -2.1715984,
     "city": "Manchester",
     "regionId": "manchester"
   },
@@ -100268,14 +100153,6 @@
     "regionId": "london"
   },
   {
-    "id": "the-swan-london-way-1414645898",
-    "name": "The Swan",
-    "lat": 51.4571904,
-    "lon": -0.4802983,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
     "id": "the-swan-liverpool-way-199503235",
     "name": "The Swan",
     "lat": 53.3722465,
@@ -102892,16 +102769,16 @@
     "county": "Suffolk",
     "addressText": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
     "googleFormattedAddress": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
-    "sourceName": "Top 50 Gastropubs The Unruly Pig",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
     "foodOffer": {
-      "category": "restaurant-grade",
-      "confidence": "confirmed",
-      "source": "https://theunrulypig.co.uk/"
+      "category": "gastropub",
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://theunrulypig.co.uk",
-    "websiteSource": "https://theunrulypig.co.uk/",
-    "instagramUrl": "https://instagram.com/unrulypig",
-    "instagramSource": "https://theunrulypig.co.uk/"
+    "instagramUrl": "https://instagram.com/unrulypig"
   },
   {
     "id": "the-unthank-arms-norwich-way-122732862",
@@ -107272,24 +107149,19 @@
     "county": "Gloucestershire",
     "addressText": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
     "googleFormattedAddress": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
-    "sourceName": "Top 50 Gastropubs The Woolpack",
     "foodOffer": {
-      "category": "full-menu",
-      "confidence": "confirmed",
-      "source": "https://www.thewoolpackinn-slad.com/"
+      "category": "pub-menu",
+      "confidence": "confirmed"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.thewoolpackinn-slad.com/"
+      "confidence": "confirmed"
     },
     "parking": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "https://www.thewoolpackinn-slad.com/"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.thewoolpackinn-slad.com",
-    "websiteSource": "https://www.thewoolpackinn-slad.com/"
+    "websiteUrl": "https://www.thewoolpackinn-slad.com"
   },
   {
     "id": "the-world-s-end-london-node-296891969",
@@ -114072,14 +113944,6 @@
     "name": "Ye Olde Swan",
     "lat": 51.3929194,
     "lon": -0.3317479,
-    "city": "London",
-    "regionId": "london"
-  },
-  {
-    "id": "ye-olde-swan-london-way-1232394923",
-    "name": "Ye Olde Swan",
-    "lat": 51.3929178,
-    "lon": -0.3318583,
     "city": "London",
     "regionId": "london"
   },
