@@ -24405,7 +24405,7 @@
       "source": "https://hareandhoundsbath.com/"
     },
     "foodOffer": {
-      "category": "full-menu",
+      "category": "pub-menu",
       "confidence": "confirmed",
       "source": "https://hareandhoundsbath.com/"
     },
@@ -41785,7 +41785,9 @@
     "lat": 53.484619,
     "lon": -2.2377801,
     "city": "Manchester",
-    "regionId": "manchester"
+    "regionId": "manchester",
+    "websiteUrl": "https://www.pixel-bar.co.uk/manchester",
+    "websiteSource": "https://www.pixel-bar.co.uk/manchester"
   },
   {
     "id": "pixel-bar-leeds-node-12386285355",
@@ -41793,7 +41795,9 @@
     "lat": 53.8006787,
     "lon": -1.5483493,
     "city": "Leeds",
-    "regionId": "leeds"
+    "regionId": "leeds",
+    "websiteUrl": "https://www.pixel-bar.co.uk/leeds",
+    "websiteSource": "https://www.pixel-bar.co.uk/leeds"
   },
   {
     "id": "pixel-bar-liverpool-liverpool-node-12398773101",
@@ -44913,7 +44917,7 @@
       "source": "https://www.theredlionandsun.com/social"
     },
     "foodOffer": {
-      "category": "full-menu",
+      "category": "pub-menu",
       "confidence": "confirmed",
       "source": "https://www.theredlionandsun.com/eat-drink"
     },
@@ -63227,9 +63231,16 @@
       "source": "https://cantonarms.com/bookings/"
     },
     "foodOffer": {
-      "category": "full-menu",
+      "category": "pub-menu",
       "confidence": "confirmed",
       "source": "https://cantonarms.com/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://cantonarms.com/wp-content/uploads/2024/09/Canton-Lunch-Menu.pdf"
     },
     "websiteUrl": "https://cantonarms.com",
     "websiteSource": "https://cantonarms.com/",
@@ -68674,7 +68685,7 @@
       "source": "https://www.devonshiresoho.co.uk/"
     },
     "foodOffer": {
-      "category": "restaurant-grade",
+      "category": "gastropub",
       "confidence": "confirmed",
       "source": "https://www.devonshiresoho.co.uk/"
     },
@@ -68825,7 +68836,24 @@
     "lat": 54.6015803,
     "lon": -5.9264559,
     "city": "Belfast",
-    "regionId": "belfast"
+    "regionId": "belfast",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed",
+      "source": "https://thedirtyonion.com/"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://thedirtyonion.com/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://thedirtyonion.com/whats-on"
+    },
+    "websiteUrl": "https://thedirtyonion.com/",
+    "websiteSource": "https://thedirtyonion.com/"
   },
   {
     "id": "the-discovery-middlesbrough-way-1131263361",
@@ -102893,8 +102921,13 @@
     "addressText": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
     "googleFormattedAddress": "Orford Road, Bromeswell, Woodbridge, Suffolk, IP12 2PU",
     "sourceName": "Top 50 Gastropubs The Unruly Pig",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed",
+      "source": "https://theunrulypig.co.uk/book/"
+    },
     "foodOffer": {
-      "category": "restaurant-grade",
+      "category": "gastropub",
       "confidence": "confirmed",
       "source": "https://theunrulypig.co.uk/"
     },
@@ -107274,7 +107307,7 @@
     "googleFormattedAddress": "Slad Road, Slad, Stroud, Gloucestershire, GL6 7QD",
     "sourceName": "Top 50 Gastropubs The Woolpack",
     "foodOffer": {
-      "category": "full-menu",
+      "category": "pub-menu",
       "confidence": "confirmed",
       "source": "https://www.thewoolpackinn-slad.com/"
     },
