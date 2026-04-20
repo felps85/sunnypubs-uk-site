@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hyde-park-london",
+    "name": "Hyde Park",
+    "type": "park",
+    "regionLabel": "London",
+    "locationLabel": "Hyde Park, London",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/hyde-park",
+    "instagramUrl": "https://instagram.com/theroyalparks"
+  },
+  {
+    "id": "st-jamess-park-london",
+    "name": "St. James's Park",
+    "type": "park",
+    "regionLabel": "London",
+    "locationLabel": "St. James's Park, London",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "no",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park",
+    "instagramUrl": "https://instagram.com/theroyalparks"
+  },
+  {
+    "id": "regents-park-primrose-hill-london",
+    "name": "The Regent's Park & Primrose Hill",
+    "type": "park",
+    "regionLabel": "London",
+    "locationLabel": "The Regent's Park, London",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://www.royalparks.org.uk/parks/the-regents-park",
+    "instagramUrl": "https://instagram.com/theroyalparks"
+  }
+]
