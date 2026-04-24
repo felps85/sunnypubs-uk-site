@@ -1,0 +1,21 @@
+[
+  {
+    "id": "moor-hall-aughton",
+    "name": "Moor Hall",
+    "type": "restaurant",
+    "regionLabel": "Lancashire",
+    "locationLabel": "Prescot Road, Aughton, Lancashire, L39 6RT",
+    "sourceKind": "official-site",
+    "sourceName": "Moor Hall Restaurant with Rooms",
+    "sourceUrl": "https://moorhall.com/",
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://moorhall.com/moor-hall/menus"
+    },
+    "websiteUrl": "https://moorhall.com",
+    "websiteSource": "https://moorhall.com/",
+    "instagramUrl": "https://instagram.com/restaurantmoorhall",
+    "instagramSource": "https://moorhall.com/"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "vaughans-anchor-inn-liscannor",
+    "name": "Vaughans Anchor Inn",
+    "type": "restaurant",
+    "regionLabel": "Clare",
+    "locationLabel": "Liscannor, Co. Clare",
+    "lat": 52.9385814,
+    "lon": -9.390816899999999,
+    "sourceKind": "internal-manual-review",
+    "sourceName": "Internal manual discovery review",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "vaughans.ie"
+    },
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://vaughans.ie/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich",
+        "burger"
+      ],
+      "confidence": "confirmed",
+      "source": "https://vaughans.ie/"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://vaughans.ie/"
+    },
+    "websiteUrl": "https://vaughans.ie",
+    "websiteSource": "https://vaughans.ie/",
+    "instagramUrl": "https://instagram.com/vaughansanchor",
+    "instagramSource": "https://vaughans.ie/"
+  },
+  {
+    "id": "an-poitin-stil-rathcoole",
+    "name": "An Poitin Stil",
+    "type": "restaurant",
+    "regionLabel": "Dublin",
+    "locationLabel": "Naas Road, Rathcoole, Co. Dublin, D24 XNR0",
+    "lat": 53.2811683,
+    "lon": -6.4768954,
+    "sourceKind": "internal-manual-review",
+    "sourceName": "Internal manual discovery review",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "likely",
+      "source": "tripadvisor.com"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://anpoitinstil.ie/dining/"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://anpoitinstil.ie/dining/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://anpoitinstil.ie/events/"
+    },
+    "websiteUrl": "https://anpoitinstil.ie",
+    "websiteSource": "https://anpoitinstil.ie/",
+    "instagramUrl": "https://instagram.com/an_poitin_stil",
+    "instagramSource": "https://anpoitinstil.ie/"
+  },
+  {
+    "id": "chapter-one-mickael-viljanen-dublin",
+    "name": "Chapter One by Mickael Viljanen",
+    "type": "restaurant",
+    "regionLabel": "Dublin",
+    "locationLabel": "18-19 Parnell Square North, Dublin 1, D01 T3V8",
+    "sourceKind": "official-site",
+    "sourceName": "Chapter One Restaurant",
+    "sourceUrl": "https://chapteronerestaurant.com/",
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://chapteronerestaurant.com/"
+    },
+    "websiteUrl": "https://chapteronerestaurant.com",
+    "websiteSource": "https://chapteronerestaurant.com/",
+    "instagramUrl": "https://instagram.com/chapteronebymickaelviljanen",
+    "instagramSource": "https://chapteronerestaurant.com/"
+  },
+  {
+    "id": "charlotte-quay-dublin",
+    "name": "Charlotte Quay",
+    "type": "restaurant",
+    "regionLabel": "Dublin",
+    "locationLabel": "Charlotte Quay Dock, Millennium Tower, Ground Floor, Ringsend Rd, Dublin 4, D04 H9F8",
+    "lat": 53.3428817,
+    "lon": -6.2369889,
+    "sourceKind": "official-site",
+    "sourceName": "Bereen Brothers",
+    "sourceUrl": "https://bereenbrothers.com/charlotte-quay",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed",
+      "source": "https://bereenbrothers.com/charlotte-quay"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "https://www.visitdublin.com/charlotte-quay-restaurant"
+    },
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed",
+      "source": "https://bereenbrothers.com/charlotte-quay"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://bereenbrothers.com/media/pages/charlotte-quay/e4d0abf403-1774360017/cq-lunch-march-2026.docx.pdf"
+    },
+    "websiteUrl": "https://bereenbrothers.com/charlotte-quay",
+    "websiteSource": "https://bereenbrothers.com/charlotte-quay",
+    "instagramUrl": "https://instagram.com/charlottequay",
+    "instagramSource": "https://bereenbrothers.com/charlotte-quay"
+  },
+  {
+    "id": "the-reg-waterford",
+    "name": "The Reg",
+    "type": "restaurant",
+    "regionLabel": "Waterford",
+    "locationLabel": "2 The Mall, Waterford, Co. Waterford, X91 W866",
+    "lat": 52.26033160000001,
+    "lon": -7.105473,
+    "sourceKind": "internal-manual-review",
+    "sourceName": "Internal manual discovery review",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed",
+      "source": "thereg.ie"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://thereg.ie/suas-restaurant-and-terrace/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://thereg.ie/the-reg-launch-new-casual-dining-menu/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://thereg.ie/suas-restaurant-and-terrace/"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://thereg.ie/the-reg-venue/"
+    },
+    "websiteUrl": "https://thereg.ie",
+    "websiteSource": "https://thereg.ie/suas-restaurant-and-terrace/",
+    "instagramUrl": "https://instagram.com/theregwaterford",
+    "instagramSource": "https://thereg.ie/"
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "bh-north-dublin-1",
+    "name": "Brother Hubbard North",
+    "type": "cafe",
+    "regionLabel": "Dublin",
+    "locationLabel": "153 Capel St, Dublin 01",
+    "sourceKind": "official-site",
+    "sourceName": "Brother Hubbard locations",
+    "sourceUrl": "https://brotherhubbard.ie/locations/",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "likely",
+      "source": "opentable.com"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://brotherhubbard.ie/locations/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://brotherhubbard.ie/wp-content/uploads/2025/08/BHN-Brunch-Lunch-250825.pdf"
+    },
+    "websiteUrl": "https://brotherhubbard.ie",
+    "websiteSource": "https://brotherhubbard.ie/locations/",
+    "instagramUrl": "https://instagram.com/brotherhubbardcafes",
+    "instagramSource": "https://brotherhubbard.ie/locations/"
+  },
+  {
+    "id": "tang-abbey-street-dublin-1",
+    "name": "Tang Abbey Street",
+    "type": "cafe",
+    "regionLabel": "Dublin",
+    "locationLabel": "9a Abbey Street Lwr, Dublin 1",
+    "sourceKind": "official-site",
+    "sourceName": "Tang contact",
+    "sourceUrl": "https://www.tang.ie/contact",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "tableagent.com"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.tang.ie/contact"
+    },
+    "websiteUrl": "https://www.tang.ie",
+    "websiteSource": "https://www.tang.ie/contact",
+    "instagramUrl": "https://instagram.com/tangfood",
+    "instagramSource": "https://www.tang.ie/contact"
+  },
+  {
+    "id": "two-pups-coffee-liberties-dublin-1",
+    "name": "Two Pups Coffee",
+    "type": "cafe",
+    "regionLabel": "Dublin",
+    "locationLabel": "74 Francis St, The Liberties, Dublin 8",
+    "sourceKind": "official-site",
+    "sourceName": "Two Pups Coffee contact",
+    "sourceUrl": "https://www.twopupscoffee.com/contact",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "likely",
+      "source": "visitdublin.com"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "visitdublin.com"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://www.twopupscoffee.com/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://order.toasttab.com/online/two-pups-francis-street/item-ham-slaw-takeaway_e796cd94-9632-49fb-9d37-3668bec0b38a"
+    },
+    "websiteUrl": "https://www.twopupscoffee.com",
+    "websiteSource": "https://www.twopupscoffee.com/contact",
+    "instagramUrl": "https://instagram.com/two_pups_coffee",
+    "instagramSource": "https://www.twopupscoffee.com/"
+  },
+  {
+    "id": "urbanity-smithfield-dublin-1",
+    "name": "Urbanity",
+    "type": "cafe",
+    "regionLabel": "Dublin",
+    "locationLabel": "11 Coke Lane, Smithfield, Dublin 7",
+    "sourceKind": "official-site",
+    "sourceName": "Urbanity contact",
+    "sourceUrl": "https://urbanity.ie/contact-us/",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely",
+      "source": "visitdublin.com"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed",
+      "source": "https://urbanity.ie/menu/"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed",
+      "source": "https://urbanity.ie/menu/"
+    },
+    "websiteUrl": "https://urbanity.ie",
+    "websiteSource": "https://urbanity.ie/contact-us/",
+    "instagramUrl": "https://instagram.com/urbanitydub",
+    "instagramSource": "https://urbanity.ie/contact-us/"
+  }
+]
