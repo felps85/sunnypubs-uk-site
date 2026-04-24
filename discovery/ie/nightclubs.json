@@ -8,12 +8,18 @@
     "locationLabel": "23-31 Bradbury Place, Belfast, BT7 1RR",
     "lat": 54.588933,
     "lon": -5.935179,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/364180385",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://alibibelfast.com",
-    "instagramUrl": "https://instagram.com/alibibelfast"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/alibibelfast",
+    "instagramSource": "https://alibibelfast.com/"
   },
   {
     "id": "nightclubs-the-kremlin-node-4513738301",
@@ -24,8 +30,13 @@
     "locationLabel": "96 Donegall Street, Belfast, BT1 2GW",
     "lat": 54.603896,
     "lon": -5.930842,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4513738301",
     "websiteUrl": "https://www.kremlin-belfast.com",
-    "instagramUrl": "https://instagram.com/kremlinbelfast"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/kremlinbelfast",
+    "instagramSource": "https://www.kremlin-belfast.com/"
   },
   {
     "id": "nightclubs-the-limelight-way-256651844",
@@ -36,11 +47,16 @@
     "locationLabel": "17A Ormeau Avenue, Belfast, BT2 8HD",
     "lat": 54.592863,
     "lon": -5.928543,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/256651844",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.limelightbelfast.com"
+    "websiteUrl": "https://www.limelightbelfast.com",
+    "websiteSource": "https://www.limelightbelfast.com/"
   },
   {
     "id": "nightclubs-cyprus-avenue-node-11925173866",
@@ -51,12 +67,18 @@
     "locationLabel": "113 Oliver Plunkett Street, Cork, T12 PY8A",
     "lat": 51.898343,
     "lon": -8.469812,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11925173866",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://www.cyprusavenue.ie",
-    "instagramUrl": "https://instagram.com/cyprusavenuecork"
+    "websiteSource": "https://www.cyprusavenue.ie/",
+    "instagramUrl": "https://instagram.com/cyprusavenuecork",
+    "instagramSource": "https://www.cyprusavenue.ie/"
   },
   {
     "id": "nightclubs-voodoo-rooms-node-5814718249",
@@ -67,12 +89,18 @@
     "locationLabel": "74 Oliver Plunkett Street, Cork",
     "lat": 51.897296,
     "lon": -8.474138,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5814718249",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://voodoorooms.ie",
-    "instagramUrl": "https://instagram.com/voodoorooms"
+    "websiteSource": "https://voodoorooms.ie/",
+    "instagramUrl": "https://instagram.com/voodoorooms",
+    "instagramSource": "https://voodoorooms.ie/"
   },
   {
     "id": "nightclubs-block-node-13457855285",
@@ -83,8 +111,13 @@
     "locationLabel": "13-14 Libery Lane, Dublin, D08 NF86",
     "lat": 53.336674,
     "lon": -6.266342,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13457855285",
     "websiteUrl": "https://www.blockdublin.com",
-    "instagramUrl": "https://instagram.com/block.dublin"
+    "websiteSource": "https://www.blockdublin.com/",
+    "instagramUrl": "https://instagram.com/block.dublin",
+    "instagramSource": "https://www.blockdublin.com/"
   },
   {
     "id": "nightclubs-club-m-node-278857890",
@@ -95,7 +128,11 @@
     "locationLabel": "Cope Street, Dublin",
     "lat": 53.344813,
     "lon": -6.26233,
-    "websiteUrl": "https://clubm.ie"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/278857890",
+    "websiteUrl": "https://clubm.ie",
+    "websiteSource": "https://clubm.ie/"
   },
   {
     "id": "copper-face-jacks-dublin",
@@ -105,13 +142,19 @@
     "locationLabel": "29-30 Harcourt Street, Dublin 2, D02 XV58",
     "lat": 53.335436,
     "lon": -6.2635091,
+    "sourceKind": "official-site",
+    "sourceName": "Copper Face Jacks official site",
+    "sourceUrl": "https://copperfacejacks.ie/nightclub/",
     "regionId": "dublin",
     "outdoorArea": {
       "type": "beer-garden",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "https://copperfacejacks.ie/nightclub/"
     },
     "websiteUrl": "https://copperfacejacks.ie",
-    "instagramUrl": "https://instagram.com/copperfacejacks"
+    "websiteSource": "https://copperfacejacks.ie/nightclub/",
+    "instagramUrl": "https://instagram.com/copperfacejacks",
+    "instagramSource": "https://copperfacejacks.ie/"
   },
   {
     "id": "nightclubs-d-two-node-775415426",
@@ -122,7 +165,11 @@
     "locationLabel": "60 Harcourt Street, Dublin, D02 P902",
     "lat": 53.334454,
     "lon": -6.26284,
-    "websiteUrl": "https://www.dtwonightclub.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/775415426",
+    "websiteUrl": "https://www.dtwonightclub.com",
+    "websiteSource": "https://www.dtwonightclub.com/"
   },
   {
     "id": "nightclubs-fitzsimons-node-6257799735",
@@ -133,12 +180,18 @@
     "locationLabel": "21-22 Wellington Quay, Dublin, D02 YK79",
     "lat": 53.345608,
     "lon": -6.265181,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6257799735",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://www.fitzsimonsbar.ie/nightclub",
-    "instagramUrl": "https://instagram.com/fitzsimonsbar"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/fitzsimonsbar",
+    "instagramSource": "https://www.fitzsimonsbar.ie/nightclub"
   },
   {
     "id": "nightclubs-house-dublin-node-4209884820",
@@ -149,8 +202,13 @@
     "locationLabel": "27 Leeson Street Lower, Dublin",
     "lat": 53.334011,
     "lon": -6.255159,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4209884820",
     "websiteUrl": "https://www.housedublin.ie",
-    "instagramUrl": "https://instagram.com/housedublin2"
+    "websiteSource": "https://www.housedublin.ie/stay/",
+    "instagramUrl": "https://instagram.com/housedublin2",
+    "instagramSource": "https://www.housedublin.ie/"
   },
   {
     "id": "nightclubs-index-dublin-node-13432368201",
@@ -161,8 +219,13 @@
     "locationLabel": "57 Middle Abbey Street",
     "lat": 53.347986,
     "lon": -6.261852,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13432368201",
     "websiteUrl": "https://www.indexdublin.com",
-    "instagramUrl": "https://instagram.com/indexdublin"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/indexdublin",
+    "instagramSource": "https://www.indexdublin.com/"
   },
   {
     "id": "opium-live-dublin",
@@ -172,13 +235,19 @@
     "locationLabel": "26 Wexford Street, Dublin 2, D02 HX93",
     "lat": 53.3366886,
     "lon": -6.2660368,
+    "sourceKind": "official-site",
+    "sourceName": "Opium official site",
+    "sourceUrl": "https://opium.ie/spaces/club/",
     "regionId": "dublin",
     "dj": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "https://opium.ie/spaces/club/"
     },
     "websiteUrl": "https://opium.ie/spaces/club",
-    "instagramUrl": "https://instagram.com/opiumdublin"
+    "websiteSource": "https://opium.ie/spaces/club/",
+    "instagramUrl": "https://instagram.com/opiumdublin",
+    "instagramSource": "https://opium.ie/"
   },
   {
     "id": "nightclubs-rain-node-778699198",
@@ -189,7 +258,11 @@
     "locationLabel": "33 Richmond Street South",
     "lat": 53.3304,
     "lon": -6.264112,
-    "websiteUrl": "https://portobellohotel.ie/Dublin-Nightclub"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/778699198",
+    "websiteUrl": "https://portobellohotel.ie/Dublin-Nightclub",
+    "websiteSource": "https://portobellohotel.ie/Dublin-Nightclub"
   },
   {
     "id": "nightclubs-tramline-node-2885169530",
@@ -200,11 +273,16 @@
     "locationLabel": "D'Olier Street, Dublin",
     "lat": 53.346445,
     "lon": -6.257873,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2885169530",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.tramline.ie"
+    "websiteUrl": "https://www.tramline.ie",
+    "websiteSource": "https://www.tramline.ie/"
   },
   {
     "id": "nightclubs-yamamori-tengu-node-13432378601",
@@ -215,7 +293,11 @@
     "locationLabel": "37 Great Strand Street",
     "lat": 53.347006,
     "lon": -6.26391,
-    "websiteUrl": "https://www.yamamori.ie/night-life"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13432378601",
+    "websiteUrl": "https://www.yamamori.ie/night-life",
+    "websiteSource": "https://www.yamamori.ie/night-life"
   },
   {
     "id": "nightclubs-dna-node-6763852524",
@@ -226,7 +308,11 @@
     "locationLabel": "Ballalley Lane, Galway, H91 CFX5",
     "lat": 53.273967,
     "lon": -9.050429,
-    "websiteUrl": "https://www.dnagalway.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6763852524",
+    "websiteUrl": "https://www.dnagalway.com",
+    "websiteSource": "https://www.dnagalway.com/"
   },
   {
     "id": "nightclubs-electric-node-8004189199",
@@ -237,12 +323,18 @@
     "locationLabel": "36 Abbeygate Street Upper, Galway",
     "lat": 53.273733,
     "lon": -9.05283,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/8004189199",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://electricgalway.com",
-    "instagramUrl": "https://instagram.com/electricgalway"
+    "websiteSource": "https://electricgalway.com/",
+    "instagramUrl": "https://instagram.com/electricgalway",
+    "instagramSource": "https://electricgalway.com/"
   },
   {
     "id": "nightclubs-the-grand-node-6859936149",
@@ -253,16 +345,23 @@
     "locationLabel": "17 Main Street, Killarney, Kerry, V93 X6FP",
     "lat": 52.058157,
     "lon": -9.509025,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6859936149",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "dj": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "https://www.killarneygrand.com/venue"
     },
     "websiteUrl": "https://www.killarneygrand.com",
-    "instagramUrl": "https://instagram.com/killarneygrandofficial"
+    "websiteSource": "https://www.killarneygrand.com/",
+    "instagramUrl": "https://instagram.com/killarneygrandofficial",
+    "instagramSource": "https://www.killarneygrand.com/"
   },
   {
     "id": "nightclubs-angel-lane-night-club-node-2177640720",
@@ -273,7 +372,12 @@
     "locationLabel": "Robert Street, Limerick",
     "lat": 52.663735,
     "lon": -8.622965,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2177640720",
     "websiteUrl": "https://angellanenightclub.ie",
-    "instagramUrl": "https://instagram.com/angellanenightclub"
+    "websiteSource": "https://angellanenightclub.ie/",
+    "instagramUrl": "https://instagram.com/angellanenightclub",
+    "instagramSource": "https://angellanenightclub.ie/"
   }
 ]

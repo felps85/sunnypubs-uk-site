@@ -8,7 +8,11 @@
     "locationLabel": "491 Union Street, Aberdeen, AB11 6DB",
     "lat": 57.142942,
     "lon": -2.111264,
-    "websiteUrl": "https://www.491unionstreet.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9584818414",
+    "websiteUrl": "https://www.491unionstreet.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-node-9209792488",
@@ -19,7 +23,11 @@
     "locationLabel": "Schoolhill, Aberdeen, AB10 1JT",
     "lat": 57.147595,
     "lon": -2.102628,
-    "websiteUrl": "https://www.popworldparty.co.uk/aberdeen"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9209792488",
+    "websiteUrl": "https://www.popworldparty.co.uk/aberdeen",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-club-lomah-node-524896167",
@@ -30,11 +38,16 @@
     "locationLabel": "90b Walcot Street, BA1 5BG",
     "lat": 51.386414,
     "lon": -2.359384,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/524896167",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.walcothousebath.com"
+    "websiteUrl": "https://www.walcothousebath.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-labyrinth-node-300010441",
@@ -45,11 +58,16 @@
     "locationLabel": "8-9 North Parade, Bath, BA2 4AL",
     "lat": 51.380688,
     "lon": -2.356924,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/300010441",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.labyrinthbath.com"
+    "websiteUrl": "https://www.labyrinthbath.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-alibi-way-364180385",
@@ -60,12 +78,18 @@
     "locationLabel": "23-31 Bradbury Place, Belfast, BT7 1RR",
     "lat": 54.588933,
     "lon": -5.935179,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/364180385",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://alibibelfast.com",
-    "instagramUrl": "https://instagram.com/alibibelfast"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/alibibelfast",
+    "instagramSource": "https://alibibelfast.com/"
   },
   {
     "id": "nightclubs-the-kremlin-node-4513738301",
@@ -76,7 +100,11 @@
     "locationLabel": "96 Donegall Street, Belfast, BT1 2GW",
     "lat": 54.603896,
     "lon": -5.930842,
-    "websiteUrl": "https://www.kremlin-belfast.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4513738301",
+    "websiteUrl": "https://www.kremlin-belfast.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-limelight-way-256651844",
@@ -87,11 +115,16 @@
     "locationLabel": "17A Ormeau Avenue, Belfast, BT2 8HD",
     "lat": 54.592863,
     "lon": -5.928543,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/256651844",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.limelightbelfast.com"
+    "websiteUrl": "https://www.limelightbelfast.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-great-barr-conservative-club-node-2142641275",
@@ -102,7 +135,11 @@
     "locationLabel": "6A Newton Road, B43 6BN",
     "lat": 52.545409,
     "lon": -1.934446,
-    "websiteUrl": "https://www.greatbarrcons.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2142641275",
+    "websiteUrl": "https://www.greatbarrcons.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-pop-world-way-32005713",
@@ -113,7 +150,11 @@
     "locationLabel": "Broad Street, Birmingham, B1 2HJ",
     "lat": 52.477122,
     "lon": -1.912263,
-    "websiteUrl": "https://www.popworldparty.co.uk/birmingham"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/32005713",
+    "websiteUrl": "https://www.popworldparty.co.uk/birmingham",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-rosies-node-5562950662",
@@ -124,7 +165,11 @@
     "locationLabel": "259-262 Broad Street, Birmingham, B1 2HF",
     "lat": 52.477327,
     "lon": -1.911114,
-    "websiteUrl": "https://www.rosiesclubs.co.uk/birmingham"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5562950662",
+    "websiteUrl": "https://www.rosiesclubs.co.uk/birmingham",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-snobs-node-3117288068",
@@ -135,7 +180,11 @@
     "locationLabel": "200 Broad Street, Birmingham, B15 1SU",
     "lat": 52.475252,
     "lon": -1.913925,
-    "websiteUrl": "https://www.snobsnightclub.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3117288068",
+    "websiteUrl": "https://www.snobsnightclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-146615133",
@@ -146,7 +195,11 @@
     "locationLabel": "120-122 Promenade, Blackpool, FY1 1RA",
     "lat": 53.819443,
     "lon": -3.055186,
-    "websiteUrl": "https://www.popworldparty.co.uk/blackpool"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/146615133",
+    "websiteUrl": "https://www.popworldparty.co.uk/blackpool",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-brighton-music-hall-node-6979189202",
@@ -157,8 +210,13 @@
     "locationLabel": "127-131 King's Road Arches, Brighton, BN1 2FN",
     "lat": 50.820732,
     "lon": -0.146637,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6979189202",
     "websiteUrl": "https://www.brightonmusichall.co.uk",
-    "instagramUrl": "https://instagram.com/btnmusichall"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/btnmusichall",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-casablanca-jazz-club-node-1155446685",
@@ -169,7 +227,11 @@
     "locationLabel": "5 Middle Street, BN1 1AL",
     "lat": 50.820854,
     "lon": -0.143418,
-    "websiteUrl": "https://www.casablancajazzclub.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1155446685",
+    "websiteUrl": "https://www.casablancajazzclub.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-tide-club-node-11182160517",
@@ -180,8 +242,13 @@
     "locationLabel": "Brighton",
     "lat": 50.819682,
     "lon": -0.141356,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11182160517",
     "websiteUrl": "https://tidenightclub.com",
-    "instagramUrl": "https://instagram.com/tidenightclub"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/tidenightclub",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-electric-way-466509541",
@@ -192,7 +259,11 @@
     "locationLabel": "15 Nelson Street, Bristol, BS1 2JY",
     "lat": 51.456578,
     "lon": -2.592051,
-    "websiteUrl": "https://electricbristol.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/466509541",
+    "websiteUrl": "https://electricbristol.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-exchange-way-126148590",
@@ -203,15 +274,21 @@
     "locationLabel": "72-73 Old Market Street, Bristol, BS2 0EJ",
     "lat": 51.455515,
     "lon": -2.58279,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/126148590",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://exchangebristol.com"
+    "websiteUrl": "https://exchangebristol.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-motion-node-13285867957",
@@ -222,8 +299,13 @@
     "locationLabel": "2 Victoria Terrace, Bristol, BS2 0TD",
     "lat": 51.448719,
     "lon": -2.56901,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13285867957",
     "websiteUrl": "https://motion-bristol.com",
-    "instagramUrl": "https://instagram.com/motionbristol"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/motionbristol",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-123969955",
@@ -234,11 +316,16 @@
     "locationLabel": "16-24 Baldwin Street, Bristol, BS1 1SE",
     "lat": 51.453258,
     "lon": -2.595292,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/123969955",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.popworldparty.co.uk/bristol"
+    "websiteUrl": "https://www.popworldparty.co.uk/bristol",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-strange-brew-way-479616156",
@@ -249,7 +336,11 @@
     "locationLabel": "Fairfax Street, Bristol, BS1 3DB",
     "lat": 51.4563,
     "lon": -2.592347,
-    "websiteUrl": "https://www.strangebrewbristol.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/479616156",
+    "websiteUrl": "https://www.strangebrewbristol.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-shilling-way-380874326",
@@ -260,7 +351,11 @@
     "locationLabel": "9 Frogmore Street, Bristol, BS1 5NA",
     "lat": 51.453692,
     "lon": -2.60098,
-    "websiteUrl": "https://www.queenshilling.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/380874326",
+    "websiteUrl": "https://www.queenshilling.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-thekla-way-90958156",
@@ -271,11 +366,16 @@
     "locationLabel": "The Grove, Bristol, BS1 4RB",
     "lat": 51.448976,
     "lon": -2.594195,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/90958156",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.theklabristol.co.uk"
+    "websiteUrl": "https://www.theklabristol.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-circuit-node-7590302141",
@@ -286,7 +386,11 @@
     "locationLabel": "Greyfriars Road, Cardiff, CF10 3DP",
     "lat": 51.483208,
     "lon": -3.175591,
-    "websiteUrl": "https://circuitclub.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/7590302141",
+    "websiteUrl": "https://circuitclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-clwb-ifor-bach-node-852071475",
@@ -297,7 +401,11 @@
     "locationLabel": "11 Womanby Street, Cardiff, CF10 1BR",
     "lat": 51.480524,
     "lon": -3.181523,
-    "websiteUrl": "https://clwb.net"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/852071475",
+    "websiteUrl": "https://clwb.net",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-district-node-11136823955",
@@ -308,8 +416,13 @@
     "locationLabel": "2 Greyfriars Road, Cardiff, CF10 3AD",
     "lat": 51.483256,
     "lon": -3.175754,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11136823955",
     "websiteUrl": "https://districtnightclub.co.uk/club/cardiff",
-    "instagramUrl": "https://instagram.com/districtcardiff"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/districtcardiff",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-pop-world-node-6535979845",
@@ -320,7 +433,11 @@
     "locationLabel": "96 Saint Mary Street, Cardiff, CF10 1DX",
     "lat": 51.478663,
     "lon": -3.178543,
-    "websiteUrl": "https://www.popworldparty.co.uk/cardiff"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6535979845",
+    "websiteUrl": "https://www.popworldparty.co.uk/cardiff",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-pulse-node-1104510171",
@@ -331,12 +448,18 @@
     "locationLabel": "3 Churchill Way, Cardiff, CF10 2HD",
     "lat": 51.482173,
     "lon": -3.172781,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1104510171",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://www.pulsecardiff.com",
-    "instagramUrl": "https://instagram.com/pulsecardiff"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/pulsecardiff",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-y-plas-node-6865047467",
@@ -347,11 +470,16 @@
     "locationLabel": "Senghennydd Road, Cardiff, CF24 4YE",
     "lat": 51.488381,
     "lon": -3.177222,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6865047467",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.cardiffstudents.com/venues/y-plas"
+    "websiteUrl": "https://www.cardiffstudents.com/venues/y-plas",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-palm-beach-club-way-198678844",
@@ -362,7 +490,11 @@
     "locationLabel": "3-7 Park Street, Croydon, CR0 1YD",
     "lat": 51.373471,
     "lon": -0.099333,
-    "websiteUrl": "https://badapple.co"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/198678844",
+    "websiteUrl": "https://badapple.co",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-fever-way-116042877",
@@ -373,8 +505,13 @@
     "locationLabel": "7-11 Wardwick, Derby, DE1 1HA",
     "lat": 52.922067,
     "lon": -1.479324,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/116042877",
     "websiteUrl": "https://www.feverbars.co.uk/derby",
-    "instagramUrl": "https://instagram.com/fever.clubrooms"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/fever.clubrooms",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-moomoo-node-5537591658",
@@ -385,8 +522,13 @@
     "locationLabel": "5A Saint James's Street, Derby, DE1 1QT",
     "lat": 52.922522,
     "lon": -1.477497,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5537591658",
     "websiteUrl": "https://www.moomooderby.com",
-    "instagramUrl": "https://instagram.com/moomooderby"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/moomooderby",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-the-blue-note-club-node-1438242149",
@@ -397,8 +539,13 @@
     "locationLabel": "14a Sadler Gate, Derby, DE1 3NF",
     "lat": 52.923392,
     "lon": -1.478532,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1438242149",
     "websiteUrl": "https://www.thebluenotederby.com",
-    "instagramUrl": "https://instagram.com/explore"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/explore",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-hangar-5-node-522823456",
@@ -409,11 +556,16 @@
     "locationLabel": "Edinburgh",
     "lat": 55.946008,
     "lon": -3.188205,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/522823456",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.eusa.ed.ac.uk/eatdrinkshop/findaspace/hangar5"
+    "websiteUrl": "https://www.eusa.ed.ac.uk/eatdrinkshop/findaspace/hangar5",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-la-belle-angele-node-3259778902",
@@ -424,7 +576,11 @@
     "locationLabel": "11 Hastie's Close, Edinburgh, EH1 1HJ",
     "lat": 55.948377,
     "lon": -3.187389,
-    "websiteUrl": "https://la-belleangele.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3259778902",
+    "websiteUrl": "https://la-belleangele.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-shanghai-club-node-11042738372",
@@ -435,7 +591,11 @@
     "locationLabel": "16 George Street, Edinburgh, EH2 2PF",
     "lat": 55.953566,
     "lon": -3.196077,
-    "websiteUrl": "https://shanghaiclub.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11042738372",
+    "websiteUrl": "https://shanghaiclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-stramash-node-3829574791",
@@ -446,7 +606,11 @@
     "locationLabel": "209 Cowgate, Edinburgh, EH1 1JQ",
     "lat": 55.948563,
     "lon": -3.187798,
-    "websiteUrl": "https://www.stramashedinburgh.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3829574791",
+    "websiteUrl": "https://www.stramashedinburgh.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-bongo-club-node-4166866989",
@@ -457,7 +621,11 @@
     "locationLabel": "66 Cowgate, Edinburgh, EH1 1JX",
     "lat": 55.948208,
     "lon": -3.192104,
-    "websiteUrl": "https://www.thebongoclub.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4166866989",
+    "websiteUrl": "https://www.thebongoclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-liquid-room-node-3007617849",
@@ -468,7 +636,11 @@
     "locationLabel": "9C Victoria Street, Edinburgh, EH1 2HE",
     "lat": 55.948521,
     "lon": -3.193734,
-    "websiteUrl": "https://www.liquidroom.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3007617849",
+    "websiteUrl": "https://www.liquidroom.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-mash-house-node-3259772347",
@@ -479,7 +651,11 @@
     "locationLabel": "37 Guthrie Street, Edinburgh, EH1 1JG",
     "lat": 55.948368,
     "lon": -3.18764,
-    "websiteUrl": "https://themashhouse.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3259772347",
+    "websiteUrl": "https://themashhouse.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-whynot-node-2415446250",
@@ -490,7 +666,11 @@
     "locationLabel": "14 George Street, Edinburgh, EH2 2PF",
     "lat": 55.953585,
     "lon": -3.195577,
-    "websiteUrl": "https://www.wnclub.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2415446250",
+    "websiteUrl": "https://www.wnclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-cathouse-node-1322796875",
@@ -501,11 +681,16 @@
     "locationLabel": "15 Union Street, Glasgow, G1 3RB",
     "lat": 55.858636,
     "lon": -4.257079,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1322796875",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://cathouse.co.uk"
+    "websiteUrl": "https://cathouse.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-polo-lounge-node-1543443657",
@@ -516,7 +701,11 @@
     "locationLabel": "84 Wilson Street, G1 1UZ",
     "lat": 55.858947,
     "lon": -4.249628,
-    "websiteUrl": "https://www.pologlasgow.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1543443657",
+    "websiteUrl": "https://www.pologlasgow.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-slay-node-9750981325",
@@ -527,7 +716,11 @@
     "locationLabel": "24 Glassford Street, Glasgow, G1 1UL",
     "lat": 55.858127,
     "lon": -4.248997,
-    "websiteUrl": "https://www.slayglasgow.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9750981325",
+    "websiteUrl": "https://www.slayglasgow.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-sub-club-node-3834521842",
@@ -538,12 +731,18 @@
     "locationLabel": "22 Jamaica Street, Glasgow, G1 4QD",
     "lat": 55.857909,
     "lon": -4.257238,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3834521842",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://subclub.co.uk",
-    "instagramUrl": "https://instagram.com/subclub87"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/subclub87",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-the-berkeley-suite-node-6396532829",
@@ -554,7 +753,11 @@
     "locationLabel": "237 North Street, Glasgow, G3 7DL",
     "lat": 55.865848,
     "lon": -4.272037,
-    "websiteUrl": "https://berkeleysuite.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6396532829",
+    "websiteUrl": "https://berkeleysuite.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-wunderbar-way-165771361",
@@ -565,7 +768,11 @@
     "locationLabel": "59 Dumbarton Road, Glasgow, G11 6PD",
     "lat": 55.869823,
     "lon": -4.296606,
-    "websiteUrl": "https://wunderbarglasgow.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/165771361",
+    "websiteUrl": "https://wunderbarglasgow.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-circuit-node-11267868904",
@@ -576,7 +783,11 @@
     "locationLabel": "154 Clarence Street, Kingston upon Thames, KT1 1QP",
     "lat": 51.411469,
     "lon": -0.300178,
-    "websiteUrl": "https://circuitclub.co.uk/kingston"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11267868904",
+    "websiteUrl": "https://circuitclub.co.uk/kingston",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-project-house-node-11637605269",
@@ -587,8 +798,13 @@
     "locationLabel": "Armley Road, Leeds, LS12 2DR",
     "lat": 53.795647,
     "lon": -1.566266,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11637605269",
     "websiteUrl": "https://projecthouselds.com",
-    "instagramUrl": "https://instagram.com/projecthouselds"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/projecthouselds",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-pryzm-node-299171008",
@@ -599,19 +815,26 @@
     "locationLabel": "16-18 Woodhouse Lane, Leeds, LS2 8LX",
     "lat": 53.801096,
     "lon": -1.544678,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/299171008",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.pryzm.co.uk"
+    "websiteUrl": "https://www.pryzm.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-key-club-node-3817114481",
@@ -622,15 +845,21 @@
     "locationLabel": "66 Merrion Street",
     "lat": 53.800992,
     "lon": -1.54353,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3817114481",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://thekeyclubleeds.com"
+    "websiteUrl": "https://thekeyclubleeds.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-mosh-node-3392744956",
@@ -641,11 +870,16 @@
     "locationLabel": "37 St Nicholas Place, Leicester, LE1 4LD",
     "lat": 52.635198,
     "lon": -1.139708,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3392744956",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.moshnightclub.co.uk"
+    "websiteUrl": "https://www.moshnightclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-flares-node-10234611884",
@@ -656,7 +890,11 @@
     "locationLabel": "Mathew Street, Liverpool, L2 6RE",
     "lat": 53.406253,
     "lon": -2.987762,
-    "websiteUrl": "https://www.flaresbars.co.uk/liverpool"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/10234611884",
+    "websiteUrl": "https://www.flaresbars.co.uk/liverpool",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-ink-bar-way-1175774673",
@@ -667,7 +905,11 @@
     "locationLabel": "78-82 Wood Street, Liverpool, L1 4DQ",
     "lat": 53.402391,
     "lon": -2.978164,
-    "websiteUrl": "https://www.inkbarliverpool.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/1175774673",
+    "websiteUrl": "https://www.inkbarliverpool.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-1247828043",
@@ -678,7 +920,11 @@
     "locationLabel": "Liverpool",
     "lat": 53.404173,
     "lon": -2.981822,
-    "websiteUrl": "https://www.popworldparty.co.uk/liverpool"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/1247828043",
+    "websiteUrl": "https://www.popworldparty.co.uk/liverpool",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-100-club-node-313349354",
@@ -689,12 +935,18 @@
     "locationLabel": "100 Oxford Street, London, W1D 1LL",
     "lat": 51.516108,
     "lon": -0.135357,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/313349354",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://www.the100club.co.uk",
-    "instagramUrl": "https://instagram.com/100clublondon"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/100clublondon",
+    "instagramSource": "https://www.the100club.co.uk/"
   },
   {
     "id": "nightclubs-alaska-waterloo-node-11876483273",
@@ -705,8 +957,13 @@
     "locationLabel": "129 Alaska Street, London, SE1 8XE",
     "lat": 51.503871,
     "lon": -0.111093,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11876483273",
     "websiteUrl": "https://www.alaskawaterloo.com",
-    "instagramUrl": "https://instagram.com/alaska_waterloo"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/alaska_waterloo",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-arizona-lounge-node-1614146298",
@@ -717,7 +974,11 @@
     "locationLabel": "134 Marylebone Road, London",
     "lat": 51.522232,
     "lon": -0.158001,
-    "websiteUrl": "https://www.arizonalounge.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1614146298",
+    "websiteUrl": "https://www.arizonalounge.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-blagclub-kensington-node-7394550611",
@@ -728,7 +989,11 @@
     "locationLabel": "11 Russell Gardens, London",
     "lat": 51.500155,
     "lon": -0.211026,
-    "websiteUrl": "https://blagclub.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/7394550611",
+    "websiteUrl": "https://blagclub.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-bodos-schloss-node-4177285145",
@@ -739,7 +1004,11 @@
     "locationLabel": "2a Kensington High Street, London, W8 4PT",
     "lat": 51.502545,
     "lon": -0.18778,
-    "websiteUrl": "https://www.bodosschloss.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4177285145",
+    "websiteUrl": "https://www.bodosschloss.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-cafe-1001-way-270424942",
@@ -750,7 +1019,11 @@
     "locationLabel": "Dray Walk, London, E1 6QL",
     "lat": 51.520792,
     "lon": -0.072076,
-    "websiteUrl": "https://www.cafe1001.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/270424942",
+    "websiteUrl": "https://www.cafe1001.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-corsica-studios-node-1548849869",
@@ -761,11 +1034,16 @@
     "locationLabel": "4/5 Elephant Road, London, SE17 1LB",
     "lat": 51.493489,
     "lon": -0.098768,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1548849869",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.corsicastudios.com"
+    "websiteUrl": "https://www.corsicastudios.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-downstairs-at-the-dome-node-13162024712",
@@ -776,11 +1054,16 @@
     "locationLabel": "178-180 Junction Road, London, N19 5QQ",
     "lat": 51.557291,
     "lon": -0.138382,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13162024712",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://domelondon.co.uk"
+    "websiteUrl": "https://domelondon.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-egg-london-nightclub-node-6772902785",
@@ -791,7 +1074,11 @@
     "locationLabel": "200 York Way, London, N7 9AX",
     "lat": 51.541827,
     "lon": -0.124788,
-    "websiteUrl": "https://www.egglondon.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6772902785",
+    "websiteUrl": "https://www.egglondon.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-electric-ballroom-way-451480064",
@@ -802,15 +1089,21 @@
     "locationLabel": "184 Camden High Street, London, NW1 8QP",
     "lat": 51.539704,
     "lon": -0.142984,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/451480064",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://electricballroom.co.uk"
+    "websiteUrl": "https://electricballroom.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-fire-way-331438863",
@@ -821,15 +1114,21 @@
     "locationLabel": "39 Parry Street, London, SW8 1RT",
     "lat": 51.484916,
     "lon": -0.123548,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/331438863",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.firelondon.net"
+    "websiteUrl": "https://www.firelondon.net",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-fire-london-node-13577489801",
@@ -840,7 +1139,11 @@
     "locationLabel": "39 Parry Street",
     "lat": 51.484479,
     "lon": -0.124166,
-    "websiteUrl": "https://www.firelondon.net"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13577489801",
+    "websiteUrl": "https://www.firelondon.net",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-fold-node-12043434971",
@@ -851,8 +1154,13 @@
     "locationLabel": "Stephenson Street, London, E16 4SA",
     "lat": 51.519073,
     "lon": 0.003919,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/12043434971",
     "websiteUrl": "https://www.fold.london",
-    "instagramUrl": "https://instagram.com/fold.ldn"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/fold.ldn",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-jako-london-node-3868765589",
@@ -863,7 +1171,11 @@
     "locationLabel": "1 Kensington High Street, London, W8 5NP",
     "lat": 51.50215,
     "lon": -0.187551,
-    "websiteUrl": "https://www.jakolondon.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3868765589",
+    "websiteUrl": "https://www.jakolondon.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-kadies-club-node-5683818786",
@@ -874,7 +1186,11 @@
     "locationLabel": "9 Swallow Street, London",
     "lat": 51.509429,
     "lon": -0.137594,
-    "websiteUrl": "https://www.kadiesclub.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5683818786",
+    "websiteUrl": "https://www.kadiesclub.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-koko-way-225465155",
@@ -885,11 +1201,16 @@
     "locationLabel": "1A Camden High Street, London, NW1 7JE",
     "lat": 51.534743,
     "lon": -0.138172,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/225465155",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.koko.co.uk"
+    "websiteUrl": "https://www.koko.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-la-hacienda-node-9370334863",
@@ -900,8 +1221,13 @@
     "locationLabel": "26 Bell Lane, London, E16 2AB",
     "lat": 51.504562,
     "lon": 0.017587,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9370334863",
     "websiteUrl": "https://www.lalounge.co.uk",
-    "instagramUrl": "https://instagram.com/laloungeuk"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/laloungeuk",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-lafayette-node-9697951364",
@@ -912,7 +1238,11 @@
     "locationLabel": "11 Goods Way, London, N1C 4DP",
     "lat": 51.534189,
     "lon": -0.12584,
-    "websiteUrl": "https://www.lafayettelondon.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9697951364",
+    "websiteUrl": "https://www.lafayettelondon.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-le-fez-node-8809964755",
@@ -923,7 +1253,11 @@
     "locationLabel": "200B Upper Richmond Road, London, SW15 2SH",
     "lat": 51.460808,
     "lon": -0.216652,
-    "websiteUrl": "https://www.lefez.co.uk/putney"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/8809964755",
+    "websiteUrl": "https://www.lefez.co.uk/putney",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-lightbox-node-368025671",
@@ -934,7 +1268,11 @@
     "locationLabel": "6a South Lambeth Place, London, SW8 1SP",
     "lat": 51.485359,
     "lon": -0.123476,
-    "websiteUrl": "https://www.lightboxlondon.net"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/368025671",
+    "websiteUrl": "https://www.lightboxlondon.net",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-ma-dame-node-6981977191",
@@ -945,7 +1283,11 @@
     "locationLabel": "58 Porchester Road, London",
     "lat": 51.518298,
     "lon": -0.188894,
-    "websiteUrl": "https://ma-dame.london"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6981977191",
+    "websiteUrl": "https://ma-dame.london",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-mahiki-way-289954045",
@@ -956,11 +1298,16 @@
     "locationLabel": "1 Dover Street, London, W1S 4LA",
     "lat": 51.507747,
     "lon": -0.141278,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/289954045",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://mahiki.com"
+    "websiteUrl": "https://mahiki.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-milk-and-honey-way-273720739",
@@ -971,11 +1318,16 @@
     "locationLabel": "61 Poland Street, London, W1F 7NU",
     "lat": 51.513685,
     "lon": -0.136609,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/273720739",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.mlkhny.com"
+    "websiteUrl": "https://www.mlkhny.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-moth-club-node-8846263692",
@@ -986,11 +1338,16 @@
     "locationLabel": "83 Valette Street, London, E9 6NU",
     "lat": 51.545682,
     "lon": -0.054558,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/8846263692",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.mothclub.co.uk"
+    "websiteUrl": "https://www.mothclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-night-tales-node-6900790809",
@@ -1001,8 +1358,13 @@
     "locationLabel": "14 Bohemia Place, London, E8 1DU",
     "lat": 51.547332,
     "lon": -0.052925,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6900790809",
     "websiteUrl": "https://nighttales.co.uk",
-    "instagramUrl": "https://instagram.com/nighttalesldn"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/nighttalesldn",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-night-tales-loft-node-9286567817",
@@ -1013,8 +1375,13 @@
     "locationLabel": "Westgate Street, London",
     "lat": 51.537484,
     "lon": -0.057773,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9286567817",
     "websiteUrl": "https://ntloft.co.uk",
-    "instagramUrl": "https://instagram.com/ntloft"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/ntloft",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-no4-mayfair-node-5643033215",
@@ -1025,7 +1392,11 @@
     "locationLabel": "4 Mill Street, London",
     "lat": 51.51249,
     "lon": -0.14233,
-    "websiteUrl": "https://www.no4mayfair.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5643033215",
+    "websiteUrl": "https://www.no4mayfair.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-notting-hill-arts-club-node-2244810458",
@@ -1036,7 +1407,11 @@
     "locationLabel": "21 Notting Hill Gate, London",
     "lat": 51.509241,
     "lon": -0.194438,
-    "websiteUrl": "https://nottinghillartsclub.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2244810458",
+    "websiteUrl": "https://nottinghillartsclub.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-o2-academy-islington-node-582582173",
@@ -1047,11 +1422,16 @@
     "locationLabel": "16 Parkfield Street, London, N1 0PS",
     "lat": 51.534574,
     "lon": -0.105697,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/582582173",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.academymusicgroup.com/o2academyislington"
+    "websiteUrl": "https://www.academymusicgroup.com/o2academyislington",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-node-8872309808",
@@ -1062,7 +1442,11 @@
     "locationLabel": "London",
     "lat": 51.658223,
     "lon": -0.400456,
-    "websiteUrl": "https://www.popworldparty.co.uk/watford"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/8872309808",
+    "websiteUrl": "https://www.popworldparty.co.uk/watford",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-scala-way-137825939",
@@ -1073,7 +1457,11 @@
     "locationLabel": "London",
     "lat": 51.530611,
     "lon": -0.120662,
-    "websiteUrl": "https://scala.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/137825939",
+    "websiteUrl": "https://scala.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-shoreditch-townhouse-way-173037429",
@@ -1084,7 +1472,11 @@
     "locationLabel": "25 Paul Street, London, EC2A 4JU",
     "lat": 51.523021,
     "lon": -0.084577,
-    "websiteUrl": "https://www.shoreditchtownhouse.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/173037429",
+    "websiteUrl": "https://www.shoreditchtownhouse.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-tape-node-5618206360",
@@ -1095,7 +1487,11 @@
     "locationLabel": "17 Hanover Square, London",
     "lat": 51.514296,
     "lon": -0.144675,
-    "websiteUrl": "https://tapelondon.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5618206360",
+    "websiteUrl": "https://tapelondon.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-brink-node-9116743525",
@@ -1106,8 +1502,13 @@
     "locationLabel": "London",
     "lat": 51.537363,
     "lon": -0.061386,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9116743525",
     "websiteUrl": "https://www.offbroadway.org.uk",
-    "instagramUrl": "https://instagram.com/thebrinkvenue"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/thebrinkvenue",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-the-cause-node-12681133571",
@@ -1118,7 +1519,11 @@
     "locationLabel": "60 Dock Road, London, E16 1YZ",
     "lat": 51.504418,
     "lon": 0.016878,
-    "websiteUrl": "https://supportthecause.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/12681133571",
+    "websiteUrl": "https://supportthecause.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-cuckoo-club-node-5471743323",
@@ -1129,7 +1534,11 @@
     "locationLabel": "London",
     "lat": 51.509858,
     "lon": -0.137962,
-    "websiteUrl": "https://www.thecuckooclub.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5471743323",
+    "websiteUrl": "https://www.thecuckooclub.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-dome-node-5208012486",
@@ -1140,11 +1549,16 @@
     "locationLabel": "2A Dartmouth Park Hill, London, N19 5QH",
     "lat": 51.557435,
     "lon": -0.138658,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5208012486",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://domelondon.co.uk"
+    "websiteUrl": "https://domelondon.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-famous-cocktail-bar-node-331880921",
@@ -1155,7 +1569,11 @@
     "locationLabel": "259 Upper Street, London, N1 1RU",
     "lat": 51.546005,
     "lon": -0.103386,
-    "websiteUrl": "https://www.barsandvenues.co.uk/jamandryeislington"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/331880921",
+    "websiteUrl": "https://www.barsandvenues.co.uk/jamandryeislington",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-garage-node-360043073",
@@ -1166,11 +1584,16 @@
     "locationLabel": "12 Highbury Corner, London, N5 1RA",
     "lat": 51.546754,
     "lon": -0.10396,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/360043073",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.thegarage.london"
+    "websiteUrl": "https://www.thegarage.london",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-globe-node-7194787125",
@@ -1181,7 +1604,11 @@
     "locationLabel": "103 Talbot Road",
     "lat": 51.516664,
     "lon": -0.200492,
-    "websiteUrl": "https://www.theglobeclub.com/home"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/7194787125",
+    "websiteUrl": "https://www.theglobeclub.com/home",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-grace-node-12240961536",
@@ -1192,12 +1619,18 @@
     "locationLabel": "20-22 Highbury Corner, London, N5 1RD",
     "lat": 51.546787,
     "lon": -0.104011,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/12240961536",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://www.thegrace.london",
-    "instagramUrl": "https://instagram.com/thegraceldn"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/thegraceldn",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-the-hatch-club-node-1686457367",
@@ -1208,8 +1641,13 @@
     "locationLabel": "23 Lewisham Way, London, SE14 6PP",
     "lat": 51.47522,
     "lon": -0.0352,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1686457367",
     "websiteUrl": "https://www.thehatchclub.co.uk",
-    "instagramUrl": "https://instagram.com/hatchclub"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/hatchclub",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-the-pheasantry-way-894981162",
@@ -1220,7 +1658,11 @@
     "locationLabel": "152 King's Road, London, SW3 4UT",
     "lat": 51.489095,
     "lon": -0.165472,
-    "websiteUrl": "https://www.pizzaexpresslive.com/venues/chelsea-the-pheasantry"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/894981162",
+    "websiteUrl": "https://www.pizzaexpresslive.com/venues/chelsea-the-pheasantry",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-roxy-node-2993795433",
@@ -1231,7 +1673,11 @@
     "locationLabel": "3-5 Rathbone Place, London, W1T 1HJ",
     "lat": 51.516625,
     "lon": -0.133066,
-    "websiteUrl": "https://theroxy.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2993795433",
+    "websiteUrl": "https://theroxy.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-underworld-node-430832360",
@@ -1242,15 +1688,21 @@
     "locationLabel": "174 Camden High Street, London, NW1 0NE",
     "lat": 51.539185,
     "lon": -0.142205,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/430832360",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.theunderworldcamden.co.uk"
+    "websiteUrl": "https://www.theunderworldcamden.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-vaults-node-3249860773",
@@ -1261,7 +1713,11 @@
     "locationLabel": "Leake Street, London, SE1 7NN",
     "lat": 51.501027,
     "lon": -0.114204,
-    "websiteUrl": "https://www.thevaults.london"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/3249860773",
+    "websiteUrl": "https://www.thevaults.london",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-waiting-room-node-8811598060",
@@ -1272,16 +1728,23 @@
     "locationLabel": "London",
     "lat": 51.562069,
     "lon": -0.07399,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/8811598060",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://www.thewaitingroomn16.com",
-    "instagramUrl": "https://instagram.com/waitingroomn16"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/waitingroomn16",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-top-secret-comedy-club-23-kingsway-node-12794460301",
@@ -1292,7 +1755,11 @@
     "locationLabel": "23 Kingsway, London, WC2B 6UJ",
     "lat": 51.514203,
     "lon": -0.118406,
-    "websiteUrl": "https://thetopsecretcomedyclub.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/12794460301",
+    "websiteUrl": "https://thetopsecretcomedyclub.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-troxy-way-190715113",
@@ -1303,12 +1770,18 @@
     "locationLabel": "490 Commercial Road, London, E1 0HX",
     "lat": 51.512734,
     "lon": -0.043997,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/190715113",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://troxy.co.uk",
-    "instagramUrl": "https://instagram.com/troxylondon"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/troxylondon",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-venue-229-node-2766493533",
@@ -1319,11 +1792,16 @@
     "locationLabel": "229 Great Portland Street, London, W1W 5PN",
     "lat": 51.523514,
     "lon": -0.144631,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/2766493533",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://229.london"
+    "websiteUrl": "https://229.london",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-vfd-node-4691984825",
@@ -1334,7 +1812,11 @@
     "locationLabel": "66 Stoke Newington Road, London, N16 7XB",
     "lat": 51.552469,
     "lon": -0.0747,
-    "websiteUrl": "https://www.vfdalston.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4691984825",
+    "websiteUrl": "https://www.vfdalston.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-village-underground-way-205296759",
@@ -1345,11 +1827,16 @@
     "locationLabel": "54 Holywell Lane, London, EC2A 3PQ",
     "lat": 51.523561,
     "lon": -0.078631,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/205296759",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.villageunderground.co.uk"
+    "websiteUrl": "https://www.villageunderground.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-xoyo-way-155362965",
@@ -1360,11 +1847,16 @@
     "locationLabel": "32-37 Cowper Street, London",
     "lat": 51.525479,
     "lon": -0.085833,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/155362965",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.xoyo.co.uk"
+    "websiteUrl": "https://www.xoyo.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-zodiac-node-13577476901",
@@ -1375,7 +1867,11 @@
     "locationLabel": "119 Hampstead Road, London",
     "lat": 51.52801,
     "lon": -0.139038,
-    "websiteUrl": "https://www.zodiacbarlondon.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13577476901",
+    "websiteUrl": "https://www.zodiacbarlondon.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-zoo-bar-and-club-node-7741904802",
@@ -1386,7 +1882,11 @@
     "locationLabel": "13-17 Bear Street, London, WC2H 7AS",
     "lat": 51.510883,
     "lon": -0.128873,
-    "websiteUrl": "https://www.zoobar.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/7741904802",
+    "websiteUrl": "https://www.zoobar.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-aatma-node-13168115001",
@@ -1397,7 +1897,11 @@
     "locationLabel": "14-16 Faraday Street",
     "lat": 53.482628,
     "lon": -2.232932,
-    "websiteUrl": "https://aatmavenue.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13168115001",
+    "websiteUrl": "https://aatmavenue.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-club-tropicana-node-1295097473",
@@ -1408,11 +1912,16 @@
     "locationLabel": "33 Sackville Street, Manchester, M1 3LZ",
     "lat": 53.477039,
     "lon": -2.237062,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/1295097473",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.therembrandtmanchester.com/club-tropicana"
+    "websiteUrl": "https://www.therembrandtmanchester.com/club-tropicana",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-n-om-node-13289915701",
@@ -1423,8 +1932,13 @@
     "locationLabel": "1 Pollard Street East, M40 7FS",
     "lat": 53.484713,
     "lon": -2.214153,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/13289915701",
     "websiteUrl": "https://n-om.club",
-    "instagramUrl": "https://instagram.com/n_om.club"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/n_om.club",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-yes-node-9062401417",
@@ -1435,7 +1949,11 @@
     "locationLabel": "38 Charles Street, Manchester, M1 7DB",
     "lat": 53.474011,
     "lon": -2.238158,
-    "websiteUrl": "https://yes-manchester.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9062401417",
+    "websiteUrl": "https://yes-manchester.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-flares-popworld-way-1125523286",
@@ -1446,7 +1964,11 @@
     "locationLabel": "7 Albert Road, Middlesbrough, TS1 1PQ",
     "lat": 54.577908,
     "lon": -1.234581,
-    "websiteUrl": "https://www.flaresbars.co.uk/middlesbrough"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/1125523286",
+    "websiteUrl": "https://www.flaresbars.co.uk/middlesbrough",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-middlesbrough-empire-way-348786091",
@@ -1457,7 +1979,11 @@
     "locationLabel": "2 Corporation Road, Middlesbrough, TS1 2RT",
     "lat": 54.575942,
     "lon": -1.233237,
-    "websiteUrl": "https://www.themiddlesbroughempire.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/348786091",
+    "websiteUrl": "https://www.themiddlesbroughempire.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-bistro-live-node-11840412559",
@@ -1468,8 +1994,13 @@
     "locationLabel": "488 Midsummer Boulevard, Milton Keynes, MK9 2EA",
     "lat": 52.038983,
     "lon": -0.760423,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/11840412559",
     "websiteUrl": "https://www.bistrolive.com",
-    "instagramUrl": "https://instagram.com/bistrolive"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/bistrolive",
+    "instagramSource": "https://www.bistrolive.com/"
   },
   {
     "id": "nightclubs-popworld-way-120290879",
@@ -1480,7 +2011,11 @@
     "locationLabel": "499 Lower Twelfth Street, Milton Keynes, MK9 3PY",
     "lat": 52.043359,
     "lon": -0.749874,
-    "websiteUrl": "https://www.popworldparty.co.uk/milton-keynes"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/120290879",
+    "websiteUrl": "https://www.popworldparty.co.uk/milton-keynes",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-flares-node-102817269",
@@ -1491,7 +2026,11 @@
     "locationLabel": "33 Mosley Street, Newcastle upon Tyne, NE1 1YF",
     "lat": 54.970626,
     "lon": -1.611636,
-    "websiteUrl": "https://www.flaresbars.co.uk/newcastleupontyne"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/102817269",
+    "websiteUrl": "https://www.flaresbars.co.uk/newcastleupontyne",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-howlers-node-4515143089",
@@ -1502,7 +2041,11 @@
     "locationLabel": "28-32 Collingwood Street, Newcastle Upon Tyne",
     "lat": 54.969969,
     "lon": -1.613535,
-    "websiteUrl": "https://howlersnewcastle.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4515143089",
+    "websiteUrl": "https://howlersnewcastle.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-little-buildings-node-6111301458",
@@ -1513,7 +2056,11 @@
     "locationLabel": "3-5 Stepney Bank, Newcastle upon Tyne, NE1 2PW",
     "lat": 54.974708,
     "lon": -1.596187,
-    "websiteUrl": "https://www.littlebuildingslive.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/6111301458",
+    "websiteUrl": "https://www.littlebuildingslive.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-riverside-way-131661180",
@@ -1524,7 +2071,11 @@
     "locationLabel": "Close, Newcastle upon Tyne, NE1 3RQ",
     "lat": 54.967893,
     "lon": -1.609028,
-    "websiteUrl": "https://www.riversidencl.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/131661180",
+    "websiteUrl": "https://www.riversidencl.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-grove-node-12645056589",
@@ -1535,7 +2086,11 @@
     "locationLabel": "1 St Michael's Rd, Newcastle upon Tyne, NE6 1QU",
     "lat": 54.972672,
     "lon": -1.583983,
-    "websiteUrl": "https://www.thegrovenewcastle.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/12645056589",
+    "websiteUrl": "https://www.thegrovenewcastle.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-tup-tup-palace-node-5961871388",
@@ -1546,7 +2101,11 @@
     "locationLabel": "7 - 9 St Nicholas Street, Newcastle upon Tyne, NE1 1RE",
     "lat": 54.969872,
     "lon": -1.612186,
-    "websiteUrl": "https://www.tuptuppalace.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5961871388",
+    "websiteUrl": "https://www.tuptuppalace.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-world-headquarters-node-215654059",
@@ -1557,7 +2116,11 @@
     "locationLabel": "Carliol Square, Newcastle upon Tyne, NE1 6UF",
     "lat": 54.97256,
     "lon": -1.60824,
-    "websiteUrl": "https://www.welovewhq.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/215654059",
+    "websiteUrl": "https://www.welovewhq.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-bar-and-beyond-way-170316357",
@@ -1568,8 +2131,13 @@
     "locationLabel": "24-26 Prince of Wales Road, Norwich, NR1 1LG",
     "lat": 52.629801,
     "lon": 1.300188,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/170316357",
     "websiteUrl": "https://barandbeyond.co.uk/norwich",
-    "instagramUrl": "https://instagram.com/barandbeyondnorwich"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/barandbeyondnorwich",
+    "instagramSource": "https://barandbeyond.co.uk/norwich/"
   },
   {
     "id": "nightclubs-loft-way-242049091",
@@ -1580,7 +2148,11 @@
     "locationLabel": "78-80 Rose Lane, Norwich, NR1 1PT",
     "lat": 52.628529,
     "lon": 1.303114,
-    "websiteUrl": "https://www.loftnr1.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/242049091",
+    "websiteUrl": "https://www.loftnr1.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-120680604",
@@ -1591,7 +2163,11 @@
     "locationLabel": "63-67 Prince of Wales Road, Norwich, NR1 1DG",
     "lat": 52.628941,
     "lon": 1.302399,
-    "websiteUrl": "https://www.popworldparty.co.uk/norwich"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/120680604",
+    "websiteUrl": "https://www.popworldparty.co.uk/norwich",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-ng-one-way-125402781",
@@ -1602,8 +2178,13 @@
     "locationLabel": "76-80 Lower Parliament Street, Nottingham, NG1 1EH",
     "lat": 52.95482,
     "lon": -1.141937,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/125402781",
     "websiteUrl": "https://www.ng-one.club",
-    "instagramUrl": "https://instagram.com/ngoneclub"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/ngoneclub",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-ocean-way-85644334",
@@ -1614,8 +2195,13 @@
     "locationLabel": "Greyfriar Gate, Nottingham, NG1 7EF",
     "lat": 52.949206,
     "lon": -1.149474,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/85644334",
     "websiteUrl": "https://www.oceantickets.com",
-    "instagramUrl": "https://instagram.com/andythehoe"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/andythehoe",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-the-brickworks-node-7176563885",
@@ -1626,7 +2212,11 @@
     "locationLabel": "Newark Street, Nottingham, NG2 4PP",
     "lat": 52.951048,
     "lon": -1.134912,
-    "websiteUrl": "https://thebrickworksnottingham.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/7176563885",
+    "websiteUrl": "https://thebrickworksnottingham.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-glamorous-way-988834884",
@@ -1637,7 +2227,11 @@
     "locationLabel": "15 St Clements Street, Oxford, OX4 1AB",
     "lat": 51.750351,
     "lon": -1.243671,
-    "websiteUrl": "https://glamorous.bar/locations/oxford"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/988834884",
+    "websiteUrl": "https://glamorous.bar/locations/oxford",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-o2-academy-node-175707022",
@@ -1648,11 +2242,16 @@
     "locationLabel": "190-194 Cowley Road, OX4 1UE",
     "lat": 51.746902,
     "lon": -1.234509,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/175707022",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.o2academyoxford.co.uk"
+    "websiteUrl": "https://www.o2academyoxford.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-plush-node-5424554834",
@@ -1663,7 +2262,11 @@
     "locationLabel": "Frewin Court, Oxford, OX1 3JB",
     "lat": 51.75291,
     "lon": -1.25889,
-    "websiteUrl": "https://plushoxford.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/5424554834",
+    "websiteUrl": "https://plushoxford.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-927363063",
@@ -1674,7 +2277,11 @@
     "locationLabel": "Plymouth",
     "lat": 50.370155,
     "lon": -4.148088,
-    "websiteUrl": "https://www.popworldparty.co.uk/plymouth"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/927363063",
+    "websiteUrl": "https://www.popworldparty.co.uk/plymouth",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-spirit-node-514180678",
@@ -1685,7 +2292,11 @@
     "locationLabel": "33 Derry's Cross, Plymouth, PL1 2SW",
     "lat": 50.369483,
     "lon": -4.145869,
-    "websiteUrl": "https://www.spiritplymouth.co.uk"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/514180678",
+    "websiteUrl": "https://www.spiritplymouth.co.uk",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-pop-world-node-9838690220",
@@ -1696,7 +2307,11 @@
     "locationLabel": "Portsmouth",
     "lat": 50.797191,
     "lon": -1.093488,
-    "websiteUrl": "https://www.popworldparty.co.uk/portsmouth"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/9838690220",
+    "websiteUrl": "https://www.popworldparty.co.uk/portsmouth",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-node-4997017595",
@@ -1707,7 +2322,11 @@
     "locationLabel": "13 Church Street, Preston, PR1 3BQ",
     "lat": 53.758705,
     "lon": -2.697115,
-    "websiteUrl": "https://www.popworldparty.co.uk/preston"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/4997017595",
+    "websiteUrl": "https://www.popworldparty.co.uk/preston",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-circus-tavern-way-83523764",
@@ -1718,7 +2337,11 @@
     "locationLabel": "Meads Corner, Purfleet, RM19 1TS",
     "lat": 51.48586,
     "lon": 0.246371,
-    "websiteUrl": "https://www.circustavern.org"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/83523764",
+    "websiteUrl": "https://www.circustavern.org",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-corporation-way-96402566",
@@ -1729,12 +2352,18 @@
     "locationLabel": "Milton Street, Sheffield, S1 4JU",
     "lat": 53.377483,
     "lon": -1.47596,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/96402566",
     "liveMusic": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
     "websiteUrl": "https://corporation.org.uk",
-    "instagramUrl": "https://instagram.com/corpsheffield"
+    "websiteSource": "osm",
+    "instagramUrl": "https://instagram.com/corpsheffield",
+    "instagramSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-118215170",
@@ -1745,7 +2374,11 @@
     "locationLabel": "2-8 Carver Street, Sheffield, S1 4FS",
     "lat": 53.38069,
     "lon": -1.474533,
-    "websiteUrl": "https://www.popworldparty.co.uk/sheffield"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/118215170",
+    "websiteUrl": "https://www.popworldparty.co.uk/sheffield",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-the-foundry-node-8755032262",
@@ -1756,7 +2389,11 @@
     "locationLabel": "Western Bank, Sheffield, S10 2TG",
     "lat": 53.38056,
     "lon": -1.48747,
-    "websiteUrl": "https://foundrysu.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/8755032262",
+    "websiteUrl": "https://foundrysu.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-pop-world-way-168803972",
@@ -1767,11 +2404,16 @@
     "locationLabel": "17 Lower Banister Street, Southampton, SO15 2EH",
     "lat": 50.912432,
     "lon": -1.405287,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/168803972",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.popworldparty.co.uk/southampton"
+    "websiteUrl": "https://www.popworldparty.co.uk/southampton",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-popworld-way-625263604",
@@ -1782,7 +2424,11 @@
     "locationLabel": "2 Wind Street",
     "lat": 51.619804,
     "lon": -3.940716,
-    "websiteUrl": "https://www.popworldparty.co.uk/swansea"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/way/625263604",
+    "websiteUrl": "https://www.popworldparty.co.uk/swansea",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-central-station-venue-node-31321593",
@@ -1793,7 +2439,11 @@
     "locationLabel": "Wrexham",
     "lat": 53.045735,
     "lon": -2.995844,
-    "websiteUrl": "https://centralstationvenue.com"
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/31321593",
+    "websiteUrl": "https://centralstationvenue.com",
+    "websiteSource": "osm"
   },
   {
     "id": "nightclubs-flares-node-27497661",
@@ -1804,10 +2454,15 @@
     "locationLabel": "6 Tanner Row, York, YO1 6JB",
     "lat": 53.958784,
     "lon": -1.086784,
+    "sourceKind": "osm-overpass",
+    "sourceName": "OpenStreetMap via Overpass",
+    "sourceUrl": "https://www.openstreetmap.org/node/27497661",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed"
+      "confidence": "confirmed",
+      "source": "osm"
     },
-    "websiteUrl": "https://www.flaresbars.co.uk/york"
+    "websiteUrl": "https://www.flaresbars.co.uk/york",
+    "websiteSource": "osm"
   }
 ]
