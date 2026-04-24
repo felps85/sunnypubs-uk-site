@@ -161,9 +161,8 @@
   },
   {
     "id": "restaurants-jalan-jalan-node-9913850895",
-    "appId": "ie",
-    "name": "Jalan Jalan",
     "type": "restaurant",
+    "name": "Jalan Jalan",
     "regionId": "ballina",
     "regionLabel": "Ballina",
     "locationLabel": "47 Garden Street, Ballina, Mayo, F26 C7KP",
@@ -173,9 +172,8 @@
   },
   {
     "id": "restaurants-lantern-node-5194134335",
-    "appId": "ie",
-    "name": "Lantern",
     "type": "restaurant",
+    "name": "Lantern",
     "regionId": "ballina",
     "regionLabel": "Ballina",
     "locationLabel": "Ballina",
@@ -185,9 +183,8 @@
   },
   {
     "id": "restaurants-the-junction-node-2149821963",
-    "appId": "ie",
-    "name": "The Junction",
     "type": "restaurant",
+    "name": "The Junction",
     "regionId": "ballina",
     "regionLabel": "Ballina",
     "locationLabel": "Ballina",
@@ -7804,6 +7801,38 @@
     "instagramUrl": "https://instagram.com/360cookhouse"
   },
   {
+    "id": "restaurants-indian-ocean-restaurant-node-4908961593",
+    "appId": "ie",
+    "name": "Indian Ocean Restaurant",
+    "type": "restaurant",
+    "regionId": "dungarvan",
+    "regionLabel": "Dungarvan",
+    "locationLabel": "Davitts Quay",
+    "lat": 52.089664,
+    "lon": -7.617797,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "http://www.indianoceandungarvan.com"
+  },
+  {
+    "id": "restaurants-interlude-node-9277483276",
+    "appId": "ie",
+    "name": "Interlude",
+    "type": "restaurant",
+    "regionId": "dungarvan",
+    "regionLabel": "Dungarvan",
+    "locationLabel": "Davitts Quay, Dungarvan, Waterford, X35 X890",
+    "lat": 52.089584,
+    "lon": -7.617542,
+    "websiteUrl": "http://www.interlude.ie"
+  },
+  {
     "id": "restaurants-the-old-bank-way-770470367",
     "type": "restaurant",
     "name": "The Old Bank",
@@ -10033,6 +10062,32 @@
     },
     "websiteUrl": "https://www.farmerbrowns.ie/rathmines",
     "instagramUrl": "https://instagram.com/farmerbrownsdublin"
+  },
+  {
+    "id": "restaurants-gleesons-node-2650885988",
+    "type": "restaurant",
+    "name": "Gleeson’s",
+    "regionId": "roscommon",
+    "regionLabel": "Roscommon",
+    "locationLabel": "The Square, Roscommon, F42 WA22",
+    "lat": 53.630994,
+    "lon": -8.191211,
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://gleesonsroscommon.ie/restaurant"
+  },
+  {
+    "id": "restaurants-hannons-hotel-node-1208118842",
+    "type": "restaurant",
+    "name": "Hannons Hotel",
+    "regionId": "roscommon",
+    "regionLabel": "Roscommon",
+    "locationLabel": "Roscommon",
+    "lat": 53.623308,
+    "lon": -8.167893,
+    "websiteUrl": "https://www.hannonshotel.com/dining"
   },
   {
     "id": "restaurants-delhi-rasoi-node-8416328668",
