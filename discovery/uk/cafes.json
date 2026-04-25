@@ -8,21 +8,15 @@
     "locationLabel": "15 Chapel Street, Aberdeen, AB10 1SQ",
     "lat": 57.144062,
     "lon": -2.110036,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11349803402",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.almondine.co.uk/"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.almondine.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.almondine.co.uk"
   },
   {
     "id": "cafes-aroma-node-12610493522",
@@ -33,16 +27,11 @@
     "locationLabel": "Aberdeen",
     "lat": 57.15477,
     "lon": -2.138174,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12610493522",
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.nhsgrampian.org/hospital-hub/shared-facilities/aroma-coffee-bar"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.nhsgrampian.org/hospital-hub/shared-facilities/aroma-coffee-bar",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.nhsgrampian.org/hospital-hub/shared-facilities/aroma-coffee-bar"
   },
   {
     "id": "cafes-asda-cafe-node-7500493456",
@@ -53,16 +42,11 @@
     "locationLabel": "Garthdee Road, Aberdeen, AB10 7QA",
     "lat": 57.124745,
     "lon": -2.123253,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7500493456",
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://storelocator.asda.com/scotland/aberdeen/garth-dee-road-bridge-of-dee-aberdeen/cafe"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/garth-dee-road-bridge-of-dee-aberdeen/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/garth-dee-road-bridge-of-dee-aberdeen/cafe"
   },
   {
     "id": "cafes-asda-cafe-node-7500504915",
@@ -73,11 +57,7 @@
     "locationLabel": "Aberdeen",
     "lat": 57.150525,
     "lon": -2.081569,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7500504915",
-    "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/unit-1-beach-boulevard-retail-park/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/unit-1-beach-boulevard-retail-park/cafe"
   },
   {
     "id": "cafes-bagel-society-node-8927601220",
@@ -88,16 +68,11 @@
     "locationLabel": "68 Rosemount Place, Aberdeen, AB25 2XJ",
     "lat": 57.150518,
     "lon": -2.113094,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/8927601220",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://bagelsociety.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bagelsociety.com"
   },
   {
     "id": "cafes-bevs-bistro-node-9117932367",
@@ -108,11 +83,7 @@
     "locationLabel": "123 Holburn Street, Aberdeen, AB10 6BP",
     "lat": 57.139936,
     "lon": -2.113443,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9117932367",
-    "websiteUrl": "https://bevsbistro.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bevsbistro.co.uk"
   },
   {
     "id": "cafes-biocafe-node-10914042506",
@@ -123,21 +94,15 @@
     "locationLabel": "39 Rosemount Viaduct, Aberdeen, AB25 1NQ",
     "lat": 57.147915,
     "lon": -2.108328,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10914042506",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://bio-cafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bio-cafe.co.uk"
   },
   {
     "id": "cafes-black-sheep-coffee-node-3805622067",
@@ -148,16 +113,11 @@
     "locationLabel": "Unit GS26/27 Guild Street, Aberdeen, AB11 5PN",
     "lat": 57.143822,
     "lon": -2.098189,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3805622067",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-square",
-    "websiteSource": "osm"
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-square"
   },
   {
     "id": "cafes-black-sheep-coffee-node-13069611932",
@@ -168,11 +128,7 @@
     "locationLabel": "73 Union Street, Aberdeen, AB11 6BD",
     "lat": 57.146711,
     "lon": -2.097476,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13069611932",
-    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-street",
-    "websiteSource": "osm"
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-street"
   },
   {
     "id": "cafes-books-and-beans-way-314723708",
@@ -183,16 +139,11 @@
     "locationLabel": "22 Belmont Street, Aberdeen, AB10 1JH",
     "lat": 57.146942,
     "lon": -2.101259,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/314723708",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://booksandbeans.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://booksandbeans.co.uk"
   },
   {
     "id": "cafes-bubble-citea-node-12061809461",
@@ -203,11 +154,7 @@
     "locationLabel": "Guild Street, Aberdeen, AB11 5PS",
     "lat": 57.144063,
     "lon": -2.09817,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12061809461",
-    "websiteUrl": "https://bubblecitea.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bubblecitea.com"
   },
   {
     "id": "cafes-cafe-ahoy-node-5927480255",
@@ -218,16 +165,11 @@
     "locationLabel": "Beach Boulevard, Aberdeen, AB24 5HP",
     "lat": 57.150065,
     "lon": -2.087721,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5927480255",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.cafeahoy.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.cafeahoy.co.uk"
   },
   {
     "id": "cafes-cafe-contour-node-11167580315",
@@ -238,29 +180,22 @@
     "locationLabel": "47 The Green, Aberdeen, AB11 6NY",
     "lat": 57.145923,
     "lon": -2.098826,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11167580315",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "pizza",
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://contourcatering.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://contourcatering.co.uk"
   },
   {
     "id": "cafes-caffe-nero-node-4590032276",
@@ -271,16 +206,11 @@
     "locationLabel": "160-162 Union Street, Aberdeen, AB10 1QT",
     "lat": 57.145314,
     "lon": -2.103902,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4590032276",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st"
   },
   {
     "id": "cafes-caffe-nero-node-6054432438",
@@ -291,11 +221,7 @@
     "locationLabel": "452-456 Union Street, Aberdeen, AB10 1TR",
     "lat": 57.1434,
     "lon": -2.110609,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6054432438",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-rose-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-rose-st"
   },
   {
     "id": "cafes-caffe-nero-way-314093672",
@@ -306,11 +232,7 @@
     "locationLabel": "3-5 St. Nicholas Street, Aberdeen, AB10 1HE",
     "lat": 57.147106,
     "lon": -2.098118,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/314093672",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st"
   },
   {
     "id": "cafes-common-sense-node-10303687552",
@@ -321,16 +243,11 @@
     "locationLabel": "Union Terrace, Aberdeen, AB10 1DF",
     "lat": 57.147546,
     "lon": -2.105243,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10303687552",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://common-sense.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://common-sense.co.uk"
   },
   {
     "id": "cafes-costa-node-6732213796",
@@ -341,16 +258,11 @@
     "locationLabel": "Bon Accord Centre, Aberdeen, AB25 1HZ",
     "lat": 57.149191,
     "lon": -2.099574,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6732213796",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.costa.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk"
   },
   {
     "id": "cafes-cupp-bubble-tea-node-11349803401",
@@ -361,11 +273,7 @@
     "locationLabel": "17 Thistle Street, Aberdeen, AB10 1XZ",
     "lat": 57.143995,
     "lon": -2.110891,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11349803401",
-    "websiteUrl": "https://www.cuppbubbletea.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.cuppbubbletea.co.uk"
   },
   {
     "id": "cafes-foodstory-node-6738525985",
@@ -376,13 +284,8 @@
     "locationLabel": "11-15 Thistle Street, Aberdeen, AB10 1XZ",
     "lat": 57.144009,
     "lon": -2.110686,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6738525985",
     "websiteUrl": "https://foodstorycafe.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/foodstoryscotland",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/foodstoryscotland"
   },
   {
     "id": "cafes-greyhope-bay-centre-way-1053362786",
@@ -393,16 +296,11 @@
     "locationLabel": "Greyhope Road, Aberdeen, AB11 8QX",
     "lat": 57.14186,
     "lon": -2.059025,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1053362786",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.greyhopebay.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.greyhopebay.com"
   },
   {
     "id": "cafes-grub-node-3375132799",
@@ -413,28 +311,21 @@
     "locationLabel": "148 Spital, Aberdeen, AB24 3JU",
     "lat": 57.160552,
     "lon": -2.100478,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3375132799",
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://grubfreshfood.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://grubfreshfood.com"
   },
   {
     "id": "cafes-grub-node-3599504472",
@@ -445,23 +336,17 @@
     "locationLabel": "179 Constitution Street, Aberdeen, AB24 5TU",
     "lat": 57.153262,
     "lon": -2.084377,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3599504472",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://aberdeensciencecentre.org/food-drink",
-    "websiteSource": "osm"
+    "websiteUrl": "https://aberdeensciencecentre.org/food-drink"
   },
   {
     "id": "cafes-jungle-berry-node-6055020650",
@@ -472,11 +357,7 @@
     "locationLabel": "409 Union Street, Aberdeen, AB11 6DA",
     "lat": 57.143502,
     "lon": -2.109181,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6055020650",
-    "websiteUrl": "https://www.jungleberryacai.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.jungleberryacai.com"
   },
   {
     "id": "cafes-kilau-coffee-node-1647979141",
@@ -487,11 +368,7 @@
     "locationLabel": "57 High Street, Aberdeen, AB24 3EH",
     "lat": 57.165639,
     "lon": -2.102284,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1647979141",
-    "websiteUrl": "https://kilaucoffee.wordpress.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://kilaucoffee.wordpress.com"
   },
   {
     "id": "cafes-mount-node-9241869054",
@@ -502,13 +379,8 @@
     "locationLabel": "6 Upperkirkgate, Aberdeen, AB10 1BA",
     "lat": 57.149079,
     "lon": -2.098027,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9241869054",
     "websiteUrl": "https://www.mountaberdeen.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/mountaberdeen",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/mountaberdeen"
   },
   {
     "id": "cafes-parx-cafe-node-13647661036",
@@ -519,11 +391,7 @@
     "locationLabel": "19 Rubislaw Terrace, Aberdeen, AB10 1XE",
     "lat": 57.143474,
     "lon": -2.118309,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13647661036",
-    "websiteUrl": "https://parxcafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://parxcafe.co.uk"
   },
   {
     "id": "cafes-so-nyc-bagels-and-brew-node-9106209425",
@@ -534,20 +402,14 @@
     "locationLabel": "269 Union Street, Aberdeen, AB11 6BR",
     "lat": 57.144239,
     "lon": -2.106405,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9106209425",
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.soaberdeen.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/sonyc.aberdeen",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/sonyc.aberdeen"
   },
   {
     "id": "cafes-starbucks-node-290633289",
@@ -558,11 +420,7 @@
     "locationLabel": "208 Union Street, Aberdeen, AB10 1TL",
     "lat": 57.14476,
     "lon": -2.105887,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/290633289",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2400/aberdeen-union-street-208-union-street-aberdeen-sct-ab-10-1-tl-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2400/aberdeen-union-street-208-union-street-aberdeen-sct-ab-10-1-tl-gb"
   },
   {
     "id": "cafes-starbucks-node-1022489491",
@@ -573,21 +431,15 @@
     "locationLabel": "2-4 Upperkirkgate, Aberdeen, AB10 1BA",
     "lat": 57.149153,
     "lon": -2.097843,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1022489491",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2907/aberdeen-upperkirkgate-upperkirkgate-2-4-aberdeen-sct-ab-10-1-ba-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2907/aberdeen-upperkirkgate-upperkirkgate-2-4-aberdeen-sct-ab-10-1-ba-gb"
   },
   {
     "id": "cafes-starbucks-node-3200069984",
@@ -598,16 +450,11 @@
     "locationLabel": "Aberdeen",
     "lat": 57.142544,
     "lon": -2.09615,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3200069984",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/18762/aberdeen-union-square-mc-2-first-floor-level-union-square-aberdeen-sct-a",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/18762/aberdeen-union-square-mc-2-first-floor-level-union-square-aberdeen-sct-a"
   },
   {
     "id": "cafes-starbucks-node-6054668193",
@@ -618,11 +465,7 @@
     "locationLabel": "496 Union Street, Aberdeen, AB10 1TS",
     "lat": 57.143079,
     "lon": -2.111755,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6054668193",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2904/aberdeen-holburn-junction-496-union-street-aberdeen-sct-ab-10-1-ts-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2904/aberdeen-holburn-junction-496-union-street-aberdeen-sct-ab-10-1-ts-gb"
   },
   {
     "id": "cafes-the-bread-maker-node-1907704038",
@@ -633,11 +476,7 @@
     "locationLabel": "50/52 Rosemount Viaduct Rosemount Viaduct, Aberdeen, AB25 1NT",
     "lat": 57.148177,
     "lon": -2.108455,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1907704038",
-    "websiteUrl": "https://www.thebreadmaker.org.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.thebreadmaker.org.uk"
   },
   {
     "id": "cafes-the-park-cafe-way-128912374",
@@ -648,21 +487,15 @@
     "locationLabel": "Polmuir Road, Aberdeen, AB11 7TH",
     "lat": 57.131779,
     "lon": -2.103646,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/128912374",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.park-cafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.park-cafe.co.uk"
   },
   {
     "id": "cafes-addlestone-community-cafe-node-13725189754",
@@ -673,16 +506,11 @@
     "locationLabel": "Garfield Road, Addlestone, KT15 2NJ",
     "lat": 51.370916,
     "lon": -0.488408,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13725189754",
     "foodOffer": {
       "category": "snacks",
-      "confidence": "confirmed",
-      "source": "https://www.addlestonecommunityassociation.org/"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.addlestonecommunityassociation.org",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.addlestonecommunityassociation.org"
   },
   {
     "id": "cafes-costa-node-2552974569",
@@ -693,16 +521,11 @@
     "locationLabel": "108-110 Station Road, Addlestone, KT15 2BQ",
     "lat": 51.371445,
     "lon": -0.487557,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2552974569",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.costa.co.uk/locations/store-locator",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk/locations/store-locator"
   },
   {
     "id": "cafes-hebrews-node-12687024015",
@@ -713,11 +536,7 @@
     "locationLabel": "Church Road, Addlestone, KT15 1TB",
     "lat": 51.368702,
     "lon": -0.502695,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12687024015",
-    "websiteUrl": "https://www.stpaulscofe.org/hebrewscoffeeshop.htm",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.stpaulscofe.org/hebrewscoffeeshop.htm"
   },
   {
     "id": "cafes-mooboo-node-11775089740",
@@ -728,11 +547,7 @@
     "locationLabel": "The Lane, Addlestone, KT15 2GN",
     "lat": 51.370686,
     "lon": -0.490086,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11775089740",
-    "websiteUrl": "https://www.mooboo.co",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.mooboo.co"
   },
   {
     "id": "cafes-project-cafe-addlestone-node-13725189755",
@@ -743,11 +558,7 @@
     "locationLabel": "44B High Street, Addlestone, KT15 1TR",
     "lat": 51.372381,
     "lon": -0.492883,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13725189755",
-    "websiteUrl": "https://www.countycare.co.uk/project-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.countycare.co.uk/project-cafe"
   },
   {
     "id": "cafes-asda-cafe-node-7497107442",
@@ -758,16 +569,11 @@
     "locationLabel": "90 George Richards Way, Altrincham, WA14 5ZR",
     "lat": 53.398131,
     "lon": -2.363568,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7497107442",
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://storelocator.asda.com/north-west/altrincham/90-george-richards-way-broadheath/cafe"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://storelocator.asda.com/north-west/altrincham/90-george-richards-way-broadheath/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://storelocator.asda.com/north-west/altrincham/90-george-richards-way-broadheath/cafe"
   },
   {
     "id": "cafes-caffe-nero-node-5258609795",
@@ -778,11 +584,7 @@
     "locationLabel": "Shaw's Road, Altrincham",
     "lat": 53.387188,
     "lon": -2.350682,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5258609795",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/altrincham",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/altrincham"
   },
   {
     "id": "cafes-kickback-coffee-node-11737932222",
@@ -793,11 +595,7 @@
     "locationLabel": "4 Viaduct Road, Altrincham, WA14 5DU",
     "lat": 53.399397,
     "lon": -2.348422,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11737932222",
-    "websiteUrl": "https://kickbackcoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://kickbackcoffee.co.uk"
   },
   {
     "id": "cafes-starbucks-node-1300485965",
@@ -808,11 +606,7 @@
     "locationLabel": "Lloyd Street, Altrincham, WA14 2SU",
     "lat": 53.383783,
     "lon": -2.350375,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1300485965",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2799/altrincham-sainsburys-lloyd-street-altrincham-eng-wa-14-2-su-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2799/altrincham-sainsburys-lloyd-street-altrincham-eng-wa-14-2-su-gb"
   },
   {
     "id": "cafes-twig-and-spoon-node-3810334335",
@@ -823,11 +617,7 @@
     "locationLabel": "Ash Lane, Ash, TN15 7EG",
     "lat": 51.331104,
     "lon": 0.284856,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3810334335",
-    "websiteUrl": "https://www.twigandspoon.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.twigandspoon.co.uk"
   },
   {
     "id": "cafes-96-degrees-node-13073395733",
@@ -838,21 +628,15 @@
     "locationLabel": "Fordbridge Park, Ashford, TW15 3SJ",
     "lat": 51.426701,
     "lon": -0.476955,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13073395733",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://tennisspelthorne.com/96-degrees-coffee-shop/"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://tennisspelthorne.com/96-degrees-coffee-shop",
-    "websiteSource": "osm"
+    "websiteUrl": "https://tennisspelthorne.com/96-degrees-coffee-shop"
   },
   {
     "id": "cafes-tarla-cafe-and-grill-node-3573166721",
@@ -863,11 +647,7 @@
     "locationLabel": "11 New Parade, Ashford, TW15 2UF",
     "lat": 51.4346,
     "lon": -0.465855,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3573166721",
-    "websiteUrl": "https://www.tarlacafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.tarlacafe.co.uk"
   },
   {
     "id": "cafes-cafe-chai-node-5996337155",
@@ -878,16 +658,11 @@
     "locationLabel": "135 High Street, Banstead, SM7 2NS",
     "lat": 51.32372,
     "lon": -0.198124,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5996337155",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.cafechai.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.cafechai.co.uk"
   },
   {
     "id": "cafes-caffe-italia-node-5996357573",
@@ -898,11 +673,7 @@
     "locationLabel": "49 High Street, Banstead, SM7 2NL",
     "lat": 51.322612,
     "lon": -0.202087,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5996357573",
-    "websiteUrl": "https://caffeitaliabanstead.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://caffeitaliabanstead.co.uk"
   },
   {
     "id": "cafes-caffe-nero-node-5996591283",
@@ -913,11 +684,7 @@
     "locationLabel": "37 High Street, Banstead, SM7 2NH",
     "lat": 51.322422,
     "lon": -0.202888,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5996591283",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/banstead",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/banstead"
   },
   {
     "id": "cafes-starbucks-way-314787507",
@@ -928,11 +695,7 @@
     "locationLabel": "37 Station Parade, Barking, IG11 8EB",
     "lat": 51.539086,
     "lon": 0.080654,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/314787507",
-    "websiteUrl": "https://www.starbucks.co.uk/store-locator/67851-302707",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.co.uk/store-locator/67851-302707"
   },
   {
     "id": "cafes-little-crafters-cafe-way-328680358",
@@ -943,11 +706,7 @@
     "locationLabel": "102 Cockfosters Road, Barnet, EN4 0DP",
     "lat": 51.649488,
     "lon": -0.147888,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/328680358",
-    "websiteUrl": "https://www.littlecrafterscafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.littlecrafterscafe.co.uk"
   },
   {
     "id": "cafes-nkora-node-8687620814",
@@ -958,16 +717,11 @@
     "locationLabel": "High Street, Barnet, EN5 5XY",
     "lat": 51.65534,
     "lon": -0.202023,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/8687620814",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://nkora.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://nkora.co.uk"
   },
   {
     "id": "cafes-4w-cafe-node-1014761201",
@@ -978,28 +732,21 @@
     "locationLabel": "BA2 7BT",
     "lat": 51.379652,
     "lon": -2.329508,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1014761201",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.bath.ac.uk/locations/4w-cafe/"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.bath.ac.uk/locations/4w-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.bath.ac.uk/locations/4w-cafe"
   },
   {
     "id": "cafes-adventure-cafe-way-594364547",
@@ -1010,26 +757,19 @@
     "locationLabel": "5 George Street, BA1 2ED",
     "lat": 51.385242,
     "lon": -2.36132,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/594364547",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.adventurecafebar.co.uk/"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.adventurecafebar.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.adventurecafebar.co.uk"
   },
   {
     "id": "cafes-bathzaar-and-laqum-node-4307452863",
@@ -1040,16 +780,11 @@
     "locationLabel": "17 The Corridor, BA1 5AP",
     "lat": 51.382228,
     "lon": -2.359749,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4307452863",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.authenticdelight.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.authenticdelight.co.uk"
   },
   {
     "id": "cafes-boston-tea-party-way-117879804",
@@ -1060,16 +795,11 @@
     "locationLabel": "8 Alfred Street, BA1 2QU",
     "lat": 51.385832,
     "lon": -2.362044,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/117879804",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-alfred-street",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-alfred-street"
   },
   {
     "id": "cafes-boston-tea-party-way-121086479",
@@ -1080,16 +810,11 @@
     "locationLabel": "BA1 2AE",
     "lat": 51.381461,
     "lon": -2.363044,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/121086479",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-kingsmead-square",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-kingsmead-square"
   },
   {
     "id": "cafes-bright-field-cafe-way-485163940",
@@ -1100,11 +825,7 @@
     "locationLabel": "30 Shaftesbury Road, Bath, BA2 3LJ",
     "lat": 51.376591,
     "lon": -2.377668,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/485163940",
-    "websiteUrl": "https://www.brightfield.org.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.brightfield.org.uk"
   },
   {
     "id": "cafes-bubble-ci-tea-node-7837077853",
@@ -1115,11 +836,7 @@
     "locationLabel": "16 Southgate Place, BA1 1AP",
     "lat": 51.378671,
     "lon": -2.358249,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7837077853",
-    "websiteUrl": "https://bubblecitea.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bubblecitea.com"
   },
   {
     "id": "cafes-cafe-at-the-centre-node-1115457938",
@@ -1130,16 +847,11 @@
     "locationLabel": "BA1 1JW",
     "lat": 51.378747,
     "lon": -2.356785,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1115457938",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://manversstreetbaptist.wordpress.com/the-open-house-centre/cafe-at-the-centre",
-    "websiteSource": "osm"
+    "websiteUrl": "https://manversstreetbaptist.wordpress.com/the-open-house-centre/cafe-at-the-centre"
   },
   {
     "id": "cafes-cafe-au-lait-way-75900413",
@@ -1150,16 +862,11 @@
     "locationLabel": "12-14 Dorchester Street, BA1 1SS",
     "lat": 51.37803,
     "lon": -2.357282,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/75900413",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.cafeaulait.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.cafeaulait.co.uk"
   },
   {
     "id": "cafes-cafe-lucca-the-loft-node-4307205511",
@@ -1170,16 +877,11 @@
     "locationLabel": "1 Bartlett Street, Bath, BA1 2QZ",
     "lat": 51.385646,
     "lon": -2.362028,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4307205511",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.cafelucca.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.cafelucca.co.uk"
   },
   {
     "id": "cafes-cafe-pastel-way-373986062",
@@ -1190,11 +892,7 @@
     "locationLabel": "8 Abbey Green, Bath, BA1 1NW",
     "lat": 51.38037,
     "lon": -2.359052,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373986062",
-    "websiteUrl": "https://cafepastel.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://cafepastel.co.uk"
   },
   {
     "id": "cafes-cafe-walcot-node-5958363485",
@@ -1205,16 +903,11 @@
     "locationLabel": "90b Walcot Street, BA1 5BG",
     "lat": 51.386446,
     "lon": -2.359377,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5958363485",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.walcothousebath.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.walcothousebath.com"
   },
   {
     "id": "cafes-caffe-nero-node-3132211102",
@@ -1225,16 +918,11 @@
     "locationLabel": "Dorchester Street, BA1 1SS",
     "lat": 51.378072,
     "lon": -2.35857,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3132211102",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/bath-southgate",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bath-southgate"
   },
   {
     "id": "cafes-caffe-nero-way-90972048",
@@ -1245,21 +933,15 @@
     "locationLabel": "11 Old Bond Street, BA1 1BP",
     "lat": 51.382555,
     "lon": -2.361158,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/90972048",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/bath-old-bond-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bath-old-bond-st"
   },
   {
     "id": "cafes-central-youth-cafe-node-4791671835",
@@ -1270,16 +952,11 @@
     "locationLabel": "BA1 5DU",
     "lat": 51.385932,
     "lon": -2.360551,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4791671835",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://oasisbath.org",
-    "websiteSource": "osm"
+    "websiteUrl": "https://oasisbath.org"
   },
   {
     "id": "cafes-coffee-1-node-5838352165",
@@ -1290,16 +967,11 @@
     "locationLabel": "Unit 1 Victoria Bridge Road, BA2 3GG",
     "lat": 51.383461,
     "lon": -2.373855,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5838352165",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.coffee1.co.uk/locations/bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.coffee1.co.uk/locations/bath"
   },
   {
     "id": "cafes-coffee-1-way-595235836",
@@ -1310,16 +982,11 @@
     "locationLabel": "3 James Street West, BA1 2AG",
     "lat": 51.381168,
     "lon": -2.364447,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/595235836",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.coffee1.co.uk/locations/bath-city-centre",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.coffee1.co.uk/locations/bath-city-centre"
   },
   {
     "id": "cafes-coffever-way-993778462",
@@ -1330,23 +997,16 @@
     "locationLabel": "14 Northumberland Place, Bath, BA1 5AR",
     "lat": 51.382374,
     "lon": -2.359904,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/993778462",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://coffever.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/coffever2018",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/coffever2018"
   },
   {
     "id": "cafes-coret-way-431943048",
@@ -1357,18 +1017,12 @@
     "locationLabel": "17 Milsom Place, BA1 1BZ",
     "lat": 51.383847,
     "lon": -2.360964,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/431943048",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.milsomplace.co.uk/stores/coret",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/coret_coffee",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/coret_coffee"
   },
   {
     "id": "cafes-costa-way-373546299",
@@ -1379,16 +1033,11 @@
     "locationLabel": "44 Stall Street, BA1 1QH",
     "lat": 51.381418,
     "lon": -2.36073,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373546299",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.costa.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk"
   },
   {
     "id": "cafes-costa-way-477880625",
@@ -1399,11 +1048,7 @@
     "locationLabel": "Unit 4 Lower Bristol Road, BA2 1EP",
     "lat": 51.381544,
     "lon": -2.385913,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/477880625",
-    "websiteUrl": "https://www.costa.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk"
   },
   {
     "id": "cafes-da-vinci-italian-deli-way-577719390",
@@ -1414,16 +1059,11 @@
     "locationLabel": "33a Wellsway, BA2 4RR",
     "lat": 51.373509,
     "lon": -2.366248,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/577719390",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://davincideli.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://davincideli.com"
   },
   {
     "id": "cafes-dexters-way-216615156",
@@ -1434,13 +1074,8 @@
     "locationLabel": "1 Bathwick Hill, BA2 4EN",
     "lat": 51.382701,
     "lon": -2.349347,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/216615156",
     "websiteUrl": "https://dexterscoffeeshop.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/dexterscoffeeshop",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/dexterscoffeeshop"
   },
   {
     "id": "cafes-dianas-cafe-way-75900295",
@@ -1451,16 +1086,11 @@
     "locationLabel": "14a Manvers Street, BA1 1JH",
     "lat": 51.378097,
     "lon": -2.357202,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/75900295",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.dianascafe.co.uk/bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.dianascafe.co.uk/bath"
   },
   {
     "id": "cafes-flos-cafe-node-6380913598",
@@ -1471,11 +1101,7 @@
     "locationLabel": "Manvers Street, BA1 1JW",
     "lat": 51.379396,
     "lon": -2.356599,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6380913598",
-    "websiteUrl": "https://www.thesubath.com/news/article/thesu/Flos-Cafe-has-officially-opened",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.thesubath.com/news/article/thesu/Flos-Cafe-has-officially-opened"
   },
   {
     "id": "cafes-gails-way-373546340",
@@ -1486,21 +1112,15 @@
     "locationLabel": "12-13 Union Street, BA1 1RR",
     "lat": 51.382522,
     "lon": -2.360532,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373546340",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://gails.com/pages/union-street-bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://gails.com/pages/union-street-bath"
   },
   {
     "id": "cafes-garden-cafe-node-3611156994",
@@ -1511,16 +1131,11 @@
     "locationLabel": "BA2 4DB",
     "lat": 51.385823,
     "lon": -2.350728,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3611156994",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.holburne.org/planning-your-visit/garden-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.holburne.org/planning-your-visit/garden-cafe"
   },
   {
     "id": "cafes-good-day-cafe-way-373546319",
@@ -1531,16 +1146,11 @@
     "locationLabel": "12 Upper Borough Walls, BA1 1RH",
     "lat": 51.38273,
     "lon": -2.360479,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373546319",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.gooddaycoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.gooddaycoffee.co.uk"
   },
   {
     "id": "cafes-hands-georgian-tearooms-node-3773998982",
@@ -1551,16 +1161,11 @@
     "locationLabel": "1 Abbey Street, Bath, BA1 1NN",
     "lat": 51.380806,
     "lon": -2.359058,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3773998982",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://handstearoom.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://handstearoom.co.uk"
   },
   {
     "id": "cafes-italian-pizzeria-cafe-84-way-673318953",
@@ -1571,16 +1176,11 @@
     "locationLabel": "84 Lower Bristol Road, BA2 3BQ",
     "lat": 51.37981,
     "lon": -2.371481,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/673318953",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://italianpizzeriacafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://italianpizzeriacafe.co.uk"
   },
   {
     "id": "cafes-janes-cafe-way-1365003248",
@@ -1591,16 +1191,11 @@
     "locationLabel": "BA2 4AW",
     "lat": 51.382526,
     "lon": -2.358411,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1365003248",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.bathguildhallmarket.co.uk/shops.html",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.bathguildhallmarket.co.uk/shops.html"
   },
   {
     "id": "cafes-joes-and-the-juice-way-178614806",
@@ -1611,16 +1206,11 @@
     "locationLabel": "11a-12 Stall Street, BA1 1QE",
     "lat": 51.380356,
     "lon": -2.359762,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/178614806",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.joejuice.com/store/1189?market=6",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.joejuice.com/store/1189?market=6"
   },
   {
     "id": "cafes-knoops-way-90972046",
@@ -1631,16 +1221,11 @@
     "locationLabel": "21 Old Bond Street, BA1 2LA",
     "lat": 51.383258,
     "lon": -2.36145,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/90972046",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://knoops.co.uk/pages/location-page-bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://knoops.co.uk/pages/location-page-bath"
   },
   {
     "id": "cafes-komorebi-way-472542600",
@@ -1651,16 +1236,11 @@
     "locationLabel": "7 Margaret's Buildings, BA1 2LP",
     "lat": 51.386776,
     "lon": -2.365687,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/472542600",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.komorebi-bath.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.komorebi-bath.co.uk"
   },
   {
     "id": "cafes-landrace-bakery-way-120547003",
@@ -1671,16 +1251,11 @@
     "locationLabel": "61 Walcot Street, Bath, BA1 5BN",
     "lat": 51.385915,
     "lon": -2.359915,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/120547003",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://landracebakery.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://landracebakery.com"
   },
   {
     "id": "cafes-mjolk-way-373343732",
@@ -1691,16 +1266,11 @@
     "locationLabel": "13 Abbey Churchyard, BA1 1LY",
     "lat": 51.381516,
     "lon": -2.359639,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373343732",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://mjolkshop.square.site",
-    "websiteSource": "osm"
+    "websiteUrl": "https://mjolkshop.square.site"
   },
   {
     "id": "cafes-mokoko-node-10289529196",
@@ -1711,16 +1281,11 @@
     "locationLabel": "2 Foundry Lane, Bath, BA2 3GZ",
     "lat": 51.378596,
     "lon": -2.365506,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10289529196",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://mokokobakery.com/mokoko-locations/newark-works-bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://mokokobakery.com/mokoko-locations/newark-works-bath"
   },
   {
     "id": "cafes-morrisons-cafe-node-4303484109",
@@ -1731,11 +1296,7 @@
     "locationLabel": "BA1 6AE",
     "lat": 51.391241,
     "lon": -2.350437,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4303484109",
-    "websiteUrl": "https://my.morrisons.com/storefinder/320/bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://my.morrisons.com/storefinder/320/bath"
   },
   {
     "id": "cafes-music-workshop-coffeehouse-way-1366247099",
@@ -1746,11 +1307,7 @@
     "locationLabel": "7c, Bath, BA1 1JB",
     "lat": 51.381698,
     "lon": -2.366735,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1366247099",
-    "websiteUrl": "https://www.musicworkshop.org.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.musicworkshop.org.uk"
   },
   {
     "id": "cafes-my-cookie-dough-node-3132211099",
@@ -1761,16 +1318,11 @@
     "locationLabel": "7 Dorchester Street, BA1 1SS",
     "lat": 51.378062,
     "lon": -2.358307,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3132211099",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.mycookiedough.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.mycookiedough.com"
   },
   {
     "id": "cafes-one-way-490724319",
@@ -1781,11 +1333,7 @@
     "locationLabel": "1 John Street, BA1 2JL",
     "lat": 51.383309,
     "lon": -2.362079,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/490724319",
-    "websiteUrl": "https://www.one-cafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.one-cafe.co.uk"
   },
   {
     "id": "cafes-palette-way-121675882",
@@ -1796,11 +1344,7 @@
     "locationLabel": "98 Walcot Street, BA1 5BG",
     "lat": 51.386618,
     "lon": -2.359323,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/121675882",
-    "websiteUrl": "https://www.palettable.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.palettable.co.uk"
   },
   {
     "id": "cafes-papawcha-way-373546355",
@@ -1811,11 +1355,7 @@
     "locationLabel": "6 Cheap Street, BA1 1NE",
     "lat": 51.381719,
     "lon": -2.359707,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373546355",
-    "websiteUrl": "https://www.papawcha.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.papawcha.co.uk"
   },
   {
     "id": "cafes-pavilion-cafe-node-10162556008",
@@ -1826,16 +1366,11 @@
     "locationLabel": "Claverton Down, BA2 7AY",
     "lat": 51.378006,
     "lon": -2.325984,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10162556008",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.bath.ac.uk/locations/pavilion-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.bath.ac.uk/locations/pavilion-cafe"
   },
   {
     "id": "cafes-picnic-way-431533365",
@@ -1846,16 +1381,11 @@
     "locationLabel": "9 Saracen Street, BA1 5BR",
     "lat": 51.384577,
     "lon": -2.359798,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/431533365",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://picniccoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://picniccoffee.co.uk"
   },
   {
     "id": "cafes-planteatlicious-node-3750602462",
@@ -1866,16 +1396,11 @@
     "locationLabel": "Lower Borough Walls, Bath, BA1 1QR",
     "lat": 51.379618,
     "lon": -2.360398,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3750602462",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.planteatlicious.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.planteatlicious.com"
   },
   {
     "id": "cafes-rainbowls-way-474927601",
@@ -1886,16 +1411,11 @@
     "locationLabel": "12a Old Bond Street, BA1 1BP",
     "lat": 51.382597,
     "lon": -2.361162,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/474927601",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.rainbowls.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.rainbowls.co.uk"
   },
   {
     "id": "cafes-rosarios-cafe-way-507525117",
@@ -1906,16 +1426,11 @@
     "locationLabel": "5 Northumberland Place, BA1 5AR",
     "lat": 51.382286,
     "lon": -2.359693,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/507525117",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.rosarioscafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.rosarioscafe.co.uk"
   },
   {
     "id": "cafes-sally-anns-cafe-node-4310806629",
@@ -1926,16 +1441,11 @@
     "locationLabel": "BA1 1XE",
     "lat": 51.381334,
     "lon": -2.365589,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4310806629",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.salvationarmy.org.uk/bath-citadel",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.salvationarmy.org.uk/bath-citadel"
   },
   {
     "id": "cafes-same-same-but-different-way-489856541",
@@ -1946,21 +1456,15 @@
     "locationLabel": "7a Bartlett Street, Bath, BA1 2ED",
     "lat": 51.385234,
     "lon": -2.361529,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/489856541",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://same-same.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://same-same.co.uk"
   },
   {
     "id": "cafes-society-cafe-way-308124421",
@@ -1971,16 +1475,11 @@
     "locationLabel": "4-5 Kingsmead Square, Bath, BA1 2AB",
     "lat": 51.381009,
     "lon": -2.363118,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/308124421",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.society-cafe.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.society-cafe.com"
   },
   {
     "id": "cafes-somer-node-4820635770",
@@ -1991,11 +1490,7 @@
     "locationLabel": "6 Bartlett Street, Bath, BA1 2QZ",
     "lat": 51.385667,
     "lon": -2.361775,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4820635770",
-    "websiteUrl": "https://www.bathspa.ac.uk/news-and-events/news/2025/somer-store-opens",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.bathspa.ac.uk/news-and-events/news/2025/somer-store-opens"
   },
   {
     "id": "cafes-sonder-way-456121845",
@@ -2006,16 +1501,11 @@
     "locationLabel": "14 Green Street, BA1 2JZ",
     "lat": 51.383329,
     "lon": -2.360378,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/456121845",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.sondercoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.sondercoffee.co.uk"
   },
   {
     "id": "cafes-sports-cafe-node-4450320506",
@@ -2026,16 +1516,11 @@
     "locationLabel": "BA2 7BT",
     "lat": 51.377721,
     "lon": -2.323282,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4450320506",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.bath.ac.uk/locations/sports-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.bath.ac.uk/locations/sports-cafe"
   },
   {
     "id": "cafes-st-mikes-cafe-node-4317063805",
@@ -2046,16 +1531,11 @@
     "locationLabel": "(new tag), BA1 5LP",
     "lat": 51.383716,
     "lon": -2.359735,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4317063805",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.stmichaelsbath.org.uk/st-mikes-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.stmichaelsbath.org.uk/st-mikes-cafe"
   },
   {
     "id": "cafes-starbucks-node-845940470",
@@ -2066,21 +1546,15 @@
     "locationLabel": "Bath, BA1 1SU",
     "lat": 51.377581,
     "lon": -2.357298,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/845940470",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009228/bath-spa-station-platform-2-bath-spa-station-platform-1-bath-eng-ba-1-1-su-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009228/bath-spa-station-platform-2-bath-spa-station-platform-1-bath-eng-ba-1-1-su-gb"
   },
   {
     "id": "cafes-starbucks-way-171379061",
@@ -2091,21 +1565,15 @@
     "locationLabel": "Avon Street, BA1 1UN",
     "lat": 51.380798,
     "lon": -2.363159,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/171379061",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1006241/bath-avon-street-unit-b-strahan-house-avon-street-bath-eng-ba-1-1-u",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1006241/bath-avon-street-unit-b-strahan-house-avon-street-bath-eng-ba-1-1-u"
   },
   {
     "id": "cafes-sugarcane-studio-way-447692224",
@@ -2116,16 +1584,11 @@
     "locationLabel": "1 Grove Street, BA2 6PJ",
     "lat": 51.383571,
     "lon": -2.357279,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/447692224",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.sugarcanestudio.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.sugarcanestudio.co.uk"
   },
   {
     "id": "cafes-sweet-little-things-way-380858303",
@@ -2136,16 +1599,11 @@
     "locationLabel": "5 Old Bond Street, BA1 1BW",
     "lat": 51.382923,
     "lon": -2.361054,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/380858303",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.sltbath.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.sltbath.co.uk"
   },
   {
     "id": "cafes-tealith-bubble-tea-way-380826075",
@@ -2156,11 +1614,7 @@
     "locationLabel": "20 Union Passage, Bath, BA1 1RD",
     "lat": 51.382065,
     "lon": -2.360102,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/380826075",
-    "websiteUrl": "https://www.tealith.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.tealith.com"
   },
   {
     "id": "cafes-the-bath-bun-way-1256907101",
@@ -2171,21 +1625,15 @@
     "locationLabel": "2a Abbey Green, BA1 1NW",
     "lat": 51.380584,
     "lon": -2.358637,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1256907101",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.thebathbun.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.thebathbun.com"
   },
   {
     "id": "cafes-the-chelsea-cafe-way-491788540",
@@ -2196,16 +1644,11 @@
     "locationLabel": "8e Chelsea Road, BA1 3DU",
     "lat": 51.385463,
     "lon": -2.388666,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/491788540",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://thechelseacafebath.tumblr.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thechelseacafebath.tumblr.com"
   },
   {
     "id": "cafes-the-choux-box-patisserie-cafe-way-1484255391",
@@ -2216,11 +1659,7 @@
     "locationLabel": "Entry Hill, BA2 5NA",
     "lat": 51.362192,
     "lon": -2.365816,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1484255391",
-    "websiteUrl": "https://www.thechouxboxpatisserie.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.thechouxboxpatisserie.com"
   },
   {
     "id": "cafes-the-colombian-company-way-197194662",
@@ -2231,16 +1670,11 @@
     "locationLabel": "6 Abbey Gate Street, BA1 1NP",
     "lat": 51.38031,
     "lon": -2.359001,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/197194662",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.thecolombiancompany.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.thecolombiancompany.com"
   },
   {
     "id": "cafes-the-colombian-company-way-456126420",
@@ -2251,16 +1685,11 @@
     "locationLabel": "3 New Bond Street, BA1 1BL",
     "lat": 51.383138,
     "lon": -2.360925,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/456126420",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://thecolombiancompany.com/our-locations",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thecolombiancompany.com/our-locations"
   },
   {
     "id": "cafes-the-colombian-company-limited-way-452680656",
@@ -2271,16 +1700,11 @@
     "locationLabel": "9 Claverton Street, BA2 4LD",
     "lat": 51.376718,
     "lon": -2.355366,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/452680656",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://thecolombiancompany.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thecolombiancompany.com"
   },
   {
     "id": "cafes-the-green-bird-cafe-way-120948359",
@@ -2291,16 +1715,11 @@
     "locationLabel": "11 Margaret's Buildings, Bath, BA1 2LP",
     "lat": 51.386832,
     "lon": -2.36591,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/120948359",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.greenbirdcafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.greenbirdcafe.co.uk"
   },
   {
     "id": "cafes-the-green-rocket-way-373343744",
@@ -2311,16 +1730,11 @@
     "locationLabel": "1 Pierrepont Street, BA1 1LB",
     "lat": 51.380655,
     "lon": -2.35701,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373343744",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://thegreenrocket.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thegreenrocket.co.uk"
   },
   {
     "id": "cafes-the-hub-cafe-node-6041515727",
@@ -2331,11 +1745,7 @@
     "locationLabel": "Mulberry Way, BA2 5BU",
     "lat": 51.362336,
     "lon": -2.354318,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6041515727",
-    "websiteUrl": "https://www.mphub.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.mphub.co.uk"
   },
   {
     "id": "cafes-the-kingsmead-kitchen-way-915199882",
@@ -2346,16 +1756,11 @@
     "locationLabel": "1 Kingsmead Street, Bath, BA1 2AA",
     "lat": 51.381422,
     "lon": -2.363492,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/915199882",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://kingsmeadkitchenbath.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://kingsmeadkitchenbath.co.uk"
   },
   {
     "id": "cafes-the-larkhall-deli-way-116533272",
@@ -2366,11 +1771,7 @@
     "locationLabel": "1 Upper Lambridge Street, BA1 6RY",
     "lat": 51.397314,
     "lon": -2.344988,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/116533272",
-    "websiteUrl": "https://jjbeanos.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://jjbeanos.com"
   },
   {
     "id": "cafes-the-mad-hatters-tea-party-way-373986074",
@@ -2381,16 +1782,11 @@
     "locationLabel": "5 Orange Grove, Bath, BA1 1LP",
     "lat": 51.381386,
     "lon": -2.358038,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373986074",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.madhattersbath.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.madhattersbath.co.uk"
   },
   {
     "id": "cafes-the-provenist-node-6739957502",
@@ -2401,11 +1797,7 @@
     "locationLabel": "Walcot Street, Bath, BA1 5BB",
     "lat": 51.385427,
     "lon": -2.359134,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6739957502",
-    "websiteUrl": "https://www.theprovenist.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.theprovenist.com"
   },
   {
     "id": "cafes-the-tea-shed-way-356944423",
@@ -2416,11 +1808,7 @@
     "locationLabel": "BA2 5AH",
     "lat": 51.369472,
     "lon": -2.343564,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/356944423",
-    "websiteUrl": "https://www.nationaltrust.org.uk/prior-park-landscape-garden/features/eating-and-shopping-at-prior-park",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.nationaltrust.org.uk/prior-park-landscape-garden/features/eating-and-shopping-at-prior-park"
   },
   {
     "id": "cafes-the-terrace-cafe-node-4307280150",
@@ -2431,16 +1819,11 @@
     "locationLabel": "Prior Park Road, BA2 4NF",
     "lat": 51.374406,
     "lon": -2.352081,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4307280150",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.priorparkgardencentre.co.uk/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.priorparkgardencentre.co.uk/cafe"
   },
   {
     "id": "cafes-thirsty-meeples-way-557081894",
@@ -2451,16 +1834,11 @@
     "locationLabel": "39 Gay Street, BA1 2NT",
     "lat": 51.384125,
     "lon": -2.363146,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/557081894",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://thirstymeeples.co.uk/pages/bathcafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thirstymeeples.co.uk/pages/bathcafe"
   },
   {
     "id": "cafes-toniq-cafe-way-314228807",
@@ -2471,16 +1849,11 @@
     "locationLabel": "14 George Street, BA1 2EN",
     "lat": 51.384804,
     "lon": -2.363098,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/314228807",
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.toniqlife.com/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.toniqlife.com/cafe"
   },
   {
     "id": "cafes-treetop-cafe-node-11754550013",
@@ -2491,16 +1864,11 @@
     "locationLabel": "Royal Avenue, BA1 2NR",
     "lat": 51.384954,
     "lon": -2.365504,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11754550013",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.treetopcafebath.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.treetopcafebath.co.uk"
   },
   {
     "id": "cafes-watchhouse-way-373546322",
@@ -2511,11 +1879,7 @@
     "locationLabel": "8-10 Old Bond Street, BA1 1BW",
     "lat": 51.382704,
     "lon": -2.360955,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/373546322",
-    "websiteUrl": "https://watchhouse.com/blogs/locations/bath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://watchhouse.com/blogs/locations/bath"
   },
   {
     "id": "cafes-widcombe-deli-node-11405340061",
@@ -2526,16 +1890,11 @@
     "locationLabel": "20 Claverton Street, BA2 4LD",
     "lat": 51.376638,
     "lon": -2.354467,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11405340061",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://jjbeanos.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://jjbeanos.com"
   },
   {
     "id": "cafes-branching-out-node-8453123597",
@@ -2546,18 +1905,13 @@
     "locationLabel": "149 Croydon Road, Beckenham, BR3 3QH",
     "lat": 51.399117,
     "lon": -0.040433,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/8453123597",
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.branchingoutshop.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.branchingoutshop.com"
   },
   {
     "id": "cafes-caffe-nero-node-389031673",
@@ -2568,11 +1922,7 @@
     "locationLabel": "164 High Street, Beckenham, BR3 1EW",
     "lat": 51.407569,
     "lon": -0.027644,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/389031673",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/beckenham",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/beckenham"
   },
   {
     "id": "cafes-costa-node-13653097243",
@@ -2583,11 +1933,7 @@
     "locationLabel": "194-202 High Street, Beckenham, BR3 1EN",
     "lat": 51.406858,
     "lon": -0.028188,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13653097243",
-    "websiteUrl": "https://www.costa.co.uk/stores/beckenham",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk/stores/beckenham"
   },
   {
     "id": "cafes-crunch-node-13674110586",
@@ -2598,11 +1944,7 @@
     "locationLabel": "242 High Street, Beckenham, BR3 1EN",
     "lat": 51.406604,
     "lon": -0.029635,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13674110586",
-    "websiteUrl": "https://crunchbeckenham.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://crunchbeckenham.co.uk"
   },
   {
     "id": "cafes-daisy-grey-way-1136507499",
@@ -2613,11 +1955,7 @@
     "locationLabel": "73E High Street, Beckenham, BR3 1AN",
     "lat": 51.407383,
     "lon": -0.025829,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1136507499",
-    "websiteUrl": "https://www.daisygrey.co.uk/beckenham-high-streets-location-and-opening-times",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.daisygrey.co.uk/beckenham-high-streets-location-and-opening-times"
   },
   {
     "id": "cafes-piccolo-cafe-node-13652636602",
@@ -2628,11 +1966,7 @@
     "locationLabel": "106 High Street, Beckenham, BR3 1EB",
     "lat": 51.407783,
     "lon": -0.02569,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13652636602",
-    "websiteUrl": "https://piccolocafes.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://piccolocafes.co.uk"
   },
   {
     "id": "cafes-poached-node-12632010027",
@@ -2643,11 +1977,7 @@
     "locationLabel": "12a High Street, Beckenham, BR3 1AZ",
     "lat": 51.410554,
     "lon": -0.025033,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12632010027",
-    "websiteUrl": "https://www.poachedrestaurants.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.poachedrestaurants.co.uk"
   },
   {
     "id": "cafes-rendez-vous-node-13652455081",
@@ -2658,11 +1988,7 @@
     "locationLabel": "94 High Street, Beckenham, BR3 1ED",
     "lat": 51.407987,
     "lon": -0.025486,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13652455081",
-    "websiteUrl": "https://rendezvouscaffe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://rendezvouscaffe.co.uk"
   },
   {
     "id": "cafes-shotsmiths-node-9953837717",
@@ -2673,11 +1999,7 @@
     "locationLabel": "73 Beckenham Road, Beckenham, BR3 4PR",
     "lat": 51.40864,
     "lon": -0.039835,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9953837717",
-    "websiteUrl": "https://shotsmiths.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://shotsmiths.com"
   },
   {
     "id": "cafes-sunrise-cafe-node-308066480",
@@ -2688,19 +2010,14 @@
     "locationLabel": "115 Croydon Road, Beckenham, BR3 3RA",
     "lat": 51.398894,
     "lon": -0.042671,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/308066480",
     "foodTags": {
       "tags": [
         "burger",
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://placejuice.com/sunrise-cafe-sjlenm0",
-    "websiteSource": "osm"
+    "websiteUrl": "https://placejuice.com/sunrise-cafe-sjlenm0"
   },
   {
     "id": "cafes-bolt-deli-node-13509300128",
@@ -2711,21 +2028,15 @@
     "locationLabel": "62 Boucher Road, BT12 6LR",
     "lat": 54.573235,
     "lon": -5.966722,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13509300128",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.boltdelibelfast.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.boltdelibelfast.com"
   },
   {
     "id": "cafes-cafe-smart-node-3869043378",
@@ -2736,11 +2047,7 @@
     "locationLabel": "Belfast",
     "lat": 54.600334,
     "lon": -5.875229,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3869043378",
-    "websiteUrl": "https://cafesmart.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://cafesmart.co.uk"
   },
   {
     "id": "cafes-caffe-nero-node-3930463007",
@@ -2751,16 +2058,11 @@
     "locationLabel": "10 Donegall Square West, BT1 6JH",
     "lat": 54.596587,
     "lon": -5.931719,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3930463007",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-donegall-sq",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-donegall-sq"
   },
   {
     "id": "cafes-caffe-nero-node-5227982992",
@@ -2771,16 +2073,11 @@
     "locationLabel": "376-378 Upper Newtownards Road, Belfast, BT4 3FB",
     "lat": 54.595326,
     "lon": -5.867362,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5227982992",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/ballyhackamore",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/ballyhackamore"
   },
   {
     "id": "cafes-caffe-nero-node-6421702904",
@@ -2791,16 +2088,11 @@
     "locationLabel": "1 Lanyon Place, Belfast, BT1 3LP",
     "lat": 54.596553,
     "lon": -5.920947,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6421702904",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-lanyon-place",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-lanyon-place"
   },
   {
     "id": "cafes-caffe-nero-node-7060790485",
@@ -2811,11 +2103,7 @@
     "locationLabel": "Belfast",
     "lat": 54.592436,
     "lon": -5.926676,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7060790485",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-weavers",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-weavers"
   },
   {
     "id": "cafes-caffe-nero-node-10706839768",
@@ -2826,11 +2114,7 @@
     "locationLabel": "Boucher Crescent, Belfast, BT12 6HU",
     "lat": 54.580209,
     "lon": -5.967045,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10706839768",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-boucher-road",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-boucher-road"
   },
   {
     "id": "cafes-caffe-nero-node-11309553951",
@@ -2841,16 +2125,11 @@
     "locationLabel": "Belfast",
     "lat": 54.58606,
     "lon": -5.936285,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11309553951",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-university-road",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-university-road"
   },
   {
     "id": "cafes-caffe-nero-node-11702139596",
@@ -2861,11 +2140,7 @@
     "locationLabel": "Belfast",
     "lat": 54.594419,
     "lon": -5.934753,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11702139596",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-europa",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-europa"
   },
   {
     "id": "cafes-caffe-nero-way-589260598",
@@ -2876,21 +2151,15 @@
     "locationLabel": "48-50 Ann Street, Belfast, BT1 4EG",
     "lat": 54.599335,
     "lon": -5.925669,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/589260598",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ann-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ann-st"
   },
   {
     "id": "cafes-caffe-nero-way-611906947",
@@ -2901,11 +2170,7 @@
     "locationLabel": "Belfast",
     "lat": 54.588329,
     "lon": -5.932879,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/611906947",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-botanic",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-botanic"
   },
   {
     "id": "cafes-caffe-nero-way-629977295",
@@ -2916,11 +2181,7 @@
     "locationLabel": "Belfast",
     "lat": 54.655739,
     "lon": -5.91811,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/629977295",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/newtownabbey-abbey-centre",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/newtownabbey-abbey-centre"
   },
   {
     "id": "cafes-caffe-nero-way-1192112125",
@@ -2931,16 +2192,11 @@
     "locationLabel": "377 Ormeau Road, Belfast, BT7 2FD",
     "lat": 54.577914,
     "lon": -5.919101,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1192112125",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ormeau-road",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ormeau-road"
   },
   {
     "id": "cafes-costa-coffee-node-12818746401",
@@ -2951,11 +2207,7 @@
     "locationLabel": "Drumkeen Court, Belfast",
     "lat": 54.565896,
     "lon": -5.906955,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12818746401",
-    "websiteUrl": "https://www.costa.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk"
   },
   {
     "id": "cafes-drip-node-13447220103",
@@ -2966,11 +2218,7 @@
     "locationLabel": "332-338 Ormeau Road, Belfast, BT7 2GE",
     "lat": 54.575218,
     "lon": -5.916495,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13447220103",
-    "websiteUrl": "https://dripbelfast.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://dripbelfast.com"
   },
   {
     "id": "cafes-french-village-bakery-and-cafe-node-1301173918",
@@ -2981,16 +2229,11 @@
     "locationLabel": "99 Botanic Avenue, Belfast, BT7 1JN",
     "lat": 54.586283,
     "lon": -5.932473,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1301173918",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.frenchvillagebakery.co.uk/where-to-buy.cfm",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.frenchvillagebakery.co.uk/where-to-buy.cfm"
   },
   {
     "id": "cafes-gong-cha-node-1301163135",
@@ -3001,11 +2244,7 @@
     "locationLabel": "68 Botanic Avenue, Belfast, BT7 1JR",
     "lat": 54.587425,
     "lon": -5.932472,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1301163135",
-    "websiteUrl": "https://www.gong-cha.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.gong-cha.com"
   },
   {
     "id": "cafes-junction-node-1450326115",
@@ -3016,11 +2255,7 @@
     "locationLabel": "Belfast",
     "lat": 54.584973,
     "lon": -5.933789,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1450326115",
-    "websiteUrl": "https://www.junctionqueens.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.junctionqueens.com"
   },
   {
     "id": "cafes-maggie-mays-node-10181169102",
@@ -3031,11 +2266,7 @@
     "locationLabel": "44 Castle Street, Belfast, BT1 1HB",
     "lat": 54.599085,
     "lon": -5.932127,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10181169102",
-    "websiteUrl": "https://maggiemaysbelfast.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://maggiemaysbelfast.com"
   },
   {
     "id": "cafes-phin-node-13744469093",
@@ -3046,11 +2277,7 @@
     "locationLabel": "Belfast",
     "lat": 54.597341,
     "lon": -5.932366,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13744469093",
-    "websiteUrl": "https://phinbelfast.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://phinbelfast.com"
   },
   {
     "id": "cafes-phin-node-13744469094",
@@ -3061,11 +2288,7 @@
     "locationLabel": "300 Ormeau Road, Belfast, BT7 2GE",
     "lat": 54.57649,
     "lon": -5.917482,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13744469094",
-    "websiteUrl": "https://www.phinbelfast.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.phinbelfast.com"
   },
   {
     "id": "cafes-reboot-gaming-cafe-node-6328938287",
@@ -3076,11 +2299,7 @@
     "locationLabel": "92-96 Lisburn Road, Belfast, BT9 6AG",
     "lat": 54.585102,
     "lon": -5.94101,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6328938287",
-    "websiteUrl": "https://rebootgamingcafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://rebootgamingcafe.co.uk"
   },
   {
     "id": "cafes-root-and-branch-coffee-roastery-node-10048269837",
@@ -3091,11 +2310,7 @@
     "locationLabel": "Belfast",
     "lat": 54.598718,
     "lon": -5.894311,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10048269837",
-    "websiteUrl": "https://rootandbranch.coffee",
-    "websiteSource": "osm"
+    "websiteUrl": "https://rootandbranch.coffee"
   },
   {
     "id": "cafes-simply-fish-and-chips-node-2096717959",
@@ -3106,11 +2321,7 @@
     "locationLabel": "Oxford Street, BT1 3LA",
     "lat": 54.596219,
     "lon": -5.921611,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2096717959",
-    "websiteUrl": "https://www.simplyfishandchips.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.simplyfishandchips.co.uk"
   },
   {
     "id": "cafes-sojourn-coffee-belfast-node-6282849826",
@@ -3121,11 +2332,7 @@
     "locationLabel": "Belfast",
     "lat": 54.584514,
     "lon": -5.938304,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6282849826",
-    "websiteUrl": "https://sojourncoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://sojourncoffee.co.uk"
   },
   {
     "id": "cafes-starbucks-node-2612909755",
@@ -3136,11 +2343,7 @@
     "locationLabel": "Boucher Crescent, Belfast, BT12 6HU",
     "lat": 54.581448,
     "lon": -5.965661,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2612909755",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1012239/boucher-unit-11-c-boucher-retail-park-boucher-crescent-bel",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1012239/boucher-unit-11-c-boucher-retail-park-boucher-crescent-bel"
   },
   {
     "id": "cafes-starbucks-node-5272192467",
@@ -3151,16 +2354,11 @@
     "locationLabel": "Belfast, BT1 1DD",
     "lat": 54.600752,
     "lon": -5.931363,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5272192467",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1043557/castle-court-unit-34-c-castle-court-shopping-centre-royal-avenu",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1043557/castle-court-unit-34-c-castle-court-shopping-centre-royal-avenu"
   },
   {
     "id": "cafes-starbucks-node-5939213785",
@@ -3171,11 +2369,7 @@
     "locationLabel": "4-8 Adelaide Street, Belfast, BT2 8GA",
     "lat": 54.595163,
     "lon": -5.92822,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5939213785",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1016161/harvester-house-harvester-house-adelaide-street-belfast-belfast-ni",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1016161/harvester-house-harvester-house-adelaide-street-belfast-belfast-ni"
   },
   {
     "id": "cafes-starbucks-node-5939213787",
@@ -3186,11 +2380,7 @@
     "locationLabel": "Belfast",
     "lat": 54.595168,
     "lon": -5.934278,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5939213787",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011572/great-victoria-street-24-great-victoria-street-belfast-belfast-nir-bt-2-",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011572/great-victoria-street-24-great-victoria-street-belfast-belfast-nir-bt-2-"
   },
   {
     "id": "cafes-starbucks-node-7289320586",
@@ -3201,11 +2391,7 @@
     "locationLabel": "1 Victoria Square, Belfast, BT1 4QG",
     "lat": 54.598275,
     "lon": -5.924615,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7289320586",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009133/belfast-victoria-square-ug-13-unit-38-ug-victoria-square-sc-1-victoria-square-be",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009133/belfast-victoria-square-ug-13-unit-38-ug-victoria-square-sc-1-victoria-square-be"
   },
   {
     "id": "cafes-starbucks-node-12178087286",
@@ -3216,11 +2402,7 @@
     "locationLabel": "Belfast",
     "lat": 54.594179,
     "lon": -5.940232,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12178087286",
-    "websiteUrl": "https://www.starbucks.co.uk/store-locator/84998-314740",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.co.uk/store-locator/84998-314740"
   },
   {
     "id": "cafes-starbucks-node-12818746301",
@@ -3231,11 +2413,7 @@
     "locationLabel": "Unit 3 Upper Galwally, BT8 6FX",
     "lat": 54.564453,
     "lon": -5.908277,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12818746301",
-    "websiteUrl": "https://www.starbucks.co.uk/store-locator/84671-314346/unit-3-forestside-sc",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.co.uk/store-locator/84671-314346/unit-3-forestside-sc"
   },
   {
     "id": "cafes-starbucks-node-13401965947",
@@ -3246,16 +2424,11 @@
     "locationLabel": "Belfast",
     "lat": 54.611601,
     "lon": -5.955875,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13401965947",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com"
   },
   {
     "id": "cafes-town-square-way-613157871",
@@ -3266,11 +2439,7 @@
     "locationLabel": "45 Botanic Avenue, Belfast, Antrim, BT7 1HB",
     "lat": 54.588129,
     "lon": -5.933375,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/613157871",
-    "websiteUrl": "https://www.townsquarebelfast.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.townsquarebelfast.com"
   },
   {
     "id": "cafes-trait-node-11920208549",
@@ -3281,11 +2450,7 @@
     "locationLabel": "Belfast",
     "lat": 54.596835,
     "lon": -5.934411,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11920208549",
-    "websiteUrl": "https://www.traitcoffee.co.uk/collegesqe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.traitcoffee.co.uk/collegesqe"
   },
   {
     "id": "cafes-starbucks-way-965766019",
@@ -3296,11 +2461,7 @@
     "locationLabel": "85 Broadway, Bexleyheath, DA6 7JN",
     "lat": 51.456269,
     "lon": 0.14578,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/965766019",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2440/bexleyheath-broadway-shoppin-broadway-shopping-centre-bexleyheath-eng-da-6-7-jn",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2440/bexleyheath-broadway-shoppin-broadway-shopping-centre-bexleyheath-eng-da-6-7-jn"
   },
   {
     "id": "cafes-caffe-cream-node-1775567481",
@@ -3311,21 +2472,15 @@
     "locationLabel": "Park Drive, Birkenhead, CH41 4HY",
     "lat": 53.3953,
     "lon": -3.03879,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1775567481",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffecream.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffecream.co.uk"
   },
   {
     "id": "cafes-indigo-node-12020159970",
@@ -3336,11 +2491,7 @@
     "locationLabel": "136 Bedford Road, Birkenhead, Merseyside, CH42 2AS",
     "lat": 53.372852,
     "lon": -3.00798,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12020159970",
-    "websiteUrl": "https://www.indigorockferry.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.indigorockferry.com"
   },
   {
     "id": "cafes-black-sheep-coffee-node-9686118561",
@@ -3351,11 +2502,7 @@
     "locationLabel": "160 Wharfside Street, Birmingham, B1 1RL",
     "lat": 52.475465,
     "lon": -1.905885,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9686118561",
-    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/ac-hotel-birmingham",
-    "websiteSource": "osm"
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/ac-hotel-birmingham"
   },
   {
     "id": "cafes-blow-water-node-3893540681",
@@ -3366,11 +2513,7 @@
     "locationLabel": "Birmingham",
     "lat": 52.434428,
     "lon": -1.891832,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3893540681",
-    "websiteUrl": "https://www.blowwater.co",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.blowwater.co"
   },
   {
     "id": "cafes-breakfast-n-brunch-node-968790821",
@@ -3381,16 +2524,11 @@
     "locationLabel": "101 Thornbridge Avenue, Birmingham, B42 2AB",
     "lat": 52.535584,
     "lon": -1.905563,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/968790821",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.breakfastnbrunch.co.uk/greatbarr",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.breakfastnbrunch.co.uk/greatbarr"
   },
   {
     "id": "cafes-brig-cafe-at-the-warehouse-node-81440685",
@@ -3401,16 +2539,11 @@
     "locationLabel": "54-57 Allison Street, Birmingham, B5 5TH",
     "lat": 52.478423,
     "lon": -1.889577,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/81440685",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.wearebrig.co.uk/brig-cafe-at-the-warehouse",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.wearebrig.co.uk/brig-cafe-at-the-warehouse"
   },
   {
     "id": "cafes-caffe-nero-node-2535904124",
@@ -3421,11 +2554,7 @@
     "locationLabel": "Birmingham",
     "lat": 52.476704,
     "lon": -1.896536,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2535904124",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-bullring",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-bullring"
   },
   {
     "id": "cafes-caffe-nero-node-9963976678",
@@ -3436,21 +2565,15 @@
     "locationLabel": "4 Brindley Place, Birmingham, B1 2JB",
     "lat": 52.478235,
     "lon": -1.913981,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9963976678",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-brindleyplace",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-brindleyplace"
   },
   {
     "id": "cafes-caffe-nero-way-162580318",
@@ -3461,11 +2584,7 @@
     "locationLabel": "74 Corporation Street, Birmingham, B2 4UQ",
     "lat": 52.480757,
     "lon": -1.895621,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/162580318",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-corporation-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-corporation-st"
   },
   {
     "id": "cafes-caffe-nero-way-317697216",
@@ -3476,11 +2595,7 @@
     "locationLabel": "143 High Street, Harborne, B17 9NP",
     "lat": 52.458962,
     "lon": -1.949095,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/317697216",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/harborne",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/harborne"
   },
   {
     "id": "cafes-centenary-lounge-node-1785327106",
@@ -3491,16 +2606,11 @@
     "locationLabel": "Moor Street, Birmingham, B4 7UL",
     "lat": 52.478802,
     "lon": -1.892698,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1785327106",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.centenarylounge.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.centenarylounge.com"
   },
   {
     "id": "cafes-chai-and-crumbs-node-2590963416",
@@ -3511,11 +2621,7 @@
     "locationLabel": "2 Waterfront Walk, Birmingham, B1 1SZ",
     "lat": 52.475629,
     "lon": -1.908451,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2590963416",
-    "websiteUrl": "https://www.chaiandcrumbs.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.chaiandcrumbs.co.uk"
   },
   {
     "id": "cafes-chance-and-counters-node-7156475185",
@@ -3526,16 +2632,11 @@
     "locationLabel": "Gibb Street, Birmingham, B9 4BG",
     "lat": 52.475458,
     "lon": -1.884368,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7156475185",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.chanceandcounters.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.chanceandcounters.com"
   },
   {
     "id": "cafes-chapel-cafe-node-4072530469",
@@ -3546,11 +2647,7 @@
     "locationLabel": "445 Bearwood Road, B66 4DH",
     "lat": 52.477715,
     "lon": -1.969926,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4072530469",
-    "websiteUrl": "https://chapelcafe.org",
-    "websiteSource": "osm"
+    "websiteUrl": "https://chapelcafe.org"
   },
   {
     "id": "cafes-coffee-1-way-85547649",
@@ -3561,11 +2658,7 @@
     "locationLabel": "Alcester Road South, Birmingham, B14 7JJ",
     "lat": 52.43239,
     "lon": -1.89274,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/85547649",
-    "websiteUrl": "https://www.coffee1.co.uk/locations/kings-heath",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.coffee1.co.uk/locations/kings-heath"
   },
   {
     "id": "cafes-costa-node-6055073401",
@@ -3576,11 +2669,7 @@
     "locationLabel": "Selly Oak Shopping Park",
     "lat": 52.44439,
     "lon": -1.940281,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6055073401",
-    "websiteUrl": "https://www.costa.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk"
   },
   {
     "id": "cafes-costa-node-6443261685",
@@ -3591,16 +2680,11 @@
     "locationLabel": "579 Bearwood Road, B66 4BH",
     "lat": 52.474646,
     "lon": -1.969023,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6443261685",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.costa.co.uk/?utm_source=test",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk/?utm_source=test"
   },
   {
     "id": "cafes-costa-drive-thru-way-880747836",
@@ -3611,21 +2695,15 @@
     "locationLabel": "571 Pershore Road, Birmingham, B29 7DF",
     "lat": 52.449604,
     "lon": -1.912031,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/880747836",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.costa.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.costa.co.uk"
   },
   {
     "id": "cafes-donuts-n-chai-way-1150922675",
@@ -3636,11 +2714,7 @@
     "locationLabel": "88 Lower Tower Street, Birmingham, B19 3NL",
     "lat": 52.490138,
     "lon": -1.895522,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1150922675",
-    "websiteUrl": "https://donutsnchai.co.uk/d6375ce5-59fc-4be3-981b-b5d9f9c635c2",
-    "websiteSource": "osm"
+    "websiteUrl": "https://donutsnchai.co.uk/d6375ce5-59fc-4be3-981b-b5d9f9c635c2"
   },
   {
     "id": "cafes-gorilla-coffee-cafe-node-356614176",
@@ -3651,16 +2725,11 @@
     "locationLabel": "6 Brindley Place, Birmingham, B1 2JB",
     "lat": 52.477585,
     "lon": -1.913594,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/356614176",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://gorillacoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://gorillacoffee.co.uk"
   },
   {
     "id": "cafes-grounded-st-pauls-node-12064966369",
@@ -3671,21 +2740,15 @@
     "locationLabel": "55 Saint Paul's Square, Birmingham, B3 1QS",
     "lat": 52.48445,
     "lon": -1.906056,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12064966369",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://groundedcafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://groundedcafe.co.uk"
   },
   {
     "id": "cafes-hello-cafe-node-12770453883",
@@ -3696,16 +2759,11 @@
     "locationLabel": "596 Bearwood Road",
     "lat": 52.473247,
     "lon": -1.968867,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12770453883",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://hellocafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://hellocafe.co.uk"
   },
   {
     "id": "cafes-hey-brew-espresso-node-2782012388",
@@ -3716,11 +2774,7 @@
     "locationLabel": "552-554 Bristol Road, Birmingham, B29 6BD",
     "lat": 52.445759,
     "lon": -1.932887,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2782012388",
-    "websiteUrl": "https://www.heybrew.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.heybrew.co.uk"
   },
   {
     "id": "cafes-java-roastery-way-87356445",
@@ -3731,18 +2785,13 @@
     "locationLabel": "122-124 Colmore Row, Birmingham, B3 3AP",
     "lat": 52.48024,
     "lon": -1.901812,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/87356445",
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://javaroastery.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://javaroastery.co.uk"
   },
   {
     "id": "cafes-kitty-cafe-node-3758952492",
@@ -3753,11 +2802,7 @@
     "locationLabel": "Stephenson Place, Birmingham, B2 4BF",
     "lat": 52.478318,
     "lon": -1.899392,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3758952492",
-    "websiteUrl": "https://www.kittycafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.kittycafe.co.uk"
   },
   {
     "id": "cafes-marlboro-cafe-node-7157189685",
@@ -3768,11 +2813,7 @@
     "locationLabel": "60 Greenholm Road, Birmingham, B44 8HL",
     "lat": 52.535467,
     "lon": -1.892914,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7157189685",
-    "websiteUrl": "https://marlborocafebirmingham.cafecityguide.website",
-    "websiteSource": "osm"
+    "websiteUrl": "https://marlborocafebirmingham.cafecityguide.website"
   },
   {
     "id": "cafes-medicine-node-1272977501",
@@ -3783,11 +2824,7 @@
     "locationLabel": "66-69 New Street, Birmingham, B2 4DU",
     "lat": 52.479511,
     "lon": -1.901685,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1272977501",
-    "websiteUrl": "https://medicinebakery.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://medicinebakery.co.uk"
   },
   {
     "id": "cafes-montys-node-12435645489",
@@ -3798,18 +2835,13 @@
     "locationLabel": "1 Snow Hill, Birmingham, B4 6GH",
     "lat": 52.483503,
     "lon": -1.897866,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12435645489",
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.montysdeli.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.montysdeli.co.uk"
   },
   {
     "id": "cafes-new-heights-community-cafe-node-10760217612",
@@ -3820,11 +2852,7 @@
     "locationLabel": "124 Warren Farm Road, Birmingham, B44 0QN",
     "lat": 52.543317,
     "lon": -1.878857,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10760217612",
-    "websiteUrl": "https://new-heights.org.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://new-heights.org.uk"
   },
   {
     "id": "cafes-pause-node-13547454152",
@@ -3835,16 +2863,11 @@
     "locationLabel": "56 Poplar Road, Birmingham, B14 7AG",
     "lat": 52.43635,
     "lon": -1.89029,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13547454152",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.pausecoffeeshopbakery.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.pausecoffeeshopbakery.com"
   },
   {
     "id": "cafes-pippatopia-childrens-role-play-cafe-node-12802456424",
@@ -3855,11 +2878,7 @@
     "locationLabel": "Fenton Street",
     "lat": 52.500096,
     "lon": -1.97873,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12802456424",
-    "websiteUrl": "https://www.pippatopia.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.pippatopia.co.uk"
   },
   {
     "id": "cafes-quarter-horse-coffee-roasters-node-4857256021",
@@ -3870,11 +2889,7 @@
     "locationLabel": "88-90 Bristol Street, Birmingham, B5 7AH",
     "lat": 52.471589,
     "lon": -1.899452,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4857256021",
-    "websiteUrl": "https://quarterhorsecoffee.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://quarterhorsecoffee.com"
   },
   {
     "id": "cafes-saint-kitchen-node-330253868",
@@ -3885,16 +2900,11 @@
     "locationLabel": "Birmingham",
     "lat": 52.4846,
     "lon": -1.90531,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/330253868",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.saintkitchen.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.saintkitchen.com"
   },
   {
     "id": "cafes-silly-sausage-way-174636423",
@@ -3905,11 +2915,7 @@
     "locationLabel": "Flaxley Road, Birmingham, B33 9AL",
     "lat": 52.48805,
     "lon": -1.809978,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/174636423",
-    "websiteUrl": "https://sillysausagecafebirmingham.cafecityguide.website",
-    "websiteSource": "osm"
+    "websiteUrl": "https://sillysausagecafebirmingham.cafecityguide.website"
   },
   {
     "id": "cafes-sliced-n-diced-node-453661638",
@@ -3920,11 +2926,7 @@
     "locationLabel": "850 Bristol Road, Birmingham, B29 6HW",
     "lat": 52.438761,
     "lon": -1.940405,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/453661638",
-    "websiteUrl": "https://slicedndiced.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://slicedndiced.uk"
   },
   {
     "id": "cafes-starbucks-node-1607781175",
@@ -3935,11 +2937,7 @@
     "locationLabel": "Birmingham",
     "lat": 52.507972,
     "lon": -1.821457,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1607781175",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2840/birmingham-the-fort-shopping-birmingham-the-fort-restaura-unit-f-2-20-fort-park",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2840/birmingham-the-fort-shopping-birmingham-the-fort-restaura-unit-f-2-20-fort-park"
   },
   {
     "id": "cafes-starbucks-node-2517583479",
@@ -3950,21 +2948,15 @@
     "locationLabel": "114-115 New Street, Birmingham, B2 4JH",
     "lat": 52.479097,
     "lon": -1.899328,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2517583479",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2552/birmingham-new-street-114-115-new-street-birmingham-eng-b-2-4-jh-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2552/birmingham-new-street-114-115-new-street-birmingham-eng-b-2-4-jh-gb"
   },
   {
     "id": "cafes-starbucks-node-2535904302",
@@ -3975,11 +2967,7 @@
     "locationLabel": "Bullring, Birmingham, B5 4EN",
     "lat": 52.47795,
     "lon": -1.893671,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2535904302",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2742/birmingham-bullring-upper-bullring-centre-birmingham-eng-b-5-4-en-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2742/birmingham-bullring-upper-bullring-centre-birmingham-eng-b-5-4-en-gb"
   },
   {
     "id": "cafes-starbucks-node-2605488384",
@@ -3990,11 +2978,7 @@
     "locationLabel": "8 Centenary Square, Birmingham, B1 2EA",
     "lat": 52.478918,
     "lon": -1.910276,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2605488384",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/20044/birmingham-broad-street-the-broad-street-birmingham-eng-b-1-2-ea-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/20044/birmingham-broad-street-the-broad-street-birmingham-eng-b-1-2-ea-gb"
   },
   {
     "id": "cafes-starbucks-node-2915316650",
@@ -4005,16 +2989,11 @@
     "locationLabel": "Birmingham",
     "lat": 52.475514,
     "lon": -1.888699,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2915316650",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/2855/birmingham-coach-station-spencer-house-birmingham-eng-b-5-6-dq-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2855/birmingham-coach-station-spencer-house-birmingham-eng-b-5-6-dq-gb"
   },
   {
     "id": "cafes-starbucks-node-3406978066",
@@ -4025,11 +3004,7 @@
     "locationLabel": "Birmingham",
     "lat": 52.471926,
     "lon": -1.922445,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/3406978066",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009013/birmingham-edgbaston-30-hagley-road-edgbaston-eng-b-16-8-pe-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009013/birmingham-edgbaston-30-hagley-road-edgbaston-eng-b-16-8-pe-gb"
   },
   {
     "id": "cafes-starbucks-node-6055073394",
@@ -4040,16 +3015,11 @@
     "locationLabel": "Birmingham",
     "lat": 52.444403,
     "lon": -1.939347,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6055073394",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1043667/birmingham-selly-oak-sp-undefined-birmingham-eng-b-296-sn-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1043667/birmingham-selly-oak-sp-undefined-birmingham-eng-b-296-sn-gb"
   },
   {
     "id": "cafes-tea-pot-cafe-node-12801082714",
@@ -4060,16 +3030,11 @@
     "locationLabel": "291 High Street",
     "lat": 52.491423,
     "lon": -1.967833,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12801082714",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://teapotcafesmethwick.co.uk/?utm_source=google&utm_medium=pin&utm_content=website-button",
-    "websiteSource": "osm"
+    "websiteUrl": "https://teapotcafesmethwick.co.uk/?utm_source=google&utm_medium=pin&utm_content=website-button"
   },
   {
     "id": "cafes-the-highfield-way-77102220",
@@ -4080,21 +3045,15 @@
     "locationLabel": "22 Highfield Road, Birmingham, B15 3DP",
     "lat": 52.468652,
     "lon": -1.922428,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/77102220",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.highfieldedgbaston.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.highfieldedgbaston.co.uk"
   },
   {
     "id": "cafes-the-soft-play-cafe-node-12842566195",
@@ -4105,18 +3064,13 @@
     "locationLabel": "1261 Pershore Road, Birmingham, B30 2XU",
     "lat": 52.430668,
     "lon": -1.920653,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12842566195",
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://thesoftplaycafebirmingham.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thesoftplaycafebirmingham.co.uk"
   },
   {
     "id": "cafes-urban-coffee-company-node-1303843967",
@@ -4127,11 +3081,7 @@
     "locationLabel": "Warstone Lane, Birmingham, B18 6NF",
     "lat": 52.487554,
     "lon": -1.911679,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1303843967",
-    "websiteUrl": "https://www.urbancoffee.co.uk/emporiums/birmingham-jewellery-quarter",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.urbancoffee.co.uk/emporiums/birmingham-jewellery-quarter"
   },
   {
     "id": "cafes-village-kitchen-node-9772519393",
@@ -4142,16 +3092,11 @@
     "locationLabel": "8a Greenfield Crescent, Birmingham, B15 3BE",
     "lat": 52.470363,
     "lon": -1.922359,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9772519393",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.villagekitchen.online",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.villagekitchen.online"
   },
   {
     "id": "cafes-waylands-yard-node-1098115323",
@@ -4162,11 +3107,7 @@
     "locationLabel": "42 Bull Street, Birmingham, B4 6AF",
     "lat": 52.482292,
     "lon": -1.896544,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1098115323",
-    "websiteUrl": "https://www.waylandsyard.com/birmingham",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.waylandsyard.com/birmingham"
   },
   {
     "id": "cafes-baileys-cheese-and-charcuterie-node-13172581501",
@@ -4177,11 +3118,7 @@
     "locationLabel": "54 Clifton Street, Blackpool, FY1 1JP",
     "lat": 53.818936,
     "lon": -3.052726,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13172581501",
-    "websiteUrl": "https://baileysblackpool.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://baileysblackpool.co.uk"
   },
   {
     "id": "cafes-cafe-meow-node-12329224982",
@@ -4192,11 +3129,7 @@
     "locationLabel": "22 Birley Street, Blackpool, FY1 1DU",
     "lat": 53.818276,
     "lon": -3.052987,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12329224982",
-    "websiteUrl": "https://cafemeow.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://cafemeow.co.uk"
   },
   {
     "id": "cafes-caffe-nero-node-4464922094",
@@ -4207,11 +3140,7 @@
     "locationLabel": "Blackpool, FY1 4HU",
     "lat": 53.816549,
     "lon": -3.053864,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4464922094",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/blackpool",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/blackpool"
   },
   {
     "id": "cafes-parks-art-deco-cafe-way-972747415",
@@ -4222,28 +3151,21 @@
     "locationLabel": "West Park Drive, Blackpool, FY3 9EQ",
     "lat": 53.815369,
     "lon": -3.024851,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/972747415",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.parks-artdecocafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.parks-artdecocafe.co.uk"
   },
   {
     "id": "cafes-starbucks-node-1598732309",
@@ -4254,16 +3176,11 @@
     "locationLabel": "Blackpool, FY1 4RN",
     "lat": 53.816464,
     "lon": -3.054245,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1598732309",
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1027450/blackpool-victoria-st-victoria-street-unit-29-hounds-hill-shopping-centr",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1027450/blackpool-victoria-st-victoria-street-unit-29-hounds-hill-shopping-centr"
   },
   {
     "id": "cafes-starbucks-node-4572821518",
@@ -4274,11 +3191,7 @@
     "locationLabel": "Blackpool, FY3 8LL",
     "lat": 53.812579,
     "lon": -3.011039,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4572821518",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/20017/blackpool-village-hotel-east-park-drive-herons-reach-blackpool-eng-fy-3-8-",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/20017/blackpool-village-hotel-east-park-drive-herons-reach-blackpool-eng-fy-3-8-"
   },
   {
     "id": "cafes-starbucks-node-6897551373",
@@ -4289,11 +3202,7 @@
     "locationLabel": "Preston New Road, Blackpool, FY3 9TN",
     "lat": 53.802644,
     "lon": -3.007855,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6897551373",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1018645/blackpool-preston-new-road-preston-new-road-blackpool-eng-fy-3-9-tn-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1018645/blackpool-preston-new-road-preston-new-road-blackpool-eng-fy-3-9-tn-gb"
   },
   {
     "id": "cafes-coffee-latino-node-4431014805",
@@ -4304,11 +3213,7 @@
     "locationLabel": "Dunne Road, Blaydon On Tyne",
     "lat": 54.967645,
     "lon": -1.700501,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4431014805",
-    "websiteUrl": "https://www.coffeelatino.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.coffeelatino.co.uk"
   },
   {
     "id": "cafes-pumphreys-coffee-showroom-and-coffee-shop-node-12199754654",
@@ -4319,16 +3224,11 @@
     "locationLabel": "Bridge Street, Blaydon-on-Tyne, NE21 4JJ",
     "lat": 54.966334,
     "lon": -1.720993,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12199754654",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.pumphreys-coffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.pumphreys-coffee.co.uk"
   },
   {
     "id": "cafes-sababa-node-10924089794",
@@ -4339,16 +3239,11 @@
     "locationLabel": "33-35 Shenley Road, Borehamwood, WD6 1AE",
     "lat": 51.654921,
     "lon": -0.277877,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10924089794",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.sababaa.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.sababaa.uk"
   },
   {
     "id": "cafes-missing-bean-node-9689753489",
@@ -4359,23 +3254,17 @@
     "locationLabel": "2 Church Way, Botley, OX2 9TH",
     "lat": 51.750846,
     "lon": -1.298173,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9689753489",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.themissingbean.co.uk/pages/botley-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.themissingbean.co.uk/pages/botley-cafe"
   },
   {
     "id": "cafes-caffe-nero-way-120192608",
@@ -4386,11 +3275,7 @@
     "locationLabel": "98-100 Commercial Road, BH2 5LR",
     "lat": 50.719894,
     "lon": -1.883596,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/120192608",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-commercial-rd",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-commercial-rd"
   },
   {
     "id": "cafes-caffe-nero-way-128197514",
@@ -4401,11 +3286,7 @@
     "locationLabel": "64,66 Old Christchurch Road, Bournemouth, BH1 1LL",
     "lat": 50.721224,
     "lon": -1.876233,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/128197514",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-christchurch",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-christchurch"
   },
   {
     "id": "cafes-coffee-1-way-931373282",
@@ -4416,16 +3297,11 @@
     "locationLabel": "401 Wimborne Road, BH9 2AJ",
     "lat": 50.74242,
     "lon": -1.878617,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/931373282",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.coffee1.co.uk/locations/winton",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.coffee1.co.uk/locations/winton"
   },
   {
     "id": "cafes-conto-lounge-way-931373383",
@@ -4436,11 +3312,7 @@
     "locationLabel": "418 Wimborne Road, Bournemouth, BH9 2HB",
     "lat": 50.742542,
     "lon": -1.879299,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/931373383",
-    "websiteUrl": "https://thelounges.co.uk/conto",
-    "websiteSource": "osm"
+    "websiteUrl": "https://thelounges.co.uk/conto"
   },
   {
     "id": "cafes-pause-cat-cafe-way-1209358262",
@@ -4451,11 +3323,7 @@
     "locationLabel": "119 Old Christchurch Road, Bournemouth, BH1 1EP",
     "lat": 50.722398,
     "lon": -1.874667,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1209358262",
-    "websiteUrl": "https://pausecatcafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://pausecatcafe.co.uk"
   },
   {
     "id": "cafes-rockwater-way-222818641",
@@ -4466,11 +3334,7 @@
     "locationLabel": "Bournemouth",
     "lat": 50.707004,
     "lon": -1.908262,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/222818641",
-    "websiteUrl": "https://rockwater.uk/village",
-    "websiteSource": "osm"
+    "websiteUrl": "https://rockwater.uk/village"
   },
   {
     "id": "cafes-slades-park-pavilion-way-186013872",
@@ -4481,28 +3345,21 @@
     "locationLabel": "Bournemouth",
     "lat": 50.747751,
     "lon": -1.895344,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/186013872",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.activedorset.org/slades-pavilion",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.activedorset.org/slades-pavilion"
   },
   {
     "id": "cafes-starbucks-node-8724712442",
@@ -4513,11 +3370,7 @@
     "locationLabel": "69 Holdenhurst Road, BH8 8FT",
     "lat": 50.724241,
     "lon": -1.864375,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/8724712442",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011801/bournemouth-the-parlour-the-parlour-unit-2-lyme-regis-house-bournemouth-en",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011801/bournemouth-the-parlour-the-parlour-unit-2-lyme-regis-house-bournemouth-en"
   },
   {
     "id": "cafes-starbucks-node-13672339659",
@@ -4528,11 +3381,7 @@
     "locationLabel": "5-7 Richmond Hill, BH2 6HE",
     "lat": 50.720542,
     "lon": -1.879198,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13672339659",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1007368/bournemouth-richmond-hill-unit-5-6-bristol-west-house-bournemouth-eng-bh-2-6",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1007368/bournemouth-richmond-hill-unit-5-6-bristol-west-house-bournemouth-eng-bh-2-6"
   },
   {
     "id": "cafes-starbucks-way-114877489",
@@ -4543,11 +3392,7 @@
     "locationLabel": "98 Poole Road, BH4 9EF",
     "lat": 50.723376,
     "lon": -1.903837,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/114877489",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011808/westbourne-poole-road-98-poole-road-bournemouth-eng-bh-4-9-en-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011808/westbourne-poole-road-98-poole-road-bournemouth-eng-bh-4-9-en-gb"
   },
   {
     "id": "cafes-caffe-nero-way-1148284919",
@@ -4558,11 +3403,7 @@
     "locationLabel": "24 Market Street, Bradford, BD1 1LH",
     "lat": 53.793801,
     "lon": -1.752724,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1148284919",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/bradford",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bradford"
   },
   {
     "id": "cafes-starbucks-node-9657826016",
@@ -4573,11 +3414,7 @@
     "locationLabel": "Clayton Road, Bradford, BD7 2SG",
     "lat": 53.783647,
     "lon": -1.796992,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9657826016",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1023570/bradford-clayton-road-dt-unit-5-scots-works-clayton-road-bradford-eng-bd-7-",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1023570/bradford-clayton-road-dt-unit-5-scots-works-clayton-road-bradford-eng-bd-7-"
   },
   {
     "id": "cafes-starbucks-way-1149961619",
@@ -4588,16 +3425,11 @@
     "locationLabel": "Centenary Square, Bradford, BD1 1HY",
     "lat": 53.793096,
     "lon": -1.755108,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1149961619",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1013520/bradford-centenary-square-centenary-square-market-street-part-unit-c-bradfor",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1013520/bradford-centenary-square-centenary-square-market-street-part-unit-c-bradfor"
   },
   {
     "id": "cafes-starbucks-way-1370693876",
@@ -4608,11 +3440,7 @@
     "locationLabel": "Gain Lane, Bradford, BD3 7DW",
     "lat": 53.802508,
     "lon": -1.702462,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1370693876",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1027865/bradford-leeds-road-dt-leeds-road-bradford-eng-bd-3-7-dd-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1027865/bradford-leeds-road-dt-leeds-road-bradford-eng-bd-3-7-dd-gb"
   },
   {
     "id": "cafes-the-refreshment-room-node-13728456333",
@@ -4623,11 +3451,7 @@
     "locationLabel": "Oak Lane, Bradford, BD9 4NS",
     "lat": 53.812282,
     "lon": -1.771437,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13728456333",
-    "websiteUrl": "https://bradfordmuseums.org/cartwright-hall-art-gallery/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://bradfordmuseums.org/cartwright-hall-art-gallery/cafe"
   },
   {
     "id": "cafes-tiffin-coffee-node-5966556594",
@@ -4638,11 +3462,7 @@
     "locationLabel": "22 Bank Street, Bradford, BD1 1PR",
     "lat": 53.794169,
     "lon": -1.752739,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/5966556594",
-    "websiteUrl": "https://www.tiffincoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.tiffincoffee.co.uk"
   },
   {
     "id": "cafes-caffe-nero-way-1408938605",
@@ -4653,16 +3473,11 @@
     "locationLabel": "28 High Street, Brentwood, CM14 4AB",
     "lat": 51.620576,
     "lon": 0.303891,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1408938605",
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.caffenero.com/uk/stores/brentwood",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/brentwood"
   },
   {
     "id": "cafes-hey-joe-way-1411347029",
@@ -4673,11 +3488,7 @@
     "locationLabel": "10 Ropers Yard, Brentwood, CM14 4FU",
     "lat": 51.619422,
     "lon": 0.300386,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1411347029",
-    "websiteUrl": "https://heyjoemusic.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://heyjoemusic.co.uk"
   },
   {
     "id": "cafes-maxs-cafe-way-989304116",
@@ -4688,11 +3499,7 @@
     "locationLabel": "Sawyers Hall Lane, Brentwood, CM15 9BY",
     "lat": 51.630655,
     "lon": 0.301055,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/989304116",
-    "websiteUrl": "https://hopefield.org.uk/visit/maxs-cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://hopefield.org.uk/visit/maxs-cafe"
   },
   {
     "id": "cafes-starbucks-node-1693229111",
@@ -4703,11 +3510,7 @@
     "locationLabel": "36A High Street, Brentwood, CM14 4AJ",
     "lat": 51.620241,
     "lon": 0.30279,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1693229111",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1012135/brentwood-high-street-36-b-high-street-brentwood-eng-cm-14-4-aj-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1012135/brentwood-high-street-36-b-high-street-brentwood-eng-cm-14-4-aj-gb"
   },
   {
     "id": "cafes-17-grams-node-11153342606",
@@ -4718,26 +3521,19 @@
     "locationLabel": "12D Meeting House Lane, Brighton, BN1 1HB",
     "lat": 50.822508,
     "lon": -0.140487,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11153342606",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://17grams.co.uk/locations/brighton/"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://17grams.co.uk/locations/brighton",
-    "websiteSource": "osm"
+    "websiteUrl": "https://17grams.co.uk/locations/brighton"
   },
   {
     "id": "cafes-bams-kitchen-node-9014602625",
@@ -4748,25 +3544,18 @@
     "locationLabel": "10, Brighton, BN1 4GW",
     "lat": 50.833244,
     "lon": -0.140011,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9014602625",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.bamskitchen.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/bamskitchen",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/bamskitchen"
   },
   {
     "id": "cafes-bond-street-coffee-node-4570482910",
@@ -4777,28 +3566,20 @@
     "locationLabel": "15 Bond Street, Brighton, BN1 1RD",
     "lat": 50.823985,
     "lon": -0.140126,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4570482910",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://bondstreet.coffee",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/bondstreetcoffee",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/bondstreetcoffee"
   },
   {
     "id": "cafes-caffe-nero-node-1115993979",
@@ -4809,11 +3590,7 @@
     "locationLabel": "16 Prince Albert Street, BN1 1HF",
     "lat": 50.821448,
     "lon": -0.14095,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1115993979",
-    "websiteUrl": "https://www.caffenero.com/uk/stores/brighton-nile-st",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.caffenero.com/uk/stores/brighton-nile-st"
   },
   {
     "id": "cafes-cloud9-brighton-node-6198336451",
@@ -4824,11 +3601,7 @@
     "locationLabel": "11 York Place, Brighton, BN1 4GU",
     "lat": 50.828418,
     "lon": -0.135654,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6198336451",
-    "websiteUrl": "https://www.cloud9brighton.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.cloud9brighton.co.uk"
   },
   {
     "id": "cafes-cornish-pasty-shop-node-10301121972",
@@ -4839,23 +3612,16 @@
     "locationLabel": "24 Gardner Street, Brighton, BN1 1UP",
     "lat": 50.825376,
     "lon": -0.139448,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10301121972",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "no",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.cornishpasty.shop",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/cornishpasty.shop",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/cornishpasty.shop"
   },
   {
     "id": "cafes-cowley-club-cafe-node-1661050973",
@@ -4866,21 +3632,15 @@
     "locationLabel": "12 London Road, Brighton, BN1 4JA",
     "lat": 50.830288,
     "lon": -0.136214,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1661050973",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "yes",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://cowley.club/cafe",
-    "websiteSource": "osm"
+    "websiteUrl": "https://cowley.club/cafe"
   },
   {
     "id": "cafes-cup-of-joe-node-8687992090",
@@ -4891,11 +3651,7 @@
     "locationLabel": "28 St Georges Road, Brighton, BN2 1ED",
     "lat": 50.81879,
     "lon": -0.121928,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/8687992090",
-    "websiteUrl": "https://cupofjoebrighton.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://cupofjoebrighton.co.uk"
   },
   {
     "id": "cafes-cuppapug-node-13737942060",
@@ -4906,11 +3662,7 @@
     "locationLabel": "2a Waterfront, Brighton, BN2 5WA",
     "lat": 50.812247,
     "lon": -0.103305,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13737942060",
-    "websiteUrl": "https://book.cuppapug.com/brighton",
-    "websiteSource": "osm"
+    "websiteUrl": "https://book.cuppapug.com/brighton"
   },
   {
     "id": "cafes-famous-cake-company-node-7206021550",
@@ -4921,18 +3673,12 @@
     "locationLabel": "8 Warren Way, Brighton, BN2 6PJ",
     "lat": 50.836877,
     "lon": -0.074875,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7206021550",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.famouscakecompany.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/famouscakecompany",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/famouscakecompany"
   },
   {
     "id": "cafes-flint-owl-bakery-node-6203842009",
@@ -4943,16 +3689,11 @@
     "locationLabel": "24 Bond Street, Brighton, BN1 1RD",
     "lat": 50.823972,
     "lon": -0.139924,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6203842009",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://flintowlbakery.com/pages/brighton",
-    "websiteSource": "osm"
+    "websiteUrl": "https://flintowlbakery.com/pages/brighton"
   },
   {
     "id": "cafes-haus-of-chai-node-7019564637",
@@ -4963,16 +3704,11 @@
     "locationLabel": "20 Market Street, Brighton, BN1 1HH",
     "lat": 50.821271,
     "lon": -0.140093,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7019564637",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://hausofchai.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://hausofchai.co.uk"
   },
   {
     "id": "cafes-hotel-chocolat-node-9842236532",
@@ -4983,11 +3719,7 @@
     "locationLabel": "19 North Street, Brighton, BN1 1EB",
     "lat": 50.82249,
     "lon": -0.139898,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9842236532",
-    "websiteUrl": "https://www.hotelchocolat.com/uk/chocolate-shops/brighton.html",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.hotelchocolat.com/uk/chocolate-shops/brighton.html"
   },
   {
     "id": "cafes-hunglish-node-6700588466",
@@ -4998,13 +3730,8 @@
     "locationLabel": "24 Sydney Street, Brighton, BN1 4EN",
     "lat": 50.828017,
     "lon": -0.137695,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6700588466",
     "websiteUrl": "https://hunglish.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/hunglish.ecoshop",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/hunglish.ecoshop"
   },
   {
     "id": "cafes-leman-tea-room-node-11886081750",
@@ -5015,18 +3742,12 @@
     "locationLabel": "15A Madeira Place, Brighton, BN2 1TN",
     "lat": 50.820702,
     "lon": -0.13422,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11886081750",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.lemantearoom.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/lemantearoom",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/lemantearoom"
   },
   {
     "id": "cafes-macs-cafe-way-905129159",
@@ -5037,18 +3758,12 @@
     "locationLabel": "30 Arundel Road, Brighton, BN2 5TD",
     "lat": 50.816194,
     "lon": -0.107057,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/905129159",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.roedeancafeandminigolf.co.uk/macs-cafe",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/macscafekemptown",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/macscafekemptown"
   },
   {
     "id": "cafes-milos-node-1116874534",
@@ -5059,18 +3774,12 @@
     "locationLabel": "2 Dyke Road, Brighton, BN1 3FE",
     "lat": 50.82398,
     "lon": -0.144339,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/1116874534",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.milosbrunch.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/MILOS_brunch",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/MILOS_brunch"
   },
   {
     "id": "cafes-moksha-caffe-node-2774717052",
@@ -5081,18 +3790,12 @@
     "locationLabel": "4-5 York Place, Brighton, BN1 4GU",
     "lat": 50.828132,
     "lon": -0.13563,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/2774717052",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://mokshacaffe.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/mokshacaffe",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/mokshacaffe"
   },
   {
     "id": "cafes-munchies-craft-cat-cafe-and-bar-node-7019564634",
@@ -5103,16 +3806,11 @@
     "locationLabel": "19 Market Street, BN1 1JS",
     "lat": 50.821314,
     "lon": -0.140076,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/7019564634",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://munchiescraft.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://munchiescraft.co.uk"
   },
   {
     "id": "cafes-north-laine-cafe-node-6238045364",
@@ -5123,16 +3821,11 @@
     "locationLabel": "17 Jubilee Street, BN1 1GE",
     "lat": 50.824468,
     "lon": -0.138753,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6238045364",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.northlainecafe.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.northlainecafe.co.uk"
   },
   {
     "id": "cafes-pelicano-node-11606337278",
@@ -5143,11 +3836,7 @@
     "locationLabel": "15 Lewes Road, Brighton, BN2 3HP",
     "lat": 50.832813,
     "lon": -0.129061,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11606337278",
-    "websiteUrl": "https://www.pelicanocoffee.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.pelicanocoffee.com"
   },
   {
     "id": "cafes-pelicano-way-138143357",
@@ -5158,16 +3847,11 @@
     "locationLabel": "28 Sydney Street, Brighton, BN1 4EP",
     "lat": 50.827796,
     "lon": -0.137557,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/138143357",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.pelicanocoffee.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.pelicanocoffee.com"
   },
   {
     "id": "cafes-puzzle-bored-node-11239653064",
@@ -5178,18 +3862,12 @@
     "locationLabel": "27 New Road, Brighton, BN1 1UG",
     "lat": 50.82383,
     "lon": -0.139141,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/11239653064",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.puzzlebored.co.uk",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/puzzlebored",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/puzzlebored"
   },
   {
     "id": "cafes-revaluit-hub-node-10539865504",
@@ -5200,11 +3878,7 @@
     "locationLabel": "13 Pavilion Buildings, Brighton, BN1 1EE",
     "lat": 50.821676,
     "lon": -0.138266,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10539865504",
-    "websiteUrl": "https://www.techtakeback.com/revaluit-hub.html",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.techtakeback.com/revaluit-hub.html"
   },
   {
     "id": "cafes-social-board-node-12721849259",
@@ -5215,25 +3889,18 @@
     "locationLabel": "21 St. James's Street, Brighton, BN2 1RF",
     "lat": 50.820961,
     "lon": -0.134322,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/12721849259",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://socialboardbrighton.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/socialboardsandwiches",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/socialboardsandwiches"
   },
   {
     "id": "cafes-starbucks-way-137741362",
@@ -5244,11 +3911,7 @@
     "locationLabel": "25-26 St. James's Street, Brighton, BN2 1RF",
     "lat": 50.820919,
     "lon": -0.13382,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/137741362",
-    "websiteUrl": "https://www.starbucks.com/store-locator/store/1021718/brighton-st-james-street-25-25-26-st-james-street-brighton-eng-bn-2-1-rf-gb",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1021718/brighton-st-james-street-25-25-26-st-james-street-brighton-eng-bn-2-1-rf-gb"
   },
   {
     "id": "cafes-stoney-point-node-10097169618",
@@ -5259,11 +3922,7 @@
     "locationLabel": "15 Montpelier Place, BN1 3BF",
     "lat": 50.826661,
     "lon": -0.153544,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/10097169618",
-    "websiteUrl": "https://stoneypoint.co",
-    "websiteSource": "osm"
+    "websiteUrl": "https://stoneypoint.co"
   },
   {
     "id": "cafes-temple-way-1441630297",
@@ -5274,11 +3933,7 @@
     "locationLabel": "1 Madeira Drive, Brighton, BN2 1FY",
     "lat": 50.814349,
     "lon": -0.108256,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/way/1441630297",
-    "websiteUrl": "https://portlandbrighton.com",
-    "websiteSource": "osm"
+    "websiteUrl": "https://portlandbrighton.com"
   },
   {
     "id": "cafes-that-little-teashop-in-the-lanes-node-4577405061",
@@ -5289,18 +3944,12 @@
     "locationLabel": "17 Meeting House Lane, Brighton, BN1 1HB",
     "lat": 50.822378,
     "lon": -0.14058,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4577405061",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thatlittleteashop.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/thatlittleteashop",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/thatlittleteashop"
   },
   {
     "id": "cafes-the-flour-pot-bakery-node-523891990",
@@ -5311,21 +3960,15 @@
     "locationLabel": "1 Kings Parade, Brighton, BN1 6JT",
     "lat": 50.844259,
     "lon": -0.135068,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/523891990",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
     "wheelchairAccess": {
       "status": "limited",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.theflourpot.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.theflourpot.co.uk"
   },
   {
     "id": "cafes-the-milk-shed-node-13163963837",
@@ -5336,13 +3979,8 @@
     "locationLabel": "9 Princes Street, Brighton, BN2 1RD",
     "lat": 50.82258,
     "lon": -0.135691,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/13163963837",
     "websiteUrl": "https://themilkshed.coffee",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/themilkshedcoffee",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/themilkshedcoffee"
   },
   {
     "id": "cafes-the-roastery-node-6409549483",
@@ -5353,16 +3991,11 @@
     "locationLabel": "13-14 Sydney Street, BN1 4EN",
     "lat": 50.827573,
     "lon": -0.137902,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/6409549483",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.tradingpostcoffee.co.uk/pages/trading-post-coffee-roasters-brighton-sydney-street",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.tradingpostcoffee.co.uk/pages/trading-post-coffee-roasters-brighton-sydney-street"
   },
   {
     "id": "cafes-the-royal-pavilion-rooms-node-4224405291",
@@ -5373,16 +4006,11 @@
     "locationLabel": "5 Pavilion Buildings, Brighton, BN1 1EE",
     "lat": 50.82211,
     "lon": -0.138159,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/4224405291",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "osm"
+      "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.thebotanistcoffee.co.uk",
-    "websiteSource": "osm"
+    "websiteUrl": "https://www.thebotanistcoffee.co.uk"
   },
   {
     "id": "cafes-twin-pines-coffee-house-node-9891976364",
@@ -5393,13 +4021,8 @@
     "locationLabel": "11A St. James's Street, Brighton, BN2 1RE",
     "lat": 50.821053,
     "lon": -0.135129,
-    "sourceKind": "osm-overpass",
-    "sourceName": "OpenStreetMap via Overpass",
-    "sourceUrl": "https://www.openstreetmap.org/node/9891976364",
     "websiteUrl": "https://www.twinpinescoffee.com",
-    "websiteSource": "osm",
-    "instagramUrl": "https://instagram.com/twinpinescoffee",
-    "instagramSource": "osm"
+    "instagramUrl": "https://instagram.com/twinpinescoffee"
   },
   {
     "id": "st-jamess-cafe-london",
@@ -5407,32 +4030,24 @@
     "name": "St. James's Cafe",
     "regionLabel": "London",
     "locationLabel": "St. James's Park, London",
-    "sourceKind": "official-site",
-    "sourceName": "The Royal Parks",
-    "sourceUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe",
     "regionId": "london",
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "royalparks.org.uk"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "burger",
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe",
-    "websiteSource": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe",
-    "instagramUrl": "https://instagram.com/theroyalparks",
-    "instagramSource": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe"
+    "instagramUrl": "https://instagram.com/theroyalparks"
   },
   {
     "id": "broad-walk-cafe-regents-park-london",
@@ -5440,36 +4055,27 @@
     "name": "The Broad Walk Cafe",
     "regionLabel": "London",
     "locationLabel": "The Regent's Park, London",
-    "sourceKind": "official-site",
-    "sourceName": "The Royal Parks",
-    "sourceUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0",
     "regionId": "london",
     "outdoorArea": {
       "type": "terrace",
-      "confidence": "confirmed",
-      "source": "royalparks.org.uk"
+      "confidence": "confirmed"
     },
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "royalparks.org.uk"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "sandwich"
       ],
-      "confidence": "confirmed",
-      "source": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0",
-    "websiteSource": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0",
-    "instagramUrl": "https://instagram.com/theroyalparks",
-    "instagramSource": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0"
+    "instagramUrl": "https://instagram.com/theroyalparks"
   },
   {
     "id": "waterside-cafe-regents-park-london",
@@ -5477,35 +4083,26 @@
     "name": "The Waterside Cafe",
     "regionLabel": "London",
     "locationLabel": "The Regent's Park, London",
-    "sourceKind": "official-site",
-    "sourceName": "The Royal Parks",
-    "sourceUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe",
     "regionId": "london",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed",
-      "source": "royalparks.org.uk"
+      "confidence": "confirmed"
     },
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed",
-      "source": "royalparks.org.uk"
+      "confidence": "confirmed"
     },
     "foodOffer": {
       "category": "pub-menu",
-      "confidence": "confirmed",
-      "source": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe"
+      "confidence": "confirmed"
     },
     "foodTags": {
       "tags": [
         "burger"
       ],
-      "confidence": "confirmed",
-      "source": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe"
+      "confidence": "confirmed"
     },
     "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe",
-    "websiteSource": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe",
-    "instagramUrl": "https://instagram.com/theroyalparks",
-    "instagramSource": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe"
+    "instagramUrl": "https://instagram.com/theroyalparks"
   }
 ]
