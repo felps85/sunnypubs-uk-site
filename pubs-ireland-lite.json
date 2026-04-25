@@ -3747,6 +3747,10 @@
       ],
       "confidence": "confirmed"
     },
+    "parking": {
+      "status": "no",
+      "confidence": "likely"
+    },
     "websiteUrl": "https://bonobodublin.com",
     "instagramUrl": "https://instagram.com/bonobo_smithfield"
   },
@@ -4442,6 +4446,10 @@
         "quiz",
         "shuffleboard"
       ]
+    },
+    "parking": {
+      "status": "no",
+      "confidence": "likely"
     },
     "websiteUrl": "https://brewdog.com/pages/bars/dublin",
     "instagramUrl": "https://instagram.com/brewdogdublin"
@@ -34263,6 +34271,10 @@
       "type": "beer-garden",
       "confidence": "likely"
     },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "likely"
+    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -44037,6 +44049,10 @@
     "frontObservationPointLat": 53.3486,
     "frontObservationPointLon": -6.2828,
     "facadeWidthM": 17.1,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "likely"
+    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
