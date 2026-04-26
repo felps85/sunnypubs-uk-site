@@ -1,16 +1,18 @@
+const SHELL_CACHE_NAME = "sunny-pubs-shell-v2";
+const PRECACHE_URLS = [
+  "/",
+  "/site.webmanifest",
+  "/apple-touch-icon.png",
+  "/pwa-192.png",
+  "/pwa-512.png",
+  "/favicon-default.svg"
+];
+const NETWORK_FIRST_DESTINATIONS = new Set(["script", "style", "worker", "manifest"]);
+
 self.addEventListener("install", (event) => {
   self.skipWaiting();
   event.waitUntil(
-    caches.open("sunny-pubs-shell-v1").then((cache) =>
-      cache.addAll([
-        "/",
-        "/site.webmanifest",
-        "/apple-touch-icon.png",
-        "/pwa-192.png",
-        "/pwa-512.png",
-        "/favicon-default.svg"
-      ])
-    )
+    caches.open(SHELL_CACHE_NAME).then((cache) => cache.addAll(PRECACHE_URLS))
   );
 });
 
@@ -18,11 +20,43 @@ self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
       const keys = await caches.keys();
-      await Promise.all(keys.filter((key) => key !== "sunny-pubs-shell-v1").map((key) => caches.delete(key)));
+      await Promise.all(keys.filter((key) => key !== SHELL_CACHE_NAME).map((key) => caches.delete(key)));
       await self.clients.claim();
     })()
   );
 });
+
+async function cacheFreshResponse(request, response) {
+  if (!response.ok) return;
+  const cache = await caches.open(SHELL_CACHE_NAME);
+  await cache.put(request, response.clone());
+}
+
+async function networkFirst(request, fallbackPathname) {
+  try {
+    const response = await fetch(request);
+    await cacheFreshResponse(request, response).catch(() => undefined);
+    return response;
+  } catch {
+    const cached = await caches.match(request);
+    if (cached) return cached;
+    if (fallbackPathname) {
+      const cachedPath = await caches.match(fallbackPathname);
+      if (cachedPath) return cachedPath;
+      const cachedShell = await caches.match("/");
+      if (cachedShell) return cachedShell;
+    }
+    return Response.error();
+  }
+}
+
+function shouldUseNetworkFirst(request, requestUrl) {
+  return (
+    NETWORK_FIRST_DESTINATIONS.has(request.destination) ||
+    requestUrl.pathname.endsWith(".webmanifest") ||
+    requestUrl.pathname === "/site.webmanifest"
+  );
+}
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
@@ -30,12 +64,12 @@ self.addEventListener("fetch", (event) => {
   if (requestUrl.origin !== self.location.origin) return;
 
   if (event.request.mode === "navigate") {
-    event.respondWith(
-      fetch(event.request).catch(async () => {
-        const cached = await caches.match(requestUrl.pathname);
-        return cached || caches.match("/") || Response.error();
-      })
-    );
+    event.respondWith(networkFirst(event.request, requestUrl.pathname));
+    return;
+  }
+
+  if (shouldUseNetworkFirst(event.request, requestUrl)) {
+    event.respondWith(networkFirst(event.request));
     return;
   }
 
@@ -47,7 +81,7 @@ self.addEventListener("fetch", (event) => {
         const destination = event.request.destination;
         if (destination === "style" || destination === "script" || destination === "image" || destination === "font") {
           const responseCopy = response.clone();
-          caches.open("sunny-pubs-shell-v1").then((cache) => cache.put(event.request, responseCopy));
+          caches.open(SHELL_CACHE_NAME).then((cache) => cache.put(event.request, responseCopy));
         }
         return response;
       });
