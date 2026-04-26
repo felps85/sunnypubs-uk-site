@@ -1,0 +1,3491 @@
+[
+  {
+    "id": "parks-alderman-tommy-patton-memorial-park-way-38380590",
+    "name": "Alderman Tommy Patton Memorial Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.610971,
+    "lon": -5.869618,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/alderman-tommy-patton-memorial-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-alexandra-park-way-1494033070",
+    "name": "Alexandra Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.618719,
+    "lon": -5.932523,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/alexandra-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-barnett-demesne-way-554010963",
+    "name": "Barnett Demesne",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.551703,
+    "lon": -5.960686,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/barnett-demesne",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-belfast-city-hall-grounds-way-326365612",
+    "name": "Belfast City Hall Grounds",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.596609,
+    "lon": -5.930059,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "BT1 5HD",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/belfast-city-hall-grounds",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-belmont-park-relation-14351527",
+    "name": "Belmont Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.604495,
+    "lon": -5.854937,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "310 Belmont Road, Belfast, BT4 2HD",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/belmont-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-botanic-gardens-way-21532382",
+    "name": "Botanic Gardens",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.580615,
+    "lon": -5.932349,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/botanicgardens",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-carnanmore-park-way-429291367",
+    "name": "Carnanmore Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.56403,
+    "lon": -6.010282,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/carnanmore-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-carrs-glen-linear-park-way-1078350070",
+    "name": "Carr's Glen Linear Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.634794,
+    "lon": -5.963332,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Ballysillan Road, Belfast, BT14 6TN",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/carr-s-glen-linear-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-cave-hill-country-park-way-1078072616",
+    "name": "Cave Hill Country Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.647076,
+    "lon": -5.952724,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "698 Antrim Road, Belfast, BT15 5GL",
+    "websiteUrl": "https://www.belfastcity.gov.uk/Things-to-Do/Parks-and-Open-Spaces/A-Z-Parks/Cave-Hill-Country-Park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "picnic-area"
+      ]
+    }
+  },
+  {
+    "id": "parks-clarawood-millennium-park-way-41670319",
+    "name": "Clarawood Millennium Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.587415,
+    "lon": -5.866949,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "2 Knockwood Crescent, Belfast, BT5 6GE",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/clarawood-millennium-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-clement-wilson-park-way-431664548",
+    "name": "Clement Wilson Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.555158,
+    "lon": -5.95207,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/clement-wilson-park",
+    "instagramUrl": "https://instagram.com/belfastcitycouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-colin-glen-forest-park-relation-13047769",
+    "name": "Colin Glen Forest Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.568328,
+    "lon": -6.019705,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.colinglen.org",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-dr-pitt-memorial-park-way-864748103",
+    "name": "Dr Pitt Memorial Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.599915,
+    "lon": -5.9047,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/dr-pitt-memorial-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-drumglass-park-way-155000454",
+    "name": "Drumglass Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.574404,
+    "lon": -5.954777,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Lisburn Road, Belfast, BT9 6JF",
+    "websiteUrl": "https://www.belfastcity.gov.uk/drumglasspark",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-dunmurry-park-way-429283726",
+    "name": "Dunmurry Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.551035,
+    "lon": -6.001766,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/dunmurry-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-dunville-park-way-38288059",
+    "name": "Dunville Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.596187,
+    "lon": -5.953188,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/dunville-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "cafe-kiosk",
+        "parking",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-falls-park-way-135177349",
+    "name": "Falls Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.587034,
+    "lon": -5.980916,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/falls-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-finlay-park-way-440925781",
+    "name": "Finlay Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.648489,
+    "lon": -5.92193,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/finlay-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-gilnahirk-park-way-1078359690",
+    "name": "Gilnahirk Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.584158,
+    "lon": -5.84782,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Gilnahirk Park, Belfast, BT5 7DY",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/gilnahirk-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-glenbank-park-way-38309383",
+    "name": "Glenbank Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.62347,
+    "lon": -5.980468,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/glenbank-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-glencairn-park-way-38286042",
+    "name": "Glencairn Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.612539,
+    "lon": -5.98058,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/glencairn-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-greenville-park-way-422020561",
+    "name": "Greenville Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.588209,
+    "lon": -5.882514,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/greenville-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-grovelands-way-1061925590",
+    "name": "Grovelands",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.569494,
+    "lon": -5.970126,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/grovelands",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-jubilee-park-way-429283723",
+    "name": "Jubilee Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.549412,
+    "lon": -6.000869,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/jubilee-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-king-william-park-way-426131702",
+    "name": "King William Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.587963,
+    "lon": -5.935944,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "2 Lisburn Road, Belfast, BT9 6AA",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/king-william-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-knocknagoney-linear-park-way-458303592",
+    "name": "Knocknagoney Linear Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.616848,
+    "lon": -5.856839,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/Things-to-Do/Parks-and-Open-Spaces/A-Z-Parks/Knocknagoney-Linear-Park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-ligoniel-park-way-38544071",
+    "name": "Ligoniel Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.630091,
+    "lon": -5.984096,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/ligoniel-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-loughside-park-way-425085485",
+    "name": "Loughside Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.637344,
+    "lon": -5.922034,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/loughside-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-marrowbone-millennium-park-way-396063159",
+    "name": "Marrowbone Millennium Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.616529,
+    "lon": -5.953542,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/marrowbone-millennium-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "multi-sport-court",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-michelle-baird-memorial-park-way-1078528031",
+    "name": "Michelle Baird Memorial Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.616984,
+    "lon": -5.979191,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/michelle-baird-memorial-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-musgrave-park-way-146343354",
+    "name": "Musgrave Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.569917,
+    "lon": -5.976196,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/musgrave-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-northwood-linear-park-way-399630780",
+    "name": "Northwood Linear Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.624765,
+    "lon": -5.926719,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/northwood-linear-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-ormeau-park-way-10286999",
+    "name": "Ormeau Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.5855,
+    "lon": -5.916053,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/ormeau-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "entrance",
+        "football-pitch",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-sir-thomas-and-lady-dixon-park-way-442969668",
+    "name": "Sir Thomas and Lady Dixon Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.540705,
+    "lon": -5.98608,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/sir-thomas-and-lady-dixon-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "parking",
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-springhill-millennium-park-way-551914216",
+    "name": "Springhill Millennium Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.59667,
+    "lon": -5.981056,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "698a Springfield Road, Belfast, BT12 7JE",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/springhill-millennium-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-tullycarnet-park-way-1494033087",
+    "name": "Tullycarnet Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.584912,
+    "lon": -5.836458,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/tullycarnet-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-victoria-park-way-431657565",
+    "name": "Victoria Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.607759,
+    "lon": -5.885753,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/Things-to-Do/Parks-and-Open-Spaces/A-Z-Parks/Victoria-Park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch"
+      ]
+    }
+  },
+  {
+    "id": "parks-wedderburn-park-way-1078684299",
+    "name": "Wedderburn Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.556184,
+    "lon": -5.985517,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "1a Wedderburn Gardens, Belfast, BT10 0FZ",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/wedderburn-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-woodvale-park-way-38286010",
+    "name": "Woodvale Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.607253,
+    "lon": -5.965176,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/woodvale-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-bessbrook-pond-field-way-1275999560",
+    "name": "Bessbrook Pond Field",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.193613,
+    "lon": -6.396053,
+    "regionId": "newry",
+    "regionLabel": "Bessbrook",
+    "locationLabel": "Bessbrook, BT35 7AX",
+    "websiteUrl": "https://www.newrymournedown.org/amenity-areas",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-derrymore-demesne-relation-18081508",
+    "name": "Derrymore Demesne",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.190866,
+    "lon": -6.384835,
+    "regionId": "newry",
+    "regionLabel": "Bessbrook",
+    "locationLabel": "Bessbrook, BT35 7EF",
+    "websiteUrl": "https://www.nationaltrust.org.uk/visit/northern-ireland/derrymore-house",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "parking",
+        "playground",
+        "toilet"
+      ]
+    }
+  },
+  {
+    "id": "parks-blackrock-park-relation-4245959",
+    "name": "Blackrock Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.305889,
+    "lon": -6.188209,
+    "regionId": "dublin",
+    "regionLabel": "Blackrock",
+    "locationLabel": "Rock Road, Blackrock",
+    "websiteUrl": "https://www.dlrcoco.ie/en/blackrock-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-ballincollig-regional-park-way-129463104",
+    "name": "Ballincollig Regional Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.891933,
+    "lon": -8.603149,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Ballincollig, Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "skatepark"
+      ]
+    }
+  },
+  {
+    "id": "parks-bishop-lucey-park-way-22329196",
+    "name": "Bishop Lucey Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.897146,
+    "lon": -8.476058,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-cork-lough-way-554942527",
+    "name": "Cork Lough",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.887582,
+    "lon": -8.486692,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Lough Road",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-fitzgeralds-park-way-31310116",
+    "name": "Fitzgerald's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.895908,
+    "lon": -8.495864,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "not-pet-friendly",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-glen-river-park-relation-17858680",
+    "name": "Glen River Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.913419,
+    "lon": -8.456811,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://corknaturenetwork.ie/wild-walks/the-glen-river-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-kennedy-park-way-399060502",
+    "name": "Kennedy Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.895223,
+    "lon": -8.455594,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Victoria Road/Monahan Road",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-marina-park-relation-16253619",
+    "name": "Marina Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.899607,
+    "lon": -8.431173,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/council-services/services/sports-recreation-parks/marina-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-pophams-park-way-31341928",
+    "name": "Pophams Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.913325,
+    "lon": -8.482333,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-shalom-park-way-74010800",
+    "name": "Shalom Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.896036,
+    "lon": -8.461211,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-tory-top-park-way-146344554",
+    "name": "Tory Top Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.885253,
+    "lon": -8.475211,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "skatepark"
+      ]
+    }
+  },
+  {
+    "id": "parks-brooke-park-way-74055673",
+    "name": "Brooke Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 55.001846,
+    "lon": -7.331288,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Derry",
+    "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks",
+    "instagramUrl": "https://instagram.com/dcsdcouncil",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-creggan-burn-park-way-75531382",
+    "name": "Creggan Burn Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 55.005822,
+    "lon": -7.334779,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Derry",
+    "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks/creggan-burn-masterplan",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-kilfennan-park-way-120607480",
+    "name": "Kilfennan Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.999992,
+    "lon": -7.283049,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Derry",
+    "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-saint-columbs-park-relation-14380630",
+    "name": "Saint Columb's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 55.002361,
+    "lon": -7.30968,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Derry",
+    "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-top-of-the-hill-park-relation-5149071",
+    "name": "Top of the Hill Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.981176,
+    "lon": -7.312686,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Derry",
+    "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-airlie-park-way-1117454966",
+    "name": "Airlie Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.343617,
+    "lon": -6.470359,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Adamstown, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/playing-pitches-and-facilities/book-3g-artificial-grass-pitch/airlie-park",
+    "instagramUrl": "https://instagram.com/sdublincoco",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking"
+      ]
+    }
+  },
+  {
+    "id": "parks-albert-college-park-way-25835859",
+    "name": "Albert College Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.383022,
+    "lon": -6.261787,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/albert-college-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "outdoor-gym",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-balcurris-park-way-234191002",
+    "name": "Balcurris Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.400151,
+    "lon": -6.268371,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/balcurris-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-ballawley-park-way-8584659",
+    "name": "Ballawley Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.279231,
+    "lon": -6.235791,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/ballawley-park",
+    "instagramUrl": "https://instagram.com/dlrcoco.ie",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-ballycragh-park-way-25974840",
+    "name": "Ballycragh Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.2739,
+    "lon": -6.342639,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/teenspace/spaces/locations/ballycragh-park.html",
+    "instagramUrl": "https://instagram.com/sdublincoco",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-bancroft-park-relation-8182102",
+    "name": "Bancroft Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.292542,
+    "lon": -6.349765,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/teenspace/spaces/locations/bancroft.html",
+    "instagramUrl": "https://instagram.com/sdublincoco",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-beckett-park-way-1209357396",
+    "name": "Beckett Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.248675,
+    "lon": -6.161546,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/beckett-park",
+    "instagramUrl": "https://instagram.com/dlrcoco.ie",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "bike-parking",
+        "outdoor-gym",
+        "parking",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-belcamp-park-way-50904809",
+    "name": "Belcamp Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.407176,
+    "lon": -6.209962,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/belcamp-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-belgrave-square-way-32480827",
+    "name": "Belgrave Square",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.32258,
+    "lon": -6.260574,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/belgrave-square",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-blessington-street-basin-way-132758444",
+    "name": "Blessington Street Basin",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.357259,
+    "lon": -6.270808,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/blessington-street-basin",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "outdoor-gym",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-blessington-street-park-relation-14389319",
+    "name": "Blessington Street Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.357596,
+    "lon": -6.272034,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/blessington-street-basin",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "outdoor-gym",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-brickfield-park-way-107908259",
+    "name": "Brickfield Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.331728,
+    "lon": -6.307122,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/brickfield-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-bridgefoot-street-park-way-292055109",
+    "name": "Bridgefoot Street Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.345034,
+    "lon": -6.281884,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/residential/parks/new-parks-and-projects/bridgefoot-street-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-bushy-park-way-269293241",
+    "name": "Bushy Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.302126,
+    "lon": -6.290001,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/bushy-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground",
+        "skatepark",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-cabinteely-park-way-23314461",
+    "name": "Cabinteely Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.261098,
+    "lon": -6.158789,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Cabinteely, Dublin 18",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/cabinteely-park",
+    "instagramUrl": "https://instagram.com/dlrcoco.ie",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground",
+        "toilet"
+      ]
+    }
+  },
+  {
+    "id": "parks-carysfort-park-way-49946447",
+    "name": "Carysfort Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.294241,
+    "lon": -6.184584,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/carysfort-park",
+    "instagramUrl": "https://instagram.com/dlrcoco.ie",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-clonmore-park-way-22677944",
+    "name": "Clonmore Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.282567,
+    "lon": -6.203888,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/clonmore-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-corkagh-park-way-325933039",
+    "name": "Corkagh Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.312043,
+    "lon": -6.415107,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.sdcc.ie/ga/seirbhisi/sport-agus-aineas/pairceanna/corkagh-park.html",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "football-pitch",
+        "parking",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-darndale-park-way-33149679",
+    "name": "Darndale Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.40413,
+    "lon": -6.192634,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/darndale-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-dartmouth-square-way-32744530",
+    "name": "Dartmouth Square",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.330302,
+    "lon": -6.255404,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/dartmouth-square",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-dartry-park-way-22673657",
+    "name": "Dartry Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.307225,
+    "lon": -6.263301,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/dartry-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-diamond-park-way-13904692",
+    "name": "Diamond Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.353556,
+    "lon": -6.25576,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/diamond-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-dodder-valley-park-relation-7230882",
+    "name": "Dodder Valley Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.297001,
+    "lon": -6.3010081,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Tallaght, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/dodder-valley-linear-park.html",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-donaghmede-park-relation-4726279",
+    "name": "Donaghmede Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.396737,
+    "lon": -6.154303,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/donaghmede-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-dubh-linn-garden-way-74600932",
+    "name": "Dubh Linn Garden",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.34243,
+    "lon": -6.266763,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincastle.ie/the-castle-gardens",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "not-pet-friendly",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-eamonn-ceannt-park-way-24777873",
+    "name": "Eamonn Ceannt Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.323589,
+    "lon": -6.292538,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Sundrive Road",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/eamonn-ceannt-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "basketball-court",
+        "entrance",
+        "football-pitch",
+        "outdoor-gym",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-ellenfield-park-way-27206647",
+    "name": "Ellenfield Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.385892,
+    "lon": -6.240501,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "1 Glencorp Road, Dublin, D09 EH92",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/ellenfield-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "outdoor-gym",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-fairview-park-way-14508760",
+    "name": "Fairview Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.361604,
+    "lon": -6.233224,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Fairview, Dublin 3",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/fairview-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "playground",
+        "skatepark"
+      ]
+    }
+  },
+  {
+    "id": "parks-father-collins-park-way-139437113",
+    "name": "Father Collins Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.405424,
+    "lon": -6.160684,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/residential/parks/dublin-city-parks/visit-park/father-collins-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "playground",
+        "skatepark"
+      ]
+    }
+  },
+  {
+    "id": "parks-fernhill-park-and-gardens-relation-12235238",
+    "name": "Fernhill Park and Gardens",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.256834,
+    "lon": -6.226151,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Enniskerry Road, Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/fernhill-park-gardens",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking"
+      ]
+    }
+  },
+  {
+    "id": "parks-griffeen-valley-park-way-4054585",
+    "name": "Griffeen Valley Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.3445037,
+    "lon": -6.4408396,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Lucan, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/griffeen-valley-park.html",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "playground",
+        "skatepark"
+      ]
+    }
+  },
+  {
+    "id": "parks-griffith-park-way-132370759",
+    "name": "Griffith Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.370633,
+    "lon": -6.262107,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/griffith-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "outdoor-gym",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-harolds-cross-park-way-45836122",
+    "name": "Harold's Cross Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.324655,
+    "lon": -6.279097,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Harold's Cross Road, Dublin",
+    "websiteUrl": "https://www.dublincity.ie/residential/parks/dublin-city-parks/visit-park/harolds-cross-park",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-herbert-park-relation-19668146",
+    "name": "Herbert Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.326116,
+    "lon": -6.235214,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/herbert-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "outdoor-gym",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-herzog-park-way-105915646",
+    "name": "Herzog Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.31032,
+    "lon": -6.275799,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Orwell Mews, Dublin",
+    "websiteUrl": "https://www.dublincity.ie/residential/parks/dublin-city-parks/visit-park/herzog-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "multi-sport-court",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-iveagh-gardens-way-275449345",
+    "name": "Iveagh Gardens",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.335273,
+    "lon": -6.260865,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Clonmel Street, Dublin",
+    "websiteUrl": "https://iveaghgardens.ie",
+    "instagramUrl": "https://instagram.com/heritageirelandopw",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-johnstown-park-way-94205453",
+    "name": "Johnstown Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.385495,
+    "lon": -6.282954,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/johnstown-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-kilbogget-park-way-58255228",
+    "name": "Kilbogget Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.257799,
+    "lon": -6.140563,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/kilbogget-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch"
+      ]
+    }
+  },
+  {
+    "id": "parks-killiney-hill-park-way-22569176",
+    "name": "Killiney Hill Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.267835,
+    "lon": -6.109323,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Killiney Hill Road, Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/killiney-hill-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-kiltipper-park-relation-4514995",
+    "name": "Kiltipper Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.2636097,
+    "lon": -6.3715251,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Tallaght, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/kiltipper-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-lansdowne-valley-park-way-30408865",
+    "name": "Lansdowne Valley Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.329611,
+    "lon": -6.32986,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/lansdowne-valley-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-loreto-park-way-22980750",
+    "name": "Loreto Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.28991,
+    "lon": -6.270384,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/loreto-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-malahide-castle-way-20876550",
+    "name": "Malahide Castle",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.444545,
+    "lon": -6.166537,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Malahide, Dublin",
+    "websiteUrl": "https://www.fingal.ie/directory/amenities/parks/malahide-castle-demesne-and-regional-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-markievicz-park-way-18958448",
+    "name": "Markievicz Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.341108,
+    "lon": -6.340008,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/residential/parks/dublin-city-parks/visit-park/markievicz-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-marlay-park-relation-11252322",
+    "name": "Marlay Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.273588,
+    "lon": -6.270429,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Rathfarnham, Dublin 16",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/marlay-park",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking"
+      ]
+    }
+  },
+  {
+    "id": "parks-merrion-square-park-way-4078069",
+    "name": "Merrion Square Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.339677,
+    "lon": -6.249171,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Merrion Square East, Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/merrion-square-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-millennium-park-way-26837624",
+    "name": "Millennium Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.389497,
+    "lon": -6.397983,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Blanchardstown, Dublin 15",
+    "websiteUrl": "https://www.fingal.ie/directory/amenities/parks/millennium-regional-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-mount-bernard-park-way-60115678",
+    "name": "Mount Bernard Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.366226,
+    "lon": -6.283541,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/mount-bernard-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-mountjoy-square-park-way-681881138",
+    "name": "Mountjoy Square Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.356606,
+    "lon": -6.257503,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Mountjoy Square, Dublin 1",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/new-parks-and-projects/mountjoy-square-park-conservation-plan",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-palmerston-park-way-23793521",
+    "name": "Palmerston Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.313021,
+    "lon": -6.258163,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/palmerston-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-peace-park-way-202809668",
+    "name": "Peace Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.342711,
+    "lon": -6.271332,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/peace-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-pearse-square-way-38265375",
+    "name": "Pearse Square",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.343503,
+    "lon": -6.242138,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/pearse-square",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-peoples-park-way-25097841",
+    "name": "People's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.290032,
+    "lon": -6.128397,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/peoples-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-poppintree-park-relation-4726056",
+    "name": "Poppintree Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.398316,
+    "lon": -6.281944,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/poppintree-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-ranelagh-gardens-way-44437238",
+    "name": "Ranelagh Gardens",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.326598,
+    "lon": -6.254469,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/ranelagh-gardens",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-rathcoole-park-relation-4474498",
+    "name": "Rathcoole Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.2808701,
+    "lon": -6.4587412,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Rathcoole, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/rathcoole-park.html",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-rathfarnham-castle-park-way-22980592",
+    "name": "Rathfarnham Castle Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.297714,
+    "lon": -6.282967,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Rathfarnham, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/rathfarnham-castle-park.html",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-ringsend-park-way-24753826",
+    "name": "Ringsend Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.341633,
+    "lon": -6.221036,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/ringsend-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "basketball-court",
+        "entrance",
+        "playground",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-rockfield-park-way-23004524",
+    "name": "Rockfield Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.380886,
+    "lon": -6.220578,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/rockfield-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "football-pitch",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-royal-hospital-kilmainham-way-41685963",
+    "name": "Royal Hospital Kilmainham",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.343463,
+    "lon": -6.302545,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Military Road, Dublin, D08 FW31",
+    "websiteUrl": "https://rhk.ie",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-saint-audoens-park-way-49921427",
+    "name": "Saint Audoen's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.343826,
+    "lon": -6.274681,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/st-audoens-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-saint-catherines-park-way-37136359",
+    "name": "Saint Catherine's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.364442,
+    "lon": -6.4665,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/st-catherines-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-saint-kevins-park-way-48455144",
+    "name": "Saint Kevin's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.336662,
+    "lon": -6.266976,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/st-kevins-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-saint-patricks-park-way-19830551",
+    "name": "Saint Patrick's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.340184,
+    "lon": -6.271025,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/st-patricks-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-santry-demesne-way-530589781",
+    "name": "Santry Demesne",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.402308,
+    "lon": -6.252098,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Santry, Dublin",
+    "websiteUrl": "https://www.fingal.ie/directory/amenities/parks/santry-demesne-regional-park",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "parking",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-sean-walsh-park-way-29311791",
+    "name": "Sean Walsh Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.281452,
+    "lon": -6.367782,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/sean-walsh-park.html",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-shanganagh-park-way-21803951",
+    "name": "Shanganagh Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.226067,
+    "lon": -6.115527,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Shankill, Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/shanganagh-park",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-south-dock-street-park-way-48996165",
+    "name": "South Dock Street Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.341191,
+    "lon": -6.233868,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/south-dock-street-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-st-endas-park-way-23565036",
+    "name": "St Enda's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.284124,
+    "lon": -6.282377,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://heritageireland.ie/places-to-visit/pearse-museum-st-endas-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking",
+        "toilet"
+      ]
+    }
+  },
+  {
+    "id": "parks-st-stephens-green-relation-18631965",
+    "name": "St Stephen's Green",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.338084,
+    "lon": -6.259061,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://ststephensgreenpark.ie",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-st-annes-park-way-129321742",
+    "name": "St. Anne's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.372119,
+    "lon": -6.179559,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/st-annes-park",
+    "instagramUrl": "https://instagram.com/dublincitycouncil",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance"
+      ]
+    }
+  },
+  {
+    "id": "parks-tandys-park-way-551952193",
+    "name": "Tandy's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.342837,
+    "lon": -6.459389,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/teenspace/spaces/locations/tandy-s-lane-park.html",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-ticknick-park-way-60889435",
+    "name": "Ticknick Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.239023,
+    "lon": -6.163162,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/ticknick-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "bike-parking",
+        "parking",
+        "toilet"
+      ]
+    }
+  },
+  {
+    "id": "parks-tully-park-way-1135794582",
+    "name": "Tully Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.246843,
+    "lon": -6.151129,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/tully-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-tymon-park-relation-7222370",
+    "name": "Tymon Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.2974447,
+    "lon": -6.3422821,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Tallaght, Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/tymon-park.html",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-waterstown-way-26928233",
+    "name": "Waterstown Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.359988,
+    "lon": -6.373363,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/parks/waterstown-park.html",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-weaver-park-way-209561200",
+    "name": "Weaver Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.337895,
+    "lon": -6.280981,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/weaver-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground",
+        "skatepark"
+      ]
+    }
+  },
+  {
+    "id": "parks-wilton-park-way-13872464",
+    "name": "Wilton Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.333786,
+    "lon": -6.248701,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "websiteUrl": "https://www.wiltonparkdublin.com",
+    "solarMode": "open-area",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "cafe-kiosk",
+        "dog-park",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-claureen-community-orchard-way-527804903",
+    "name": "Claureen Community Orchard",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.849963,
+    "lon": -9.002562,
+    "regionId": "ennis",
+    "regionLabel": "Ennis",
+    "locationLabel": "Claureen Roundabout, Ennis",
+    "websiteUrl": "http://www.wetlandsystems.ie/gardenofedenproject.html",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-forthill-park-way-226557362",
+    "name": "Forthill Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.345262,
+    "lon": -7.632657,
+    "regionId": "enniskillen",
+    "regionLabel": "Enniskillen",
+    "locationLabel": "Enniskillen",
+    "websiteUrl": "https://www.fermanaghomagh.com/services/arts-and-culture/coles-monument",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-cappagh-park-way-1076369296",
+    "name": "Cappagh Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.263555,
+    "lon": -9.132696,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "instagramUrl": "https://instagram.com/galwaycitycouncil",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "parking",
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-claude-toft-park-way-116700019",
+    "name": "Claude Toft Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.261951,
+    "lon": -9.071708,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "instagramUrl": "https://instagram.com/galwaycitycouncil",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-corrib-park-way-144005996",
+    "name": "Corrib Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.278543,
+    "lon": -9.074151,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-eyre-square-way-25192080",
+    "name": "Eyre Square",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.274353,
+    "lon": -9.049243,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/public-parks",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-father-burke-park-way-28911605",
+    "name": "Father Burke Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.268605,
+    "lon": -9.05885,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-mcgraths-field-park-way-34572687",
+    "name": "McGraths Field Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.263027,
+    "lon": -9.111676,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-millennium-childrens-park-way-79290346",
+    "name": "Millennium Children's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.275574,
+    "lon": -9.059737,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-quincentennial-park-way-116697902",
+    "name": "Quincentennial Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.258518,
+    "lon": -9.086191,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Salthill Promenade, Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-renville-park-relation-6480912",
+    "name": "Renville Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.248512,
+    "lon": -8.964813,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galway.ie/en/recreation-amenity/parks-and-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-salthill-park-way-139423930",
+    "name": "Salthill Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.259636,
+    "lon": -9.08091,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway, H91 HR2R",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-shantalla-park-way-79498367",
+    "name": "Shantalla Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.277454,
+    "lon": -9.070286,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-sliding-rock-way-163315608",
+    "name": "Sliding Rock",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.2738,
+    "lon": -9.066966,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-south-park-way-28911753",
+    "name": "South Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.26507,
+    "lon": -9.053108,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-terryland-forest-park-relation-14179894",
+    "name": "Terryland Forest Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.286193,
+    "lon": -9.042772,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-westside-park-way-835868209",
+    "name": "Westside Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.275856,
+    "lon": -9.079885,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "basketball-court",
+        "football-pitch",
+        "skatepark",
+        "tennis-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-woodquay-park-way-179422135",
+    "name": "Woodquay Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.276751,
+    "lon": -9.05356,
+    "regionId": "galway",
+    "regionLabel": "Galway",
+    "locationLabel": "Galway",
+    "websiteUrl": "https://www.galwaycity.ie/services/leisure-and-recreation/leisure-and-recreation-services/public-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-nore-linear-park-way-204007005",
+    "name": "Nore Linear Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.666951,
+    "lon": -7.258497,
+    "regionId": "kilkenny",
+    "regionLabel": "Kilkenny",
+    "locationLabel": "Kilkenny",
+    "websiteUrl": "https://kilkennycoco.ie/eng/services/capital-delivery-office-parks/parks/river-nore-linear-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-peace-park-way-84150243",
+    "name": "Peace Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.656297,
+    "lon": -7.251719,
+    "regionId": "kilkenny",
+    "regionLabel": "Kilkenny",
+    "locationLabel": "Kilkenny",
+    "websiteUrl": "https://kilkennycoco.ie/eng/services/capital-delivery-office-parks/parks/river-nore-linear-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-riverside-garden-way-1327983956",
+    "name": "Riverside Garden",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.655405,
+    "lon": -7.252528,
+    "regionId": "kilkenny",
+    "regionLabel": "Kilkenny",
+    "locationLabel": "Kilkenny",
+    "websiteUrl": "https://kilkennycoco.ie/eng/services/capital-delivery-office-parks/parks/river-nore-linear-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-arthurs-quay-park-way-25591746",
+    "name": "Arthur's Quay Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.665497,
+    "lon": -8.62716,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Limerick",
+    "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/parks/arthurs-quay-park",
+    "instagramUrl": "https://instagram.com/limerick.ie",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-mungret-park-way-890895243",
+    "name": "Mungret Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.633075,
+    "lon": -8.68083,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Limerick",
+    "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/parks/mungret-park",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "basketball-court",
+        "entrance",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-peoples-park-way-25495582",
+    "name": "People's Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.658091,
+    "lon": -8.627975,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Limerick",
+    "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/parks/peoples-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-shelbourne-park-way-105159766",
+    "name": "Shelbourne Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.67054,
+    "lon": -8.639003,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Limerick",
+    "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/parks/shelbourne-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "parking",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-pound-park-way-68714669",
+    "name": "Pound Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.38282,
+    "lon": -6.591369,
+    "regionId": "maynooth",
+    "regionLabel": "Maynooth",
+    "locationLabel": "Maynooth",
+    "websiteUrl": "https://kildarecoco.ie/AllServices/ParksandOpenSpaces/Parks/ParksinClaneMaynoothMD",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-fair-green-way-923414134",
+    "name": "Fair Green",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.213717,
+    "lon": -6.664319,
+    "regionId": "naas",
+    "regionLabel": "Naas",
+    "locationLabel": "Naas",
+    "websiteUrl": "https://kildarecoco.ie/AllServices/ParksandOpenSpaces/Parks/ParksinNaasMD",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-kerdiffstown-park-way-144943830",
+    "name": "Kerdiffstown Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.242015,
+    "lon": -6.632655,
+    "regionId": "naas",
+    "regionLabel": "Naas",
+    "locationLabel": "Naas",
+    "websiteUrl": "https://kildarecoco.ie/allservices/kerdiffstownpark",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-monread-district-park-way-86090772",
+    "name": "Monread District Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.23121,
+    "lon": -6.656268,
+    "regionId": "naas",
+    "regionLabel": "Naas",
+    "locationLabel": "Naas",
+    "websiteUrl": "https://kildarecoco.ie/AllServices/ParksandOpenSpaces/Parks/ParksinNaasMD",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-clanrye-park-way-83206392",
+    "name": "Clanrye Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.182757,
+    "lon": -6.352259,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/municipal-parks-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-college-square-kickabout-way-683587399",
+    "name": "College Square Kickabout",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.196734,
+    "lon": -6.392833,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/play-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-corry-park-way-58692734",
+    "name": "Corry Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.179321,
+    "lon": -6.333666,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/municipal-parks-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-fisher-park-way-1116108798",
+    "name": "Fisher Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.171105,
+    "lon": -6.340241,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/municipal-parks-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-heather-park-way-58692733",
+    "name": "Heather Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.177902,
+    "lon": -6.333325,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/municipal-parks-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-lisdrumliska-green-way-113423782",
+    "name": "Lisdrumliska Green",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.166914,
+    "lon": -6.348726,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry, BT35 8BZ",
+    "websiteUrl": "https://www.newrymournedown.org/play-parks",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "basketball-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-mcclelland-park-way-643186743",
+    "name": "McClelland Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.178126,
+    "lon": -6.341883,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/municipal-parks-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-st-colmans-park-way-1022408155",
+    "name": "St Colmans Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.172708,
+    "lon": -6.337155,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/municipal-parks-open-spaces",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-truesdales-meadow-way-1256097766",
+    "name": "Truesdales Meadow",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.18518,
+    "lon": -6.346865,
+    "regionId": "newry",
+    "regionLabel": "Newry",
+    "locationLabel": "Newry",
+    "websiteUrl": "https://www.newrymournedown.org/play-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-memorial-park-way-485423052",
+    "name": "Memorial Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.036512,
+    "lon": -7.296239,
+    "regionId": "portlaoise",
+    "regionLabel": "Portlaoise",
+    "locationLabel": "Portlaoise",
+    "websiteUrl": "https://laois.ie/newsroom/2025/five-laois-parks-awarded-green-flag-awards",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-portlaoise-leisure-centre-park-way-614130491",
+    "name": "Portlaoise Leisure Centre Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.038464,
+    "lon": -7.296415,
+    "regionId": "portlaoise",
+    "regionLabel": "Portlaoise",
+    "locationLabel": "Portlaoise",
+    "websiteUrl": "https://laois.ie/leisure-and-recreation/playgrounds/portlaoise-leisure-centre-playground",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym",
+        "playground",
+        "skatepark",
+        "toilet"
+      ]
+    }
+  },
+  {
+    "id": "parks-the-peoples-park-way-339822392",
+    "name": "The Peoples Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.030347,
+    "lon": -7.28993,
+    "regionId": "portlaoise",
+    "regionLabel": "Portlaoise",
+    "locationLabel": "Portlaoise",
+    "websiteUrl": "https://laois.ie/leisure-and-recreation/playgrounds/portlaoise-playground",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-cleveragh-regional-park-relation-2382281",
+    "name": "Cleveragh Regional Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.259741,
+    "lon": -8.448756,
+    "regionId": "sligo",
+    "regionLabel": "Sligo",
+    "locationLabel": "Sligo",
+    "websiteUrl": "https://www.sligococo.ie/PublicNotices/Part8-CleveraghRegionalPark",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-doorly-park-relation-2775521",
+    "name": "Doorly Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.267429,
+    "lon": -8.453035,
+    "regionId": "sligo",
+    "regionLabel": "Sligo",
+    "locationLabel": "Sligo",
+    "websiteUrl": "https://sligococo.ie/NewsArchivebak/NewsArchive2020/NewAnglingStands",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-mitchell-curley-park-relation-2393500",
+    "name": "Mitchell Curley Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.267851,
+    "lon": -8.504051,
+    "regionId": "sligo",
+    "regionLabel": "Sligo",
+    "locationLabel": "Sligo",
+    "websiteUrl": "https://www.sligococo.ie/News/TreesDistributedtoHaresCornerApplicants",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-peace-park-way-87650322",
+    "name": "Peace Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.269265,
+    "lon": -8.477091,
+    "regionId": "sligo",
+    "regionLabel": "Sligo",
+    "locationLabel": "Sligo",
+    "websiteUrl": "https://sligococo.ie/News/Archive/NewsArchive2021/Fleadhfest2021launch",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-piarsaigh-park-node-10921495216",
+    "name": "Piarsaigh Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.267485,
+    "lon": -9.705925,
+    "regionId": "tralee",
+    "regionLabel": "Tralee",
+    "locationLabel": "Tralee",
+    "websiteUrl": "https://www.kerrycoco.ie/tralee-town-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-town-park-way-229204690",
+    "name": "Town Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.266284,
+    "lon": -9.704814,
+    "regionId": "tralee",
+    "regionLabel": "Tralee",
+    "locationLabel": "Tralee",
+    "websiteUrl": "https://www.kerrycoco.ie/tralee-town-park",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "playground",
+        "water-fountain"
+      ]
+    }
+  },
+  {
+    "id": "parks-ferrybank-neighbourhood-park-way-872713846",
+    "name": "Ferrybank Neighbourhood Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.271715,
+    "lon": -7.092032,
+    "regionId": "waterford",
+    "regionLabel": "Waterford",
+    "locationLabel": "Waterford",
+    "websiteUrl": "https://kilkennycoco.ie/eng/services/capital-delivery-office-parks/parks/ferrybank-neighbourhood-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-kilbarry-nature-park-way-42744532",
+    "name": "Kilbarry Nature Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.240136,
+    "lon": -7.125085,
+    "regionId": "waterford",
+    "regionLabel": "Waterford",
+    "locationLabel": "Waterford",
+    "websiteUrl": "https://waterfordcouncil.ie/kilbarry-nature-park-and-waterford-greenway-continue-to-fly-the-green-flag",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-wyse-park-way-1026246564",
+    "name": "Wyse Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.257355,
+    "lon": -7.112957,
+    "regionId": "waterford",
+    "regionLabel": "Waterford",
+    "locationLabel": "Waterford",
+    "websiteUrl": "https://waterfordcouncil.ie/tomorrow-a-slice-of-culture-wyse-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-min-ryan-park-relation-13710703",
+    "name": "Min Ryan Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.321957,
+    "lon": -6.488678,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Wexford",
+    "websiteUrl": "https://www.wexfordcoco.ie/community/recreational-and-community-development-projects/min-ryan-park-wexford",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "dog-park",
+        "picnic-area",
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-redmond-memorial-park-way-91078027",
+    "name": "Redmond Memorial Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.342296,
+    "lon": -6.472143,
+    "regionId": "wexford",
+    "regionLabel": "Wexford",
+    "locationLabel": "Spawell Road, Wexford",
+    "websiteUrl": "https://www.wexfordcoco.ie/community/public-parks-and-playgrounds/redmond-park-wexford",
+    "solarMode": "open-area",
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "parking",
+        "playground",
+        "toilet"
+      ]
+    }
+  }
+]

@@ -1,0 +1,4900 @@
+[
+  {
+    "id": "cafes-almondine-node-11349803402",
+    "name": "Almondine",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.144062,
+    "lon": -2.110036,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "15 Chapel Street, Aberdeen, AB10 1SQ",
+    "websiteUrl": "https://www.almondine.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-aroma-node-12610493522",
+    "name": "Aroma",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.15477,
+    "lon": -2.138174,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Aberdeen",
+    "websiteUrl": "https://www.nhsgrampian.org/hospital-hub/shared-facilities/aroma-coffee-bar",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-asda-cafe-node-7500493456",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.124745,
+    "lon": -2.123253,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Garthdee Road, Aberdeen, AB10 7QA",
+    "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/garth-dee-road-bridge-of-dee-aberdeen/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-asda-cafe-node-7500504915",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.150525,
+    "lon": -2.081569,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Aberdeen",
+    "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/unit-1-beach-boulevard-retail-park/cafe",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-bagel-society-node-8927601220",
+    "name": "Bagel Society",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.150518,
+    "lon": -2.113094,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "68 Rosemount Place, Aberdeen, AB25 2XJ",
+    "websiteUrl": "https://bagelsociety.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bevs-bistro-node-9117932367",
+    "name": "Bev’s Bistro",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.139936,
+    "lon": -2.113443,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "123 Holburn Street, Aberdeen, AB10 6BP",
+    "websiteUrl": "https://bevsbistro.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-biocafe-node-10914042506",
+    "name": "BioCafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.147915,
+    "lon": -2.108328,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "39 Rosemount Viaduct, Aberdeen, AB25 1NQ",
+    "websiteUrl": "https://bio-cafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-black-sheep-coffee-node-3805622067",
+    "name": "Black Sheep Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.143822,
+    "lon": -2.098189,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Unit GS26/27 Guild Street, Aberdeen, AB11 5PN",
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-square",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-black-sheep-coffee-node-13069611932",
+    "name": "Black Sheep Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.146711,
+    "lon": -2.097476,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "73 Union Street, Aberdeen, AB11 6BD",
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-street",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-books-and-beans-way-314723708",
+    "name": "Books and Beans",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.146942,
+    "lon": -2.101259,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "22 Belmont Street, Aberdeen, AB10 1JH",
+    "websiteUrl": "https://booksandbeans.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bubble-citea-node-12061809461",
+    "name": "Bubble CiTea",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.144063,
+    "lon": -2.09817,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Guild Street, Aberdeen, AB11 5PS",
+    "websiteUrl": "https://bubblecitea.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cafe-ahoy-node-5927480255",
+    "name": "Cafe Ahoy",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.150065,
+    "lon": -2.087721,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Beach Boulevard, Aberdeen, AB24 5HP",
+    "websiteUrl": "https://www.cafeahoy.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cafe-contour-node-11167580315",
+    "name": "Cafe Contour",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.145923,
+    "lon": -2.098826,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "47 The Green, Aberdeen, AB11 6NY",
+    "websiteUrl": "https://contourcatering.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-4590032276",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.145314,
+    "lon": -2.103902,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "160-162 Union Street, Aberdeen, AB10 1QT",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-6054432438",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.1434,
+    "lon": -2.110609,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "452-456 Union Street, Aberdeen, AB10 1TR",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-rose-st",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-314093672",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.147106,
+    "lon": -2.098118,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "3-5 St. Nicholas Street, Aberdeen, AB10 1HE",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-common-sense-node-10303687552",
+    "name": "Common Sense",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.147546,
+    "lon": -2.105243,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Union Terrace, Aberdeen, AB10 1DF",
+    "websiteUrl": "https://common-sense.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-node-6732213796",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.149191,
+    "lon": -2.099574,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Bon Accord Centre, Aberdeen, AB25 1HZ",
+    "websiteUrl": "https://www.costa.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cupp-bubble-tea-node-11349803401",
+    "name": "Cupp Bubble Tea",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.143995,
+    "lon": -2.110891,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "17 Thistle Street, Aberdeen, AB10 1XZ",
+    "websiteUrl": "https://www.cuppbubbletea.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-foodstory-node-6738525985",
+    "name": "Foodstory",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.144009,
+    "lon": -2.110686,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "11-15 Thistle Street, Aberdeen, AB10 1XZ",
+    "websiteUrl": "https://foodstorycafe.co.uk",
+    "instagramUrl": "https://instagram.com/foodstoryscotland",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-greyhope-bay-centre-way-1053362786",
+    "name": "Greyhope Bay Centre",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.14186,
+    "lon": -2.059025,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Greyhope Road, Aberdeen, AB11 8QX",
+    "websiteUrl": "https://www.greyhopebay.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-grub-node-3375132799",
+    "name": "Grub",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.160552,
+    "lon": -2.100478,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "148 Spital, Aberdeen, AB24 3JU",
+    "websiteUrl": "https://grubfreshfood.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-grub-node-3599504472",
+    "name": "Grub",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.153262,
+    "lon": -2.084377,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "179 Constitution Street, Aberdeen, AB24 5TU",
+    "websiteUrl": "https://aberdeensciencecentre.org/food-drink",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-jungle-berry-node-6055020650",
+    "name": "Jungle Berry",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.143502,
+    "lon": -2.109181,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "409 Union Street, Aberdeen, AB11 6DA",
+    "websiteUrl": "https://www.jungleberryacai.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-kilau-coffee-node-1647979141",
+    "name": "Kilau Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.165639,
+    "lon": -2.102284,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "57 High Street, Aberdeen, AB24 3EH",
+    "websiteUrl": "https://kilaucoffee.wordpress.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-mount-node-9241869054",
+    "name": "Mount",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.149079,
+    "lon": -2.098027,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "6 Upperkirkgate, Aberdeen, AB10 1BA",
+    "websiteUrl": "https://www.mountaberdeen.com",
+    "instagramUrl": "https://instagram.com/mountaberdeen",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-parx-cafe-node-13647661036",
+    "name": "Parx Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.143474,
+    "lon": -2.118309,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "19 Rubislaw Terrace, Aberdeen, AB10 1XE",
+    "websiteUrl": "https://parxcafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-so-nyc-bagels-and-brew-node-9106209425",
+    "name": "So...NYC Bagels & Brew",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.144239,
+    "lon": -2.106405,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "269 Union Street, Aberdeen, AB11 6BR",
+    "websiteUrl": "https://www.soaberdeen.co.uk",
+    "instagramUrl": "https://instagram.com/sonyc.aberdeen",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-290633289",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.14476,
+    "lon": -2.105887,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "208 Union Street, Aberdeen, AB10 1TL",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2400/aberdeen-union-street-208-union-street-aberdeen-sct-ab-10-1-tl-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-1022489491",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.149153,
+    "lon": -2.097843,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "2-4 Upperkirkgate, Aberdeen, AB10 1BA",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2907/aberdeen-upperkirkgate-upperkirkgate-2-4-aberdeen-sct-ab-10-1-ba-gb",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-3200069984",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.142544,
+    "lon": -2.09615,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Aberdeen",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/18762/aberdeen-union-square-mc-2-first-floor-level-union-square-aberdeen-sct-a",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-6054668193",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.143079,
+    "lon": -2.111755,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "496 Union Street, Aberdeen, AB10 1TS",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2904/aberdeen-holburn-junction-496-union-street-aberdeen-sct-ab-10-1-ts-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-bread-maker-node-1907704038",
+    "name": "The Bread Maker",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.148177,
+    "lon": -2.108455,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "50/52 Rosemount Viaduct Rosemount Viaduct, Aberdeen, AB25 1NT",
+    "websiteUrl": "https://www.thebreadmaker.org.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-park-cafe-way-128912374",
+    "name": "The Park Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 57.131779,
+    "lon": -2.103646,
+    "regionId": "aberdeen",
+    "regionLabel": "Aberdeen",
+    "locationLabel": "Polmuir Road, Aberdeen, AB11 7TH",
+    "websiteUrl": "https://www.park-cafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-addlestone-community-cafe-node-13725189754",
+    "name": "Addlestone Community Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.370916,
+    "lon": -0.488408,
+    "regionId": "london",
+    "regionLabel": "Addlestone",
+    "locationLabel": "Garfield Road, Addlestone, KT15 2NJ",
+    "websiteUrl": "https://www.addlestonecommunityassociation.org",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-node-2552974569",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.371445,
+    "lon": -0.487557,
+    "regionId": "london",
+    "regionLabel": "Addlestone",
+    "locationLabel": "108-110 Station Road, Addlestone, KT15 2BQ",
+    "websiteUrl": "https://www.costa.co.uk/locations/store-locator",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-hebrews-node-12687024015",
+    "name": "Hebrews",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.368702,
+    "lon": -0.502695,
+    "regionId": "london",
+    "regionLabel": "Addlestone",
+    "locationLabel": "Church Road, Addlestone, KT15 1TB",
+    "websiteUrl": "https://www.stpaulscofe.org/hebrewscoffeeshop.htm",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-mooboo-node-11775089740",
+    "name": "Mooboo",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.370686,
+    "lon": -0.490086,
+    "regionId": "london",
+    "regionLabel": "Addlestone",
+    "locationLabel": "The Lane, Addlestone, KT15 2GN",
+    "websiteUrl": "https://www.mooboo.co",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-project-cafe-addlestone-node-13725189755",
+    "name": "Project Café Addlestone",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.372381,
+    "lon": -0.492883,
+    "regionId": "london",
+    "regionLabel": "Addlestone",
+    "locationLabel": "44B High Street, Addlestone, KT15 1TR",
+    "websiteUrl": "https://www.countycare.co.uk/project-cafe",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-asda-cafe-node-7497107442",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.398131,
+    "lon": -2.363568,
+    "regionId": "manchester",
+    "regionLabel": "Altrincham",
+    "locationLabel": "90 George Richards Way, Altrincham, WA14 5ZR",
+    "websiteUrl": "https://storelocator.asda.com/north-west/altrincham/90-george-richards-way-broadheath/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-5258609795",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.387188,
+    "lon": -2.350682,
+    "regionId": "manchester",
+    "regionLabel": "Altrincham",
+    "locationLabel": "Shaw's Road, Altrincham",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/altrincham",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-kickback-coffee-node-11737932222",
+    "name": "Kickback Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.399397,
+    "lon": -2.348422,
+    "regionId": "manchester",
+    "regionLabel": "Altrincham",
+    "locationLabel": "4 Viaduct Road, Altrincham, WA14 5DU",
+    "websiteUrl": "https://kickbackcoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-1300485965",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.383783,
+    "lon": -2.350375,
+    "regionId": "manchester",
+    "regionLabel": "Altrincham",
+    "locationLabel": "Lloyd Street, Altrincham, WA14 2SU",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2799/altrincham-sainsburys-lloyd-street-altrincham-eng-wa-14-2-su-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-twig-and-spoon-node-3810334335",
+    "name": "Twig and Spoon",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.331104,
+    "lon": 0.284856,
+    "regionId": "london",
+    "regionLabel": "Ash",
+    "locationLabel": "Ash Lane, Ash, TN15 7EG",
+    "websiteUrl": "https://www.twigandspoon.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-96-degrees-node-13073395733",
+    "name": "96 Degrees",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.426701,
+    "lon": -0.476955,
+    "regionId": "london",
+    "regionLabel": "Ashford",
+    "locationLabel": "Fordbridge Park, Ashford, TW15 3SJ",
+    "websiteUrl": "https://tennisspelthorne.com/96-degrees-coffee-shop",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-tarla-cafe-and-grill-node-3573166721",
+    "name": "Tarla Cafe & Grill",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.4346,
+    "lon": -0.465855,
+    "regionId": "london",
+    "regionLabel": "Ashford",
+    "locationLabel": "11 New Parade, Ashford, TW15 2UF",
+    "websiteUrl": "https://www.tarlacafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cafe-chai-node-5996337155",
+    "name": "Cafe Chai",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.32372,
+    "lon": -0.198124,
+    "regionId": "london",
+    "regionLabel": "Banstead",
+    "locationLabel": "135 High Street, Banstead, SM7 2NS",
+    "websiteUrl": "https://www.cafechai.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-italia-node-5996357573",
+    "name": "Caffè Italia",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.322612,
+    "lon": -0.202087,
+    "regionId": "london",
+    "regionLabel": "Banstead",
+    "locationLabel": "49 High Street, Banstead, SM7 2NL",
+    "websiteUrl": "https://caffeitaliabanstead.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-node-5996591283",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.322422,
+    "lon": -0.202888,
+    "regionId": "london",
+    "regionLabel": "Banstead",
+    "locationLabel": "37 High Street, Banstead, SM7 2NH",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/banstead",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-way-314787507",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.539086,
+    "lon": 0.080654,
+    "regionId": "london",
+    "regionLabel": "Barking",
+    "locationLabel": "37 Station Parade, Barking, IG11 8EB",
+    "websiteUrl": "https://www.starbucks.co.uk/store-locator/67851-302707",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-little-crafters-cafe-way-328680358",
+    "name": "Little Crafters Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.649488,
+    "lon": -0.147888,
+    "regionId": "london",
+    "regionLabel": "Barnet",
+    "locationLabel": "102 Cockfosters Road, Barnet, EN4 0DP",
+    "websiteUrl": "https://www.littlecrafterscafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-nkora-node-8687620814",
+    "name": "Nkora",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.65534,
+    "lon": -0.202023,
+    "regionId": "london",
+    "regionLabel": "Barnet",
+    "locationLabel": "High Street, Barnet, EN5 5XY",
+    "websiteUrl": "https://nkora.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-4w-cafe-node-1014761201",
+    "name": "4W Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.379652,
+    "lon": -2.329508,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA2 7BT",
+    "websiteUrl": "https://www.bath.ac.uk/locations/4w-cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-adventure-cafe-way-594364547",
+    "name": "Adventure Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385242,
+    "lon": -2.36132,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "5 George Street, BA1 2ED",
+    "websiteUrl": "https://www.adventurecafebar.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bathzaar-and-laqum-node-4307452863",
+    "name": "Bathzaar And Laqum",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382228,
+    "lon": -2.359749,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "17 The Corridor, BA1 5AP",
+    "websiteUrl": "https://www.authenticdelight.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-boston-tea-party-way-117879804",
+    "name": "Boston Tea Party",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385832,
+    "lon": -2.362044,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "8 Alfred Street, BA1 2QU",
+    "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-alfred-street",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-boston-tea-party-way-121086479",
+    "name": "Boston Tea Party",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381461,
+    "lon": -2.363044,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA1 2AE",
+    "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-kingsmead-square",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bright-field-cafe-way-485163940",
+    "name": "Bright Field Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.376591,
+    "lon": -2.377668,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "30 Shaftesbury Road, Bath, BA2 3LJ",
+    "websiteUrl": "https://www.brightfield.org.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-bubble-ci-tea-node-7837077853",
+    "name": "Bubble Ci•Tea",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378671,
+    "lon": -2.358249,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "16 Southgate Place, BA1 1AP",
+    "websiteUrl": "https://bubblecitea.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cafe-at-the-centre-node-1115457938",
+    "name": "Cafe at the Centre",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378747,
+    "lon": -2.356785,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA1 1JW",
+    "websiteUrl": "https://manversstreetbaptist.wordpress.com/the-open-house-centre/cafe-at-the-centre",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cafe-au-lait-way-75900413",
+    "name": "Cafe au Lait",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.37803,
+    "lon": -2.357282,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "12-14 Dorchester Street, BA1 1SS",
+    "websiteUrl": "https://www.cafeaulait.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cafe-lucca-the-loft-node-4307205511",
+    "name": "Cafe Lucca (The Loft)",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385646,
+    "lon": -2.362028,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Bartlett Street, Bath, BA1 2QZ",
+    "websiteUrl": "https://www.cafelucca.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cafe-pastel-way-373986062",
+    "name": "Cafe Pastel",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.38037,
+    "lon": -2.359052,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "8 Abbey Green, Bath, BA1 1NW",
+    "websiteUrl": "https://cafepastel.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cafe-walcot-node-5958363485",
+    "name": "Cafe Walcot",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.386446,
+    "lon": -2.359377,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "90b Walcot Street, BA1 5BG",
+    "websiteUrl": "https://www.walcothousebath.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-3132211102",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378072,
+    "lon": -2.35857,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Dorchester Street, BA1 1SS",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bath-southgate",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-way-90972048",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382555,
+    "lon": -2.361158,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "11 Old Bond Street, BA1 1BP",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bath-old-bond-st",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-central-youth-cafe-node-4791671835",
+    "name": "Central Youth Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385932,
+    "lon": -2.360551,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA1 5DU",
+    "websiteUrl": "https://oasisbath.org",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-coffee-1-node-5838352165",
+    "name": "Coffee#1",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383461,
+    "lon": -2.373855,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Unit 1 Victoria Bridge Road, BA2 3GG",
+    "websiteUrl": "https://www.coffee1.co.uk/locations/bath",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-coffee-1-way-595235836",
+    "name": "Coffee#1",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381168,
+    "lon": -2.364447,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "3 James Street West, BA1 2AG",
+    "websiteUrl": "https://www.coffee1.co.uk/locations/bath-city-centre",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-coffever-way-993778462",
+    "name": "Coffever",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382374,
+    "lon": -2.359904,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "14 Northumberland Place, Bath, BA1 5AR",
+    "websiteUrl": "https://coffever.co.uk",
+    "instagramUrl": "https://instagram.com/coffever2018",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-coret-way-431943048",
+    "name": "Coret",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383847,
+    "lon": -2.360964,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "17 Milsom Place, BA1 1BZ",
+    "websiteUrl": "https://www.milsomplace.co.uk/stores/coret",
+    "instagramUrl": "https://instagram.com/coret_coffee",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-way-373546299",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381418,
+    "lon": -2.36073,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "44 Stall Street, BA1 1QH",
+    "websiteUrl": "https://www.costa.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-way-477880625",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381544,
+    "lon": -2.385913,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Unit 4 Lower Bristol Road, BA2 1EP",
+    "websiteUrl": "https://www.costa.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-da-vinci-italian-deli-way-577719390",
+    "name": "Da Vinci Italian Deli",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.373509,
+    "lon": -2.366248,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "33a Wellsway, BA2 4RR",
+    "websiteUrl": "https://davincideli.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-dexters-way-216615156",
+    "name": "Dexter's",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382701,
+    "lon": -2.349347,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Bathwick Hill, BA2 4EN",
+    "websiteUrl": "https://dexterscoffeeshop.com",
+    "instagramUrl": "https://instagram.com/dexterscoffeeshop",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-dianas-cafe-way-75900295",
+    "name": "Diana's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378097,
+    "lon": -2.357202,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "14a Manvers Street, BA1 1JH",
+    "websiteUrl": "https://www.dianascafe.co.uk/bath",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-flos-cafe-node-6380913598",
+    "name": "Flo's Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.379396,
+    "lon": -2.356599,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Manvers Street, BA1 1JW",
+    "websiteUrl": "https://www.thesubath.com/news/article/thesu/Flos-Cafe-has-officially-opened",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-gails-way-373546340",
+    "name": "GAIL's",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382522,
+    "lon": -2.360532,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "12-13 Union Street, BA1 1RR",
+    "websiteUrl": "https://gails.com/pages/union-street-bath",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-garden-cafe-node-3611156994",
+    "name": "Garden Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385823,
+    "lon": -2.350728,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA2 4DB",
+    "websiteUrl": "https://www.holburne.org/planning-your-visit/garden-cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-good-day-cafe-way-373546319",
+    "name": "Good Day Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.38273,
+    "lon": -2.360479,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "12 Upper Borough Walls, BA1 1RH",
+    "websiteUrl": "https://www.gooddaycoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-hands-georgian-tearooms-node-3773998982",
+    "name": "Hands Georgian Tearooms",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.380806,
+    "lon": -2.359058,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Abbey Street, Bath, BA1 1NN",
+    "websiteUrl": "https://handstearoom.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-italian-pizzeria-cafe-84-way-673318953",
+    "name": "Italian Pizzeria Cafe 84",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.37981,
+    "lon": -2.371481,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "84 Lower Bristol Road, BA2 3BQ",
+    "websiteUrl": "https://italianpizzeriacafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-janes-cafe-way-1365003248",
+    "name": "Jane's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382526,
+    "lon": -2.358411,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA2 4AW",
+    "websiteUrl": "https://www.bathguildhallmarket.co.uk/shops.html",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-joes-and-the-juice-way-178614806",
+    "name": "Joes & The Juice",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.380356,
+    "lon": -2.359762,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "11a-12 Stall Street, BA1 1QE",
+    "websiteUrl": "https://www.joejuice.com/store/1189?market=6",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-knoops-way-90972046",
+    "name": "Knoops",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383258,
+    "lon": -2.36145,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "21 Old Bond Street, BA1 2LA",
+    "websiteUrl": "https://knoops.co.uk/pages/location-page-bath",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-komorebi-way-472542600",
+    "name": "Komorebi",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.386776,
+    "lon": -2.365687,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "7 Margaret's Buildings, BA1 2LP",
+    "websiteUrl": "https://www.komorebi-bath.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-landrace-bakery-way-120547003",
+    "name": "Landrace Bakery",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385915,
+    "lon": -2.359915,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "61 Walcot Street, Bath, BA1 5BN",
+    "websiteUrl": "https://landracebakery.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-mjolk-way-373343732",
+    "name": "Mjolk",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381516,
+    "lon": -2.359639,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "13 Abbey Churchyard, BA1 1LY",
+    "websiteUrl": "https://mjolkshop.square.site",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-mokoko-node-10289529196",
+    "name": "Mokoko",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378596,
+    "lon": -2.365506,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "2 Foundry Lane, Bath, BA2 3GZ",
+    "websiteUrl": "https://mokokobakery.com/mokoko-locations/newark-works-bath",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-morrisons-cafe-node-4303484109",
+    "name": "Morrisons Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.391241,
+    "lon": -2.350437,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA1 6AE",
+    "websiteUrl": "https://my.morrisons.com/storefinder/320/bath",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-music-workshop-coffeehouse-way-1366247099",
+    "name": "Music Workshop Coffeehouse",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381698,
+    "lon": -2.366735,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "7c, Bath, BA1 1JB",
+    "websiteUrl": "https://www.musicworkshop.org.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-my-cookie-dough-node-3132211099",
+    "name": "My Cookie Dough",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378062,
+    "lon": -2.358307,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "7 Dorchester Street, BA1 1SS",
+    "websiteUrl": "https://www.mycookiedough.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-one-way-490724319",
+    "name": "One",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383309,
+    "lon": -2.362079,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 John Street, BA1 2JL",
+    "websiteUrl": "https://www.one-cafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-palette-way-121675882",
+    "name": "Palette",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.386618,
+    "lon": -2.359323,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "98 Walcot Street, BA1 5BG",
+    "websiteUrl": "https://www.palettable.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-papawcha-way-373546355",
+    "name": "Papawcha",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381719,
+    "lon": -2.359707,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "6 Cheap Street, BA1 1NE",
+    "websiteUrl": "https://www.papawcha.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-pavilion-cafe-node-10162556008",
+    "name": "Pavilion café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.378006,
+    "lon": -2.325984,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Claverton Down, BA2 7AY",
+    "websiteUrl": "https://www.bath.ac.uk/locations/pavilion-cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-picnic-way-431533365",
+    "name": "Picnic",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.384577,
+    "lon": -2.359798,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "9 Saracen Street, BA1 5BR",
+    "websiteUrl": "https://picniccoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-planteatlicious-node-3750602462",
+    "name": "PlantEatLicious",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.379618,
+    "lon": -2.360398,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Lower Borough Walls, Bath, BA1 1QR",
+    "websiteUrl": "https://www.planteatlicious.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-rainbowls-way-474927601",
+    "name": "Rainbowls",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382597,
+    "lon": -2.361162,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "12a Old Bond Street, BA1 1BP",
+    "websiteUrl": "https://www.rainbowls.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-rosarios-cafe-way-507525117",
+    "name": "Rosario's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382286,
+    "lon": -2.359693,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "5 Northumberland Place, BA1 5AR",
+    "websiteUrl": "https://www.rosarioscafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-sally-anns-cafe-node-4310806629",
+    "name": "Sally Ann's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381334,
+    "lon": -2.365589,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA1 1XE",
+    "websiteUrl": "https://www.salvationarmy.org.uk/bath-citadel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-same-same-but-different-way-489856541",
+    "name": "Same Same, But Different",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385234,
+    "lon": -2.361529,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "7a Bartlett Street, Bath, BA1 2ED",
+    "websiteUrl": "https://same-same.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-society-cafe-way-308124421",
+    "name": "Society Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381009,
+    "lon": -2.363118,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "4-5 Kingsmead Square, Bath, BA1 2AB",
+    "websiteUrl": "https://www.society-cafe.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-somer-node-4820635770",
+    "name": "Somer",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385667,
+    "lon": -2.361775,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "6 Bartlett Street, Bath, BA1 2QZ",
+    "websiteUrl": "https://www.bathspa.ac.uk/news-and-events/news/2025/somer-store-opens",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-sonder-way-456121845",
+    "name": "Sonder",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383329,
+    "lon": -2.360378,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "14 Green Street, BA1 2JZ",
+    "websiteUrl": "https://www.sondercoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-sports-cafe-node-4450320506",
+    "name": "Sports Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.377721,
+    "lon": -2.323282,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA2 7BT",
+    "websiteUrl": "https://www.bath.ac.uk/locations/sports-cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-st-mikes-cafe-node-4317063805",
+    "name": "St Mike's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383716,
+    "lon": -2.359735,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "(new tag), BA1 5LP",
+    "websiteUrl": "https://www.stmichaelsbath.org.uk/st-mikes-cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-845940470",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.377581,
+    "lon": -2.357298,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Bath, BA1 1SU",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009228/bath-spa-station-platform-2-bath-spa-station-platform-1-bath-eng-ba-1-1-su-gb",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-way-171379061",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.380798,
+    "lon": -2.363159,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Avon Street, BA1 1UN",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1006241/bath-avon-street-unit-b-strahan-house-avon-street-bath-eng-ba-1-1-u",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-sugarcane-studio-way-447692224",
+    "name": "Sugarcane Studio",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383571,
+    "lon": -2.357279,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Grove Street, BA2 6PJ",
+    "websiteUrl": "https://www.sugarcanestudio.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-sweet-little-things-way-380858303",
+    "name": "Sweet Little Things",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382923,
+    "lon": -2.361054,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "5 Old Bond Street, BA1 1BW",
+    "websiteUrl": "https://www.sltbath.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-tealith-bubble-tea-way-380826075",
+    "name": "Tealith Bubble Tea",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382065,
+    "lon": -2.360102,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "20 Union Passage, Bath, BA1 1RD",
+    "websiteUrl": "https://www.tealith.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-bath-bun-way-1256907101",
+    "name": "The Bath Bun",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.380584,
+    "lon": -2.358637,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "2a Abbey Green, BA1 1NW",
+    "websiteUrl": "https://www.thebathbun.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-chelsea-cafe-way-491788540",
+    "name": "The Chelsea Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385463,
+    "lon": -2.388666,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "8e Chelsea Road, BA1 3DU",
+    "websiteUrl": "https://thechelseacafebath.tumblr.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-choux-box-patisserie-cafe-way-1484255391",
+    "name": "The Choux Box Patisserie Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.362192,
+    "lon": -2.365816,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Entry Hill, BA2 5NA",
+    "websiteUrl": "https://www.thechouxboxpatisserie.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-colombian-company-way-197194662",
+    "name": "The Colombian Company",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.38031,
+    "lon": -2.359001,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "6 Abbey Gate Street, BA1 1NP",
+    "websiteUrl": "https://www.thecolombiancompany.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-colombian-company-way-456126420",
+    "name": "The Colombian Company",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.383138,
+    "lon": -2.360925,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "3 New Bond Street, BA1 1BL",
+    "websiteUrl": "https://thecolombiancompany.com/our-locations",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-colombian-company-limited-way-452680656",
+    "name": "The Colombian Company Limited",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.376718,
+    "lon": -2.355366,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "9 Claverton Street, BA2 4LD",
+    "websiteUrl": "https://thecolombiancompany.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-green-bird-cafe-way-120948359",
+    "name": "The Green Bird Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.386832,
+    "lon": -2.36591,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "11 Margaret's Buildings, Bath, BA1 2LP",
+    "websiteUrl": "https://www.greenbirdcafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-green-rocket-way-373343744",
+    "name": "The Green Rocket",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.380655,
+    "lon": -2.35701,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Pierrepont Street, BA1 1LB",
+    "websiteUrl": "https://thegreenrocket.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-hub-cafe-node-6041515727",
+    "name": "The Hub Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.362336,
+    "lon": -2.354318,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Mulberry Way, BA2 5BU",
+    "websiteUrl": "https://www.mphub.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-kingsmead-kitchen-way-915199882",
+    "name": "The Kingsmead Kitchen",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381422,
+    "lon": -2.363492,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Kingsmead Street, Bath, BA1 2AA",
+    "websiteUrl": "https://kingsmeadkitchenbath.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-larkhall-deli-way-116533272",
+    "name": "The Larkhall Deli",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.397314,
+    "lon": -2.344988,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "1 Upper Lambridge Street, BA1 6RY",
+    "websiteUrl": "https://jjbeanos.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-mad-hatters-tea-party-way-373986074",
+    "name": "The Mad Hatter's Tea Party",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.381386,
+    "lon": -2.358038,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "5 Orange Grove, Bath, BA1 1LP",
+    "websiteUrl": "https://www.madhattersbath.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-provenist-node-6739957502",
+    "name": "The Provenist",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.385427,
+    "lon": -2.359134,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Walcot Street, Bath, BA1 5BB",
+    "websiteUrl": "https://www.theprovenist.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-tea-shed-way-356944423",
+    "name": "The Tea Shed",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.369472,
+    "lon": -2.343564,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "BA2 5AH",
+    "websiteUrl": "https://www.nationaltrust.org.uk/prior-park-landscape-garden/features/eating-and-shopping-at-prior-park",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-terrace-cafe-node-4307280150",
+    "name": "The Terrace Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.374406,
+    "lon": -2.352081,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Prior Park Road, BA2 4NF",
+    "websiteUrl": "https://www.priorparkgardencentre.co.uk/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-thirsty-meeples-way-557081894",
+    "name": "Thirsty Meeples",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.384125,
+    "lon": -2.363146,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "39 Gay Street, BA1 2NT",
+    "websiteUrl": "https://thirstymeeples.co.uk/pages/bathcafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-toniq-cafe-way-314228807",
+    "name": "Toniq Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.384804,
+    "lon": -2.363098,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "14 George Street, BA1 2EN",
+    "websiteUrl": "https://www.toniqlife.com/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-treetop-cafe-node-11754550013",
+    "name": "TreeTop Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.384954,
+    "lon": -2.365504,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "Royal Avenue, BA1 2NR",
+    "websiteUrl": "https://www.treetopcafebath.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-watchhouse-way-373546322",
+    "name": "WatchHouse",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.382704,
+    "lon": -2.360955,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "8-10 Old Bond Street, BA1 1BW",
+    "websiteUrl": "https://watchhouse.com/blogs/locations/bath",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-widcombe-deli-node-11405340061",
+    "name": "Widcombe Deli",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.376638,
+    "lon": -2.354467,
+    "regionId": "bath",
+    "regionLabel": "Bath",
+    "locationLabel": "20 Claverton Street, BA2 4LD",
+    "websiteUrl": "https://jjbeanos.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-branching-out-node-8453123597",
+    "name": "Branching Out",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.399117,
+    "lon": -0.040433,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "149 Croydon Road, Beckenham, BR3 3QH",
+    "websiteUrl": "https://www.branchingoutshop.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-389031673",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.407569,
+    "lon": -0.027644,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "164 High Street, Beckenham, BR3 1EW",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/beckenham",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-costa-node-13653097243",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.406858,
+    "lon": -0.028188,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "194-202 High Street, Beckenham, BR3 1EN",
+    "websiteUrl": "https://www.costa.co.uk/stores/beckenham",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-crunch-node-13674110586",
+    "name": "Crunch",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.406604,
+    "lon": -0.029635,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "242 High Street, Beckenham, BR3 1EN",
+    "websiteUrl": "https://crunchbeckenham.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-daisy-grey-way-1136507499",
+    "name": "Daisy Grey",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.407383,
+    "lon": -0.025829,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "73E High Street, Beckenham, BR3 1AN",
+    "websiteUrl": "https://www.daisygrey.co.uk/beckenham-high-streets-location-and-opening-times",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-piccolo-cafe-node-13652636602",
+    "name": "Piccolo Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.407783,
+    "lon": -0.02569,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "106 High Street, Beckenham, BR3 1EB",
+    "websiteUrl": "https://piccolocafes.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-poached-node-12632010027",
+    "name": "Poached",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.410554,
+    "lon": -0.025033,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "12a High Street, Beckenham, BR3 1AZ",
+    "websiteUrl": "https://www.poachedrestaurants.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-rendez-vous-node-13652455081",
+    "name": "Rendez - Vous",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.407987,
+    "lon": -0.025486,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "94 High Street, Beckenham, BR3 1ED",
+    "websiteUrl": "https://rendezvouscaffe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-shotsmiths-node-9953837717",
+    "name": "Shotsmiths",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.40864,
+    "lon": -0.039835,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "73 Beckenham Road, Beckenham, BR3 4PR",
+    "websiteUrl": "https://shotsmiths.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-sunrise-cafe-node-308066480",
+    "name": "Sunrise Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.398894,
+    "lon": -0.042671,
+    "regionId": "london",
+    "regionLabel": "Beckenham",
+    "locationLabel": "115 Croydon Road, Beckenham, BR3 3RA",
+    "websiteUrl": "https://placejuice.com/sunrise-cafe-sjlenm0",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bolt-deli-node-13509300128",
+    "name": "Bolt Deli",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.573235,
+    "lon": -5.966722,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "62 Boucher Road, BT12 6LR",
+    "websiteUrl": "https://www.boltdelibelfast.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cafe-smart-node-3869043378",
+    "name": "Cafe Smart",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.600334,
+    "lon": -5.875229,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://cafesmart.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-node-3930463007",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.596587,
+    "lon": -5.931719,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "10 Donegall Square West, BT1 6JH",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-donegall-sq",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-5227982992",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.595326,
+    "lon": -5.867362,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "376-378 Upper Newtownards Road, Belfast, BT4 3FB",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/ballyhackamore",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-6421702904",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.596553,
+    "lon": -5.920947,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "1 Lanyon Place, Belfast, BT1 3LP",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-lanyon-place",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-7060790485",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.592436,
+    "lon": -5.926676,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-weavers",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-node-10706839768",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.580209,
+    "lon": -5.967045,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Boucher Crescent, Belfast, BT12 6HU",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-boucher-road",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-node-11309553951",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.58606,
+    "lon": -5.936285,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-university-road",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-11702139596",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.594419,
+    "lon": -5.934753,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-europa",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-589260598",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.599335,
+    "lon": -5.925669,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "48-50 Ann Street, Belfast, BT1 4EG",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ann-st",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-way-611906947",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.588329,
+    "lon": -5.932879,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-botanic",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-629977295",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.655739,
+    "lon": -5.91811,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/newtownabbey-abbey-centre",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-1192112125",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.577914,
+    "lon": -5.919101,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "377 Ormeau Road, Belfast, BT7 2FD",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ormeau-road",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-coffee-node-12818746401",
+    "name": "Costa Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.565896,
+    "lon": -5.906955,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Drumkeen Court, Belfast",
+    "websiteUrl": "https://www.costa.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-drip-node-13447220103",
+    "name": "Drip",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.575218,
+    "lon": -5.916495,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "332-338 Ormeau Road, Belfast, BT7 2GE",
+    "websiteUrl": "https://dripbelfast.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-french-village-bakery-and-cafe-node-1301173918",
+    "name": "French Village Bakery & Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.586283,
+    "lon": -5.932473,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "99 Botanic Avenue, Belfast, BT7 1JN",
+    "websiteUrl": "https://www.frenchvillagebakery.co.uk/where-to-buy.cfm",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-gong-cha-node-1301163135",
+    "name": "Gong Cha",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.587425,
+    "lon": -5.932472,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "68 Botanic Avenue, Belfast, BT7 1JR",
+    "websiteUrl": "https://www.gong-cha.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-junction-node-1450326115",
+    "name": "Junction",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.584973,
+    "lon": -5.933789,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.junctionqueens.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-maggie-mays-node-10181169102",
+    "name": "Maggie May's",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.599085,
+    "lon": -5.932127,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "44 Castle Street, Belfast, BT1 1HB",
+    "websiteUrl": "https://maggiemaysbelfast.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-phin-node-13744469093",
+    "name": "Phin",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.597341,
+    "lon": -5.932366,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://phinbelfast.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-phin-node-13744469094",
+    "name": "PHIN",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.57649,
+    "lon": -5.917482,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "300 Ormeau Road, Belfast, BT7 2GE",
+    "websiteUrl": "https://www.phinbelfast.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-reboot-gaming-cafe-node-6328938287",
+    "name": "Reboot Gaming Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.585102,
+    "lon": -5.94101,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "92-96 Lisburn Road, Belfast, BT9 6AG",
+    "websiteUrl": "https://rebootgamingcafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-root-and-branch-coffee-roastery-node-10048269837",
+    "name": "Root & Branch Coffee Roastery",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.598718,
+    "lon": -5.894311,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://rootandbranch.coffee",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-simply-fish-and-chips-node-2096717959",
+    "name": "Simply Fish and Chips",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.596219,
+    "lon": -5.921611,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Oxford Street, BT1 3LA",
+    "websiteUrl": "https://www.simplyfishandchips.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-sojourn-coffee-belfast-node-6282849826",
+    "name": "Sojourn Coffee Belfast",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.584514,
+    "lon": -5.938304,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://sojourncoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-2612909755",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.581448,
+    "lon": -5.965661,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Boucher Crescent, Belfast, BT12 6HU",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1012239/boucher-unit-11-c-boucher-retail-park-boucher-crescent-bel",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-5272192467",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.600752,
+    "lon": -5.931363,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast, BT1 1DD",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1043557/castle-court-unit-34-c-castle-court-shopping-centre-royal-avenu",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-5939213785",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.595163,
+    "lon": -5.92822,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "4-8 Adelaide Street, Belfast, BT2 8GA",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1016161/harvester-house-harvester-house-adelaide-street-belfast-belfast-ni",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-5939213787",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.595168,
+    "lon": -5.934278,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011572/great-victoria-street-24-great-victoria-street-belfast-belfast-nir-bt-2-",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-7289320586",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.598275,
+    "lon": -5.924615,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "1 Victoria Square, Belfast, BT1 4QG",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009133/belfast-victoria-square-ug-13-unit-38-ug-victoria-square-sc-1-victoria-square-be",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-12178087286",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.594179,
+    "lon": -5.940232,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.starbucks.co.uk/store-locator/84998-314740",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-12818746301",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.564453,
+    "lon": -5.908277,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Unit 3 Upper Galwally, BT8 6FX",
+    "websiteUrl": "https://www.starbucks.co.uk/store-locator/84671-314346/unit-3-forestside-sc",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-13401965947",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.611601,
+    "lon": -5.955875,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.starbucks.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-town-square-way-613157871",
+    "name": "Town Square",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.588129,
+    "lon": -5.933375,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "45 Botanic Avenue, Belfast, Antrim, BT7 1HB",
+    "websiteUrl": "https://www.townsquarebelfast.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-trait-node-11920208549",
+    "name": "Trait",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.596835,
+    "lon": -5.934411,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Belfast",
+    "websiteUrl": "https://www.traitcoffee.co.uk/collegesqe",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-way-965766019",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.456269,
+    "lon": 0.14578,
+    "regionId": "london",
+    "regionLabel": "Bexleyheath",
+    "locationLabel": "85 Broadway, Bexleyheath, DA6 7JN",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2440/bexleyheath-broadway-shoppin-broadway-shopping-centre-bexleyheath-eng-da-6-7-jn",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-cream-node-1775567481",
+    "name": "Caffe Cream",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.3953,
+    "lon": -3.03879,
+    "regionId": "liverpool",
+    "regionLabel": "Birkenhead",
+    "locationLabel": "Park Drive, Birkenhead, CH41 4HY",
+    "websiteUrl": "https://www.caffecream.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-indigo-node-12020159970",
+    "name": "Indigo",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.372852,
+    "lon": -3.00798,
+    "regionId": "liverpool",
+    "regionLabel": "Birkenhead",
+    "locationLabel": "136 Bedford Road, Birkenhead, Merseyside, CH42 2AS",
+    "websiteUrl": "https://www.indigorockferry.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-black-sheep-coffee-node-9686118561",
+    "name": "Black Sheep Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.475465,
+    "lon": -1.905885,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "160 Wharfside Street, Birmingham, B1 1RL",
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/ac-hotel-birmingham",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-blow-water-node-3893540681",
+    "name": "Blow Water",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.434428,
+    "lon": -1.891832,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.blowwater.co",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-breakfast-n-brunch-node-968790821",
+    "name": "Breakfast N Brunch",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.535584,
+    "lon": -1.905563,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "101 Thornbridge Avenue, Birmingham, B42 2AB",
+    "websiteUrl": "https://www.breakfastnbrunch.co.uk/greatbarr",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-brig-cafe-at-the-warehouse-node-81440685",
+    "name": "BRIG Café at The Warehouse",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.478423,
+    "lon": -1.889577,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "54-57 Allison Street, Birmingham, B5 5TH",
+    "websiteUrl": "https://www.wearebrig.co.uk/brig-cafe-at-the-warehouse",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-2535904124",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.476704,
+    "lon": -1.896536,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-bullring",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-node-9963976678",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.478235,
+    "lon": -1.913981,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "4 Brindley Place, Birmingham, B1 2JB",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-brindleyplace",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-way-162580318",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.480757,
+    "lon": -1.895621,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "74 Corporation Street, Birmingham, B2 4UQ",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-corporation-st",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-317697216",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.458962,
+    "lon": -1.949095,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "143 High Street, Harborne, B17 9NP",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/harborne",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-centenary-lounge-node-1785327106",
+    "name": "Centenary Lounge",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.478802,
+    "lon": -1.892698,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Moor Street, Birmingham, B4 7UL",
+    "websiteUrl": "https://www.centenarylounge.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-chai-and-crumbs-node-2590963416",
+    "name": "Chai & Crumbs",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.475629,
+    "lon": -1.908451,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "2 Waterfront Walk, Birmingham, B1 1SZ",
+    "websiteUrl": "https://www.chaiandcrumbs.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-chance-and-counters-node-7156475185",
+    "name": "Chance & Counters",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.475458,
+    "lon": -1.884368,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Gibb Street, Birmingham, B9 4BG",
+    "websiteUrl": "https://www.chanceandcounters.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-chapel-cafe-node-4072530469",
+    "name": "Chapel Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.477715,
+    "lon": -1.969926,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "445 Bearwood Road, B66 4DH",
+    "websiteUrl": "https://chapelcafe.org",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-coffee-1-way-85547649",
+    "name": "Coffee#1",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.43239,
+    "lon": -1.89274,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Alcester Road South, Birmingham, B14 7JJ",
+    "websiteUrl": "https://www.coffee1.co.uk/locations/kings-heath",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-costa-node-6055073401",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.44439,
+    "lon": -1.940281,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Selly Oak Shopping Park",
+    "websiteUrl": "https://www.costa.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-costa-node-6443261685",
+    "name": "Costa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.474646,
+    "lon": -1.969023,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "579 Bearwood Road, B66 4BH",
+    "websiteUrl": "https://www.costa.co.uk/?utm_source=test",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-drive-thru-way-880747836",
+    "name": "Costa Drive Thru",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.449604,
+    "lon": -1.912031,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "571 Pershore Road, Birmingham, B29 7DF",
+    "websiteUrl": "https://www.costa.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-donuts-n-chai-way-1150922675",
+    "name": "Donuts N Chai",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.490138,
+    "lon": -1.895522,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "88 Lower Tower Street, Birmingham, B19 3NL",
+    "websiteUrl": "https://donutsnchai.co.uk/d6375ce5-59fc-4be3-981b-b5d9f9c635c2",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-gorilla-coffee-cafe-node-356614176",
+    "name": "Gorilla Coffee Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.477585,
+    "lon": -1.913594,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "6 Brindley Place, Birmingham, B1 2JB",
+    "websiteUrl": "https://gorillacoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-grounded-st-pauls-node-12064966369",
+    "name": "grounded. St Paul's",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.48445,
+    "lon": -1.906056,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "55 Saint Paul's Square, Birmingham, B3 1QS",
+    "websiteUrl": "https://groundedcafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-hello-cafe-node-12770453883",
+    "name": "Hello Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.473247,
+    "lon": -1.968867,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "596 Bearwood Road",
+    "websiteUrl": "https://hellocafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-hey-brew-espresso-node-2782012388",
+    "name": "Hey Brew Espresso",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.445759,
+    "lon": -1.932887,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "552-554 Bristol Road, Birmingham, B29 6BD",
+    "websiteUrl": "https://www.heybrew.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-java-roastery-way-87356445",
+    "name": "Java Roastery",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.48024,
+    "lon": -1.901812,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "122-124 Colmore Row, Birmingham, B3 3AP",
+    "websiteUrl": "https://javaroastery.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-kitty-cafe-node-3758952492",
+    "name": "Kitty Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.478318,
+    "lon": -1.899392,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Stephenson Place, Birmingham, B2 4BF",
+    "websiteUrl": "https://www.kittycafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-marlboro-cafe-node-7157189685",
+    "name": "Marlboro Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.535467,
+    "lon": -1.892914,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "60 Greenholm Road, Birmingham, B44 8HL",
+    "websiteUrl": "https://marlborocafebirmingham.cafecityguide.website",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-medicine-node-1272977501",
+    "name": "Medicine",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.479511,
+    "lon": -1.901685,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "66-69 New Street, Birmingham, B2 4DU",
+    "websiteUrl": "https://medicinebakery.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-montys-node-12435645489",
+    "name": "Monty's",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.483503,
+    "lon": -1.897866,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "1 Snow Hill, Birmingham, B4 6GH",
+    "websiteUrl": "https://www.montysdeli.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-new-heights-community-cafe-node-10760217612",
+    "name": "New Heights Community Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.543317,
+    "lon": -1.878857,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "124 Warren Farm Road, Birmingham, B44 0QN",
+    "websiteUrl": "https://new-heights.org.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-pause-node-13547454152",
+    "name": "Pause",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.43635,
+    "lon": -1.89029,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "56 Poplar Road, Birmingham, B14 7AG",
+    "websiteUrl": "https://www.pausecoffeeshopbakery.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-pippatopia-childrens-role-play-cafe-node-12802456424",
+    "name": "Pippatopia Children’s Role Play Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.500096,
+    "lon": -1.97873,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Fenton Street",
+    "websiteUrl": "https://www.pippatopia.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-quarter-horse-coffee-roasters-node-4857256021",
+    "name": "Quarter Horse Coffee Roasters",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.471589,
+    "lon": -1.899452,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "88-90 Bristol Street, Birmingham, B5 7AH",
+    "websiteUrl": "https://quarterhorsecoffee.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-saint-kitchen-node-330253868",
+    "name": "Saint Kitchen",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.4846,
+    "lon": -1.90531,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.saintkitchen.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-silly-sausage-way-174636423",
+    "name": "Silly Sausage",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.48805,
+    "lon": -1.809978,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Flaxley Road, Birmingham, B33 9AL",
+    "websiteUrl": "https://sillysausagecafebirmingham.cafecityguide.website",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-sliced-n-diced-node-453661638",
+    "name": "Sliced 'n' Diced",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.438761,
+    "lon": -1.940405,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "850 Bristol Road, Birmingham, B29 6HW",
+    "websiteUrl": "https://slicedndiced.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-1607781175",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.507972,
+    "lon": -1.821457,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2840/birmingham-the-fort-shopping-birmingham-the-fort-restaura-unit-f-2-20-fort-park",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-2517583479",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.479097,
+    "lon": -1.899328,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "114-115 New Street, Birmingham, B2 4JH",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2552/birmingham-new-street-114-115-new-street-birmingham-eng-b-2-4-jh-gb",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-2535904302",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.47795,
+    "lon": -1.893671,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Bullring, Birmingham, B5 4EN",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2742/birmingham-bullring-upper-bullring-centre-birmingham-eng-b-5-4-en-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-2605488384",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.478918,
+    "lon": -1.910276,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "8 Centenary Square, Birmingham, B1 2EA",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/20044/birmingham-broad-street-the-broad-street-birmingham-eng-b-1-2-ea-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-2915316650",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.475514,
+    "lon": -1.888699,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/2855/birmingham-coach-station-spencer-house-birmingham-eng-b-5-6-dq-gb",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-3406978066",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.471926,
+    "lon": -1.922445,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1009013/birmingham-edgbaston-30-hagley-road-edgbaston-eng-b-16-8-pe-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-6055073394",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.444403,
+    "lon": -1.939347,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Birmingham",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1043667/birmingham-selly-oak-sp-undefined-birmingham-eng-b-296-sn-gb",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-tea-pot-cafe-node-12801082714",
+    "name": "Tea Pot Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.491423,
+    "lon": -1.967833,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "291 High Street",
+    "websiteUrl": "https://teapotcafesmethwick.co.uk/?utm_source=google&utm_medium=pin&utm_content=website-button",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-highfield-way-77102220",
+    "name": "The Highfield",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.468652,
+    "lon": -1.922428,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "22 Highfield Road, Birmingham, B15 3DP",
+    "websiteUrl": "https://www.highfieldedgbaston.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-soft-play-cafe-node-12842566195",
+    "name": "The Soft Play Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.430668,
+    "lon": -1.920653,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "1261 Pershore Road, Birmingham, B30 2XU",
+    "websiteUrl": "https://thesoftplaycafebirmingham.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-urban-coffee-company-node-1303843967",
+    "name": "Urban Coffee Company",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.487554,
+    "lon": -1.911679,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "Warstone Lane, Birmingham, B18 6NF",
+    "websiteUrl": "https://www.urbancoffee.co.uk/emporiums/birmingham-jewellery-quarter",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-village-kitchen-node-9772519393",
+    "name": "Village Kitchen",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.470363,
+    "lon": -1.922359,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "8a Greenfield Crescent, Birmingham, B15 3BE",
+    "websiteUrl": "https://www.villagekitchen.online",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-waylands-yard-node-1098115323",
+    "name": "Wayland's Yard",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.482292,
+    "lon": -1.896544,
+    "regionId": "birmingham",
+    "regionLabel": "Birmingham",
+    "locationLabel": "42 Bull Street, Birmingham, B4 6AF",
+    "websiteUrl": "https://www.waylandsyard.com/birmingham",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-baileys-cheese-and-charcuterie-node-13172581501",
+    "name": "Bailey's Cheese & Charcuterie",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.818936,
+    "lon": -3.052726,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "54 Clifton Street, Blackpool, FY1 1JP",
+    "websiteUrl": "https://baileysblackpool.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cafe-meow-node-12329224982",
+    "name": "Cafe Meow",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.818276,
+    "lon": -3.052987,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "22 Birley Street, Blackpool, FY1 1DU",
+    "websiteUrl": "https://cafemeow.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-node-4464922094",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.816549,
+    "lon": -3.053864,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "Blackpool, FY1 4HU",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/blackpool",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-parks-art-deco-cafe-way-972747415",
+    "name": "Parks Art Deco Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.815369,
+    "lon": -3.024851,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "West Park Drive, Blackpool, FY3 9EQ",
+    "websiteUrl": "https://www.parks-artdecocafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-1598732309",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.816464,
+    "lon": -3.054245,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "Blackpool, FY1 4RN",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1027450/blackpool-victoria-st-victoria-street-unit-29-hounds-hill-shopping-centr",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-4572821518",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.812579,
+    "lon": -3.011039,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "Blackpool, FY3 8LL",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/20017/blackpool-village-hotel-east-park-drive-herons-reach-blackpool-eng-fy-3-8-",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-6897551373",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.802644,
+    "lon": -3.007855,
+    "regionId": "blackpool",
+    "regionLabel": "Blackpool",
+    "locationLabel": "Preston New Road, Blackpool, FY3 9TN",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1018645/blackpool-preston-new-road-preston-new-road-blackpool-eng-fy-3-9-tn-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-coffee-latino-node-4431014805",
+    "name": "Coffee Latino",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.967645,
+    "lon": -1.700501,
+    "regionId": "newcastle",
+    "regionLabel": "Blaydon On Tyne",
+    "locationLabel": "Dunne Road, Blaydon On Tyne",
+    "websiteUrl": "https://www.coffeelatino.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-pumphreys-coffee-showroom-and-coffee-shop-node-12199754654",
+    "name": "Pumphrey's Coffee Showroom and Coffee shop",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 54.966334,
+    "lon": -1.720993,
+    "regionId": "newcastle",
+    "regionLabel": "Blaydon-on-Tyne",
+    "locationLabel": "Bridge Street, Blaydon-on-Tyne, NE21 4JJ",
+    "websiteUrl": "https://www.pumphreys-coffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-sababa-node-10924089794",
+    "name": "Sababa",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.654921,
+    "lon": -0.277877,
+    "regionId": "london",
+    "regionLabel": "Borehamwood",
+    "locationLabel": "33-35 Shenley Road, Borehamwood, WD6 1AE",
+    "websiteUrl": "https://www.sababaa.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-missing-bean-node-9689753489",
+    "name": "Missing Bean",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.750846,
+    "lon": -1.298173,
+    "regionId": "oxford",
+    "regionLabel": "Botley",
+    "locationLabel": "2 Church Way, Botley, OX2 9TH",
+    "websiteUrl": "https://www.themissingbean.co.uk/pages/botley-cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-way-120192608",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.719894,
+    "lon": -1.883596,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "98-100 Commercial Road, BH2 5LR",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-commercial-rd",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-128197514",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.721224,
+    "lon": -1.876233,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "64,66 Old Christchurch Road, Bournemouth, BH1 1LL",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-christchurch",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-coffee-1-way-931373282",
+    "name": "Coffee#1",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.74242,
+    "lon": -1.878617,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "401 Wimborne Road, BH9 2AJ",
+    "websiteUrl": "https://www.coffee1.co.uk/locations/winton",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-conto-lounge-way-931373383",
+    "name": "Conto Lounge",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.742542,
+    "lon": -1.879299,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "418 Wimborne Road, Bournemouth, BH9 2HB",
+    "websiteUrl": "https://thelounges.co.uk/conto",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-pause-cat-cafe-way-1209358262",
+    "name": "Pause Cat Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.722398,
+    "lon": -1.874667,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "119 Old Christchurch Road, Bournemouth, BH1 1EP",
+    "websiteUrl": "https://pausecatcafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-rockwater-way-222818641",
+    "name": "Rockwater",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.707004,
+    "lon": -1.908262,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "Bournemouth",
+    "websiteUrl": "https://rockwater.uk/village",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-slades-park-pavilion-way-186013872",
+    "name": "Slades Park Pavilion",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.747751,
+    "lon": -1.895344,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "Bournemouth",
+    "websiteUrl": "https://www.activedorset.org/slades-pavilion",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-node-8724712442",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.724241,
+    "lon": -1.864375,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "69 Holdenhurst Road, BH8 8FT",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011801/bournemouth-the-parlour-the-parlour-unit-2-lyme-regis-house-bournemouth-en",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-13672339659",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.720542,
+    "lon": -1.879198,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "5-7 Richmond Hill, BH2 6HE",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1007368/bournemouth-richmond-hill-unit-5-6-bristol-west-house-bournemouth-eng-bh-2-6",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-way-114877489",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.723376,
+    "lon": -1.903837,
+    "regionId": "bournemouth",
+    "regionLabel": "Bournemouth",
+    "locationLabel": "98 Poole Road, BH4 9EF",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1011808/westbourne-poole-road-98-poole-road-bournemouth-eng-bh-4-9-en-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-1148284919",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.793801,
+    "lon": -1.752724,
+    "regionId": "bradford",
+    "regionLabel": "Bradford",
+    "locationLabel": "24 Market Street, Bradford, BD1 1LH",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/bradford",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-9657826016",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.783647,
+    "lon": -1.796992,
+    "regionId": "bradford",
+    "regionLabel": "Bradford",
+    "locationLabel": "Clayton Road, Bradford, BD7 2SG",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1023570/bradford-clayton-road-dt-unit-5-scots-works-clayton-road-bradford-eng-bd-7-",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-way-1149961619",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.793096,
+    "lon": -1.755108,
+    "regionId": "bradford",
+    "regionLabel": "Bradford",
+    "locationLabel": "Centenary Square, Bradford, BD1 1HY",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1013520/bradford-centenary-square-centenary-square-market-street-part-unit-c-bradfor",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-way-1370693876",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.802508,
+    "lon": -1.702462,
+    "regionId": "bradford",
+    "regionLabel": "Bradford",
+    "locationLabel": "Gain Lane, Bradford, BD3 7DW",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1027865/bradford-leeds-road-dt-leeds-road-bradford-eng-bd-3-7-dd-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-refreshment-room-node-13728456333",
+    "name": "The Refreshment Room",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.812282,
+    "lon": -1.771437,
+    "regionId": "bradford",
+    "regionLabel": "Bradford",
+    "locationLabel": "Oak Lane, Bradford, BD9 4NS",
+    "websiteUrl": "https://bradfordmuseums.org/cartwright-hall-art-gallery/cafe",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-tiffin-coffee-node-5966556594",
+    "name": "Tiffin Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.794169,
+    "lon": -1.752739,
+    "regionId": "bradford",
+    "regionLabel": "Bradford",
+    "locationLabel": "22 Bank Street, Bradford, BD1 1PR",
+    "websiteUrl": "https://www.tiffincoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-caffe-nero-way-1408938605",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.620576,
+    "lon": 0.303891,
+    "regionId": "london",
+    "regionLabel": "Brentwood",
+    "locationLabel": "28 High Street, Brentwood, CM14 4AB",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/brentwood",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-hey-joe-way-1411347029",
+    "name": "Hey Joe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.619422,
+    "lon": 0.300386,
+    "regionId": "london",
+    "regionLabel": "Brentwood",
+    "locationLabel": "10 Ropers Yard, Brentwood, CM14 4FU",
+    "websiteUrl": "https://heyjoemusic.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-maxs-cafe-way-989304116",
+    "name": "Max's Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.630655,
+    "lon": 0.301055,
+    "regionId": "london",
+    "regionLabel": "Brentwood",
+    "locationLabel": "Sawyers Hall Lane, Brentwood, CM15 9BY",
+    "websiteUrl": "https://hopefield.org.uk/visit/maxs-cafe",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-starbucks-node-1693229111",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.620241,
+    "lon": 0.30279,
+    "regionId": "london",
+    "regionLabel": "Brentwood",
+    "locationLabel": "36A High Street, Brentwood, CM14 4AJ",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1012135/brentwood-high-street-36-b-high-street-brentwood-eng-cm-14-4-aj-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-17-grams-node-11153342606",
+    "name": "17 grams",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.822508,
+    "lon": -0.140487,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "12D Meeting House Lane, Brighton, BN1 1HB",
+    "websiteUrl": "https://17grams.co.uk/locations/brighton",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bams-kitchen-node-9014602625",
+    "name": "Bam's Kitchen",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.833244,
+    "lon": -0.140011,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "10, Brighton, BN1 4GW",
+    "websiteUrl": "https://www.bamskitchen.co.uk",
+    "instagramUrl": "https://instagram.com/bamskitchen",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-bond-street-coffee-node-4570482910",
+    "name": "Bond Street Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.823985,
+    "lon": -0.140126,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "15 Bond Street, Brighton, BN1 1RD",
+    "websiteUrl": "https://bondstreet.coffee",
+    "instagramUrl": "https://instagram.com/bondstreetcoffee",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-caffe-nero-node-1115993979",
+    "name": "Caffè Nero",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.821448,
+    "lon": -0.14095,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "16 Prince Albert Street, BN1 1HF",
+    "websiteUrl": "https://www.caffenero.com/uk/stores/brighton-nile-st",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cloud9-brighton-node-6198336451",
+    "name": "cloud9 Brighton",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.828418,
+    "lon": -0.135654,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "11 York Place, Brighton, BN1 4GU",
+    "websiteUrl": "https://www.cloud9brighton.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cornish-pasty-shop-node-10301121972",
+    "name": "Cornish Pasty Shop",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.825376,
+    "lon": -0.139448,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "24 Gardner Street, Brighton, BN1 1UP",
+    "websiteUrl": "https://www.cornishpasty.shop",
+    "instagramUrl": "https://instagram.com/cornishpasty.shop",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "no",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cowley-club-cafe-node-1661050973",
+    "name": "Cowley Club Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.830288,
+    "lon": -0.136214,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "12 London Road, Brighton, BN1 4JA",
+    "websiteUrl": "https://cowley.club/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cup-of-joe-node-8687992090",
+    "name": "Cup of Joe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.81879,
+    "lon": -0.121928,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "28 St Georges Road, Brighton, BN2 1ED",
+    "websiteUrl": "https://cupofjoebrighton.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-cuppapug-node-13737942060",
+    "name": "CuppaPug",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.812247,
+    "lon": -0.103305,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "2a Waterfront, Brighton, BN2 5WA",
+    "websiteUrl": "https://book.cuppapug.com/brighton",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-famous-cake-company-node-7206021550",
+    "name": "Famous Cake Company",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.836877,
+    "lon": -0.074875,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "8 Warren Way, Brighton, BN2 6PJ",
+    "websiteUrl": "https://www.famouscakecompany.com",
+    "instagramUrl": "https://instagram.com/famouscakecompany",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-flint-owl-bakery-node-6203842009",
+    "name": "Flint Owl Bakery",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.823972,
+    "lon": -0.139924,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "24 Bond Street, Brighton, BN1 1RD",
+    "websiteUrl": "https://flintowlbakery.com/pages/brighton",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-haus-of-chai-node-7019564637",
+    "name": "Haus of Chai",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.821271,
+    "lon": -0.140093,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "20 Market Street, Brighton, BN1 1HH",
+    "websiteUrl": "https://hausofchai.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-hotel-chocolat-node-9842236532",
+    "name": "Hotel Chocolat",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.82249,
+    "lon": -0.139898,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "19 North Street, Brighton, BN1 1EB",
+    "websiteUrl": "https://www.hotelchocolat.com/uk/chocolate-shops/brighton.html",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-hunglish-node-6700588466",
+    "name": "Hunglish",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.828017,
+    "lon": -0.137695,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "24 Sydney Street, Brighton, BN1 4EN",
+    "websiteUrl": "https://hunglish.co.uk",
+    "instagramUrl": "https://instagram.com/hunglish.ecoshop",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-leman-tea-room-node-11886081750",
+    "name": "Leman Tea Room",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.820702,
+    "lon": -0.13422,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "15A Madeira Place, Brighton, BN2 1TN",
+    "websiteUrl": "https://www.lemantearoom.com",
+    "instagramUrl": "https://instagram.com/lemantearoom",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-macs-cafe-way-905129159",
+    "name": "Mac's Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.816194,
+    "lon": -0.107057,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "30 Arundel Road, Brighton, BN2 5TD",
+    "websiteUrl": "https://www.roedeancafeandminigolf.co.uk/macs-cafe",
+    "instagramUrl": "https://instagram.com/macscafekemptown",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-milos-node-1116874534",
+    "name": "Milos",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.82398,
+    "lon": -0.144339,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "2 Dyke Road, Brighton, BN1 3FE",
+    "websiteUrl": "https://www.milosbrunch.com",
+    "instagramUrl": "https://instagram.com/MILOS_brunch",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-moksha-caffe-node-2774717052",
+    "name": "Moksha Caffè",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.828132,
+    "lon": -0.13563,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "4-5 York Place, Brighton, BN1 4GU",
+    "websiteUrl": "https://mokshacaffe.co.uk",
+    "instagramUrl": "https://instagram.com/mokshacaffe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-munchies-craft-cat-cafe-and-bar-node-7019564634",
+    "name": "Munchies' Craft Cat Cafe & Bar",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.821314,
+    "lon": -0.140076,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "19 Market Street, BN1 1JS",
+    "websiteUrl": "https://munchiescraft.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-north-laine-cafe-node-6238045364",
+    "name": "North Laine Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.824468,
+    "lon": -0.138753,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "17 Jubilee Street, BN1 1GE",
+    "websiteUrl": "https://www.northlainecafe.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-pelicano-node-11606337278",
+    "name": "Pelicano",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.832813,
+    "lon": -0.129061,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "15 Lewes Road, Brighton, BN2 3HP",
+    "websiteUrl": "https://www.pelicanocoffee.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-pelicano-way-138143357",
+    "name": "Pelicano",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.827796,
+    "lon": -0.137557,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "28 Sydney Street, Brighton, BN1 4EP",
+    "websiteUrl": "https://www.pelicanocoffee.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-puzzle-bored-node-11239653064",
+    "name": "Puzzle Bored",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.82383,
+    "lon": -0.139141,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "27 New Road, Brighton, BN1 1UG",
+    "websiteUrl": "https://www.puzzlebored.co.uk",
+    "instagramUrl": "https://instagram.com/puzzlebored",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-revaluit-hub-node-10539865504",
+    "name": "Revaluit HUB",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.821676,
+    "lon": -0.138266,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "13 Pavilion Buildings, Brighton, BN1 1EE",
+    "websiteUrl": "https://www.techtakeback.com/revaluit-hub.html",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-social-board-node-12721849259",
+    "name": "Social Board",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.820961,
+    "lon": -0.134322,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "21 St. James's Street, Brighton, BN2 1RF",
+    "websiteUrl": "https://socialboardbrighton.com",
+    "instagramUrl": "https://instagram.com/socialboardsandwiches",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-starbucks-way-137741362",
+    "name": "Starbucks",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.820919,
+    "lon": -0.13382,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "25-26 St. James's Street, Brighton, BN2 1RF",
+    "websiteUrl": "https://www.starbucks.com/store-locator/store/1021718/brighton-st-james-street-25-25-26-st-james-street-brighton-eng-bn-2-1-rf-gb",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-stoney-point-node-10097169618",
+    "name": "Stoney Point",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.826661,
+    "lon": -0.153544,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "15 Montpelier Place, BN1 3BF",
+    "websiteUrl": "https://stoneypoint.co",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-temple-way-1441630297",
+    "name": "Temple",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.814349,
+    "lon": -0.108256,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "1 Madeira Drive, Brighton, BN2 1FY",
+    "websiteUrl": "https://portlandbrighton.com",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-that-little-teashop-in-the-lanes-node-4577405061",
+    "name": "That Little Teashop In The Lanes",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.822378,
+    "lon": -0.14058,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "17 Meeting House Lane, Brighton, BN1 1HB",
+    "websiteUrl": "https://www.thatlittleteashop.com",
+    "instagramUrl": "https://instagram.com/thatlittleteashop",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-flour-pot-bakery-node-523891990",
+    "name": "The Flour Pot Bakery",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.844259,
+    "lon": -0.135068,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "1 Kings Parade, Brighton, BN1 6JT",
+    "websiteUrl": "https://www.theflourpot.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-milk-shed-node-13163963837",
+    "name": "The Milk Shed",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.82258,
+    "lon": -0.135691,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "9 Princes Street, Brighton, BN2 1RD",
+    "websiteUrl": "https://themilkshed.coffee",
+    "instagramUrl": "https://instagram.com/themilkshedcoffee",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-the-roastery-node-6409549483",
+    "name": "The Roastery",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.827573,
+    "lon": -0.137902,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "13-14 Sydney Street, BN1 4EN",
+    "websiteUrl": "https://www.tradingpostcoffee.co.uk/pages/trading-post-coffee-roasters-brighton-sydney-street",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-the-royal-pavilion-rooms-node-4224405291",
+    "name": "The Royal Pavilion Rooms",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.82211,
+    "lon": -0.138159,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "5 Pavilion Buildings, Brighton, BN1 1EE",
+    "websiteUrl": "https://www.thebotanistcoffee.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-twin-pines-coffee-house-node-9891976364",
+    "name": "Twin Pines Coffee House",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 50.821053,
+    "lon": -0.135129,
+    "regionId": "brighton",
+    "regionLabel": "Brighton",
+    "locationLabel": "11A St. James's Street, Brighton, BN2 1RE",
+    "websiteUrl": "https://www.twinpinescoffee.com",
+    "instagramUrl": "https://instagram.com/twinpinescoffee",
+    "solarMode": "facade",
+    "status": "unavailable"
+  }
+]
