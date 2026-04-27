@@ -2330,11 +2330,7 @@
     "regionLabel": "London",
     "locationLabel": "London",
     "websiteUrl": "https://www.westminster.gov.uk/leisure-libraries-and-community/parks-and-open-spaces/parks",
-    "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-broadway-market-green-way-48714760",
@@ -2584,11 +2580,7 @@
     "regionLabel": "London",
     "locationLabel": "London",
     "websiteUrl": "https://hackney.gov.uk/de-beauvoir-square",
-    "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-down-lane-park-relation-18137296",
@@ -2670,11 +2662,7 @@
     "regionLabel": "London",
     "locationLabel": "London",
     "websiteUrl": "https://www.epsom-ewell.gov.uk/residents/venues-sport-and-leisure-facilities/parks",
-    "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-elm-park-way-97592139",
@@ -2730,11 +2718,7 @@
     "regionLabel": "London",
     "locationLabel": "Finsbury Circus, London",
     "websiteUrl": "https://www.cityoflondon.gov.uk/things-to-do/city-gardens/find-a-garden/finsbury-circus-gardens",
-    "solarMode": "open-area",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-finsbury-park-way-4097476",
@@ -3450,10 +3434,6 @@
     "locationLabel": "London",
     "websiteUrl": "https://www.westminster.gov.uk/parks-and-open-spaces/soho-square-gardens",
     "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3802,11 +3782,7 @@
     "regionLabel": "Norwich",
     "locationLabel": "Norwich",
     "websiteUrl": "https://www.norwich.gov.uk/parks-and-green-spaces/projects-parks-and-green-spaces/heritage-parks-project",
-    "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-woodrow-pilling-park-relation-1794798",

@@ -861,11 +861,7 @@
     "locationLabel": "182 Station Road, Addlestone, KT15 2BD",
     "websiteUrl": "https://tuktukpanasian.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-domus-italia-node-6400888536",
@@ -1409,11 +1405,7 @@
     "locationLabel": "2-3 Upper Borough Walls, Bath, BA1 1RZ",
     "websiteUrl": "https://www.bonghybo.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bosco-pizzeria-way-122387056",
@@ -1459,11 +1451,7 @@
     "locationLabel": "2 George Street, BA1 2EH",
     "websiteUrl": "https://www.charmthaiuk.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-chez-dominique-way-373843900",
@@ -1650,10 +1638,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -1845,11 +1829,7 @@
     "locationLabel": "12 Argyle Street, BA2 4BQ",
     "websiteUrl": "https://www.theherdrestaurant.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-hondo-sushi-node-6365435885",
@@ -1923,11 +1903,7 @@
     "locationLabel": "2 John Street, BA1 2JL",
     "websiteUrl": "https://www.laterra.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-las-iguanas-way-592743796",
@@ -2071,11 +2047,7 @@
     "locationLabel": "7 St James Parade, BA1 1UL",
     "websiteUrl": "https://www.noyaskitchen.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-oak-way-55466892",
@@ -2089,11 +2061,7 @@
     "locationLabel": "2 North Parade Passage, Bath, BA1 1NX",
     "websiteUrl": "https://www.oakrestaurant.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-ole-tapas-node-4316939800",
@@ -2107,11 +2075,7 @@
     "locationLabel": "1 John Street, Bath, BA1 2JL",
     "websiteUrl": "https://www.oletapas.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-olive-tree-restaurant-node-4342672164",
@@ -2125,11 +2089,7 @@
     "locationLabel": "Russell Street, BA1 2QF",
     "websiteUrl": "https://olivetreebath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-opa-way-432543032",
@@ -2143,11 +2103,7 @@
     "locationLabel": "North Parade, Bath, BA2 4AJ",
     "websiteUrl": "https://www.opabath.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-peking-restaurant-node-3132224892",
@@ -2250,10 +2206,6 @@
     "websiteUrl": "https://www.thebirdbath.co.uk/food-drink/plate",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodOffer": {
       "category": "gastropub",
       "confidence": "confirmed"
@@ -2343,11 +2295,7 @@
     "locationLabel": "4a George Street, BA1 2ED",
     "websiteUrl": "https://www.robun.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-root-bath-way-122386868",
@@ -2419,11 +2367,7 @@
     "locationLabel": "14 Pierrepont Street, Bath, BA1 1LA",
     "websiteUrl": "https://www.salathai-bath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-sally-lunns-way-55466905",
@@ -2438,11 +2382,7 @@
     "websiteUrl": "https://www.sallylunns.co.uk",
     "instagramUrl": "https://instagram.com/sallylunnsbath",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-sanremo-way-122518011",
@@ -2492,11 +2432,7 @@
     "locationLabel": "Newmarket Row, BA2 4DF",
     "websiteUrl": "https://www.solinapasta.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-sotto-sotto-node-3772707844",
@@ -2510,11 +2446,7 @@
     "locationLabel": "10 North Parade, Bath, BA2 4AL",
     "websiteUrl": "https://sottosotto.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-square-grill-restaurant-way-373343731",
@@ -2550,11 +2482,7 @@
     "locationLabel": "85 Lower Bristol Road, Bath, BA2 3BQ",
     "websiteUrl": "https://susmitas.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-tagine-zhor-way-373343734",
@@ -2568,11 +2496,7 @@
     "locationLabel": "1a North Parade Buildings, BA1 1LF",
     "websiteUrl": "https://www.taginezhor.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-thai-weir-node-4940486078",
@@ -2586,11 +2510,7 @@
     "locationLabel": "17 Argyle Street, BA2 4BQ",
     "websiteUrl": "https://www.thaiweir.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-thaikhun-way-465963988",
@@ -2622,11 +2542,7 @@
     "locationLabel": "Orange Grove, Bath, BA1 1LP",
     "websiteUrl": "https://www.brunningandprice.co.uk/architectbath/homepage",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-bath-townhouse-way-474927595",
@@ -2640,11 +2556,7 @@
     "locationLabel": "18-19 Old Bond Street, BA1 1BP",
     "websiteUrl": "https://www.coppaclub.co.uk/the-bath-townhouse",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-bathwick-boatman-way-118037725",
@@ -2676,11 +2588,7 @@
     "locationLabel": "24 Milsom Street, BA1 1DG",
     "websiteUrl": "https://thebeefyboys.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-botanist-way-122106489",
@@ -2730,11 +2638,7 @@
     "locationLabel": "36 Broad Street, Bath, BA1 5LP",
     "websiteUrl": "https://www.thecoconut-tree.com/bath",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-diner-node-5362360306",
@@ -2777,10 +2681,6 @@
     "websiteUrl": "https://order.thefatpizza.co.uk/menu/bath",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodOffer": {
       "category": "gastropub",
       "confidence": "confirmed"
@@ -2804,11 +2704,7 @@
     "locationLabel": "9 George Street, BA1 2EE",
     "websiteUrl": "https://www.thegeorgebath.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-ivy-way-373703323",
@@ -2874,10 +2770,6 @@
     "websiteUrl": "https://www.realitalianpizza.co.uk",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza"
@@ -2983,11 +2875,7 @@
     "locationLabel": "9-13 Alfred Street, BA1 2QX",
     "websiteUrl": "https://www.woodsrestaurant.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-yak-yeti-yak-node-347635187",
@@ -3002,11 +2890,7 @@
     "websiteUrl": "https://www.yakyetiyak.co.uk",
     "instagramUrl": "https://instagram.com/yakyetiyakbath",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-yum-yum-thai-way-591679833",
@@ -3553,11 +3437,7 @@
     "locationLabel": "34-36 Bank Street, Belfast, Antrim, BT1 1HL",
     "websiteUrl": "https://www.mourneseafood.com/belfast",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-nandos-node-4271742611",
@@ -4046,10 +3926,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -6458,10 +6334,6 @@
     "websiteUrl": "https://papadomtakeaway.com/about",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza",
@@ -6863,11 +6735,7 @@
     "websiteUrl": "https://www.happymaki.co.uk",
     "instagramUrl": "https://instagram.com/thehappymaki",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-island-poke-node-11105994494",

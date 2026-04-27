@@ -83,11 +83,7 @@
     "websiteUrl": "https://voodoorooms.ie",
     "instagramUrl": "https://instagram.com/voodoorooms",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-block-node-13457855285",
@@ -131,11 +127,7 @@
     "websiteUrl": "https://copperfacejacks.ie",
     "instagramUrl": "https://instagram.com/copperfacejacks",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-d-two-node-775415426",
@@ -164,11 +156,7 @@
     "websiteUrl": "https://www.fitzsimonsbar.ie/nightclub",
     "instagramUrl": "https://instagram.com/fitzsimonsbar",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-house-dublin-node-4209884820",
@@ -245,11 +233,7 @@
     "locationLabel": "D'Olier Street, Dublin",
     "websiteUrl": "https://www.tramline.ie",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-yamamori-tengu-node-13432378601",
@@ -312,10 +296,6 @@
     "instagramUrl": "https://instagram.com/killarneygrandofficial",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "dj": {
       "status": "yes",
       "confidence": "confirmed"

@@ -352,11 +352,7 @@
     "locationLabel": "62A Botanic Avenue, Belfast, BT7 1JR",
     "websiteUrl": "https://botanicspice.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bureau-by-the-lough-node-13272392843",
@@ -547,11 +543,7 @@
     "locationLabel": "34-36 Bank Street, Belfast, Antrim, BT1 1HL",
     "websiteUrl": "https://www.mourneseafood.com/belfast",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-nandos-node-4271742611",
@@ -1051,11 +1043,7 @@
     "locationLabel": "57 Main Street, Blackrock, Dublin, A94 A2Y0",
     "websiteUrl": "https://littleforest.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-ruchii-node-3730312812",
@@ -1160,10 +1148,6 @@
     "status": "unavailable",
     "petFriendly": {
       "status": "pet-friendly",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -1610,11 +1594,7 @@
     "locationLabel": "Carey's Lane, Cork",
     "websiteUrl": "http://cafemexicana.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-cafe-paradiso-node-291563853",
@@ -1700,11 +1680,7 @@
     "locationLabel": "5 French Church Street, Cork, T12 KWX7",
     "websiteUrl": "https://coqbullcork.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-coriander-node-7076551892",
@@ -2066,11 +2042,7 @@
     "locationLabel": "Emmet Place, Cork",
     "websiteUrl": "https://luigimalonescork.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-malay-kitchen-node-13423633471",
@@ -2148,11 +2120,7 @@
     "locationLabel": "38 Pope's Quay",
     "websiteUrl": "https://www.myxtiq.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-nandos-node-5203941622",
@@ -2166,11 +2134,7 @@
     "locationLabel": "22 Academy Street, Cork",
     "websiteUrl": "https://www.nandos.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-north-node-12573816956",
@@ -2301,11 +2265,7 @@
     "locationLabel": "24 Sullivan's Quay, Cork",
     "websiteUrl": "https://www.quaycoop.com/restaurant",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-risorante-rossini-node-5770603529",
@@ -2319,11 +2279,7 @@
     "locationLabel": "34 Princes Street, Cork",
     "websiteUrl": "https://rossini.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-ritu-node-12898173201",
@@ -2470,11 +2426,7 @@
     "websiteUrl": "https://www.farmgatecork.ie",
     "instagramUrl": "https://instagram.com/farmgatecafe",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-glass-curtain-node-9752654513",
@@ -2506,11 +2458,7 @@
     "locationLabel": "32 Washington Street, Cork, T12 T880",
     "websiteUrl": "https://libertygrill.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-met-bar-and-restaurant-node-10053410134",
@@ -2680,11 +2628,7 @@
     "locationLabel": "26 Castle Street, Dalkey",
     "websiteUrl": "https://www.onthegrapevine.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-jaipur-node-9566369028",
@@ -2713,11 +2657,7 @@
     "locationLabel": "24/25 Castle Street, Dalkey",
     "websiteUrl": "https://www.kathmandurestaurant.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-nova-node-2969914811",
@@ -2926,11 +2866,7 @@
     "locationLabel": "1-2 East Douglas Street, Douglas, Cork, T12 R288",
     "websiteUrl": "https://eco.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-palmento-pizza-node-5028048041",
@@ -3184,10 +3120,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -3410,11 +3342,7 @@
     "locationLabel": "2a Monkstown Crescent, A94 HK58",
     "websiteUrl": "https://atticoonline.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-baan-thai-node-576619745",
@@ -3428,11 +3356,7 @@
     "locationLabel": "16 Merrion Road",
     "websiteUrl": "https://www.baanthai.ie/ballsbridge-about",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bad-ass-cafe-node-1423559522",
@@ -3531,11 +3455,7 @@
     "locationLabel": "3 Bedford Row, Dublin",
     "websiteUrl": "https://www.banyijapanesedining.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bar-italia-node-632980279",
@@ -3791,11 +3711,7 @@
     "locationLabel": "11 Baggot Street Upper",
     "websiteUrl": "https://bloombrasserie.clickandcollection.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bobos-node-2302620399",
@@ -3831,10 +3747,6 @@
     "websiteUrl": "https://boco.ie",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza"
@@ -3976,11 +3888,7 @@
     "locationLabel": "Baggot Street Lower, Dublin",
     "websiteUrl": "https://www.brookwooddublin.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-brother-hubbard-node-8003490853",
@@ -4091,10 +3999,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -4229,10 +4133,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -4439,11 +4339,7 @@
     "websiteUrl": "https://www.dadarestaurant.ie",
     "instagramUrl": "https://instagram.com/dadarestaurant",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-dakota-way-273647937",
@@ -4457,11 +4353,7 @@
     "locationLabel": "8-9 William Street South, Dublin",
     "websiteUrl": "https://dakotabar.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-darwins-way-231112845",
@@ -4498,11 +4390,7 @@
     "websiteUrl": "https://delhidarbarindian.ie",
     "instagramUrl": "https://instagram.com/delhidarbarcelbridge",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-delhi-rasoi-node-4851487845",
@@ -4790,11 +4678,7 @@
     "locationLabel": "51 Wellington Quay, Dublin, D02 NH04",
     "websiteUrl": "https://eatokyo.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-eatokyo-asian-street-food-way-1073671864",
@@ -4822,11 +4706,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.elbahia.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-el-celler-node-4482418862",
@@ -4840,11 +4720,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.elceller.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-elephant-and-castle-node-715732955",
@@ -4882,11 +4758,7 @@
     "websiteUrl": "https://elephantandcastle.ie",
     "instagramUrl": "https://instagram.com/weareelephantandcastle",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-elm-epicurean-node-7242719497",
@@ -5017,11 +4889,7 @@
     "websiteUrl": "https://www.featherblade.ie",
     "instagramUrl": "https://instagram.com/featherblade51",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-fire-steakhouse-and-restaurant-way-275474134",
@@ -5159,11 +5027,7 @@
     "locationLabel": "1A Pembroke Street, Dublin",
     "websiteUrl": "https://www.fxbuckleybutchers.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-fxb-steakhouse-node-576100332",
@@ -5573,11 +5437,7 @@
     "locationLabel": "17 Fairview, Dublin",
     "websiteUrl": "https://www.hillbillysfriedchicken.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-hogs-and-heifers-node-1882413163",
@@ -5633,11 +5493,7 @@
     "locationLabel": "6 Merrion Row",
     "websiteUrl": "https://www.hugos.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-hyderabadi-kitchen-node-10768912344",
@@ -5864,11 +5720,7 @@
     "locationLabel": "5 William Street South, Dublin",
     "websiteUrl": "https://www.jewelinthecrown.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-joels-way-70309028",
@@ -5937,11 +5789,7 @@
     "locationLabel": "Orwell Road, Dublin",
     "websiteUrl": "https://www.kanum.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kathmandu-kitchen-way-228966390",
@@ -6082,11 +5930,7 @@
     "locationLabel": "William Street South, Dublin",
     "websiteUrl": "https://theramenbar.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kopitiam-node-8974054247",
@@ -6100,11 +5944,7 @@
     "locationLabel": "53 Capel Street, Dublin, D01 E0H2",
     "websiteUrl": "https://www.kopitiam.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-koshiba-node-1558695440",
@@ -6231,11 +6071,7 @@
     "websiteUrl": "https://www.lobstar.ie",
     "instagramUrl": "https://instagram.com/lobstar.monkstown",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-look-mam-no-hands-cafe-node-13525591403",
@@ -6489,10 +6325,6 @@
     "websiteUrl": "https://www.milano.ie/dublin-dawson-street",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza"
@@ -6851,10 +6683,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -6923,11 +6751,7 @@
     "locationLabel": "16 St. Stephen's Green, Dublin",
     "websiteUrl": "https://www.peploes.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-peruke-and-periwig-way-230569648",
@@ -7036,11 +6860,7 @@
     "websiteUrl": "https://pinkrestaurant.ie",
     "instagramUrl": "https://instagram.com/pinkrestaurant_ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-pinocchio-node-564118882",
@@ -7089,10 +6909,6 @@
     "instagramUrl": "https://instagram.com/princetemplebar",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza"
@@ -7229,11 +7045,7 @@
     "locationLabel": "18-19 Glasthule Road",
     "websiteUrl": "https://www.rasam.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-red-torch-ginger-way-294423415",
@@ -7394,11 +7206,7 @@
     "websiteUrl": "https://www.sabadublin.com",
     "instagramUrl": "https://instagram.com/sabarestaurantdublin",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-saba-node-7263997785",
@@ -7838,11 +7646,7 @@
     "locationLabel": "8 Old Bray Road",
     "websiteUrl": "https://tamra.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-tang-node-6157780523",
@@ -7897,10 +7701,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -8014,11 +7814,7 @@
     "locationLabel": "146 Leeson Street Upper, Dublin",
     "websiteUrl": "https://www.canalbankcafe.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-castle-team-rooms-node-650240084",
@@ -8180,11 +7976,7 @@
     "locationLabel": "Stephen Street Lower, Dublin",
     "websiteUrl": "https://thehairylemon.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-ivy-node-5892492050",
@@ -8268,11 +8060,7 @@
     "locationLabel": "14 Temple Bar Square, Dublin",
     "websiteUrl": "https://oldmillrestaurant.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-old-music-shop-node-4687846218",
@@ -8355,11 +8143,7 @@
     "locationLabel": "Nassau Street, Dublin",
     "websiteUrl": "https://www.thepigsear.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-port-house-node-6984776457",
@@ -8396,11 +8180,7 @@
     "locationLabel": "12 Eustace Street, Dublin, D02 VY27",
     "websiteUrl": "https://www.porthouse.ie/pintxo",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-revolution-way-105915542",
@@ -8460,10 +8240,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -8598,11 +8374,7 @@
     "locationLabel": "3 Cork Hill, Dublin",
     "websiteUrl": "https://toscanarestaurant.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-toscana-node-4306420091",
@@ -8862,11 +8634,7 @@
     "websiteUrl": "https://www.yamamori.ie/southcity",
     "instagramUrl": "https://instagram.com/yamamoridining",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-yamamori-sushi-node-6183320315",
@@ -8880,11 +8648,7 @@
     "locationLabel": "38/39 Ormond Quay Lower, Dublin, D01 R224",
     "websiteUrl": "https://www.yamamori.ie/northcity",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-yangs-way-262852093",
@@ -9006,10 +8770,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -9505,10 +9265,6 @@
     "instagramUrl": "https://instagram.com/56centralrestaurant",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodOffer": {
       "category": "gastropub",
       "confidence": "confirmed"
@@ -9604,11 +9360,7 @@
     "locationLabel": "14 Williamsgate Street, Galway",
     "websiteUrl": "https://beefandlobster.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-black-cat-node-1731007157",
@@ -9622,11 +9374,7 @@
     "locationLabel": "179 Upper Salthill Road, Galway",
     "websiteUrl": "https://www.blackcat.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-blackrock-cottage-node-11838378893",
@@ -9840,11 +9588,7 @@
     "locationLabel": "20 Mary Street, Galway, H91 K2F4",
     "websiteUrl": "https://www.goldenrickshawgalway.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kai-node-9925298618",
@@ -9936,11 +9680,7 @@
     "locationLabel": "20A Mary Street, Galway, H91 PEY8",
     "websiteUrl": "https://lanathai.ie/restaurants/lana-galway-city",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-magnettis-node-9364011819",
@@ -10064,11 +9804,7 @@
     "locationLabel": "1 Dock Road, Galway",
     "websiteUrl": "https://www.ruibin.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-saffron-turkish-grill-and-cafe-node-9925254583",
@@ -10144,11 +9880,7 @@
     "locationLabel": "Spanish Arch, Galway",
     "websiteUrl": "https://www.thaigarden.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-bean-tree-way-1499793761",
@@ -10214,11 +9946,7 @@
     "locationLabel": "Kirwan's Lane, Galway",
     "websiteUrl": "https://www.kirwanslane.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-tucos-taqueria-node-5844940385",
@@ -10409,10 +10137,6 @@
     "websiteUrl": "https://www.ecogorey.com",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza"
@@ -10607,11 +10331,7 @@
     "locationLabel": "Meridian Point Shopping Centre, A63 HD43",
     "websiteUrl": "https://chakra.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-enzo-node-13020989069",
@@ -10713,11 +10433,7 @@
     "locationLabel": "Greystones",
     "websiteUrl": "https://yamasgreekrestaurant.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kirbys-node-9922900961",
@@ -10851,10 +10567,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -10905,11 +10617,7 @@
     "locationLabel": "The Parade, Kilkenny",
     "websiteUrl": "https://anochtrestaurant.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-butcher-node-6997073031",
@@ -10924,11 +10632,7 @@
     "websiteUrl": "https://www.butcherrestaurant.ie",
     "instagramUrl": "https://instagram.com/butcherkilkenny",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-foodworks-way-231645924",
@@ -11397,10 +11101,6 @@
     "websiteUrl": "https://dohpizzas.ie",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "pizza"
@@ -11438,11 +11138,7 @@
     "locationLabel": "Limerick",
     "websiteUrl": "https://themogulemperor.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-quinns-de-bucket-way-1494240242",
@@ -11525,11 +11221,7 @@
     "locationLabel": "Limerick",
     "websiteUrl": "https://www.zweton.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-baltic-coast-node-6158692889",
@@ -11667,11 +11359,7 @@
     "locationLabel": "9 Saint James Terrace, Malahide, K36 KR66",
     "websiteUrl": "https://www.bonappetit.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-delhi-darbar-node-352673566",
@@ -11713,11 +11401,7 @@
     "locationLabel": "Maynooth",
     "websiteUrl": "https://www.theorient.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-picaderos-way-42452202",
@@ -12044,11 +11728,7 @@
     "locationLabel": "Preston Pl, Abbeyland South, Navan, C15 NY98",
     "websiteUrl": "https://www.minatonavan.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-zucchinis-node-409740222",
@@ -12191,11 +11871,7 @@
     "locationLabel": "1-5 Sandford Road, Ranelagh, Dublin, D06 K8K7",
     "websiteUrl": "https://www.thewildgoosegrill.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-farmer-browns-at-the-village-node-2983637884",
@@ -12213,10 +11889,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -12370,11 +12042,7 @@
     "locationLabel": "The Hill, Stillorgan",
     "websiteUrl": "https://www.monsoon.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-riba-node-4406818593",
@@ -13279,11 +12947,7 @@
     "locationLabel": "Redmond Square, Wexford",
     "websiteUrl": "https://dragonheen.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-franks-place-node-6018230242",
@@ -13390,11 +13054,7 @@
     "websiteUrl": "https://www.lacote.ie",
     "instagramUrl": "https://instagram.com/lacotepaulhynes",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-la-vista-node-12085785426",
@@ -13553,11 +13213,7 @@
     "locationLabel": "1A Redmond Square, Wexford",
     "websiteUrl": "https://sealord.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-spice-node-5684774789",
@@ -13605,11 +13261,7 @@
     "websiteUrl": "https://oldgranary.ie",
     "instagramUrl": "https://instagram.com/theoldgranarywex",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-pantry-node-10873400508",
@@ -13688,11 +13340,7 @@
     "locationLabel": "Church Street, Wicklow",
     "websiteUrl": "https://lilysonchurchstreet.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "restaurants-opera-node-9443270568",

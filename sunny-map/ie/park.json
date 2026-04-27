@@ -788,11 +788,7 @@
     "regionLabel": "Cork",
     "locationLabel": "Cork",
     "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks",
-    "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-glen-river-park-relation-17858680",
@@ -1489,11 +1485,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.dublincastle.ie/the-castle-gardens",
-    "solarMode": "open-area",
-    "petFriendly": {
-      "status": "not-pet-friendly",
-      "confidence": "confirmed"
-    }
+    "solarMode": "open-area"
   },
   {
     "id": "parks-eamonn-ceannt-park-way-24777873",
@@ -2664,10 +2656,6 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.wiltonparkdublin.com",
     "solarMode": "open-area",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
     "parkAmenitySummary": {
       "amenityTypes": [
         "cafe-kiosk",

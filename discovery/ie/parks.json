@@ -2499,10 +2499,6 @@
     "locationLabel": "Dublin",
     "lat": 53.333786,
     "lon": -6.248701,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
     "websiteUrl": "https://www.wiltonparkdublin.com",
     "parkAmenitySummary": {
       "amenityTypes": [

@@ -119,10 +119,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -945,11 +941,7 @@
     "locationLabel": "17 The Corridor, BA1 5AP",
     "websiteUrl": "https://www.authenticdelight.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-boston-tea-party-way-117879804",
@@ -1095,11 +1087,7 @@
     "locationLabel": "90b Walcot Street, BA1 5BG",
     "websiteUrl": "https://www.walcothousebath.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-caffe-nero-node-3132211102",
@@ -1153,11 +1141,7 @@
     "locationLabel": "BA1 5DU",
     "websiteUrl": "https://oasisbath.org",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-1-node-5838352165",
@@ -1211,10 +1195,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -1314,11 +1294,7 @@
     "locationLabel": "14a Manvers Street, BA1 1JH",
     "websiteUrl": "https://www.dianascafe.co.uk/bath",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-flos-cafe-node-6380913598",
@@ -1404,11 +1380,7 @@
     "locationLabel": "1 Abbey Street, Bath, BA1 1NN",
     "websiteUrl": "https://handstearoom.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-italian-pizzeria-cafe-84-way-673318953",
@@ -1512,11 +1484,7 @@
     "locationLabel": "61 Walcot Street, Bath, BA1 5BN",
     "websiteUrl": "https://landracebakery.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-mjolk-way-373343732",
@@ -1530,11 +1498,7 @@
     "locationLabel": "13 Abbey Churchyard, BA1 1LY",
     "websiteUrl": "https://mjolkshop.square.site",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-mokoko-node-10289529196",
@@ -1672,11 +1636,7 @@
     "locationLabel": "9 Saracen Street, BA1 5BR",
     "websiteUrl": "https://picniccoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-planteatlicious-node-3750602462",
@@ -1690,11 +1650,7 @@
     "locationLabel": "Lower Borough Walls, Bath, BA1 1QR",
     "websiteUrl": "https://www.planteatlicious.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-rainbowls-way-474927601",
@@ -1708,11 +1664,7 @@
     "locationLabel": "12a Old Bond Street, BA1 1BP",
     "websiteUrl": "https://www.rainbowls.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-rosarios-cafe-way-507525117",
@@ -1726,11 +1678,7 @@
     "locationLabel": "5 Northumberland Place, BA1 5AR",
     "websiteUrl": "https://www.rosarioscafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-sally-anns-cafe-node-4310806629",
@@ -1816,11 +1764,7 @@
     "locationLabel": "14 Green Street, BA1 2JZ",
     "websiteUrl": "https://www.sondercoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-sports-cafe-node-4450320506",
@@ -1914,11 +1858,7 @@
     "locationLabel": "1 Grove Street, BA2 6PJ",
     "websiteUrl": "https://www.sugarcanestudio.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-sweet-little-things-way-380858303",
@@ -1967,10 +1907,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -2072,11 +2008,7 @@
     "locationLabel": "11 Margaret's Buildings, Bath, BA1 2LP",
     "websiteUrl": "https://www.greenbirdcafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-green-rocket-way-373343744",
@@ -2090,11 +2022,7 @@
     "locationLabel": "1 Pierrepont Street, BA1 1LB",
     "websiteUrl": "https://thegreenrocket.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-hub-cafe-node-6041515727",
@@ -2218,11 +2146,7 @@
     "locationLabel": "39 Gay Street, BA1 2NT",
     "websiteUrl": "https://thirstymeeples.co.uk/pages/bathcafe",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-toniq-cafe-way-314228807",
@@ -2236,11 +2160,7 @@
     "locationLabel": "14 George Street, BA1 2EN",
     "websiteUrl": "https://www.toniqlife.com/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-treetop-cafe-node-11754550013",
@@ -4355,10 +4275,6 @@
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -4405,10 +4321,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },

@@ -39,11 +39,7 @@
     "locationLabel": "90b Walcot Street, BA1 5BG",
     "websiteUrl": "https://www.walcothousebath.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-labyrinth-node-300010441",
@@ -57,11 +53,7 @@
     "locationLabel": "8-9 North Parade, Bath, BA2 4AL",
     "websiteUrl": "https://www.labyrinthbath.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-alibi-way-364180385",
@@ -255,10 +247,6 @@
     "websiteUrl": "https://exchangebristol.com",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -337,11 +325,7 @@
     "locationLabel": "The Grove, Bristol, BS1 4RB",
     "websiteUrl": "https://www.theklabristol.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-circuit-node-7590302141",
@@ -624,11 +608,7 @@
     "locationLabel": "15 Union Street, Glasgow, G1 3RB",
     "websiteUrl": "https://cathouse.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-polo-lounge-node-1543443657",
@@ -747,10 +727,6 @@
     "websiteUrl": "https://www.pryzm.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1016,15 +992,7 @@
     "locationLabel": "39 Parry Street, London, SW8 1RT",
     "websiteUrl": "https://www.firelondon.net",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-fire-london-node-13577489801",
@@ -1184,11 +1152,7 @@
     "locationLabel": "1 Dover Street, London, W1S 4LA",
     "websiteUrl": "https://mahiki.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-milk-and-honey-way-273720739",
@@ -1202,11 +1166,7 @@
     "locationLabel": "61 Poland Street, London, W1F 7NU",
     "websiteUrl": "https://www.mlkhny.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-moth-club-node-8846263692",
@@ -1540,10 +1500,6 @@
     "websiteUrl": "https://www.theunderworldcamden.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1577,10 +1533,6 @@
     "instagramUrl": "https://instagram.com/waitingroomn16",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1663,11 +1615,7 @@
     "locationLabel": "54 Holywell Lane, London, EC2A 3PQ",
     "websiteUrl": "https://www.villageunderground.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-xoyo-way-155362965",
@@ -1741,11 +1689,7 @@
     "locationLabel": "33 Sackville Street, Manchester, M1 3LZ",
     "websiteUrl": "https://www.therembrandtmanchester.com/club-tropicana",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-n-om-node-13289915701",

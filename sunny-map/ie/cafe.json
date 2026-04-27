@@ -884,10 +884,6 @@
     "websiteUrl": "https://www.sisicentral.ie",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -1333,11 +1329,7 @@
     "websiteUrl": "https://www.myocafe.ie",
     "instagramUrl": "https://instagram.com/myocork",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-obriens-node-348901383",
@@ -1600,11 +1592,7 @@
     "locationLabel": "13 Pembroke Street, Cork",
     "websiteUrl": "https://bookshelfcoffee.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-bookshelf-node-12898109801",
@@ -2207,10 +2195,6 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -2357,10 +2341,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -2726,11 +2706,7 @@
     "locationLabel": "105 Clonskeagh Road, Dublin",
     "websiteUrl": "https://the105.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-cafe-amore-way-549576995",
@@ -3057,11 +3033,7 @@
     "websiteUrl": "https://clementandpekoe.com",
     "instagramUrl": "https://instagram.com/clementpekoe",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-cloud-picker-coffee-node-9890027177",
@@ -3126,11 +3098,7 @@
     "websiteUrl": "https://coffeeangel.com/pages/hq",
     "instagramUrl": "https://instagram.com/coffeeangel",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-angel-node-5373683617",
@@ -3301,11 +3269,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.costaireland.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-costa-node-4406841892",
@@ -3428,11 +3392,7 @@
     "locationLabel": "16 Ormond Quay Upper, Dublin",
     "websiteUrl": "https://countrycafe.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-craft-node-4232050718",
@@ -3714,11 +3674,7 @@
     "websiteUrl": "https://www.fredandnancys.com",
     "instagramUrl": "https://instagram.com/fredandnancys",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-french-revolution-eclairs-node-6013636369",
@@ -3750,10 +3706,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -4076,10 +4028,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -4629,11 +4577,7 @@
     "locationLabel": "15 Montague Street, Dublin",
     "websiteUrl": "https://www.meltdown.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-mind-the-step-node-2670348502",
@@ -4915,10 +4859,6 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "sandwich"
@@ -4960,11 +4900,7 @@
     "websiteUrl": "https://www.offbeatdonuts.com",
     "instagramUrl": "https://instagram.com/offbeatdonuts",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-one-kinda-folk-node-11111190880",
@@ -5371,11 +5307,7 @@
     "locationLabel": "Pembroke Road, Dublin",
     "websiteUrl": "https://www.sproutfoodco.com",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-sprout-kitchen-node-12055187169",
@@ -5565,11 +5497,7 @@
     "locationLabel": "22-23 Liffey Street Lower, Dublin",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/26855-245864/22-23-lower-liffey-street",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-starbucks-node-7017217475",
@@ -5641,11 +5569,7 @@
     "websiteUrl": "https://www.starbucks.ie",
     "instagramUrl": "https://instagram.com/starbucks",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-starbucks-way-1262537464",
@@ -5728,11 +5652,7 @@
     "websiteUrl": "https://www.teagarden.ie",
     "instagramUrl": "https://instagram.com/teagardendublin",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-tea-room-node-1771328788",
@@ -5859,10 +5779,6 @@
     "websiteUrl": "https://bakehousedublin.ie",
     "solarMode": "facade",
     "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    },
     "foodTags": {
       "tags": [
         "burger",
@@ -6043,10 +5959,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -6149,10 +6061,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
@@ -6457,11 +6365,7 @@
     "websiteUrl": "https://lowza.ie",
     "instagramUrl": "https://instagram.com/lowzabistro",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-poulet-bonne-femme-node-12789504198",
@@ -6821,11 +6725,7 @@
     "websiteUrl": "https://corribhouse.com",
     "instagramUrl": "https://instagram.com/corribhousegalway",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-dollys-coffee-node-13382366401",
@@ -6857,11 +6757,7 @@
     "locationLabel": "44 William Street, Galway, H91 W8D3",
     "websiteUrl": "https://espresso44.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-espresso-44-node-9054455928",
@@ -7222,10 +7118,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -7485,10 +7377,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
     }
   },
   {
@@ -7533,11 +7421,7 @@
     "websiteUrl": "https://thefigtreerestaurant.ie",
     "instagramUrl": "https://instagram.com/figtreekilkenny",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-wild-tails-co-node-9598104644",
@@ -8463,11 +8347,7 @@
     "websiteUrl": "https://www.costaireland.ie",
     "instagramUrl": "https://instagram.com/costacoffeeireland",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-costa-node-7985139808",
@@ -8681,11 +8561,7 @@
     "locationLabel": "22 North Main Street, Wexford",
     "websiteUrl": "https://westgatedesign.ie",
     "solarMode": "facade",
-    "status": "unavailable",
-    "wheelchairAccess": {
-      "status": "no",
-      "confidence": "confirmed"
-    }
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-and-cake-node-11922608151",
@@ -8883,10 +8759,6 @@
     "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "wheelchairAccess": {
-      "status": "no",
       "confidence": "confirmed"
     }
   },
