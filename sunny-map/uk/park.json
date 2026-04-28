@@ -4702,6 +4702,88 @@
     }
   },
   {
+    "id": "parks-abbey-hill-way-158824145",
+    "name": "Abbey Hill Open Space",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 50.878724,
+    "lon": -1.360534,
+    "regionId": "southampton",
+    "regionLabel": "Southampton",
+    "locationLabel": "Southampton",
+    "websiteUrl": "https://www.southampton.gov.uk/culture-leisure-tourism/parks-open-spaces/find-a-park/by-area/peartree-woolston/abbey-hill-open-space/",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-archery-recreation-ground-relation-1324908",
+    "name": "Archery Rec",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 50.891927,
+    "lon": -1.374505,
+    "regionId": "southampton",
+    "regionLabel": "Southampton",
+    "locationLabel": "Southampton",
+    "websiteUrl": "https://www.southampton.gov.uk/culture-leisure-tourism/parks-open-spaces/find-a-park/by-area/peartree-woolston/archery-rec/",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-asylum-green-way-22800095",
+    "name": "Asylum Green",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 50.916352,
+    "lon": -1.40254,
+    "regionId": "southampton",
+    "regionLabel": "Southampton",
+    "locationLabel": "Southampton",
+    "websiteUrl": "https://www.southampton.gov.uk/culture-leisure-tourism/parks-open-spaces/find-a-park/by-area/bannister-polygon-bevois/asylum-green/",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-avenue-park-way-146258553",
+    "name": "Avenue Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 50.961109,
+    "lon": -1.378202,
+    "regionId": "southampton",
+    "regionLabel": "Southampton",
+    "locationLabel": "Southampton",
+    "websiteUrl": "https://www.eastleigh.gov.uk/parks-leisure-and-culture/country-parks-and-open-spaces/open-spaces/other-open-spaces-in-eastleigh",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-barnsland-park-way-207763940",
+    "name": "Barnsland Recreation Ground",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 50.933783,
+    "lon": -1.34606,
+    "regionId": "southampton",
+    "regionLabel": "Southampton",
+    "locationLabel": "Southampton",
+    "websiteUrl": "https://westend-pc.gov.uk/green-space-guide/",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-blechynden-terrace-park-way-475102462",
+    "name": "Blechynden Terrace Garden",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 50.907707,
+    "lon": -1.411404,
+    "regionId": "southampton",
+    "regionLabel": "Southampton",
+    "locationLabel": "Southampton",
+    "websiteUrl": "https://www.southampton.gov.uk/culture-leisure-tourism/parks-open-spaces/find-a-park/by-area/bargate/blechynden-terrace-garden/",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-acomb-green-way-129539515",
     "name": "Acomb Green",
     "placeTypeId": "park",
