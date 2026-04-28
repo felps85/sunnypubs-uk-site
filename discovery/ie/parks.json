@@ -47,6 +47,19 @@
     }
   },
   {
+    "id": "parks-ballymenoch-park-way-38435062",
+    "appId": "ie",
+    "name": "Ballymenoch Park",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Ballymenoch, Holywood, Co. Down",
+    "lat": 54.643234,
+    "lon": -5.820708,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.ardsandnorthdown.gov.uk/article/1504/Introduction-to-Parks"
+  },
+  {
     "id": "parks-barnett-demesne-way-554010963",
     "type": "park",
     "name": "Barnett Demesne",
@@ -962,6 +975,19 @@
     "lon": -6.342639,
     "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/teenspace/spaces/locations/ballycragh-park.html",
     "instagramUrl": "https://instagram.com/sdublincoco"
+  },
+  {
+    "id": "parks-ballymount-park-way-28515800",
+    "appId": "ie",
+    "name": "Ballymount Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Ballymount, Tallaght, Dublin",
+    "lat": 53.310727,
+    "lon": -6.369623,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublinsoutdoors.ie/know/our-parks/ballymount-park/"
   },
   {
     "id": "parks-bancroft-park-relation-8182102",
@@ -2824,6 +2850,19 @@
     "websiteUrl": "https://kilkennycoco.ie/eng/services/capital-delivery-office-parks/parks/river-nore-linear-park"
   },
   {
+    "id": "parks-ballymacool-park-way-181927300",
+    "appId": "ie",
+    "name": "Ballymacool Town Park",
+    "type": "park",
+    "regionId": "letterkenny",
+    "regionLabel": "Letterkenny",
+    "locationLabel": "Ballymacool, Letterkenny, Co. Donegal",
+    "lat": 54.945277,
+    "lon": -7.764115,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.discoverireland.ie/donegal/ballymacool-town-park"
+  },
+  {
     "id": "parks-arthurs-quay-park-way-25591746",
     "type": "park",
     "name": "Arthur's Quay Park",
@@ -2838,6 +2877,19 @@
     },
     "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/parks/arthurs-quay-park",
     "instagramUrl": "https://instagram.com/limerick.ie"
+  },
+  {
+    "id": "parks-baggott-estate-nature-park-way-1443276454",
+    "appId": "ie",
+    "name": "Baggot Estate Nature Park",
+    "type": "park",
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Ballinacurra, Limerick",
+    "lat": 52.644349,
+    "lon": -8.641292,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/natural-areas/baggot-estate-nature-park"
   },
   {
     "id": "parks-mungret-park-way-890895243",
@@ -3177,6 +3229,19 @@
     "lat": 54.269265,
     "lon": -8.477091,
     "websiteUrl": "https://sligococo.ie/News/Archive/NewsArchive2021/Fleadhfest2021launch"
+  },
+  {
+    "id": "parks-balheary-park-way-23396381",
+    "appId": "ie",
+    "name": "Balheary Park",
+    "type": "park",
+    "regionId": "swords",
+    "regionLabel": "Swords",
+    "locationLabel": "Balheary, Swords, Co. Dublin",
+    "lat": 53.46854,
+    "lon": -6.216149,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fingal.ie/Pitches"
   },
   {
     "id": "parks-piarsaigh-park-node-10921495216",

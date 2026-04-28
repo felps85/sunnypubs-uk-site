@@ -1,11 +1,17 @@
-const SHELL_CACHE_NAME = "sunny-pubs-shell-v2";
+const SHELL_CACHE_NAME = "sunny-pubs-shell-v3";
 const PRECACHE_URLS = [
   "/",
   "/site.webmanifest",
   "/apple-touch-icon.png",
   "/pwa-192.png",
   "/pwa-512.png",
-  "/favicon-default.svg"
+  "/og-sunny-pubs.png",
+  "/og-sunny-pubs.svg",
+  "/mask-icon.svg",
+  "/favicon-default.svg",
+  "/favicon-sunny.svg",
+  "/favicon-not.svg",
+  "/favicon-unknown.svg"
 ];
 const NETWORK_FIRST_DESTINATIONS = new Set(["script", "style", "worker", "manifest"]);
 

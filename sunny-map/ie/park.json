@@ -51,6 +51,19 @@
     }
   },
   {
+    "id": "parks-ballymenoch-park-way-38435062",
+    "name": "Ballymenoch Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.643234,
+    "lon": -5.820708,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Ballymenoch, Holywood, Co. Down",
+    "websiteUrl": "https://www.ardsandnorthdown.gov.uk/article/1504/Introduction-to-Parks",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-barnett-demesne-way-554010963",
     "name": "Barnett Demesne",
     "placeTypeId": "park",
@@ -1081,6 +1094,19 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.sdcc.ie/en/services/sport-and-recreation/teenspace/spaces/locations/ballycragh-park.html",
     "instagramUrl": "https://instagram.com/sdublincoco",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-ballymount-park-way-28515800",
+    "name": "Ballymount Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.310727,
+    "lon": -6.369623,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Ballymount, Tallaght, Dublin",
+    "websiteUrl": "https://www.dublinsoutdoors.ie/know/our-parks/ballymount-park/",
     "solarMode": "open-area"
   },
   {
@@ -3022,6 +3048,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-ballymacool-park-way-181927300",
+    "name": "Ballymacool Town Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.945277,
+    "lon": -7.764115,
+    "regionId": "letterkenny",
+    "regionLabel": "Letterkenny",
+    "locationLabel": "Ballymacool, Letterkenny, Co. Donegal",
+    "websiteUrl": "https://www.discoverireland.ie/donegal/ballymacool-town-park",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-arthurs-quay-park-way-25591746",
     "name": "Arthur's Quay Park",
     "placeTypeId": "park",
@@ -3038,6 +3077,19 @@
       "status": "yes",
       "confidence": "confirmed"
     }
+  },
+  {
+    "id": "parks-baggott-estate-nature-park-way-1443276454",
+    "name": "Baggot Estate Nature Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.644349,
+    "lon": -8.641292,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Ballinacurra, Limerick",
+    "websiteUrl": "https://www.limerick.ie/discover/eat-see-do/nature-wildlife/natural-areas/baggot-estate-nature-park",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-mungret-park-way-890895243",
@@ -3422,6 +3474,19 @@
     "regionLabel": "Sligo",
     "locationLabel": "Sligo",
     "websiteUrl": "https://sligococo.ie/News/Archive/NewsArchive2021/Fleadhfest2021launch",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-balheary-park-way-23396381",
+    "name": "Balheary Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.46854,
+    "lon": -6.216149,
+    "regionId": "swords",
+    "regionLabel": "Swords",
+    "locationLabel": "Balheary, Swords, Co. Dublin",
+    "websiteUrl": "https://www.fingal.ie/Pitches",
     "solarMode": "open-area"
   },
   {
