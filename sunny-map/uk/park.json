@@ -1468,6 +1468,140 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-braidburn-valley-park-way-4958964",
+    "name": "Braidburn Valley Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.915512,
+    "lon": -3.215688,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/13/braidburn-valley-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-bruntsfield-links-way-4348244",
+    "name": "Bruntsfield Links",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.939191,
+    "lon": -3.201047,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/15/bruntsfield-links",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-calton-hill-way-22413886",
+    "name": "Calton Hill",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.955378,
+    "lon": -3.182022,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/19/calton-hill",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-craigmillar-castle-park-relation-951955",
+    "name": "Craigmillar Castle Park including Hawkhill Woods",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.926048,
+    "lon": -3.145974,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/27/craigmillar-castle-park-including-hawkhill-woods",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-figgate-park-way-29285216",
+    "name": "Figgate Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.949099,
+    "lon": -3.1277,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/47/figgate-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-inverleith-park-way-4920646",
+    "name": "Inverleith Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.963639,
+    "lon": -3.216885,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Arboretum Road, Edinburgh, EH3 5NZ",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/71/inverleith-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-the-meadows-way-233760765",
+    "name": "Meadows",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.942351,
+    "lon": -3.191727,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/87/meadows",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-roseburn-park-way-51140600",
+    "name": "Roseburn Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.944233,
+    "lon": -3.240307,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/125/roseburn-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-saughton-park-way-31298223",
+    "name": "Saughton Park and Gardens",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.935036,
+    "lon": -3.251971,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/127/saughton-park-and-gardens",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-starbank-park-way-5034618",
+    "name": "Starbank Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 55.979173,
+    "lon": -3.201075,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "Edinburgh",
+    "websiteUrl": "https://www.edinburghoutdoors.org.uk/directory-record/139/starbank-park",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-plock-court-playing-fields-way-31887409",
     "name": "Plock Court Playing Fields",
     "placeTypeId": "park",
@@ -4412,6 +4546,160 @@
     "locationLabel": "Reading",
     "websiteUrl": "https://www.reading.gov.uk/leisure/outdoors/parks-outdoor-facilities-open-spaces/waterloo-meadows",
     "solarMode": "open-area"
+  },
+  {
+    "id": "parks-devonshire-green-way-1202674391",
+    "name": "Devonshire Green",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3788299,
+    "lon": -1.4783734,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Division Street, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/public-spaces/devonshire-green",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-firth-park-way-22939330",
+    "name": "Firth Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.4153133,
+    "lon": -1.4472612,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Firth Park, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/firth-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-hillsborough-park-way-9258375",
+    "name": "Hillsborough Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.4072418,
+    "lon": -1.5007613,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Hillsborough, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/hillsborough-park-0",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-meersbrook-park-way-22928362",
+    "name": "Meersbrook Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3537403,
+    "lon": -1.4743168,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Brook Road, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/meersbrook-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-millhouses-park-way-22948359",
+    "name": "Millhouses Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3411471,
+    "lon": -1.502188,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Abbeydale Road South, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/millhouses-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-norfolk-heritage-park-way-22928364",
+    "name": "Norfolk Heritage Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3691001,
+    "lon": -1.4515989,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Guildford Avenue, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/norfolk-heritage-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-sheffield-botanical-gardens-way-4087713",
+    "name": "Sheffield Botanical Gardens",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3719743,
+    "lon": -1.4971366,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Clarkehouse Road, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/botanical-gardens",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-peace-gardens-way-9703263",
+    "name": "The Peace Gardens",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3798349,
+    "lon": -1.4695349,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Pinstone Street, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/public-spaces/peace-gardens",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-tinsley-green-way-115658085",
+    "name": "Tinsley Green",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.4132993,
+    "lon": -1.3964036,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Norborough Road, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/tinsley-green",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-weston-park-way-16641193",
+    "name": "Weston Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 53.3824128,
+    "lon": -1.4903222,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Mushroom Lane, Sheffield",
+    "websiteUrl": "https://www.sheffield.gov.uk/parks-sport-recreation/weston-park",
+    "solarMode": "open-area",
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "parks-acomb-green-way-129539515",

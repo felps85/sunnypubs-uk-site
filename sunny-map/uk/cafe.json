@@ -6552,154 +6552,277 @@
     "facadeWidthM": 5.7
   },
   {
-    "id": "st-jamess-cafe-london",
-    "name": "St. James's Cafe",
+    "id": "cafes-92-degrees-coffee-node-590885194",
+    "name": "92 Degrees",
     "placeTypeId": "cafe",
     "appId": "uk",
-    "lat": 51.5038627,
-    "lon": -0.1317283,
-    "regionId": "london",
-    "regionLabel": "London",
-    "locationLabel": "St. James's Park, London",
-    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe",
-    "instagramUrl": "https://instagram.com/theroyalparks",
+    "lat": 55.954252,
+    "lon": -3.197993,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "92 Hanover Street, Edinburgh, EH2 1DR",
+    "websiteUrl": "https://92degrees.coffee/pages/92-degrees-in-edinburgh",
     "solarMode": "facade",
-    "status": "unavailable",
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "confirmed"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed"
-    },
-    "foodTags": {
-      "tags": [
-        "burger",
-        "sandwich"
-      ],
-      "confidence": "confirmed"
-    }
+    "frontBearingDeg": 343.4,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9541,
+    "frontObservationPointLon": -3.198,
+    "facadeWidthM": 4.5
   },
   {
-    "id": "broad-walk-cafe-regents-park-london",
-    "name": "The Broad Walk Cafe",
+    "id": "cafes-275-cafe-node-3209392101",
+    "name": "275 cafe",
     "placeTypeId": "cafe",
     "appId": "uk",
-    "lat": 51.5310283,
-    "lon": -0.1504233,
-    "regionId": "london",
-    "regionLabel": "London",
-    "locationLabel": "The Regent's Park, London",
-    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0",
-    "instagramUrl": "https://instagram.com/theroyalparks",
+    "lat": 55.96532,
+    "lon": -3.170492,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "275 Easter Road, Edinburgh, EH6 8LQ",
+    "websiteUrl": "https://275cafeandtakeaway.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "confirmed"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed"
-    }
-  },
-  {
-    "id": "waterside-cafe-regents-park-london",
-    "name": "The Waterside Cafe",
-    "placeTypeId": "cafe",
-    "appId": "uk",
-    "lat": 51.5288695,
-    "lon": -0.1614681,
-    "regionId": "london",
-    "regionLabel": "London",
-    "locationLabel": "The Regent's Park, London",
-    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe",
-    "instagramUrl": "https://instagram.com/theroyalparks",
-    "solarMode": "facade",
-    "status": "unavailable",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "confirmed"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "confirmed"
-    },
-    "foodTags": {
-      "tags": [
-        "burger"
-      ],
-      "confidence": "confirmed"
-    }
-  },
-  {
-    "id": "cafes-1915-node-10212939502",
-    "name": "1915",
-    "placeTypeId": "cafe",
-    "appId": "uk",
-    "lat": 53.80913,
-    "lon": -1.553832,
-    "regionId": "leeds",
-    "regionLabel": "Leeds",
-    "locationLabel": "Woodhouse Lane, Leeds, LS2 9JT",
-    "websiteUrl": "https://gfal.leeds.ac.uk/where-to-eat/cafes/1915",
-    "solarMode": "facade",
-    "frontBearingDeg": 92.2,
+    "frontBearingDeg": 278.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.8091,
-    "frontObservationPointLon": -1.5538,
-    "facadeWidthM": 18
+    "frontObservationPointLat": 55.9654,
+    "frontObservationPointLon": -3.17,
+    "facadeWidthM": 4.5
   },
   {
-    "id": "cafes-200-coffee-node-6022850199",
-    "name": "200° Coffee",
+    "id": "cafes-acai-bros-health-bar-node-3112300373",
+    "name": "Acai Bros",
     "placeTypeId": "cafe",
     "appId": "uk",
-    "lat": 53.797635,
-    "lon": -1.546092,
-    "regionId": "leeds",
-    "regionLabel": "Leeds",
-    "locationLabel": "31 Bond Street, Leeds, LS1 5BQ",
-    "websiteUrl": "https://200degs.com/pages/location-leeds-bond-street",
+    "lat": 55.962402,
+    "lon": -3.196179,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "10 Rodney Street, Edinburgh, EH7 4EA",
     "solarMode": "facade",
-    "frontBearingDeg": 218.5,
+    "frontBearingDeg": 248.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9624,
+    "frontObservationPointLon": -3.1963,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-arboosh-node-3236358998",
+    "name": "Arboosh",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.946006,
+    "lon": -3.219713,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "16 Haymarket Terrace, Edinburgh, EH12 5JZ",
+    "solarMode": "facade",
+    "frontBearingDeg": 180,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.946,
+    "frontObservationPointLon": -3.2197,
+    "facadeWidthM": 14.8
+  },
+  {
+    "id": "cafes-argyle-place-node-567240114",
+    "name": "Argyle Place Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.938626,
+    "lon": -3.191656,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "25,26,27,28 Argyle Place, Edinburgh, EH9 1JJ",
+    "solarMode": "facade",
+    "frontBearingDeg": 179.3,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7977,
-    "frontObservationPointLon": -1.5462,
-    "facadeWidthM": 6.9,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "confirmed"
-    },
-    "foodTags": {
-      "tags": [
-        "sandwich"
-      ],
-      "confidence": "confirmed"
-    },
-    "wifi": {
-      "status": "yes",
-      "confidence": "confirmed"
-    }
+    "frontObservationPointLat": 55.9389,
+    "frontObservationPointLon": -3.1917,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-artisan-coffee-leith-node-3966870206",
+    "name": "Artisan Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.965907,
+    "lon": -3.176102,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "274 Leith Walk, Edinburgh, EH6 5EL",
+    "solarMode": "facade",
+    "frontBearingDeg": 233.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9659,
+    "frontObservationPointLon": -3.1762,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-artisan-roast-node-726796589",
+    "name": "Artisan Roast",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.959295,
+    "lon": -3.213826,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "102A Raeburn Place, Edinburgh, EH4 1HH",
+    "websiteUrl": "https://artisanroast.co.uk/pages/stockbridge-cafe",
+    "solarMode": "facade",
+    "frontBearingDeg": 278.4,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9593,
+    "frontObservationPointLon": -3.2139,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-artisan-roast-node-1647285890",
+    "name": "Artisan Roast",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.936683,
+    "lon": -3.208123,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "138 Bruntsfield Place, Edinburgh, EH10 4ER",
+    "websiteUrl": "https://www.artisanroast.co.uk/pages/bruntsfield",
+    "solarMode": "facade",
+    "frontBearingDeg": 137.7,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9366,
+    "frontObservationPointLon": -3.2081,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-artisan-roast-node-2081456442",
+    "name": "Artisan Roast",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.957905,
+    "lon": -3.188868,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "57 Broughton Street, Edinburgh, EH1 3RJ",
+    "websiteUrl": "https://www.artisanroast.co.uk",
+    "solarMode": "facade",
+    "frontBearingDeg": 231.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9579,
+    "frontObservationPointLon": -3.1889,
+    "facadeWidthM": 6.3
+  },
+  {
+    "id": "cafes-artisan-roast-circular-coffee-node-5245073044",
+    "name": "Artisan Roast/Circular Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.969412,
+    "lon": -3.173048,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "72-74 Leith Walk, Edinburgh, EH6 5HB",
+    "websiteUrl": "https://artisanroast.co.uk/pages/leith-walk",
+    "solarMode": "facade",
+    "frontBearingDeg": 333.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9694,
+    "frontObservationPointLon": -3.1726,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-august-21-node-2774743761",
+    "name": "Aug-21",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.937707,
+    "lon": -3.180842,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "89 Causewayside, Edinburgh, EH9 1QG",
+    "solarMode": "facade",
+    "frontBearingDeg": 248.9,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9377,
+    "frontObservationPointLon": -3.1809,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-auld-jocks-cafe-node-11868732375",
+    "name": "Auld Jock's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.947293,
+    "lon": -3.191631,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "27 George IV Bridge, Edinburgh, EH1 1EN",
+    "solarMode": "facade",
+    "frontBearingDeg": 71.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9473,
+    "frontObservationPointLon": -3.1916,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-babka-node-8974799926",
+    "name": "Babka",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.942605,
+    "lon": -3.201529,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "20 Brougham Place, Edinburgh, EH3 9JU",
+    "websiteUrl": "https://www.babkaedinburgh.com",
+    "solarMode": "facade",
+    "frontBearingDeg": 54,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9427,
+    "frontObservationPointLon": -3.2015,
+    "facadeWidthM": 7.2
+  },
+  {
+    "id": "cafes-africano-wrap-place-node-498040616",
+    "name": "The Africo Wrap Place",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 55.944645,
+    "lon": -3.186063,
+    "regionId": "edinburgh",
+    "regionLabel": "Edinburgh",
+    "locationLabel": "4 Chapel Street, Edinburgh, EH8 9AY",
+    "solarMode": "facade",
+    "frontBearingDeg": 123.3,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9449,
+    "frontObservationPointLon": -3.186,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-92-degrees-node-2142553146",
@@ -6742,6 +6865,60 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.7926,
     "frontObservationPointLon": -1.5515,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "cafes-200-coffee-node-6022850199",
+    "name": "200° Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.797635,
+    "lon": -1.546092,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "31 Bond Street, Leeds, LS1 5BQ",
+    "websiteUrl": "https://200degs.com/pages/location-leeds-bond-street",
+    "solarMode": "facade",
+    "frontBearingDeg": 218.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7977,
+    "frontObservationPointLon": -1.5462,
+    "facadeWidthM": 6.9,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-1915-node-10212939502",
+    "name": "1915",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.80913,
+    "lon": -1.553832,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Woodhouse Lane, Leeds, LS2 9JT",
+    "websiteUrl": "https://gfal.leeds.ac.uk/where-to-eat/cafes/1915",
+    "solarMode": "facade",
+    "frontBearingDeg": 92.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8091,
+    "frontObservationPointLon": -1.5538,
     "facadeWidthM": 18
   },
   {
@@ -6948,6 +7125,124 @@
     "facadeWidthM": 10.7
   },
   {
+    "id": "st-jamess-cafe-london",
+    "name": "St. James's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.5038627,
+    "lon": -0.1317283,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "St. James's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "facade",
+    "frontBearingDeg": 116.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5038,
+    "frontObservationPointLon": -0.1316,
+    "facadeWidthM": 8.4,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "broad-walk-cafe-regents-park-london",
+    "name": "The Broad Walk Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.5310283,
+    "lon": -0.1504233,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "The Regent's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "outdoor-area",
+    "frontBearingDeg": 33.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5311,
+    "frontObservationPointLon": -0.1503,
+    "facadeWidthM": 12.6,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    },
+    "outdoorObservationPointLat": 51.5311,
+    "outdoorObservationPointLon": -0.1503,
+    "outdoorAreaWidthM": 12.6,
+    "outdoorAreaInferenceSource": "front-terrace-facade-derived-v1",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "waterside-cafe-regents-park-london",
+    "name": "The Waterside Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.5288695,
+    "lon": -0.1614681,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "The Regent's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "facade",
+    "frontBearingDeg": 248.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5288,
+    "frontObservationPointLon": -0.1615,
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "burger"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
     "id": "cafes-tastee-way-1258321909",
     "name": "#tastee",
     "placeTypeId": "cafe",
@@ -6965,26 +7260,6 @@
     "frontObservationPointLat": 53.3416,
     "frontObservationPointLon": -1.4134,
     "facadeWidthM": 5.3
-  },
-  {
-    "id": "cafes-1554-cafe-node-6362462808",
-    "name": "1554 Cafe",
-    "placeTypeId": "cafe",
-    "appId": "uk",
-    "lat": 53.383406,
-    "lon": -1.469501,
-    "regionId": "sheffield",
-    "regionLabel": "Sheffield",
-    "locationLabel": "Church Street, Sheffield, S1 1HA",
-    "websiteUrl": "https://www.1554.co.uk",
-    "solarMode": "facade",
-    "frontBearingDeg": 266.8,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.383,
-    "frontObservationPointLon": -1.4698,
-    "facadeWidthM": 13.7
   },
   {
     "id": "cafes-200-degree-coffee-way-200223328",
@@ -7023,6 +7298,26 @@
     "frontObservationPointLat": 53.3866,
     "frontObservationPointLon": -1.496,
     "facadeWidthM": 4.8
+  },
+  {
+    "id": "cafes-1554-cafe-node-6362462808",
+    "name": "1554 Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.383406,
+    "lon": -1.469501,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Church Street, Sheffield, S1 1HA",
+    "websiteUrl": "https://www.1554.co.uk",
+    "solarMode": "facade",
+    "frontBearingDeg": 266.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.383,
+    "frontObservationPointLon": -1.4698,
+    "facadeWidthM": 13.7
   },
   {
     "id": "cafes-aesthete-coffee-kitchen-way-1274522665",
