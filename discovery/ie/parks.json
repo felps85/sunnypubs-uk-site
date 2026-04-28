@@ -1,5 +1,18 @@
 [
   {
+    "id": "parks-astropark-way-220339363",
+    "appId": "ie",
+    "name": "Astropark",
+    "type": "park",
+    "regionId": "armagh",
+    "regionLabel": "Armagh",
+    "locationLabel": "Armagh Observatory and Planetarium, Armagh",
+    "lat": 54.35389,
+    "lon": -6.649364,
+    "solarMode": "open-area",
+    "websiteUrl": "https://armagh.space/site/planetarium/attractions/astropark"
+  },
+  {
     "id": "parks-alderman-tommy-patton-memorial-park-way-38380590",
     "type": "park",
     "name": "Alderman Tommy Patton Memorial Park",
@@ -886,6 +899,19 @@
         "tennis-court"
       ]
     }
+  },
+  {
+    "id": "parks-ashington-park-way-37611110",
+    "appId": "ie",
+    "name": "Ashington Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Ashington, Ashtown, Dublin",
+    "lat": 53.374386,
+    "lon": -6.313897,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/ga/parks-and-nature/dublin-city-parks/green-spaces"
   },
   {
     "id": "parks-balcurris-park-way-234191002",
@@ -2877,6 +2903,19 @@
     }
   },
   {
+    "id": "parks-albert-reynolds-peace-park-relation-11997378",
+    "appId": "ie",
+    "name": "Albert Reynolds Peace Park",
+    "type": "park",
+    "regionId": "longford",
+    "regionLabel": "Longford",
+    "locationLabel": "The Mall, Longford Town",
+    "lat": 53.733381,
+    "lon": -7.792279,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.longford.ie/en/visit/see-and-do/trails/the-mall-longford-town/"
+  },
+  {
     "id": "parks-pound-park-way-68714669",
     "type": "park",
     "name": "Pound Park",
@@ -2886,6 +2925,19 @@
     "lat": 53.38282,
     "lon": -6.591369,
     "websiteUrl": "https://kildarecoco.ie/AllServices/ParksandOpenSpaces/Parks/ParksinClaneMaynoothMD"
+  },
+  {
+    "id": "parks-baby-walk-way-124629081",
+    "appId": "ie",
+    "name": "Baby Walk",
+    "type": "park",
+    "regionId": "midleton",
+    "regionLabel": "Midleton",
+    "locationLabel": "Baby Walk Park, Midleton, Co. Cork",
+    "lat": 51.912637,
+    "lon": -8.169994,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.floodinfo.ie/frs/en/midleton/project-info/background-timeframe/"
   },
   {
     "id": "parks-fair-green-way-923414134",
@@ -2923,6 +2975,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://kildarecoco.ie/AllServices/ParksandOpenSpaces/Parks/ParksinNaasMD"
+  },
+  {
+    "id": "parks-andy-brennan-park-way-145461868",
+    "appId": "ie",
+    "name": "Andy Brennan Park",
+    "type": "park",
+    "regionId": "navan",
+    "regionLabel": "Navan",
+    "locationLabel": "Athlumney, Navan, Co. Meath",
+    "lat": 53.65259,
+    "lon": -6.680924,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.meath.ie/consultations/proposed-development-at-the-former-spicers-bakery-ramparts-car-park-and-andy-brennan-park"
   },
   {
     "id": "parks-clanrye-park-way-83206392",

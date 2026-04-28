@@ -11,7 +11,14 @@
     "locationLabel": "491 Union Street, Aberdeen, AB11 6DB",
     "websiteUrl": "https://www.491unionstreet.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 333.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.143,
+    "frontObservationPointLon": -2.1113,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-popworld-node-9209792488",
@@ -25,7 +32,14 @@
     "locationLabel": "Schoolhill, Aberdeen, AB10 1JT",
     "websiteUrl": "https://www.popworldparty.co.uk/aberdeen",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 161.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1479,
+    "frontObservationPointLon": -2.1024,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-club-lomah-node-524896167",
@@ -39,7 +53,14 @@
     "locationLabel": "90b Walcot Street, BA1 5BG",
     "websiteUrl": "https://www.walcothousebath.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 7.9,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3865,
+    "frontObservationPointLon": -2.3594,
+    "facadeWidthM": 11
   },
   {
     "id": "nightclubs-labyrinth-node-300010441",
@@ -53,7 +74,14 @@
     "locationLabel": "8-9 North Parade, Bath, BA2 4AL",
     "websiteUrl": "https://www.labyrinthbath.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 358.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3807,
+    "frontObservationPointLon": -2.3568,
+    "facadeWidthM": 16.6
   },
   {
     "id": "nightclubs-alibi-way-364180385",
@@ -69,6 +97,13 @@
     "instagramUrl": "https://instagram.com/alibibelfast",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 204.6,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5889,
+    "frontObservationPointLon": -5.9353,
+    "facadeWidthM": 11.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -86,7 +121,14 @@
     "locationLabel": "96 Donegall Street, Belfast, BT1 2GW",
     "websiteUrl": "https://www.kremlin-belfast.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 60.2,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.6039,
+    "frontObservationPointLon": -5.9308,
+    "facadeWidthM": 5.5
   },
   {
     "id": "nightclubs-the-limelight-way-256651844",
@@ -101,6 +143,13 @@
     "websiteUrl": "https://www.limelightbelfast.com",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 199.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5928,
+    "frontObservationPointLon": -5.9286,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -118,7 +167,14 @@
     "locationLabel": "6A Newton Road, B43 6BN",
     "websiteUrl": "https://www.greatbarrcons.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 260.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5454,
+    "frontObservationPointLon": -1.9345,
+    "facadeWidthM": 6.1
   },
   {
     "id": "nightclubs-pop-world-way-32005713",
@@ -132,7 +188,14 @@
     "locationLabel": "Broad Street, Birmingham, B1 2HJ",
     "websiteUrl": "https://www.popworldparty.co.uk/birmingham",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 37.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4772,
+    "frontObservationPointLon": -1.9122,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-rosies-node-5562950662",
@@ -146,7 +209,14 @@
     "locationLabel": "259-262 Broad Street, Birmingham, B1 2HF",
     "websiteUrl": "https://www.rosiesclubs.co.uk/birmingham",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 310.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4773,
+    "frontObservationPointLon": -1.9112,
+    "facadeWidthM": 17.4
   },
   {
     "id": "nightclubs-snobs-node-3117288068",
@@ -160,7 +230,14 @@
     "locationLabel": "200 Broad Street, Birmingham, B15 1SU",
     "websiteUrl": "https://www.snobsnightclub.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 309.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4754,
+    "frontObservationPointLon": -1.9139,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-popworld-way-146615133",
@@ -174,7 +251,14 @@
     "locationLabel": "120-122 Promenade, Blackpool, FY1 1RA",
     "websiteUrl": "https://www.popworldparty.co.uk/blackpool",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 99.7,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8194,
+    "frontObservationPointLon": -3.055,
+    "facadeWidthM": 17.3
   },
   {
     "id": "nightclubs-brighton-music-hall-node-6979189202",
@@ -189,7 +273,13 @@
     "websiteUrl": "https://www.brightonmusichall.co.uk",
     "instagramUrl": "https://instagram.com/btnmusichall",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 194.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 50.8207,
+    "frontObservationPointLon": -0.1466,
+    "facadeWidthM": 7
   },
   {
     "id": "nightclubs-casablanca-jazz-club-node-1155446685",
@@ -203,7 +293,14 @@
     "locationLabel": "5 Middle Street, BN1 1AL",
     "websiteUrl": "https://www.casablancajazzclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 95.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8208,
+    "frontObservationPointLon": -0.1434,
+    "facadeWidthM": 5.1
   },
   {
     "id": "nightclubs-tide-club-node-11182160517",
@@ -218,7 +315,14 @@
     "websiteUrl": "https://tidenightclub.com",
     "instagramUrl": "https://instagram.com/tidenightclub",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 94,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8198,
+    "frontObservationPointLon": -0.1417,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-electric-way-466509541",
@@ -232,7 +336,14 @@
     "locationLabel": "15 Nelson Street, Bristol, BS1 2JY",
     "websiteUrl": "https://electricbristol.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 341.4,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4567,
+    "frontObservationPointLon": -2.5921,
+    "facadeWidthM": 5.7
   },
   {
     "id": "nightclubs-exchange-way-126148590",
@@ -247,6 +358,13 @@
     "websiteUrl": "https://exchangebristol.com",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 354.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4553,
+    "frontObservationPointLon": -2.5831,
+    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -265,7 +383,14 @@
     "websiteUrl": "https://motion-bristol.com",
     "instagramUrl": "https://instagram.com/motionbristol",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 338.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4488,
+    "frontObservationPointLon": -2.569,
+    "facadeWidthM": 8.1
   },
   {
     "id": "nightclubs-popworld-way-123969955",
@@ -280,6 +405,13 @@
     "websiteUrl": "https://www.popworldparty.co.uk/bristol",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 178.3,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4535,
+    "frontObservationPointLon": -2.5947,
+    "facadeWidthM": 14.8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -297,7 +429,14 @@
     "locationLabel": "Fairfax Street, Bristol, BS1 3DB",
     "websiteUrl": "https://www.strangebrewbristol.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 42.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4563,
+    "frontObservationPointLon": -2.5923,
+    "facadeWidthM": 8.9
   },
   {
     "id": "nightclubs-the-shilling-way-380874326",
@@ -311,7 +450,14 @@
     "locationLabel": "9 Frogmore Street, Bristol, BS1 5NA",
     "websiteUrl": "https://www.queenshilling.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 137.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.454,
+    "frontObservationPointLon": -2.6012,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-thekla-way-90958156",
@@ -325,7 +471,14 @@
     "locationLabel": "The Grove, Bristol, BS1 4RB",
     "websiteUrl": "https://www.theklabristol.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.449,
+    "frontObservationPointLon": -2.5941,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-circuit-node-7590302141",
@@ -339,7 +492,14 @@
     "locationLabel": "Greyfriars Road, Cardiff, CF10 3DP",
     "websiteUrl": "https://circuitclub.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 151.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4835,
+    "frontObservationPointLon": -3.1752,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-clwb-ifor-bach-node-852071475",
@@ -353,7 +513,14 @@
     "locationLabel": "11 Womanby Street, Cardiff, CF10 1BR",
     "websiteUrl": "https://clwb.net",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 253.7,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4805,
+    "frontObservationPointLon": -3.1815,
+    "facadeWidthM": 10.3
   },
   {
     "id": "nightclubs-district-node-11136823955",
@@ -368,7 +535,14 @@
     "websiteUrl": "https://districtnightclub.co.uk/club/cardiff",
     "instagramUrl": "https://instagram.com/districtcardiff",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 174.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4835,
+    "frontObservationPointLon": -3.1757,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-pop-world-node-6535979845",
@@ -382,7 +556,14 @@
     "locationLabel": "96 Saint Mary Street, Cardiff, CF10 1DX",
     "websiteUrl": "https://www.popworldparty.co.uk/cardiff",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 68.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4787,
+    "frontObservationPointLon": -3.1784,
+    "facadeWidthM": 11.3
   },
   {
     "id": "nightclubs-pulse-node-1104510171",
@@ -398,6 +579,13 @@
     "instagramUrl": "https://instagram.com/pulsecardiff",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 228.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4822,
+    "frontObservationPointLon": -3.1729,
+    "facadeWidthM": 14,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -416,6 +604,13 @@
     "websiteUrl": "https://www.cardiffstudents.com/venues/y-plas",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 40.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4884,
+    "frontObservationPointLon": -3.177,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -433,7 +628,14 @@
     "locationLabel": "3-7 Park Street, Croydon, CR0 1YD",
     "websiteUrl": "https://badapple.co",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 346,
+    "shadeClearanceDeg": 72.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3735,
+    "frontObservationPointLon": -0.0994,
+    "facadeWidthM": 17.8
   },
   {
     "id": "nightclubs-fever-way-116042877",
@@ -448,7 +650,14 @@
     "websiteUrl": "https://www.feverbars.co.uk/derby",
     "instagramUrl": "https://instagram.com/fever.clubrooms",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 205.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.9223,
+    "frontObservationPointLon": -1.4793,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-moomoo-node-5537591658",
@@ -463,7 +672,14 @@
     "websiteUrl": "https://www.moomooderby.com",
     "instagramUrl": "https://instagram.com/moomooderby",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 177.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.9224,
+    "frontObservationPointLon": -1.4775,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-the-blue-note-club-node-1438242149",
@@ -478,7 +694,14 @@
     "websiteUrl": "https://www.thebluenotederby.com",
     "instagramUrl": "https://instagram.com/explore",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 159.3,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.9233,
+    "frontObservationPointLon": -1.4785,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-hangar-5-node-522823456",
@@ -493,6 +716,13 @@
     "websiteUrl": "https://www.eusa.ed.ac.uk/eatdrinkshop/findaspace/hangar5",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 254.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9459,
+    "frontObservationPointLon": -3.1884,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -510,7 +740,14 @@
     "locationLabel": "11 Hastie's Close, Edinburgh, EH1 1HJ",
     "websiteUrl": "https://la-belleangele.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 253.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9484,
+    "frontObservationPointLon": -3.1868,
+    "facadeWidthM": 8.1
   },
   {
     "id": "nightclubs-shanghai-club-node-11042738372",
@@ -524,7 +761,14 @@
     "locationLabel": "16 George Street, Edinburgh, EH2 2PF",
     "websiteUrl": "https://shanghaiclub.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 163.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9538,
+    "frontObservationPointLon": -3.1963,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-stramash-node-3829574791",
@@ -538,7 +782,14 @@
     "locationLabel": "209 Cowgate, Edinburgh, EH1 1JQ",
     "websiteUrl": "https://www.stramashedinburgh.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 81.8,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9487,
+    "frontObservationPointLon": -3.188,
+    "facadeWidthM": 4.9
   },
   {
     "id": "nightclubs-the-bongo-club-node-4166866989",
@@ -552,7 +803,14 @@
     "locationLabel": "66 Cowgate, Edinburgh, EH1 1JX",
     "websiteUrl": "https://www.thebongoclub.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 71.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9483,
+    "frontObservationPointLon": -3.1923,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-the-liquid-room-node-3007617849",
@@ -566,7 +824,14 @@
     "locationLabel": "9C Victoria Street, Edinburgh, EH1 2HE",
     "websiteUrl": "https://www.liquidroom.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 249.5,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9485,
+    "frontObservationPointLon": -3.1938,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-the-mash-house-node-3259772347",
@@ -580,7 +845,14 @@
     "locationLabel": "37 Guthrie Street, Edinburgh, EH1 1JG",
     "websiteUrl": "https://themashhouse.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 72.8,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9485,
+    "frontObservationPointLon": -3.1877,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-whynot-node-2415446250",
@@ -594,7 +866,14 @@
     "locationLabel": "14 George Street, Edinburgh, EH2 2PF",
     "websiteUrl": "https://www.wnclub.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 72.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.9536,
+    "frontObservationPointLon": -3.1959,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-cathouse-node-1322796875",
@@ -608,7 +887,14 @@
     "locationLabel": "15 Union Street, Glasgow, G1 3RB",
     "websiteUrl": "https://cathouse.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 89.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.8586,
+    "frontObservationPointLon": -4.257,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-polo-lounge-node-1543443657",
@@ -622,7 +908,14 @@
     "locationLabel": "84 Wilson Street, G1 1UZ",
     "websiteUrl": "https://www.pologlasgow.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 191.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.8589,
+    "frontObservationPointLon": -4.2494,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-slay-node-9750981325",
@@ -636,7 +929,14 @@
     "locationLabel": "24 Glassford Street, Glasgow, G1 1UL",
     "websiteUrl": "https://www.slayglasgow.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 280.3,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.8581,
+    "frontObservationPointLon": -4.2491,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-sub-club-node-3834521842",
@@ -652,6 +952,13 @@
     "instagramUrl": "https://instagram.com/subclub87",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 100.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.8579,
+    "frontObservationPointLon": -4.2572,
+    "facadeWidthM": 15.8,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -669,7 +976,14 @@
     "locationLabel": "237 North Street, Glasgow, G3 7DL",
     "websiteUrl": "https://berkeleysuite.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 80.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.8658,
+    "frontObservationPointLon": -4.272,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-wunderbar-way-165771361",
@@ -683,7 +997,14 @@
     "locationLabel": "59 Dumbarton Road, Glasgow, G11 6PD",
     "websiteUrl": "https://wunderbarglasgow.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 1.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 55.8699,
+    "frontObservationPointLon": -4.2967,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-circuit-node-11267868904",
@@ -697,7 +1018,14 @@
     "locationLabel": "154 Clarence Street, Kingston upon Thames, KT1 1QP",
     "websiteUrl": "https://circuitclub.co.uk/kingston",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 266,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4116,
+    "frontObservationPointLon": -0.3003,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-project-house-node-11637605269",
@@ -712,7 +1040,14 @@
     "websiteUrl": "https://projecthouselds.com",
     "instagramUrl": "https://instagram.com/projecthouselds",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 219.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7956,
+    "frontObservationPointLon": -1.5662,
+    "facadeWidthM": 17.8
   },
   {
     "id": "nightclubs-pryzm-node-299171008",
@@ -727,6 +1062,13 @@
     "websiteUrl": "https://www.pryzm.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 251.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8011,
+    "frontObservationPointLon": -1.5448,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -749,6 +1091,13 @@
     "websiteUrl": "https://thekeyclubleeds.com",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 290.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8011,
+    "frontObservationPointLon": -1.5435,
+    "facadeWidthM": 5.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -771,6 +1120,13 @@
     "websiteUrl": "https://www.moshnightclub.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 197.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.6351,
+    "frontObservationPointLon": -1.1398,
+    "facadeWidthM": 5.2,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -788,7 +1144,14 @@
     "locationLabel": "Mathew Street, Liverpool, L2 6RE",
     "websiteUrl": "https://www.flaresbars.co.uk/liverpool",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 355.3,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4063,
+    "frontObservationPointLon": -2.9876,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-ink-bar-way-1175774673",
@@ -802,7 +1165,14 @@
     "locationLabel": "78-82 Wood Street, Liverpool, L1 4DQ",
     "websiteUrl": "https://www.inkbarliverpool.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 216.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4024,
+    "frontObservationPointLon": -2.9783,
+    "facadeWidthM": 11.1
   },
   {
     "id": "nightclubs-popworld-way-1247828043",
@@ -816,7 +1186,14 @@
     "locationLabel": "Liverpool",
     "websiteUrl": "https://www.popworldparty.co.uk/liverpool",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 321.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4042,
+    "frontObservationPointLon": -2.9819,
+    "facadeWidthM": 8.9
   },
   {
     "id": "nightclubs-100-club-node-313349354",
@@ -832,6 +1209,13 @@
     "instagramUrl": "https://instagram.com/100clublondon",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 349.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5159,
+    "frontObservationPointLon": -0.135,
+    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -850,7 +1234,14 @@
     "websiteUrl": "https://www.alaskawaterloo.com",
     "instagramUrl": "https://instagram.com/alaska_waterloo",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 325.5,
+    "shadeClearanceDeg": 52.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5036,
+    "frontObservationPointLon": -0.111,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-arizona-lounge-node-1614146298",
@@ -864,7 +1255,14 @@
     "locationLabel": "134 Marylebone Road, London",
     "websiteUrl": "https://www.arizonalounge.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 163.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5224,
+    "frontObservationPointLon": -0.158,
+    "facadeWidthM": 7.7
   },
   {
     "id": "nightclubs-blagclub-kensington-node-7394550611",
@@ -878,7 +1276,14 @@
     "locationLabel": "11 Russell Gardens, London",
     "websiteUrl": "https://blagclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 319.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5002,
+    "frontObservationPointLon": -0.211,
+    "facadeWidthM": 5.1
   },
   {
     "id": "nightclubs-bodos-schloss-node-4177285145",
@@ -892,7 +1297,14 @@
     "locationLabel": "2a Kensington High Street, London, W8 4PT",
     "websiteUrl": "https://www.bodosschloss.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 156.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5025,
+    "frontObservationPointLon": -0.1878,
+    "facadeWidthM": 8.7
   },
   {
     "id": "nightclubs-cafe-1001-way-270424942",
@@ -906,7 +1318,14 @@
     "locationLabel": "Dray Walk, London, E1 6QL",
     "websiteUrl": "https://www.cafe1001.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 93.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5208,
+    "frontObservationPointLon": -0.0719,
+    "facadeWidthM": 13.1
   },
   {
     "id": "nightclubs-corsica-studios-node-1548849869",
@@ -921,6 +1340,13 @@
     "websiteUrl": "https://www.corsicastudios.com",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 197.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4936,
+    "frontObservationPointLon": -0.0982,
+    "facadeWidthM": 17.8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -939,6 +1365,13 @@
     "websiteUrl": "https://domelondon.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 286.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5571,
+    "frontObservationPointLon": -0.1384,
+    "facadeWidthM": 14.3,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -956,7 +1389,14 @@
     "locationLabel": "200 York Way, London, N7 9AX",
     "websiteUrl": "https://www.egglondon.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 333.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5417,
+    "frontObservationPointLon": -0.1248,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-electric-ballroom-way-451480064",
@@ -971,6 +1411,13 @@
     "websiteUrl": "https://electricballroom.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 188.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5398,
+    "frontObservationPointLon": -0.1424,
+    "facadeWidthM": 7.4,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -992,7 +1439,14 @@
     "locationLabel": "39 Parry Street, London, SW8 1RT",
     "websiteUrl": "https://www.firelondon.net",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 286.3,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.485,
+    "frontObservationPointLon": -0.1236,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-fire-london-node-13577489801",
@@ -1006,7 +1460,14 @@
     "locationLabel": "39 Parry Street",
     "websiteUrl": "https://www.firelondon.net",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 176.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4844,
+    "frontObservationPointLon": -0.1242,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-fold-node-12043434971",
@@ -1021,7 +1482,14 @@
     "websiteUrl": "https://www.fold.london",
     "instagramUrl": "https://instagram.com/fold.ldn",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 79.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5191,
+    "frontObservationPointLon": 0.004,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-jako-london-node-3868765589",
@@ -1035,7 +1503,14 @@
     "locationLabel": "1 Kensington High Street, London, W8 5NP",
     "websiteUrl": "https://www.jakolondon.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 11,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5022,
+    "frontObservationPointLon": -0.1875,
+    "facadeWidthM": 12.3
   },
   {
     "id": "nightclubs-kadies-club-node-5683818786",
@@ -1049,7 +1524,14 @@
     "locationLabel": "9 Swallow Street, London",
     "websiteUrl": "https://www.kadiesclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 241.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5092,
+    "frontObservationPointLon": -0.1372,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-koko-way-225465155",
@@ -1064,6 +1546,13 @@
     "websiteUrl": "https://www.koko.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 228.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5346,
+    "frontObservationPointLon": -0.1384,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1082,7 +1571,14 @@
     "websiteUrl": "https://www.lalounge.co.uk",
     "instagramUrl": "https://instagram.com/laloungeuk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 41,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5046,
+    "frontObservationPointLon": 0.0176,
+    "facadeWidthM": 7.6
   },
   {
     "id": "nightclubs-lafayette-node-9697951364",
@@ -1096,7 +1592,14 @@
     "locationLabel": "11 Goods Way, London, N1C 4DP",
     "websiteUrl": "https://www.lafayettelondon.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 334,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5343,
+    "frontObservationPointLon": -0.1258,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-le-fez-node-8809964755",
@@ -1110,7 +1613,14 @@
     "locationLabel": "200B Upper Richmond Road, London, SW15 2SH",
     "websiteUrl": "https://www.lefez.co.uk/putney",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 194.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4608,
+    "frontObservationPointLon": -0.2167,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-lightbox-node-368025671",
@@ -1124,7 +1634,14 @@
     "locationLabel": "6a South Lambeth Place, London, SW8 1SP",
     "websiteUrl": "https://www.lightboxlondon.net",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 285.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4853,
+    "frontObservationPointLon": -0.1235,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-ma-dame-node-6981977191",
@@ -1138,7 +1655,14 @@
     "locationLabel": "58 Porchester Road, London",
     "websiteUrl": "https://ma-dame.london",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 267.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5183,
+    "frontObservationPointLon": -0.1889,
+    "facadeWidthM": 6.1
   },
   {
     "id": "nightclubs-mahiki-way-289954045",
@@ -1152,7 +1676,14 @@
     "locationLabel": "1 Dover Street, London, W1S 4LA",
     "websiteUrl": "https://mahiki.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 239.3,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5077,
+    "frontObservationPointLon": -0.1414,
+    "facadeWidthM": 6.6
   },
   {
     "id": "nightclubs-milk-and-honey-way-273720739",
@@ -1166,7 +1697,14 @@
     "locationLabel": "61 Poland Street, London, W1F 7NU",
     "websiteUrl": "https://www.mlkhny.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 246.2,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5138,
+    "frontObservationPointLon": -0.1364,
+    "facadeWidthM": 5.2
   },
   {
     "id": "nightclubs-moth-club-node-8846263692",
@@ -1181,6 +1719,13 @@
     "websiteUrl": "https://www.mothclub.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 261.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5457,
+    "frontObservationPointLon": -0.0546,
+    "facadeWidthM": 6.7,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1199,7 +1744,14 @@
     "websiteUrl": "https://nighttales.co.uk",
     "instagramUrl": "https://instagram.com/nighttalesldn",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 354.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5474,
+    "frontObservationPointLon": -0.0532,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-night-tales-loft-node-9286567817",
@@ -1214,7 +1766,14 @@
     "websiteUrl": "https://ntloft.co.uk",
     "instagramUrl": "https://instagram.com/ntloft",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 179.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5374,
+    "frontObservationPointLon": -0.0578,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-no4-mayfair-node-5643033215",
@@ -1228,7 +1787,14 @@
     "locationLabel": "4 Mill Street, London",
     "websiteUrl": "https://www.no4mayfair.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 41.4,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5125,
+    "frontObservationPointLon": -0.1423,
+    "facadeWidthM": 7.4
   },
   {
     "id": "nightclubs-notting-hill-arts-club-node-2244810458",
@@ -1242,7 +1808,14 @@
     "locationLabel": "21 Notting Hill Gate, London",
     "websiteUrl": "https://nottinghillartsclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 342.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5093,
+    "frontObservationPointLon": -0.1946,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-o2-academy-islington-node-582582173",
@@ -1257,6 +1830,13 @@
     "websiteUrl": "https://www.academymusicgroup.com/o2academyislington",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 296.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5345,
+    "frontObservationPointLon": -0.1059,
+    "facadeWidthM": 18,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1274,7 +1854,14 @@
     "locationLabel": "London",
     "websiteUrl": "https://www.popworldparty.co.uk/watford",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 46.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6583,
+    "frontObservationPointLon": -0.4005,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-scala-way-137825939",
@@ -1288,7 +1875,14 @@
     "locationLabel": "London",
     "websiteUrl": "https://scala.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 12.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5306,
+    "frontObservationPointLon": -0.1214,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-shoreditch-townhouse-way-173037429",
@@ -1302,7 +1896,14 @@
     "locationLabel": "25 Paul Street, London, EC2A 4JU",
     "websiteUrl": "https://www.shoreditchtownhouse.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 92.9,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.523,
+    "frontObservationPointLon": -0.0845,
+    "facadeWidthM": 6.8
   },
   {
     "id": "nightclubs-tape-node-5618206360",
@@ -1316,7 +1917,14 @@
     "locationLabel": "17 Hanover Square, London",
     "websiteUrl": "https://tapelondon.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 73.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5143,
+    "frontObservationPointLon": -0.1446,
+    "facadeWidthM": 7.3
   },
   {
     "id": "nightclubs-the-brink-node-9116743525",
@@ -1331,7 +1939,14 @@
     "websiteUrl": "https://www.offbroadway.org.uk",
     "instagramUrl": "https://instagram.com/thebrinkvenue",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 297.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5373,
+    "frontObservationPointLon": -0.0612,
+    "facadeWidthM": 5.5
   },
   {
     "id": "nightclubs-the-cause-node-12681133571",
@@ -1345,7 +1960,14 @@
     "locationLabel": "60 Dock Road, London, E16 1YZ",
     "websiteUrl": "https://supportthecause.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 148.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5042,
+    "frontObservationPointLon": 0.0168,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-the-cuckoo-club-node-5471743323",
@@ -1359,7 +1981,14 @@
     "locationLabel": "London",
     "websiteUrl": "https://www.thecuckooclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 117.8,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5099,
+    "frontObservationPointLon": -0.1379,
+    "facadeWidthM": 9.1
   },
   {
     "id": "nightclubs-the-dome-node-5208012486",
@@ -1374,6 +2003,13 @@
     "websiteUrl": "https://domelondon.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 267.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5571,
+    "frontObservationPointLon": -0.1385,
+    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1391,7 +2027,14 @@
     "locationLabel": "259 Upper Street, London, N1 1RU",
     "websiteUrl": "https://www.barsandvenues.co.uk/jamandryeislington",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 92.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.546,
+    "frontObservationPointLon": -0.1033,
+    "facadeWidthM": 7.6
   },
   {
     "id": "nightclubs-the-garage-node-360043073",
@@ -1406,6 +2049,13 @@
     "websiteUrl": "https://www.thegarage.london",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 220.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5467,
+    "frontObservationPointLon": -0.104,
+    "facadeWidthM": 13.8,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1423,7 +2073,14 @@
     "locationLabel": "103 Talbot Road",
     "websiteUrl": "https://www.theglobeclub.com/home",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 345.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5167,
+    "frontObservationPointLon": -0.2005,
+    "facadeWidthM": 5.3
   },
   {
     "id": "nightclubs-the-grace-node-12240961536",
@@ -1439,6 +2096,13 @@
     "instagramUrl": "https://instagram.com/thegraceldn",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 220.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5467,
+    "frontObservationPointLon": -0.104,
+    "facadeWidthM": 13.8,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1457,7 +2121,14 @@
     "websiteUrl": "https://www.thehatchclub.co.uk",
     "instagramUrl": "https://instagram.com/hatchclub",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 226.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.475,
+    "frontObservationPointLon": -0.0349,
+    "facadeWidthM": 8.2
   },
   {
     "id": "nightclubs-the-pheasantry-way-894981162",
@@ -1471,7 +2142,14 @@
     "locationLabel": "152 King's Road, London, SW3 4UT",
     "websiteUrl": "https://www.pizzaexpresslive.com/venues/chelsea-the-pheasantry",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 330.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4889,
+    "frontObservationPointLon": -0.1649,
+    "facadeWidthM": 13.3
   },
   {
     "id": "nightclubs-the-roxy-node-2993795433",
@@ -1485,7 +2163,14 @@
     "locationLabel": "3-5 Rathbone Place, London, W1T 1HJ",
     "websiteUrl": "https://theroxy.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 243.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5166,
+    "frontObservationPointLon": -0.1331,
+    "facadeWidthM": 17.8
   },
   {
     "id": "nightclubs-the-underworld-node-430832360",
@@ -1500,6 +2185,13 @@
     "websiteUrl": "https://www.theunderworldcamden.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 153,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5392,
+    "frontObservationPointLon": -0.1426,
+    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1517,7 +2209,14 @@
     "locationLabel": "Leake Street, London, SE1 7NN",
     "websiteUrl": "https://www.thevaults.london",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 205.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5013,
+    "frontObservationPointLon": -0.1142,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-the-waiting-room-node-8811598060",
@@ -1533,6 +2232,13 @@
     "instagramUrl": "https://instagram.com/waitingroomn16",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 185.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.562,
+    "frontObservationPointLon": -0.074,
+    "facadeWidthM": 18,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1550,7 +2256,14 @@
     "locationLabel": "23 Kingsway, London, WC2B 6UJ",
     "websiteUrl": "https://thetopsecretcomedyclub.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 247.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5143,
+    "frontObservationPointLon": -0.118,
+    "facadeWidthM": 9.5
   },
   {
     "id": "nightclubs-troxy-way-190715113",
@@ -1566,6 +2279,13 @@
     "instagramUrl": "https://instagram.com/troxylondon",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 269.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5131,
+    "frontObservationPointLon": -0.0436,
+    "facadeWidthM": 7,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1584,6 +2304,13 @@
     "websiteUrl": "https://229.london",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 288.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5234,
+    "frontObservationPointLon": -0.145,
+    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1601,7 +2328,14 @@
     "locationLabel": "66 Stoke Newington Road, London, N16 7XB",
     "websiteUrl": "https://www.vfdalston.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 273.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5525,
+    "frontObservationPointLon": -0.0748,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-village-underground-way-205296759",
@@ -1615,7 +2349,14 @@
     "locationLabel": "54 Holywell Lane, London, EC2A 3PQ",
     "websiteUrl": "https://www.villageunderground.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 133.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5234,
+    "frontObservationPointLon": -0.0789,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-xoyo-way-155362965",
@@ -1630,6 +2371,13 @@
     "websiteUrl": "https://www.xoyo.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 176.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5254,
+    "frontObservationPointLon": -0.0858,
+    "facadeWidthM": 17.4,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1647,7 +2395,14 @@
     "locationLabel": "119 Hampstead Road, London",
     "websiteUrl": "https://www.zodiacbarlondon.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 90.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5279,
+    "frontObservationPointLon": -0.139,
+    "facadeWidthM": 8.7
   },
   {
     "id": "nightclubs-zoo-bar-and-club-node-7741904802",
@@ -1661,7 +2416,14 @@
     "locationLabel": "13-17 Bear Street, London, WC2H 7AS",
     "websiteUrl": "https://www.zoobar.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 13.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5109,
+    "frontObservationPointLon": -0.1288,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-aatma-node-13168115001",
@@ -1675,7 +2437,14 @@
     "locationLabel": "14-16 Faraday Street",
     "websiteUrl": "https://aatmavenue.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 126.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4826,
+    "frontObservationPointLon": -2.2328,
+    "facadeWidthM": 11.1
   },
   {
     "id": "nightclubs-club-tropicana-node-1295097473",
@@ -1689,7 +2458,14 @@
     "locationLabel": "33 Sackville Street, Manchester, M1 3LZ",
     "websiteUrl": "https://www.therembrandtmanchester.com/club-tropicana",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 133.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4771,
+    "frontObservationPointLon": -2.2369,
+    "facadeWidthM": 11.6
   },
   {
     "id": "nightclubs-n-om-node-13289915701",
@@ -1704,7 +2480,14 @@
     "websiteUrl": "https://n-om.club",
     "instagramUrl": "https://instagram.com/n_om.club",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 45,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4847,
+    "frontObservationPointLon": -2.2139,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-yes-node-9062401417",
@@ -1718,7 +2501,14 @@
     "locationLabel": "38 Charles Street, Manchester, M1 7DB",
     "websiteUrl": "https://yes-manchester.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 154.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.474,
+    "frontObservationPointLon": -2.2381,
+    "facadeWidthM": 10.7
   },
   {
     "id": "nightclubs-flares-popworld-way-1125523286",
@@ -1732,7 +2522,14 @@
     "locationLabel": "7 Albert Road, Middlesbrough, TS1 1PQ",
     "websiteUrl": "https://www.flaresbars.co.uk/middlesbrough",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 7.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.578,
+    "frontObservationPointLon": -1.2346,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-middlesbrough-empire-way-348786091",
@@ -1746,7 +2543,14 @@
     "locationLabel": "2 Corporation Road, Middlesbrough, TS1 2RT",
     "websiteUrl": "https://www.themiddlesbroughempire.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 97.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5759,
+    "frontObservationPointLon": -1.233,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-bistro-live-node-11840412559",
@@ -1761,7 +2565,14 @@
     "websiteUrl": "https://www.bistrolive.com",
     "instagramUrl": "https://instagram.com/bistrolive",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 55.7,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.039,
+    "frontObservationPointLon": -0.7602,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-popworld-way-120290879",
@@ -1775,7 +2586,14 @@
     "locationLabel": "499 Lower Twelfth Street, Milton Keynes, MK9 3PY",
     "websiteUrl": "https://www.popworldparty.co.uk/milton-keynes",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 326.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.0435,
+    "frontObservationPointLon": -0.75,
+    "facadeWidthM": 7.2
   },
   {
     "id": "nightclubs-flares-node-102817269",
@@ -1789,7 +2607,14 @@
     "locationLabel": "33 Mosley Street, Newcastle upon Tyne, NE1 1YF",
     "websiteUrl": "https://www.flaresbars.co.uk/newcastleupontyne",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 323.3,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9707,
+    "frontObservationPointLon": -1.6117,
+    "facadeWidthM": 12.1
   },
   {
     "id": "nightclubs-howlers-node-4515143089",
@@ -1803,7 +2628,14 @@
     "locationLabel": "28-32 Collingwood Street, Newcastle Upon Tyne",
     "websiteUrl": "https://howlersnewcastle.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 333.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9697,
+    "frontObservationPointLon": -1.6136,
+    "facadeWidthM": 6.6
   },
   {
     "id": "nightclubs-little-buildings-node-6111301458",
@@ -1817,7 +2649,14 @@
     "locationLabel": "3-5 Stepney Bank, Newcastle upon Tyne, NE1 2PW",
     "websiteUrl": "https://www.littlebuildingslive.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 168.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9747,
+    "frontObservationPointLon": -1.5961,
+    "facadeWidthM": 7.4
   },
   {
     "id": "nightclubs-riverside-way-131661180",
@@ -1831,7 +2670,14 @@
     "locationLabel": "Close, Newcastle upon Tyne, NE1 3RQ",
     "websiteUrl": "https://www.riversidencl.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 326.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9679,
+    "frontObservationPointLon": -1.6091,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-the-grove-node-12645056589",
@@ -1845,7 +2691,14 @@
     "locationLabel": "1 St Michael's Rd, Newcastle upon Tyne, NE6 1QU",
     "websiteUrl": "https://www.thegrovenewcastle.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 194,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9726,
+    "frontObservationPointLon": -1.584,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-tup-tup-palace-node-5961871388",
@@ -1859,7 +2712,14 @@
     "locationLabel": "7 - 9 St Nicholas Street, Newcastle upon Tyne, NE1 1RE",
     "websiteUrl": "https://www.tuptuppalace.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 253.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9699,
+    "frontObservationPointLon": -1.6117,
+    "facadeWidthM": 6.8
   },
   {
     "id": "nightclubs-world-headquarters-node-215654059",
@@ -1873,7 +2733,14 @@
     "locationLabel": "Carliol Square, Newcastle upon Tyne, NE1 6UF",
     "websiteUrl": "https://www.welovewhq.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 250.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9726,
+    "frontObservationPointLon": -1.6083,
+    "facadeWidthM": 16.9
   },
   {
     "id": "nightclubs-bar-and-beyond-way-170316357",
@@ -1888,7 +2755,14 @@
     "websiteUrl": "https://barandbeyond.co.uk/norwich",
     "instagramUrl": "https://instagram.com/barandbeyondnorwich",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 73.7,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.6298,
+    "frontObservationPointLon": 1.3003,
+    "facadeWidthM": 13.1
   },
   {
     "id": "nightclubs-loft-way-242049091",
@@ -1902,7 +2776,14 @@
     "locationLabel": "78-80 Rose Lane, Norwich, NR1 1PT",
     "websiteUrl": "https://www.loftnr1.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 203,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.6285,
+    "frontObservationPointLon": 1.303,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-popworld-way-120680604",
@@ -1916,7 +2797,14 @@
     "locationLabel": "63-67 Prince of Wales Road, Norwich, NR1 1DG",
     "websiteUrl": "https://www.popworldparty.co.uk/norwich",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 29,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.6288,
+    "frontObservationPointLon": 1.3026,
+    "facadeWidthM": 6.5
   },
   {
     "id": "nightclubs-ng-one-way-125402781",
@@ -1931,7 +2819,14 @@
     "websiteUrl": "https://www.ng-one.club",
     "instagramUrl": "https://instagram.com/ngoneclub",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 24.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.9549,
+    "frontObservationPointLon": -1.1418,
+    "facadeWidthM": 10.2
   },
   {
     "id": "nightclubs-ocean-way-85644334",
@@ -1946,7 +2841,14 @@
     "websiteUrl": "https://www.oceantickets.com",
     "instagramUrl": "https://instagram.com/andythehoe",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 317.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.9493,
+    "frontObservationPointLon": -1.1497,
+    "facadeWidthM": 7
   },
   {
     "id": "nightclubs-the-brickworks-node-7176563885",
@@ -1960,7 +2862,14 @@
     "locationLabel": "Newark Street, Nottingham, NG2 4PP",
     "websiteUrl": "https://thebrickworksnottingham.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 177,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.9511,
+    "frontObservationPointLon": -1.1356,
+    "facadeWidthM": 13.3
   },
   {
     "id": "nightclubs-glamorous-way-988834884",
@@ -1974,7 +2883,14 @@
     "locationLabel": "15 St Clements Street, Oxford, OX4 1AB",
     "websiteUrl": "https://glamorous.bar/locations/oxford",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 270.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.7504,
+    "frontObservationPointLon": -1.2434,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-o2-academy-node-175707022",
@@ -1989,6 +2905,13 @@
     "websiteUrl": "https://www.o2academyoxford.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 29.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.7469,
+    "frontObservationPointLon": -1.2345,
+    "facadeWidthM": 18,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2006,7 +2929,14 @@
     "locationLabel": "Frewin Court, Oxford, OX1 3JB",
     "websiteUrl": "https://plushoxford.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 71.2,
+    "shadeClearanceDeg": 52.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.753,
+    "frontObservationPointLon": -1.2591,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-popworld-way-927363063",
@@ -2020,7 +2950,14 @@
     "locationLabel": "Plymouth",
     "websiteUrl": "https://www.popworldparty.co.uk/plymouth",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 267.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.3702,
+    "frontObservationPointLon": -4.1482,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-spirit-node-514180678",
@@ -2034,7 +2971,14 @@
     "locationLabel": "33 Derry's Cross, Plymouth, PL1 2SW",
     "websiteUrl": "https://www.spiritplymouth.co.uk",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 359.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.3695,
+    "frontObservationPointLon": -4.1459,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-pop-world-node-9838690220",
@@ -2048,7 +2992,14 @@
     "locationLabel": "Portsmouth",
     "websiteUrl": "https://www.popworldparty.co.uk/portsmouth",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 19.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7972,
+    "frontObservationPointLon": -1.0934,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-popworld-node-4997017595",
@@ -2062,7 +3013,14 @@
     "locationLabel": "13 Church Street, Preston, PR1 3BQ",
     "websiteUrl": "https://www.popworldparty.co.uk/preston",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 73.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7588,
+    "frontObservationPointLon": -2.6977,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-circus-tavern-way-83523764",
@@ -2076,7 +3034,14 @@
     "locationLabel": "Meads Corner, Purfleet, RM19 1TS",
     "websiteUrl": "https://www.circustavern.org",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 270.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.486,
+    "frontObservationPointLon": 0.246,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-corporation-way-96402566",
@@ -2092,6 +3057,13 @@
     "instagramUrl": "https://instagram.com/corpsheffield",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 235.6,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3774,
+    "frontObservationPointLon": -1.4761,
+    "facadeWidthM": 18,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2109,7 +3081,14 @@
     "locationLabel": "2-8 Carver Street, Sheffield, S1 4FS",
     "websiteUrl": "https://www.popworldparty.co.uk/sheffield",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 343.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3808,
+    "frontObservationPointLon": -1.4746,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-the-foundry-node-8755032262",
@@ -2123,7 +3102,14 @@
     "locationLabel": "Western Bank, Sheffield, S10 2TG",
     "websiteUrl": "https://foundrysu.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 187.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3805,
+    "frontObservationPointLon": -1.4872,
+    "facadeWidthM": 4.5
   },
   {
     "id": "nightclubs-pop-world-way-168803972",
@@ -2138,6 +3124,13 @@
     "websiteUrl": "https://www.popworldparty.co.uk/southampton",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 167.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.9124,
+    "frontObservationPointLon": -1.4052,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2155,7 +3148,14 @@
     "locationLabel": "2 Wind Street",
     "websiteUrl": "https://www.popworldparty.co.uk/swansea",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 216.8,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6197,
+    "frontObservationPointLon": -3.9408,
+    "facadeWidthM": 6.3
   },
   {
     "id": "nightclubs-central-station-venue-node-31321593",
@@ -2169,7 +3169,14 @@
     "locationLabel": "Wrexham",
     "websiteUrl": "https://centralstationvenue.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable"
+    "status": "unavailable",
+    "frontBearingDeg": 194.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.0457,
+    "frontObservationPointLon": -2.9958,
+    "facadeWidthM": 18
   },
   {
     "id": "nightclubs-flares-node-27497661",
@@ -2184,6 +3191,13 @@
     "websiteUrl": "https://www.flaresbars.co.uk/york",
     "solarMode": "outdoor-area",
     "status": "unavailable",
+    "frontBearingDeg": 140.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.9587,
+    "frontObservationPointLon": -1.0867,
+    "facadeWidthM": 11.3,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"

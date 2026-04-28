@@ -11,7 +11,13 @@
     "locationLabel": "15 Chapel Street, Aberdeen, AB10 1SQ",
     "websiteUrl": "https://www.almondine.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 81.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.144,
+    "frontObservationPointLon": -2.11,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -33,7 +39,13 @@
     "locationLabel": "Aberdeen",
     "websiteUrl": "https://www.nhsgrampian.org/hospital-hub/shared-facilities/aroma-coffee-bar",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 259,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1548,
+    "frontObservationPointLon": -2.1385,
+    "facadeWidthM": 12.7,
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -51,7 +63,13 @@
     "locationLabel": "Garthdee Road, Aberdeen, AB10 7QA",
     "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/garth-dee-road-bridge-of-dee-aberdeen/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 78.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1251,
+    "frontObservationPointLon": -2.1231,
+    "facadeWidthM": 18,
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -69,7 +87,13 @@
     "locationLabel": "Aberdeen",
     "websiteUrl": "https://storelocator.asda.com/scotland/aberdeen/unit-1-beach-boulevard-retail-park/cafe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 153.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1502,
+    "frontObservationPointLon": -2.0821,
+    "facadeWidthM": 15
   },
   {
     "id": "cafes-bagel-society-node-8927601220",
@@ -83,7 +107,13 @@
     "locationLabel": "68 Rosemount Place, Aberdeen, AB25 2XJ",
     "websiteUrl": "https://bagelsociety.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 72.2,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1505,
+    "frontObservationPointLon": -2.1132,
+    "facadeWidthM": 9.4,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -101,7 +131,13 @@
     "locationLabel": "123 Holburn Street, Aberdeen, AB10 6BP",
     "websiteUrl": "https://bevsbistro.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 280.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1399,
+    "frontObservationPointLon": -2.1135,
+    "facadeWidthM": 5.5
   },
   {
     "id": "cafes-biocafe-node-10914042506",
@@ -115,7 +151,13 @@
     "locationLabel": "39 Rosemount Viaduct, Aberdeen, AB25 1NQ",
     "websiteUrl": "https://bio-cafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 30.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1479,
+    "frontObservationPointLon": -2.1084,
+    "facadeWidthM": 9.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -133,7 +175,13 @@
     "locationLabel": "Unit GS26/27 Guild Street, Aberdeen, AB11 5PN",
     "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-square",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 325.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1441,
+    "frontObservationPointLon": -2.0981,
+    "facadeWidthM": 9.3,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -151,7 +199,13 @@
     "locationLabel": "73 Union Street, Aberdeen, AB11 6BD",
     "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/union-street",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 147,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1467,
+    "frontObservationPointLon": -2.0974,
+    "facadeWidthM": 13.1
   },
   {
     "id": "cafes-books-and-beans-way-314723708",
@@ -165,7 +219,13 @@
     "locationLabel": "22 Belmont Street, Aberdeen, AB10 1JH",
     "websiteUrl": "https://booksandbeans.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 63.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1472,
+    "frontObservationPointLon": -2.1018,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -183,7 +243,13 @@
     "locationLabel": "Guild Street, Aberdeen, AB11 5PS",
     "websiteUrl": "https://bubblecitea.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 325.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1441,
+    "frontObservationPointLon": -2.0981,
+    "facadeWidthM": 9.3
   },
   {
     "id": "cafes-cafe-ahoy-node-5927480255",
@@ -197,7 +263,13 @@
     "locationLabel": "Beach Boulevard, Aberdeen, AB24 5HP",
     "websiteUrl": "https://www.cafeahoy.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 338.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1501,
+    "frontObservationPointLon": -2.0878,
+    "facadeWidthM": 15.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -215,7 +287,13 @@
     "locationLabel": "47 The Green, Aberdeen, AB11 6NY",
     "websiteUrl": "https://contourcatering.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 91.2,
+    "shadeClearanceDeg": 67.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1459,
+    "frontObservationPointLon": -2.0988,
+    "facadeWidthM": 10.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -244,7 +322,13 @@
     "locationLabel": "160-162 Union Street, Aberdeen, AB10 1QT",
     "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 153,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1453,
+    "frontObservationPointLon": -2.1038,
+    "facadeWidthM": 8.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -262,7 +346,13 @@
     "locationLabel": "452-456 Union Street, Aberdeen, AB10 1TR",
     "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-rose-st",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 62.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1433,
+    "frontObservationPointLon": -2.1109,
+    "facadeWidthM": 10.2
   },
   {
     "id": "cafes-caffe-nero-way-314093672",
@@ -276,7 +366,13 @@
     "locationLabel": "3-5 St. Nicholas Street, Aberdeen, AB10 1HE",
     "websiteUrl": "https://www.caffenero.com/uk/stores/aberdeen-union-st",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 150.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1471,
+    "frontObservationPointLon": -2.0981,
+    "facadeWidthM": 9
   },
   {
     "id": "cafes-common-sense-node-10303687552",
@@ -290,7 +386,13 @@
     "locationLabel": "Union Terrace, Aberdeen, AB10 1DF",
     "websiteUrl": "https://common-sense.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 45.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1476,
+    "frontObservationPointLon": -2.1052,
+    "facadeWidthM": 8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -308,7 +410,12 @@
     "locationLabel": "Bon Accord Centre, Aberdeen, AB25 1HZ",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 316.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 57.1496,
+    "frontObservationPointLon": -2.1002,
+    "facadeWidthM": 7,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -326,7 +433,13 @@
     "locationLabel": "17 Thistle Street, Aberdeen, AB10 1XZ",
     "websiteUrl": "https://www.cuppbubbletea.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 352.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.144,
+    "frontObservationPointLon": -2.1108,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-foodstory-node-6738525985",
@@ -341,7 +454,13 @@
     "websiteUrl": "https://foodstorycafe.co.uk",
     "instagramUrl": "https://instagram.com/foodstoryscotland",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 352.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.144,
+    "frontObservationPointLon": -2.1108,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-greyhope-bay-centre-way-1053362786",
@@ -355,7 +474,13 @@
     "locationLabel": "Greyhope Road, Aberdeen, AB11 8QX",
     "websiteUrl": "https://www.greyhopebay.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 0.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1419,
+    "frontObservationPointLon": -2.059,
+    "facadeWidthM": 7.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -373,7 +498,13 @@
     "locationLabel": "148 Spital, Aberdeen, AB24 3JU",
     "websiteUrl": "https://grubfreshfood.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 66.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1605,
+    "frontObservationPointLon": -2.1007,
+    "facadeWidthM": 4.5,
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
@@ -401,7 +532,13 @@
     "locationLabel": "179 Constitution Street, Aberdeen, AB24 5TU",
     "websiteUrl": "https://aberdeensciencecentre.org/food-drink",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 128.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1532,
+    "frontObservationPointLon": -2.0844,
+    "facadeWidthM": 12.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -425,7 +562,13 @@
     "locationLabel": "409 Union Street, Aberdeen, AB11 6DA",
     "websiteUrl": "https://www.jungleberryacai.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 333.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1435,
+    "frontObservationPointLon": -2.1092,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-kilau-coffee-node-1647979141",
@@ -439,7 +582,13 @@
     "locationLabel": "57 High Street, Aberdeen, AB24 3EH",
     "websiteUrl": "https://kilaucoffee.wordpress.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 354.9,
+    "shadeClearanceDeg": 77.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1657,
+    "frontObservationPointLon": -2.1024,
+    "facadeWidthM": 12.9
   },
   {
     "id": "cafes-mount-node-9241869054",
@@ -454,7 +603,13 @@
     "websiteUrl": "https://www.mountaberdeen.com",
     "instagramUrl": "https://instagram.com/mountaberdeen",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 227,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.149,
+    "frontObservationPointLon": -2.0981,
+    "facadeWidthM": 8.4
   },
   {
     "id": "cafes-parx-cafe-node-13647661036",
@@ -468,7 +623,13 @@
     "locationLabel": "19 Rubislaw Terrace, Aberdeen, AB10 1XE",
     "websiteUrl": "https://parxcafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 181.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1434,
+    "frontObservationPointLon": -2.1183,
+    "facadeWidthM": 8.3
   },
   {
     "id": "cafes-so-nyc-bagels-and-brew-node-9106209425",
@@ -483,7 +644,13 @@
     "websiteUrl": "https://www.soaberdeen.co.uk",
     "instagramUrl": "https://instagram.com/sonyc.aberdeen",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 332.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1443,
+    "frontObservationPointLon": -2.1064,
+    "facadeWidthM": 13.6,
     "foodTags": {
       "tags": [
         "sandwich"
@@ -503,7 +670,13 @@
     "locationLabel": "208 Union Street, Aberdeen, AB10 1TL",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2400/aberdeen-union-street-208-union-street-aberdeen-sct-ab-10-1-tl-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 153.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1447,
+    "frontObservationPointLon": -2.1059,
+    "facadeWidthM": 7.3
   },
   {
     "id": "cafes-starbucks-node-1022489491",
@@ -517,7 +690,13 @@
     "locationLabel": "2-4 Upperkirkgate, Aberdeen, AB10 1BA",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2907/aberdeen-upperkirkgate-upperkirkgate-2-4-aberdeen-sct-ab-10-1-ba-gb",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 140.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1492,
+    "frontObservationPointLon": -2.0977,
+    "facadeWidthM": 10.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -539,7 +718,13 @@
     "locationLabel": "Aberdeen",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/18762/aberdeen-union-square-mc-2-first-floor-level-union-square-aberdeen-sct-a",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 55.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1427,
+    "frontObservationPointLon": -2.0956,
+    "facadeWidthM": 11.7,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -557,7 +742,13 @@
     "locationLabel": "496 Union Street, Aberdeen, AB10 1TS",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2904/aberdeen-holburn-junction-496-union-street-aberdeen-sct-ab-10-1-ts-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 333.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1429,
+    "frontObservationPointLon": -2.1115,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-the-bread-maker-node-1907704038",
@@ -571,7 +762,13 @@
     "locationLabel": "50/52 Rosemount Viaduct Rosemount Viaduct, Aberdeen, AB25 1NT",
     "websiteUrl": "https://www.thebreadmaker.org.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 215.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1482,
+    "frontObservationPointLon": -2.1085,
+    "facadeWidthM": 10.1
   },
   {
     "id": "cafes-the-park-cafe-way-128912374",
@@ -585,7 +782,13 @@
     "locationLabel": "Polmuir Road, Aberdeen, AB11 7TH",
     "websiteUrl": "https://www.park-cafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 154.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 57.1316,
+    "frontObservationPointLon": -2.1042,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -607,7 +810,13 @@
     "locationLabel": "Garfield Road, Addlestone, KT15 2NJ",
     "websiteUrl": "https://www.addlestonecommunityassociation.org",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 143.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3708,
+    "frontObservationPointLon": -0.4883,
+    "facadeWidthM": 4.9,
     "foodOffer": {
       "category": "snacks",
       "confidence": "confirmed"
@@ -625,7 +834,13 @@
     "locationLabel": "108-110 Station Road, Addlestone, KT15 2BQ",
     "websiteUrl": "https://www.costa.co.uk/locations/store-locator",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 295.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3714,
+    "frontObservationPointLon": -0.4876,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -643,7 +858,13 @@
     "locationLabel": "Church Road, Addlestone, KT15 1TB",
     "websiteUrl": "https://www.stpaulscofe.org/hebrewscoffeeshop.htm",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 163.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3687,
+    "frontObservationPointLon": -0.5027,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-mooboo-node-11775089740",
@@ -657,7 +878,13 @@
     "locationLabel": "The Lane, Addlestone, KT15 2GN",
     "websiteUrl": "https://www.mooboo.co",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 246.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3705,
+    "frontObservationPointLon": -0.4898,
+    "facadeWidthM": 11.2
   },
   {
     "id": "cafes-project-cafe-addlestone-node-13725189755",
@@ -671,7 +898,13 @@
     "locationLabel": "44B High Street, Addlestone, KT15 1TR",
     "websiteUrl": "https://www.countycare.co.uk/project-cafe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 266.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3724,
+    "frontObservationPointLon": -0.4929,
+    "facadeWidthM": 8.3
   },
   {
     "id": "cafes-asda-cafe-node-7497107442",
@@ -685,7 +918,13 @@
     "locationLabel": "90 George Richards Way, Altrincham, WA14 5ZR",
     "websiteUrl": "https://storelocator.asda.com/north-west/altrincham/90-george-richards-way-broadheath/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 251.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3978,
+    "frontObservationPointLon": -2.3636,
+    "facadeWidthM": 5.4,
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -703,7 +942,13 @@
     "locationLabel": "Shaw's Road, Altrincham",
     "websiteUrl": "https://www.caffenero.com/uk/stores/altrincham",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 208,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3873,
+    "frontObservationPointLon": -2.3506,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-kickback-coffee-node-11737932222",
@@ -717,7 +962,13 @@
     "locationLabel": "4 Viaduct Road, Altrincham, WA14 5DU",
     "websiteUrl": "https://kickbackcoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 180.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3994,
+    "frontObservationPointLon": -2.3494,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-node-1300485965",
@@ -731,7 +982,13 @@
     "locationLabel": "Lloyd Street, Altrincham, WA14 2SU",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2799/altrincham-sainsburys-lloyd-street-altrincham-eng-wa-14-2-su-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 97.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.384,
+    "frontObservationPointLon": -2.3503,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-twig-and-spoon-node-3810334335",
@@ -745,7 +1002,12 @@
     "locationLabel": "Ash Lane, Ash, TN15 7EG",
     "websiteUrl": "https://www.twigandspoon.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 76.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 51.3312,
+    "frontObservationPointLon": 0.2852,
+    "facadeWidthM": 7
   },
   {
     "id": "cafes-96-degrees-node-13073395733",
@@ -759,7 +1021,13 @@
     "locationLabel": "Fordbridge Park, Ashford, TW15 3SJ",
     "websiteUrl": "https://tennisspelthorne.com/96-degrees-coffee-shop",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 102.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4267,
+    "frontObservationPointLon": -0.4769,
+    "facadeWidthM": 10.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -781,7 +1049,13 @@
     "locationLabel": "11 New Parade, Ashford, TW15 2UF",
     "websiteUrl": "https://www.tarlacafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 67.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4344,
+    "frontObservationPointLon": -0.4657,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-cafe-chai-node-5996337155",
@@ -795,7 +1069,13 @@
     "locationLabel": "135 High Street, Banstead, SM7 2NS",
     "websiteUrl": "https://www.cafechai.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 153.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3236,
+    "frontObservationPointLon": -0.1983,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -813,7 +1093,13 @@
     "locationLabel": "49 High Street, Banstead, SM7 2NL",
     "websiteUrl": "https://caffeitaliabanstead.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 162.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3226,
+    "frontObservationPointLon": -0.2019,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-caffe-nero-node-5996591283",
@@ -827,7 +1113,13 @@
     "locationLabel": "37 High Street, Banstead, SM7 2NH",
     "websiteUrl": "https://www.caffenero.com/uk/stores/banstead",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 161.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3224,
+    "frontObservationPointLon": -0.2027,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-way-314787507",
@@ -841,7 +1133,13 @@
     "locationLabel": "37 Station Parade, Barking, IG11 8EB",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/67851-302707",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 217.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.5389,
+    "frontObservationPointLon": 0.0803,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-little-crafters-cafe-way-328680358",
@@ -855,7 +1153,13 @@
     "locationLabel": "102 Cockfosters Road, Barnet, EN4 0DP",
     "websiteUrl": "https://www.littlecrafterscafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 293.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6495,
+    "frontObservationPointLon": -0.148,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-nkora-node-8687620814",
@@ -869,7 +1173,13 @@
     "locationLabel": "High Street, Barnet, EN5 5XY",
     "websiteUrl": "https://nkora.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 175.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6554,
+    "frontObservationPointLon": -0.2021,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -887,7 +1197,13 @@
     "locationLabel": "BA2 7BT",
     "websiteUrl": "https://www.bath.ac.uk/locations/4w-cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 189.1,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3798,
+    "frontObservationPointLon": -2.3295,
+    "facadeWidthM": 4.6,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -915,7 +1231,13 @@
     "locationLabel": "5 George Street, BA1 2ED",
     "websiteUrl": "https://www.adventurecafebar.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 160.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3852,
+    "frontObservationPointLon": -2.3613,
+    "facadeWidthM": 6.9,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -941,7 +1263,13 @@
     "locationLabel": "17 The Corridor, BA1 5AP",
     "websiteUrl": "https://www.authenticdelight.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 174.4,
+    "shadeClearanceDeg": 37.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3822,
+    "frontObservationPointLon": -2.3596,
+    "facadeWidthM": 11
   },
   {
     "id": "cafes-boston-tea-party-way-117879804",
@@ -955,7 +1283,13 @@
     "locationLabel": "8 Alfred Street, BA1 2QU",
     "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-alfred-street",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 73.8,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3858,
+    "frontObservationPointLon": -2.362,
+    "facadeWidthM": 7.9,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -973,7 +1307,13 @@
     "locationLabel": "BA1 2AE",
     "websiteUrl": "https://bostonteaparty.co.uk/cafes/bath-kingsmead-square",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 115.5,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3816,
+    "frontObservationPointLon": -2.3634,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -991,7 +1331,13 @@
     "locationLabel": "30 Shaftesbury Road, Bath, BA2 3LJ",
     "websiteUrl": "https://www.brightfield.org.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 324.7,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3765,
+    "frontObservationPointLon": -2.3777,
+    "facadeWidthM": 5.3
   },
   {
     "id": "cafes-bubble-ci-tea-node-7837077853",
@@ -1005,7 +1351,13 @@
     "locationLabel": "16 Southgate Place, BA1 1AP",
     "websiteUrl": "https://bubblecitea.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 21.8,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3787,
+    "frontObservationPointLon": -2.3583,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-cafe-at-the-centre-node-1115457938",
@@ -1019,7 +1371,13 @@
     "locationLabel": "BA1 1JW",
     "websiteUrl": "https://manversstreetbaptist.wordpress.com/the-open-house-centre/cafe-at-the-centre",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 267.3,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3787,
+    "frontObservationPointLon": -2.3568,
+    "facadeWidthM": 5.7,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1037,7 +1395,13 @@
     "locationLabel": "12-14 Dorchester Street, BA1 1SS",
     "websiteUrl": "https://www.cafeaulait.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 179.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.378,
+    "frontObservationPointLon": -2.3573,
+    "facadeWidthM": 8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1055,7 +1419,13 @@
     "locationLabel": "1 Bartlett Street, Bath, BA1 2QZ",
     "websiteUrl": "https://www.cafelucca.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 167.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3856,
+    "frontObservationPointLon": -2.3621,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1073,7 +1443,13 @@
     "locationLabel": "8 Abbey Green, Bath, BA1 1NW",
     "websiteUrl": "https://cafepastel.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 167.5,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3804,
+    "frontObservationPointLon": -2.359,
+    "facadeWidthM": 5.2
   },
   {
     "id": "cafes-cafe-walcot-node-5958363485",
@@ -1087,7 +1463,13 @@
     "locationLabel": "90b Walcot Street, BA1 5BG",
     "websiteUrl": "https://www.walcothousebath.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 7.9,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3865,
+    "frontObservationPointLon": -2.3594,
+    "facadeWidthM": 11
   },
   {
     "id": "cafes-caffe-nero-node-3132211102",
@@ -1101,7 +1483,13 @@
     "locationLabel": "Dorchester Street, BA1 1SS",
     "websiteUrl": "https://www.caffenero.com/uk/stores/bath-southgate",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 5.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3779,
+    "frontObservationPointLon": -2.3585,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1119,7 +1507,13 @@
     "locationLabel": "11 Old Bond Street, BA1 1BP",
     "websiteUrl": "https://www.caffenero.com/uk/stores/bath-old-bond-st",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 103.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3826,
+    "frontObservationPointLon": -2.3611,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1141,7 +1535,13 @@
     "locationLabel": "BA1 5DU",
     "websiteUrl": "https://oasisbath.org",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 354.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.386,
+    "frontObservationPointLon": -2.3605,
+    "facadeWidthM": 10.3
   },
   {
     "id": "cafes-coffee-1-node-5838352165",
@@ -1155,7 +1555,13 @@
     "locationLabel": "Unit 1 Victoria Bridge Road, BA2 3GG",
     "websiteUrl": "https://www.coffee1.co.uk/locations/bath",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 41.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3836,
+    "frontObservationPointLon": -2.374,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1173,7 +1579,13 @@
     "locationLabel": "3 James Street West, BA1 2AG",
     "websiteUrl": "https://www.coffee1.co.uk/locations/bath-city-centre",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 31.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.381,
+    "frontObservationPointLon": -2.3646,
+    "facadeWidthM": 4.8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1192,7 +1604,13 @@
     "websiteUrl": "https://coffever.co.uk",
     "instagramUrl": "https://instagram.com/coffever2018",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 177.5,
+    "shadeClearanceDeg": 37.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3823,
+    "frontObservationPointLon": -2.3599,
+    "facadeWidthM": 4.6,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1211,7 +1629,13 @@
     "websiteUrl": "https://www.milsomplace.co.uk/stores/coret",
     "instagramUrl": "https://instagram.com/coret_coffee",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 166.6,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3838,
+    "frontObservationPointLon": -2.361,
+    "facadeWidthM": 6.8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1229,7 +1653,13 @@
     "locationLabel": "44 Stall Street, BA1 1QH",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 353.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3815,
+    "frontObservationPointLon": -2.3607,
+    "facadeWidthM": 13.3,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1247,7 +1677,13 @@
     "locationLabel": "Unit 4 Lower Bristol Road, BA2 1EP",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 62.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3816,
+    "frontObservationPointLon": -2.3859,
+    "facadeWidthM": 11.8
   },
   {
     "id": "cafes-da-vinci-italian-deli-way-577719390",
@@ -1261,7 +1697,13 @@
     "locationLabel": "33a Wellsway, BA2 4RR",
     "websiteUrl": "https://davincideli.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 177.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3735,
+    "frontObservationPointLon": -2.3662,
+    "facadeWidthM": 4.8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1280,7 +1722,13 @@
     "websiteUrl": "https://dexterscoffeeshop.com",
     "instagramUrl": "https://instagram.com/dexterscoffeeshop",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 20.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3827,
+    "frontObservationPointLon": -2.3493,
+    "facadeWidthM": 6.2
   },
   {
     "id": "cafes-dianas-cafe-way-75900295",
@@ -1294,7 +1742,13 @@
     "locationLabel": "14a Manvers Street, BA1 1JH",
     "websiteUrl": "https://www.dianascafe.co.uk/bath",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 88.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3781,
+    "frontObservationPointLon": -2.3571,
+    "facadeWidthM": 5.9
   },
   {
     "id": "cafes-flos-cafe-node-6380913598",
@@ -1308,7 +1762,12 @@
     "locationLabel": "Manvers Street, BA1 1JW",
     "websiteUrl": "https://www.thesubath.com/news/article/thesu/Flos-Cafe-has-officially-opened",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 72.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 51.3794,
+    "frontObservationPointLon": -2.3564,
+    "facadeWidthM": 7
   },
   {
     "id": "cafes-gails-way-373546340",
@@ -1322,7 +1781,13 @@
     "locationLabel": "12-13 Union Street, BA1 1RR",
     "websiteUrl": "https://gails.com/pages/union-street-bath",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 253.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3825,
+    "frontObservationPointLon": -2.3606,
+    "facadeWidthM": 10.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1344,7 +1809,13 @@
     "locationLabel": "BA2 4DB",
     "websiteUrl": "https://www.holburne.org/planning-your-visit/garden-cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 148,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3858,
+    "frontObservationPointLon": -2.3507,
+    "facadeWidthM": 10.6,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1362,7 +1833,13 @@
     "locationLabel": "12 Upper Borough Walls, BA1 1RH",
     "websiteUrl": "https://www.gooddaycoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 76.8,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3827,
+    "frontObservationPointLon": -2.3604,
+    "facadeWidthM": 7.6,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1380,7 +1857,13 @@
     "locationLabel": "1 Abbey Street, Bath, BA1 1NN",
     "websiteUrl": "https://handstearoom.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 343.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3808,
+    "frontObservationPointLon": -2.3591,
+    "facadeWidthM": 10.5
   },
   {
     "id": "cafes-italian-pizzeria-cafe-84-way-673318953",
@@ -1394,7 +1877,13 @@
     "locationLabel": "84 Lower Bristol Road, BA2 3BQ",
     "websiteUrl": "https://italianpizzeriacafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 33.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3799,
+    "frontObservationPointLon": -2.3714,
+    "facadeWidthM": 9.6,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1412,7 +1901,13 @@
     "locationLabel": "BA2 4AW",
     "websiteUrl": "https://www.bathguildhallmarket.co.uk/shops.html",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 143.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3826,
+    "frontObservationPointLon": -2.358,
+    "facadeWidthM": 10.3,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1430,7 +1925,13 @@
     "locationLabel": "11a-12 Stall Street, BA1 1QE",
     "websiteUrl": "https://www.joejuice.com/store/1189?market=6",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 255,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3805,
+    "frontObservationPointLon": -2.3596,
+    "facadeWidthM": 10.2,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1448,7 +1949,13 @@
     "locationLabel": "21 Old Bond Street, BA1 2LA",
     "websiteUrl": "https://knoops.co.uk/pages/location-page-bath",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 346.2,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3833,
+    "frontObservationPointLon": -2.3615,
+    "facadeWidthM": 9.4,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1466,7 +1973,13 @@
     "locationLabel": "7 Margaret's Buildings, BA1 2LP",
     "websiteUrl": "https://www.komorebi-bath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 285.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3868,
+    "frontObservationPointLon": -2.3657,
+    "facadeWidthM": 5.8,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1484,7 +1997,13 @@
     "locationLabel": "61 Walcot Street, Bath, BA1 5BN",
     "websiteUrl": "https://landracebakery.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 7.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3859,
+    "frontObservationPointLon": -2.3599,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-mjolk-way-373343732",
@@ -1498,7 +2017,13 @@
     "locationLabel": "13 Abbey Churchyard, BA1 1LY",
     "websiteUrl": "https://mjolkshop.square.site",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 166.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3815,
+    "frontObservationPointLon": -2.3597,
+    "facadeWidthM": 5.6
   },
   {
     "id": "cafes-mokoko-node-10289529196",
@@ -1512,7 +2037,13 @@
     "locationLabel": "2 Foundry Lane, Bath, BA2 3GZ",
     "websiteUrl": "https://mokokobakery.com/mokoko-locations/newark-works-bath",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 190.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3785,
+    "frontObservationPointLon": -2.3659,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1530,7 +2061,13 @@
     "locationLabel": "BA1 6AE",
     "websiteUrl": "https://my.morrisons.com/storefinder/320/bath",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 174.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3912,
+    "frontObservationPointLon": -2.3504,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-music-workshop-coffeehouse-way-1366247099",
@@ -1544,7 +2081,13 @@
     "locationLabel": "7c, Bath, BA1 1JB",
     "websiteUrl": "https://www.musicworkshop.org.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 357,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3817,
+    "frontObservationPointLon": -2.3668,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-my-cookie-dough-node-3132211099",
@@ -1558,7 +2101,13 @@
     "locationLabel": "7 Dorchester Street, BA1 1SS",
     "websiteUrl": "https://www.mycookiedough.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 5.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3779,
+    "frontObservationPointLon": -2.3585,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1576,7 +2125,13 @@
     "locationLabel": "1 John Street, BA1 2JL",
     "websiteUrl": "https://www.one-cafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 166.2,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3833,
+    "frontObservationPointLon": -2.3621,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-palette-way-121675882",
@@ -1590,7 +2145,13 @@
     "locationLabel": "98 Walcot Street, BA1 5BG",
     "websiteUrl": "https://www.palettable.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 192.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3866,
+    "frontObservationPointLon": -2.3593,
+    "facadeWidthM": 5.8
   },
   {
     "id": "cafes-papawcha-way-373546355",
@@ -1604,7 +2165,13 @@
     "locationLabel": "6 Cheap Street, BA1 1NE",
     "websiteUrl": "https://www.papawcha.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 81.1,
+    "shadeClearanceDeg": 47.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3817,
+    "frontObservationPointLon": -2.3597,
+    "facadeWidthM": 5.4
   },
   {
     "id": "cafes-pavilion-cafe-node-10162556008",
@@ -1618,7 +2185,13 @@
     "locationLabel": "Claverton Down, BA2 7AY",
     "websiteUrl": "https://www.bath.ac.uk/locations/pavilion-cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 234,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3779,
+    "frontObservationPointLon": -2.3261,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1636,7 +2209,13 @@
     "locationLabel": "9 Saracen Street, BA1 5BR",
     "websiteUrl": "https://picniccoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 82.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3844,
+    "frontObservationPointLon": -2.3599,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-planteatlicious-node-3750602462",
@@ -1650,7 +2229,13 @@
     "locationLabel": "Lower Borough Walls, Bath, BA1 1QR",
     "websiteUrl": "https://www.planteatlicious.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 15.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3796,
+    "frontObservationPointLon": -2.3605,
+    "facadeWidthM": 9.7
   },
   {
     "id": "cafes-rainbowls-way-474927601",
@@ -1664,7 +2249,13 @@
     "locationLabel": "12a Old Bond Street, BA1 1BP",
     "websiteUrl": "https://www.rainbowls.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 165.3,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3826,
+    "frontObservationPointLon": -2.3611,
+    "facadeWidthM": 10.5
   },
   {
     "id": "cafes-rosarios-cafe-way-507525117",
@@ -1678,7 +2269,13 @@
     "locationLabel": "5 Northumberland Place, BA1 5AR",
     "websiteUrl": "https://www.rosarioscafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 357.9,
+    "shadeClearanceDeg": 37.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3823,
+    "frontObservationPointLon": -2.3597,
+    "facadeWidthM": 5
   },
   {
     "id": "cafes-sally-anns-cafe-node-4310806629",
@@ -1692,7 +2289,13 @@
     "locationLabel": "BA1 1XE",
     "websiteUrl": "https://www.salvationarmy.org.uk/bath-citadel",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 32.3,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3813,
+    "frontObservationPointLon": -2.3655,
+    "facadeWidthM": 15.7,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1710,7 +2313,13 @@
     "locationLabel": "7a Bartlett Street, Bath, BA1 2ED",
     "websiteUrl": "https://same-same.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 160.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3852,
+    "frontObservationPointLon": -2.3615,
+    "facadeWidthM": 6.9,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1732,7 +2341,13 @@
     "locationLabel": "4-5 Kingsmead Square, Bath, BA1 2AB",
     "websiteUrl": "https://www.society-cafe.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 24.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3811,
+    "frontObservationPointLon": -2.3631,
+    "facadeWidthM": 11.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1750,7 +2365,13 @@
     "locationLabel": "6 Bartlett Street, Bath, BA1 2QZ",
     "websiteUrl": "https://www.bathspa.ac.uk/news-and-events/news/2025/somer-store-opens",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 251.7,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3856,
+    "frontObservationPointLon": -2.3618,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-sonder-way-456121845",
@@ -1764,7 +2385,13 @@
     "locationLabel": "14 Green Street, BA1 2JZ",
     "websiteUrl": "https://www.sondercoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 340.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3834,
+    "frontObservationPointLon": -2.3604,
+    "facadeWidthM": 5.6
   },
   {
     "id": "cafes-sports-cafe-node-4450320506",
@@ -1778,7 +2405,13 @@
     "locationLabel": "BA2 7BT",
     "websiteUrl": "https://www.bath.ac.uk/locations/sports-cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 99.1,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3775,
+    "frontObservationPointLon": -2.3232,
+    "facadeWidthM": 17.1,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1796,7 +2429,13 @@
     "locationLabel": "(new tag), BA1 5LP",
     "websiteUrl": "https://www.stmichaelsbath.org.uk/st-mikes-cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 261.2,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3838,
+    "frontObservationPointLon": -2.3595,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1814,7 +2453,13 @@
     "locationLabel": "Bath, BA1 1SU",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1009228/bath-spa-station-platform-2-bath-spa-station-platform-1-bath-eng-ba-1-1-su-gb",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 255.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3776,
+    "frontObservationPointLon": -2.3574,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1836,7 +2481,13 @@
     "locationLabel": "Avon Street, BA1 1UN",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1006241/bath-avon-street-unit-b-strahan-house-avon-street-bath-eng-ba-1-1-u",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 4.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3808,
+    "frontObservationPointLon": -2.363,
+    "facadeWidthM": 12.6,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1858,7 +2509,13 @@
     "locationLabel": "1 Grove Street, BA2 6PJ",
     "websiteUrl": "https://www.sugarcanestudio.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 252.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3836,
+    "frontObservationPointLon": -2.3573,
+    "facadeWidthM": 6.8
   },
   {
     "id": "cafes-sweet-little-things-way-380858303",
@@ -1872,7 +2529,13 @@
     "locationLabel": "5 Old Bond Street, BA1 1BW",
     "websiteUrl": "https://www.sltbath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 344.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.383,
+    "frontObservationPointLon": -2.3611,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1890,7 +2553,13 @@
     "locationLabel": "20 Union Passage, Bath, BA1 1RD",
     "websiteUrl": "https://www.tealith.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 261.3,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3821,
+    "frontObservationPointLon": -2.3602,
+    "facadeWidthM": 5.2
   },
   {
     "id": "cafes-the-bath-bun-way-1256907101",
@@ -1904,7 +2573,13 @@
     "locationLabel": "2a Abbey Green, BA1 1NW",
     "websiteUrl": "https://www.thebathbun.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 178.8,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3806,
+    "frontObservationPointLon": -2.3586,
+    "facadeWidthM": 7.6,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -1922,7 +2597,13 @@
     "locationLabel": "8e Chelsea Road, BA1 3DU",
     "websiteUrl": "https://thechelseacafebath.tumblr.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 265,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3854,
+    "frontObservationPointLon": -2.3887,
+    "facadeWidthM": 8.1,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1940,7 +2621,13 @@
     "locationLabel": "Entry Hill, BA2 5NA",
     "websiteUrl": "https://www.thechouxboxpatisserie.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 266.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3622,
+    "frontObservationPointLon": -2.3659,
+    "facadeWidthM": 5.1
   },
   {
     "id": "cafes-the-colombian-company-way-197194662",
@@ -1954,7 +2641,13 @@
     "locationLabel": "6 Abbey Gate Street, BA1 1NP",
     "websiteUrl": "https://www.thecolombiancompany.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 167.8,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3804,
+    "frontObservationPointLon": -2.3589,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1972,7 +2665,13 @@
     "locationLabel": "3 New Bond Street, BA1 1BL",
     "websiteUrl": "https://thecolombiancompany.com/our-locations",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 214.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3831,
+    "frontObservationPointLon": -2.3609,
+    "facadeWidthM": 4.6,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1990,7 +2689,13 @@
     "locationLabel": "9 Claverton Street, BA2 4LD",
     "websiteUrl": "https://thecolombiancompany.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 189,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3767,
+    "frontObservationPointLon": -2.3554,
+    "facadeWidthM": 4.9,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -2008,7 +2713,13 @@
     "locationLabel": "11 Margaret's Buildings, Bath, BA1 2LP",
     "websiteUrl": "https://www.greenbirdcafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 105.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3868,
+    "frontObservationPointLon": -2.3659,
+    "facadeWidthM": 6.1
   },
   {
     "id": "cafes-the-green-rocket-way-373343744",
@@ -2022,7 +2733,13 @@
     "locationLabel": "1 Pierrepont Street, BA1 1LB",
     "websiteUrl": "https://thegreenrocket.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 358,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3807,
+    "frontObservationPointLon": -2.357,
+    "facadeWidthM": 7.4
   },
   {
     "id": "cafes-the-hub-cafe-node-6041515727",
@@ -2036,7 +2753,13 @@
     "locationLabel": "Mulberry Way, BA2 5BU",
     "websiteUrl": "https://www.mphub.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 253.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3625,
+    "frontObservationPointLon": -2.3545,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-the-kingsmead-kitchen-way-915199882",
@@ -2050,7 +2773,13 @@
     "locationLabel": "1 Kingsmead Street, Bath, BA1 2AA",
     "websiteUrl": "https://kingsmeadkitchenbath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 115.5,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3816,
+    "frontObservationPointLon": -2.3634,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -2068,7 +2797,13 @@
     "locationLabel": "1 Upper Lambridge Street, BA1 6RY",
     "websiteUrl": "https://jjbeanos.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 289.3,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3974,
+    "frontObservationPointLon": -2.3449,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-the-mad-hatters-tea-party-way-373986074",
@@ -2082,7 +2817,13 @@
     "locationLabel": "5 Orange Grove, Bath, BA1 1LP",
     "websiteUrl": "https://www.madhattersbath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 352.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3814,
+    "frontObservationPointLon": -2.358,
+    "facadeWidthM": 5.6,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2100,7 +2841,13 @@
     "locationLabel": "Walcot Street, Bath, BA1 5BB",
     "websiteUrl": "https://www.theprovenist.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 281.2,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3855,
+    "frontObservationPointLon": -2.3592,
+    "facadeWidthM": 12.5
   },
   {
     "id": "cafes-the-tea-shed-way-356944423",
@@ -2114,7 +2861,13 @@
     "locationLabel": "BA2 5AH",
     "websiteUrl": "https://www.nationaltrust.org.uk/prior-park-landscape-garden/features/eating-and-shopping-at-prior-park",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 261.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3695,
+    "frontObservationPointLon": -2.3436,
+    "facadeWidthM": 8.3
   },
   {
     "id": "cafes-the-terrace-cafe-node-4307280150",
@@ -2128,7 +2881,13 @@
     "locationLabel": "Prior Park Road, BA2 4NF",
     "websiteUrl": "https://www.priorparkgardencentre.co.uk/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 328.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3744,
+    "frontObservationPointLon": -2.3522,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2146,7 +2905,13 @@
     "locationLabel": "39 Gay Street, BA1 2NT",
     "websiteUrl": "https://thirstymeeples.co.uk/pages/bathcafe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 166.1,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3841,
+    "frontObservationPointLon": -2.3631,
+    "facadeWidthM": 6.9
   },
   {
     "id": "cafes-toniq-cafe-way-314228807",
@@ -2160,7 +2925,13 @@
     "locationLabel": "14 George Street, BA1 2EN",
     "websiteUrl": "https://www.toniqlife.com/cafe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 165,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3848,
+    "frontObservationPointLon": -2.363,
+    "facadeWidthM": 13
   },
   {
     "id": "cafes-treetop-cafe-node-11754550013",
@@ -2174,7 +2945,13 @@
     "locationLabel": "Royal Avenue, BA1 2NR",
     "websiteUrl": "https://www.treetopcafebath.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 52.1,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3849,
+    "frontObservationPointLon": -2.3656,
+    "facadeWidthM": 7.4,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2192,7 +2969,13 @@
     "locationLabel": "8-10 Old Bond Street, BA1 1BW",
     "websiteUrl": "https://watchhouse.com/blogs/locations/bath",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 254.3,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3827,
+    "frontObservationPointLon": -2.361,
+    "facadeWidthM": 6.7
   },
   {
     "id": "cafes-widcombe-deli-node-11405340061",
@@ -2206,7 +2989,13 @@
     "locationLabel": "20 Claverton Street, BA2 4LD",
     "websiteUrl": "https://jjbeanos.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 188.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3766,
+    "frontObservationPointLon": -2.3545,
+    "facadeWidthM": 9.8,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -2224,7 +3013,13 @@
     "locationLabel": "149 Croydon Road, Beckenham, BR3 3QH",
     "websiteUrl": "https://www.branchingoutshop.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 199.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3991,
+    "frontObservationPointLon": -0.0404,
+    "facadeWidthM": 7.4,
     "foodTags": {
       "tags": [
         "sandwich"
@@ -2244,7 +3039,13 @@
     "locationLabel": "164 High Street, Beckenham, BR3 1EW",
     "websiteUrl": "https://www.caffenero.com/uk/stores/beckenham",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 141.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4076,
+    "frontObservationPointLon": -0.0276,
+    "facadeWidthM": 6.2
   },
   {
     "id": "cafes-costa-node-13653097243",
@@ -2258,7 +3059,13 @@
     "locationLabel": "194-202 High Street, Beckenham, BR3 1EN",
     "websiteUrl": "https://www.costa.co.uk/stores/beckenham",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 121.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4069,
+    "frontObservationPointLon": -0.0281,
+    "facadeWidthM": 6
   },
   {
     "id": "cafes-crunch-node-13674110586",
@@ -2272,7 +3079,13 @@
     "locationLabel": "242 High Street, Beckenham, BR3 1EN",
     "websiteUrl": "https://crunchbeckenham.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 237.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4066,
+    "frontObservationPointLon": -0.0297,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-daisy-grey-way-1136507499",
@@ -2286,7 +3099,13 @@
     "locationLabel": "73E High Street, Beckenham, BR3 1AN",
     "websiteUrl": "https://www.daisygrey.co.uk/beckenham-high-streets-location-and-opening-times",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 78.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4074,
+    "frontObservationPointLon": -0.0257,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-piccolo-cafe-node-13652636602",
@@ -2300,7 +3119,13 @@
     "locationLabel": "106 High Street, Beckenham, BR3 1EB",
     "websiteUrl": "https://piccolocafes.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 171.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4078,
+    "frontObservationPointLon": -0.0257,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-poached-node-12632010027",
@@ -2314,7 +3139,13 @@
     "locationLabel": "12a High Street, Beckenham, BR3 1AZ",
     "websiteUrl": "https://www.poachedrestaurants.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 91.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4106,
+    "frontObservationPointLon": -0.0251,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-rendez-vous-node-13652455081",
@@ -2328,7 +3159,13 @@
     "locationLabel": "94 High Street, Beckenham, BR3 1ED",
     "websiteUrl": "https://rendezvouscaffe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 112.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.408,
+    "frontObservationPointLon": -0.0255,
+    "facadeWidthM": 7.5
   },
   {
     "id": "cafes-shotsmiths-node-9953837717",
@@ -2342,7 +3179,13 @@
     "locationLabel": "73 Beckenham Road, Beckenham, BR3 4PR",
     "websiteUrl": "https://shotsmiths.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 286.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4086,
+    "frontObservationPointLon": -0.0399,
+    "facadeWidthM": 10.7
   },
   {
     "id": "cafes-sunrise-cafe-node-308066480",
@@ -2356,7 +3199,13 @@
     "locationLabel": "115 Croydon Road, Beckenham, BR3 3RA",
     "websiteUrl": "https://placejuice.com/sunrise-cafe-sjlenm0",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 102.7,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3989,
+    "frontObservationPointLon": -0.0426,
+    "facadeWidthM": 7.4,
     "foodTags": {
       "tags": [
         "burger",
@@ -2377,7 +3226,13 @@
     "locationLabel": "62 Boucher Road, BT12 6LR",
     "websiteUrl": "https://www.boltdelibelfast.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 37.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5733,
+    "frontObservationPointLon": -5.9668,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2399,7 +3254,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://cafesmart.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 101.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.6004,
+    "frontObservationPointLon": -5.8752,
+    "facadeWidthM": 7.9
   },
   {
     "id": "cafes-caffe-nero-node-3930463007",
@@ -2413,7 +3274,13 @@
     "locationLabel": "10 Donegall Square West, BT1 6JH",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-donegall-sq",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 87.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5968,
+    "frontObservationPointLon": -5.9317,
+    "facadeWidthM": 12.4,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2431,7 +3298,13 @@
     "locationLabel": "376-378 Upper Newtownards Road, Belfast, BT4 3FB",
     "websiteUrl": "https://www.caffenero.com/uk/stores/ballyhackamore",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 183.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5953,
+    "frontObservationPointLon": -5.8673,
+    "facadeWidthM": 15.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2449,7 +3322,13 @@
     "locationLabel": "1 Lanyon Place, Belfast, BT1 3LP",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-lanyon-place",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 176.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5965,
+    "frontObservationPointLon": -5.9207,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2467,7 +3346,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-weavers",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 285.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5925,
+    "frontObservationPointLon": -5.9264,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-caffe-nero-node-10706839768",
@@ -2481,7 +3366,13 @@
     "locationLabel": "Boucher Crescent, Belfast, BT12 6HU",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-boucher-road",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 123.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5803,
+    "frontObservationPointLon": -5.9669,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-caffe-nero-node-11309553951",
@@ -2495,7 +3386,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-university-road",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 100.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5861,
+    "frontObservationPointLon": -5.9362,
+    "facadeWidthM": 5.6,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2513,7 +3410,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-europa",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 356.5,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5944,
+    "frontObservationPointLon": -5.9348,
+    "facadeWidthM": 6.7
   },
   {
     "id": "cafes-caffe-nero-way-589260598",
@@ -2527,7 +3430,13 @@
     "locationLabel": "48-50 Ann Street, Belfast, BT1 4EG",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ann-st",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 160,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5993,
+    "frontObservationPointLon": -5.9256,
+    "facadeWidthM": 10.8,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2549,7 +3458,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-botanic",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 171.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5884,
+    "frontObservationPointLon": -5.9327,
+    "facadeWidthM": 6.5
   },
   {
     "id": "cafes-caffe-nero-way-629977295",
@@ -2563,7 +3478,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.caffenero.com/uk/stores/newtownabbey-abbey-centre",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 125.1,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.6558,
+    "frontObservationPointLon": -5.9177,
+    "facadeWidthM": 8.1
   },
   {
     "id": "cafes-caffe-nero-way-1192112125",
@@ -2577,7 +3498,13 @@
     "locationLabel": "377 Ormeau Road, Belfast, BT7 2FD",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ormeau-road",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 68.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5779,
+    "frontObservationPointLon": -5.919,
+    "facadeWidthM": 5.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2595,7 +3522,13 @@
     "locationLabel": "Drumkeen Court, Belfast",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 134.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5659,
+    "frontObservationPointLon": -5.9068,
+    "facadeWidthM": 14.2
   },
   {
     "id": "cafes-drip-node-13447220103",
@@ -2609,7 +3542,13 @@
     "locationLabel": "332-338 Ormeau Road, Belfast, BT7 2GE",
     "websiteUrl": "https://dripbelfast.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 247.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5753,
+    "frontObservationPointLon": -5.9165,
+    "facadeWidthM": 9.5
   },
   {
     "id": "cafes-french-village-bakery-and-cafe-node-1301173918",
@@ -2623,7 +3562,13 @@
     "locationLabel": "99 Botanic Avenue, Belfast, BT7 1JN",
     "websiteUrl": "https://www.frenchvillagebakery.co.uk/where-to-buy.cfm",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 177.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5863,
+    "frontObservationPointLon": -5.9326,
+    "facadeWidthM": 13.5,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -2641,7 +3586,13 @@
     "locationLabel": "68 Botanic Avenue, Belfast, BT7 1JR",
     "websiteUrl": "https://www.gong-cha.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 255.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5874,
+    "frontObservationPointLon": -5.9325,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-junction-node-1450326115",
@@ -2655,7 +3606,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.junctionqueens.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 279,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5849,
+    "frontObservationPointLon": -5.9342,
+    "facadeWidthM": 6.6
   },
   {
     "id": "cafes-maggie-mays-node-10181169102",
@@ -2669,7 +3626,13 @@
     "locationLabel": "44 Castle Street, Belfast, BT1 1HB",
     "websiteUrl": "https://maggiemaysbelfast.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 182.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5992,
+    "frontObservationPointLon": -5.9315,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-phin-node-13744469093",
@@ -2683,7 +3646,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://phinbelfast.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 99.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5975,
+    "frontObservationPointLon": -5.932,
+    "facadeWidthM": 5.2
   },
   {
     "id": "cafes-phin-node-13744469094",
@@ -2697,7 +3666,13 @@
     "locationLabel": "300 Ormeau Road, Belfast, BT7 2GE",
     "websiteUrl": "https://www.phinbelfast.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 248.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5764,
+    "frontObservationPointLon": -5.9174,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-reboot-gaming-cafe-node-6328938287",
@@ -2711,7 +3686,13 @@
     "locationLabel": "92-96 Lisburn Road, Belfast, BT9 6AG",
     "websiteUrl": "https://rebootgamingcafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 307.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5851,
+    "frontObservationPointLon": -5.941,
+    "facadeWidthM": 5.3
   },
   {
     "id": "cafes-root-and-branch-coffee-roastery-node-10048269837",
@@ -2725,7 +3706,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://rootandbranch.coffee",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 121.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5986,
+    "frontObservationPointLon": -5.8945,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-simply-fish-and-chips-node-2096717959",
@@ -2739,7 +3726,13 @@
     "locationLabel": "Oxford Street, BT1 3LA",
     "websiteUrl": "https://www.simplyfishandchips.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 357.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5962,
+    "frontObservationPointLon": -5.9217,
+    "facadeWidthM": 12.9
   },
   {
     "id": "cafes-sojourn-coffee-belfast-node-6282849826",
@@ -2753,7 +3746,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://sojourncoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 291,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5847,
+    "frontObservationPointLon": -5.9378,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-starbucks-node-2612909755",
@@ -2767,7 +3766,13 @@
     "locationLabel": "Boucher Crescent, Belfast, BT12 6HU",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1012239/boucher-unit-11-c-boucher-retail-park-boucher-crescent-bel",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 123.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5811,
+    "frontObservationPointLon": -5.9659,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-node-5272192467",
@@ -2781,7 +3786,13 @@
     "locationLabel": "Belfast, BT1 1DD",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1043557/castle-court-unit-34-c-castle-court-shopping-centre-royal-avenu",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 143.8,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.6007,
+    "frontObservationPointLon": -5.9312,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2799,7 +3810,13 @@
     "locationLabel": "4-8 Adelaide Street, Belfast, BT2 8GA",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1016161/harvester-house-harvester-house-adelaide-street-belfast-belfast-ni",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 176.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5952,
+    "frontObservationPointLon": -5.9282,
+    "facadeWidthM": 16.3
   },
   {
     "id": "cafes-starbucks-node-5939213787",
@@ -2813,7 +3830,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1011572/great-victoria-street-24-great-victoria-street-belfast-belfast-nir-bt-2-",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 266.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5952,
+    "frontObservationPointLon": -5.9343,
+    "facadeWidthM": 12
   },
   {
     "id": "cafes-starbucks-node-7289320586",
@@ -2827,7 +3850,13 @@
     "locationLabel": "1 Victoria Square, Belfast, BT1 4QG",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1009133/belfast-victoria-square-ug-13-unit-38-ug-victoria-square-sc-1-victoria-square-be",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 341.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5983,
+    "frontObservationPointLon": -5.9245,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-node-12178087286",
@@ -2841,7 +3870,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/84998-314740",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 130.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5941,
+    "frontObservationPointLon": -5.9406,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-node-12818746301",
@@ -2855,7 +3890,13 @@
     "locationLabel": "Unit 3 Upper Galwally, BT8 6FX",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/84671-314346/unit-3-forestside-sc",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 318.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5645,
+    "frontObservationPointLon": -5.9077,
+    "facadeWidthM": 13.2
   },
   {
     "id": "cafes-starbucks-node-13401965947",
@@ -2869,7 +3910,12 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.starbucks.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 146.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 54.6116,
+    "frontObservationPointLon": -5.9558,
+    "facadeWidthM": 7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2887,7 +3933,13 @@
     "locationLabel": "45 Botanic Avenue, Belfast, Antrim, BT7 1HB",
     "websiteUrl": "https://www.townsquarebelfast.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 256.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5884,
+    "frontObservationPointLon": -5.933,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-trait-node-11920208549",
@@ -2901,7 +3953,13 @@
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.traitcoffee.co.uk/collegesqe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 265.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.5966,
+    "frontObservationPointLon": -5.9344,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-way-965766019",
@@ -2915,7 +3973,13 @@
     "locationLabel": "85 Broadway, Bexleyheath, DA6 7JN",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2440/bexleyheath-broadway-shoppin-broadway-shopping-centre-bexleyheath-eng-da-6-7-jn",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 12.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.4563,
+    "frontObservationPointLon": 0.1461,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-caffe-cream-node-1775567481",
@@ -2929,7 +3993,13 @@
     "locationLabel": "Park Drive, Birkenhead, CH41 4HY",
     "websiteUrl": "https://www.caffecream.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 134.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3953,
+    "frontObservationPointLon": -3.0387,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -2951,7 +4021,13 @@
     "locationLabel": "136 Bedford Road, Birkenhead, Merseyside, CH42 2AS",
     "websiteUrl": "https://www.indigorockferry.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 159,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3728,
+    "frontObservationPointLon": -3.008,
+    "facadeWidthM": 7.2
   },
   {
     "id": "cafes-black-sheep-coffee-node-9686118561",
@@ -2965,7 +4041,13 @@
     "locationLabel": "160 Wharfside Street, Birmingham, B1 1RL",
     "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/ac-hotel-birmingham",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 328.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4753,
+    "frontObservationPointLon": -1.9062,
+    "facadeWidthM": 16.1
   },
   {
     "id": "cafes-blow-water-node-3893540681",
@@ -2979,7 +4061,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.blowwater.co",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 0.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4345,
+    "frontObservationPointLon": -1.8919,
+    "facadeWidthM": 15.5
   },
   {
     "id": "cafes-breakfast-n-brunch-node-968790821",
@@ -2993,7 +4081,13 @@
     "locationLabel": "101 Thornbridge Avenue, Birmingham, B42 2AB",
     "websiteUrl": "https://www.breakfastnbrunch.co.uk/greatbarr",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 24.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5357,
+    "frontObservationPointLon": -1.9056,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3011,7 +4105,13 @@
     "locationLabel": "54-57 Allison Street, Birmingham, B5 5TH",
     "websiteUrl": "https://www.wearebrig.co.uk/brig-cafe-at-the-warehouse",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 115.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4784,
+    "frontObservationPointLon": -1.8896,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3029,7 +4129,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-bullring",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 319.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4764,
+    "frontObservationPointLon": -1.8964,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-caffe-nero-node-9963976678",
@@ -3043,7 +4149,13 @@
     "locationLabel": "4 Brindley Place, Birmingham, B1 2JB",
     "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-brindleyplace",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 126.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4783,
+    "frontObservationPointLon": -1.9139,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3065,7 +4177,13 @@
     "locationLabel": "74 Corporation Street, Birmingham, B2 4UQ",
     "websiteUrl": "https://www.caffenero.com/uk/stores/birmingham-corporation-st",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 214.4,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4807,
+    "frontObservationPointLon": -1.8956,
+    "facadeWidthM": 11.3
   },
   {
     "id": "cafes-caffe-nero-way-317697216",
@@ -3079,7 +4197,13 @@
     "locationLabel": "143 High Street, Harborne, B17 9NP",
     "websiteUrl": "https://www.caffenero.com/uk/stores/harborne",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 332,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4586,
+    "frontObservationPointLon": -1.9494,
+    "facadeWidthM": 10.1
   },
   {
     "id": "cafes-centenary-lounge-node-1785327106",
@@ -3093,7 +4217,13 @@
     "locationLabel": "Moor Street, Birmingham, B4 7UL",
     "websiteUrl": "https://www.centenarylounge.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 290.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4787,
+    "frontObservationPointLon": -1.8929,
+    "facadeWidthM": 8.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3111,7 +4241,13 @@
     "locationLabel": "2 Waterfront Walk, Birmingham, B1 1SZ",
     "websiteUrl": "https://www.chaiandcrumbs.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 223.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4756,
+    "frontObservationPointLon": -1.9085,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-chance-and-counters-node-7156475185",
@@ -3125,7 +4261,13 @@
     "locationLabel": "Gibb Street, Birmingham, B9 4BG",
     "websiteUrl": "https://www.chanceandcounters.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 164.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4757,
+    "frontObservationPointLon": -1.8844,
+    "facadeWidthM": 6,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3143,7 +4285,13 @@
     "locationLabel": "445 Bearwood Road, B66 4DH",
     "websiteUrl": "https://chapelcafe.org",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 268.7,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4777,
+    "frontObservationPointLon": -1.97,
+    "facadeWidthM": 13.7
   },
   {
     "id": "cafes-coffee-1-way-85547649",
@@ -3157,7 +4305,13 @@
     "locationLabel": "Alcester Road South, Birmingham, B14 7JJ",
     "websiteUrl": "https://www.coffee1.co.uk/locations/kings-heath",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 269.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4323,
+    "frontObservationPointLon": -1.8927,
+    "facadeWidthM": 11.2
   },
   {
     "id": "cafes-costa-node-6055073401",
@@ -3171,7 +4325,13 @@
     "locationLabel": "Selly Oak Shopping Park",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 179.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4443,
+    "frontObservationPointLon": -1.9399,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-costa-node-6443261685",
@@ -3185,7 +4345,13 @@
     "locationLabel": "579 Bearwood Road, B66 4BH",
     "websiteUrl": "https://www.costa.co.uk/?utm_source=test",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 256,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4747,
+    "frontObservationPointLon": -1.9691,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3203,7 +4369,13 @@
     "locationLabel": "571 Pershore Road, Birmingham, B29 7DF",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 46.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4496,
+    "frontObservationPointLon": -1.9119,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3225,7 +4397,13 @@
     "locationLabel": "88 Lower Tower Street, Birmingham, B19 3NL",
     "websiteUrl": "https://donutsnchai.co.uk/d6375ce5-59fc-4be3-981b-b5d9f9c635c2",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 87.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4901,
+    "frontObservationPointLon": -1.8955,
+    "facadeWidthM": 10
   },
   {
     "id": "cafes-gorilla-coffee-cafe-node-356614176",
@@ -3239,7 +4417,13 @@
     "locationLabel": "6 Brindley Place, Birmingham, B1 2JB",
     "websiteUrl": "https://gorillacoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 307,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4777,
+    "frontObservationPointLon": -1.9135,
+    "facadeWidthM": 12,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3257,7 +4441,13 @@
     "locationLabel": "55 Saint Paul's Square, Birmingham, B3 1QS",
     "websiteUrl": "https://groundedcafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 38.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4845,
+    "frontObservationPointLon": -1.9061,
+    "facadeWidthM": 15.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3279,7 +4469,13 @@
     "locationLabel": "596 Bearwood Road",
     "websiteUrl": "https://hellocafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 77.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4733,
+    "frontObservationPointLon": -1.9689,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3297,7 +4493,13 @@
     "locationLabel": "552-554 Bristol Road, Birmingham, B29 6BD",
     "websiteUrl": "https://www.heybrew.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 333.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4458,
+    "frontObservationPointLon": -1.9329,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-java-roastery-way-87356445",
@@ -3311,7 +4513,13 @@
     "locationLabel": "122-124 Colmore Row, Birmingham, B3 3AP",
     "websiteUrl": "https://javaroastery.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 146.3,
+    "shadeClearanceDeg": 77.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4802,
+    "frontObservationPointLon": -1.9017,
+    "facadeWidthM": 11.9,
     "foodTags": {
       "tags": [
         "sandwich"
@@ -3331,7 +4539,13 @@
     "locationLabel": "Stephenson Place, Birmingham, B2 4BF",
     "websiteUrl": "https://www.kittycafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 189.2,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4785,
+    "frontObservationPointLon": -1.899,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-marlboro-cafe-node-7157189685",
@@ -3345,7 +4559,13 @@
     "locationLabel": "60 Greenholm Road, Birmingham, B44 8HL",
     "websiteUrl": "https://marlborocafebirmingham.cafecityguide.website",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 282,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5354,
+    "frontObservationPointLon": -1.893,
+    "facadeWidthM": 15
   },
   {
     "id": "cafes-medicine-node-1272977501",
@@ -3359,7 +4579,13 @@
     "locationLabel": "66-69 New Street, Birmingham, B2 4DU",
     "websiteUrl": "https://medicinebakery.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 6.6,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4795,
+    "frontObservationPointLon": -1.9015,
+    "facadeWidthM": 5
   },
   {
     "id": "cafes-montys-node-12435645489",
@@ -3373,7 +4599,13 @@
     "locationLabel": "1 Snow Hill, Birmingham, B4 6GH",
     "websiteUrl": "https://www.montysdeli.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 54.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4837,
+    "frontObservationPointLon": -1.8979,
+    "facadeWidthM": 18,
     "foodTags": {
       "tags": [
         "sandwich"
@@ -3393,7 +4625,13 @@
     "locationLabel": "124 Warren Farm Road, Birmingham, B44 0QN",
     "websiteUrl": "https://new-heights.org.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 36.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5434,
+    "frontObservationPointLon": -1.8788,
+    "facadeWidthM": 11.6
   },
   {
     "id": "cafes-pause-node-13547454152",
@@ -3407,7 +4645,13 @@
     "locationLabel": "56 Poplar Road, Birmingham, B14 7AG",
     "websiteUrl": "https://www.pausecoffeeshopbakery.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 78.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4363,
+    "frontObservationPointLon": -1.8902,
+    "facadeWidthM": 10,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3425,7 +4669,13 @@
     "locationLabel": "Fenton Street",
     "websiteUrl": "https://www.pippatopia.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 304.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5001,
+    "frontObservationPointLon": -1.9789,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-quarter-horse-coffee-roasters-node-4857256021",
@@ -3439,7 +4689,13 @@
     "locationLabel": "88-90 Bristol Street, Birmingham, B5 7AH",
     "websiteUrl": "https://quarterhorsecoffee.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 274.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4716,
+    "frontObservationPointLon": -1.8995,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-saint-kitchen-node-330253868",
@@ -3453,7 +4709,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.saintkitchen.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 310.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4846,
+    "frontObservationPointLon": -1.9054,
+    "facadeWidthM": 16.8,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3471,7 +4733,13 @@
     "locationLabel": "Flaxley Road, Birmingham, B33 9AL",
     "websiteUrl": "https://sillysausagecafebirmingham.cafecityguide.website",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 195.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.488,
+    "frontObservationPointLon": -1.81,
+    "facadeWidthM": 7.8
   },
   {
     "id": "cafes-sliced-n-diced-node-453661638",
@@ -3485,7 +4753,13 @@
     "locationLabel": "850 Bristol Road, Birmingham, B29 6HW",
     "websiteUrl": "https://slicedndiced.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 327.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4388,
+    "frontObservationPointLon": -1.9403,
+    "facadeWidthM": 8.9
   },
   {
     "id": "cafes-starbucks-node-1607781175",
@@ -3499,7 +4773,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2840/birmingham-the-fort-shopping-birmingham-the-fort-restaura-unit-f-2-20-fort-park",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 159.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5079,
+    "frontObservationPointLon": -1.8217,
+    "facadeWidthM": 6.2
   },
   {
     "id": "cafes-starbucks-node-2517583479",
@@ -3513,7 +4793,13 @@
     "locationLabel": "114-115 New Street, Birmingham, B2 4JH",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2552/birmingham-new-street-114-115-new-street-birmingham-eng-b-2-4-jh-gb",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 187.8,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4793,
+    "frontObservationPointLon": -1.8993,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3535,7 +4821,13 @@
     "locationLabel": "Bullring, Birmingham, B5 4EN",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2742/birmingham-bullring-upper-bullring-centre-birmingham-eng-b-5-4-en-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 228.4,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4777,
+    "frontObservationPointLon": -1.8941,
+    "facadeWidthM": 11.4
   },
   {
     "id": "cafes-starbucks-node-2605488384",
@@ -3549,7 +4841,13 @@
     "locationLabel": "8 Centenary Square, Birmingham, B1 2EA",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/20044/birmingham-broad-street-the-broad-street-birmingham-eng-b-1-2-ea-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 200.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4791,
+    "frontObservationPointLon": -1.9097,
+    "facadeWidthM": 9.7
   },
   {
     "id": "cafes-starbucks-node-2915316650",
@@ -3563,7 +4861,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/2855/birmingham-coach-station-spencer-house-birmingham-eng-b-5-6-dq-gb",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 19.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4755,
+    "frontObservationPointLon": -1.8886,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3581,7 +4885,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1009013/birmingham-edgbaston-30-hagley-road-edgbaston-eng-b-16-8-pe-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 27.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.472,
+    "frontObservationPointLon": -1.9225,
+    "facadeWidthM": 6.5
   },
   {
     "id": "cafes-starbucks-node-6055073394",
@@ -3595,7 +4905,13 @@
     "locationLabel": "Birmingham",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1043667/birmingham-selly-oak-sp-undefined-birmingham-eng-b-296-sn-gb",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 179.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4443,
+    "frontObservationPointLon": -1.9399,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3613,7 +4929,13 @@
     "locationLabel": "291 High Street",
     "websiteUrl": "https://teapotcafesmethwick.co.uk/?utm_source=google&utm_medium=pin&utm_content=website-button",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 258.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4916,
+    "frontObservationPointLon": -1.968,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3631,7 +4953,13 @@
     "locationLabel": "22 Highfield Road, Birmingham, B15 3DP",
     "websiteUrl": "https://www.highfieldedgbaston.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 236,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4686,
+    "frontObservationPointLon": -1.9225,
+    "facadeWidthM": 17.4,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3653,7 +4981,13 @@
     "locationLabel": "1261 Pershore Road, Birmingham, B30 2XU",
     "websiteUrl": "https://thesoftplaycafebirmingham.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 134.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4307,
+    "frontObservationPointLon": -1.9206,
+    "facadeWidthM": 15.4,
     "foodTags": {
       "tags": [
         "sandwich"
@@ -3673,7 +5007,13 @@
     "locationLabel": "Warstone Lane, Birmingham, B18 6NF",
     "websiteUrl": "https://www.urbancoffee.co.uk/emporiums/birmingham-jewellery-quarter",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 178.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4875,
+    "frontObservationPointLon": -1.912,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-village-kitchen-node-9772519393",
@@ -3687,7 +5027,13 @@
     "locationLabel": "8a Greenfield Crescent, Birmingham, B15 3BE",
     "websiteUrl": "https://www.villagekitchen.online",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 230.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4704,
+    "frontObservationPointLon": -1.9224,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3705,7 +5051,13 @@
     "locationLabel": "42 Bull Street, Birmingham, B4 6AF",
     "websiteUrl": "https://www.waylandsyard.com/birmingham",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 231.5,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.4823,
+    "frontObservationPointLon": -1.8966,
+    "facadeWidthM": 8.8
   },
   {
     "id": "cafes-baileys-cheese-and-charcuterie-node-13172581501",
@@ -3719,7 +5071,13 @@
     "locationLabel": "54 Clifton Street, Blackpool, FY1 1JP",
     "websiteUrl": "https://baileysblackpool.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 185.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8189,
+    "frontObservationPointLon": -3.0527,
+    "facadeWidthM": 5.5
   },
   {
     "id": "cafes-cafe-meow-node-12329224982",
@@ -3733,7 +5091,13 @@
     "locationLabel": "22 Birley Street, Blackpool, FY1 1DU",
     "websiteUrl": "https://cafemeow.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 182.7,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8183,
+    "frontObservationPointLon": -3.053,
+    "facadeWidthM": 7.2
   },
   {
     "id": "cafes-caffe-nero-node-4464922094",
@@ -3747,7 +5111,13 @@
     "locationLabel": "Blackpool, FY1 4HU",
     "websiteUrl": "https://www.caffenero.com/uk/stores/blackpool",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 339.4,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8166,
+    "frontObservationPointLon": -3.0539,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-parks-art-deco-cafe-way-972747415",
@@ -3761,7 +5131,13 @@
     "locationLabel": "West Park Drive, Blackpool, FY3 9EQ",
     "websiteUrl": "https://www.parks-artdecocafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 178.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8153,
+    "frontObservationPointLon": -3.0248,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3789,7 +5165,13 @@
     "locationLabel": "Blackpool, FY1 4RN",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1027450/blackpool-victoria-st-victoria-street-unit-29-hounds-hill-shopping-centr",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 339.4,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8166,
+    "frontObservationPointLon": -3.0539,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3807,7 +5189,13 @@
     "locationLabel": "Blackpool, FY3 8LL",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/20017/blackpool-village-hotel-east-park-drive-herons-reach-blackpool-eng-fy-3-8-",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 283.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8126,
+    "frontObservationPointLon": -3.0112,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-node-6897551373",
@@ -3821,7 +5209,13 @@
     "locationLabel": "Preston New Road, Blackpool, FY3 9TN",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1018645/blackpool-preston-new-road-preston-new-road-blackpool-eng-fy-3-9-tn-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 260.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8027,
+    "frontObservationPointLon": -3.008,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-coffee-latino-node-4431014805",
@@ -3835,7 +5229,13 @@
     "locationLabel": "Dunne Road, Blaydon On Tyne",
     "websiteUrl": "https://www.coffeelatino.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 73.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9676,
+    "frontObservationPointLon": -1.7004,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-pumphreys-coffee-showroom-and-coffee-shop-node-12199754654",
@@ -3849,7 +5249,13 @@
     "locationLabel": "Bridge Street, Blaydon-on-Tyne, NE21 4JJ",
     "websiteUrl": "https://www.pumphreys-coffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 42.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 54.9664,
+    "frontObservationPointLon": -1.721,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3867,7 +5273,13 @@
     "locationLabel": "33-35 Shenley Road, Borehamwood, WD6 1AE",
     "websiteUrl": "https://www.sababaa.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 140.1,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6549,
+    "frontObservationPointLon": -0.2779,
+    "facadeWidthM": 5.3,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3885,7 +5297,13 @@
     "locationLabel": "2 Church Way, Botley, OX2 9TH",
     "websiteUrl": "https://www.themissingbean.co.uk/pages/botley-cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 320.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.751,
+    "frontObservationPointLon": -1.2982,
+    "facadeWidthM": 7.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3909,7 +5327,13 @@
     "locationLabel": "98-100 Commercial Road, BH2 5LR",
     "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-commercial-rd",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 138.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.72,
+    "frontObservationPointLon": -1.8838,
+    "facadeWidthM": 4.7
   },
   {
     "id": "cafes-caffe-nero-way-128197514",
@@ -3923,7 +5347,13 @@
     "locationLabel": "64,66 Old Christchurch Road, Bournemouth, BH1 1LL",
     "websiteUrl": "https://www.caffenero.com/uk/stores/bournemouth-christchurch",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 214.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7213,
+    "frontObservationPointLon": -1.8763,
+    "facadeWidthM": 5.4
   },
   {
     "id": "cafes-coffee-1-way-931373282",
@@ -3937,7 +5367,13 @@
     "locationLabel": "401 Wimborne Road, BH9 2AJ",
     "websiteUrl": "https://www.coffee1.co.uk/locations/winton",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 190.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7424,
+    "frontObservationPointLon": -1.8786,
+    "facadeWidthM": 13.4,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3955,7 +5391,13 @@
     "locationLabel": "418 Wimborne Road, Bournemouth, BH9 2HB",
     "websiteUrl": "https://thelounges.co.uk/conto",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 96.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7425,
+    "frontObservationPointLon": -1.879,
+    "facadeWidthM": 10.3
   },
   {
     "id": "cafes-pause-cat-cafe-way-1209358262",
@@ -3969,7 +5411,13 @@
     "locationLabel": "119 Old Christchurch Road, Bournemouth, BH1 1EP",
     "websiteUrl": "https://pausecatcafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 168.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7224,
+    "frontObservationPointLon": -1.8745,
+    "facadeWidthM": 5.2
   },
   {
     "id": "cafes-rockwater-way-222818641",
@@ -3983,7 +5431,13 @@
     "locationLabel": "Bournemouth",
     "websiteUrl": "https://rockwater.uk/village",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 193.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.707,
+    "frontObservationPointLon": -1.9082,
+    "facadeWidthM": 9.3
   },
   {
     "id": "cafes-slades-park-pavilion-way-186013872",
@@ -3997,7 +5451,13 @@
     "locationLabel": "Bournemouth",
     "websiteUrl": "https://www.activedorset.org/slades-pavilion",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 102.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7477,
+    "frontObservationPointLon": -1.8952,
+    "facadeWidthM": 11.8,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4025,7 +5485,13 @@
     "locationLabel": "69 Holdenhurst Road, BH8 8FT",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1011801/bournemouth-the-parlour-the-parlour-unit-2-lyme-regis-house-bournemouth-en",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 122.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7241,
+    "frontObservationPointLon": -1.8644,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-starbucks-node-13672339659",
@@ -4039,7 +5505,13 @@
     "locationLabel": "5-7 Richmond Hill, BH2 6HE",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1007368/bournemouth-richmond-hill-unit-5-6-bristol-west-house-bournemouth-eng-bh-2-6",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 202.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7205,
+    "frontObservationPointLon": -1.8792,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-starbucks-way-114877489",
@@ -4053,7 +5525,13 @@
     "locationLabel": "98 Poole Road, BH4 9EF",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1011808/westbourne-poole-road-98-poole-road-bournemouth-eng-bh-4-9-en-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 199.2,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.7233,
+    "frontObservationPointLon": -1.9039,
+    "facadeWidthM": 7.4
   },
   {
     "id": "cafes-caffe-nero-way-1148284919",
@@ -4067,7 +5545,13 @@
     "locationLabel": "24 Market Street, Bradford, BD1 1LH",
     "websiteUrl": "https://www.caffenero.com/uk/stores/bradford",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 299.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7936,
+    "frontObservationPointLon": -1.7525,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-starbucks-node-9657826016",
@@ -4081,7 +5565,13 @@
     "locationLabel": "Clayton Road, Bradford, BD7 2SG",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1023570/bradford-clayton-road-dt-unit-5-scots-works-clayton-road-bradford-eng-bd-7-",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 193.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7836,
+    "frontObservationPointLon": -1.797,
+    "facadeWidthM": 13.4
   },
   {
     "id": "cafes-starbucks-way-1149961619",
@@ -4095,7 +5585,13 @@
     "locationLabel": "Centenary Square, Bradford, BD1 1HY",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1013520/bradford-centenary-square-centenary-square-market-street-part-unit-c-bradfor",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 56.6,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7931,
+    "frontObservationPointLon": -1.755,
+    "facadeWidthM": 18,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4113,7 +5609,13 @@
     "locationLabel": "Gain Lane, Bradford, BD3 7DW",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1027865/bradford-leeds-road-dt-leeds-road-bradford-eng-bd-3-7-dd-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 343.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8025,
+    "frontObservationPointLon": -1.7024,
+    "facadeWidthM": 13.3
   },
   {
     "id": "cafes-the-refreshment-room-node-13728456333",
@@ -4127,7 +5629,13 @@
     "locationLabel": "Oak Lane, Bradford, BD9 4NS",
     "websiteUrl": "https://bradfordmuseums.org/cartwright-hall-art-gallery/cafe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 73.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8123,
+    "frontObservationPointLon": -1.7713,
+    "facadeWidthM": 8.2
   },
   {
     "id": "cafes-tiffin-coffee-node-5966556594",
@@ -4141,7 +5649,13 @@
     "locationLabel": "22 Bank Street, Bradford, BD1 1PR",
     "websiteUrl": "https://www.tiffincoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 332.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7943,
+    "frontObservationPointLon": -1.7526,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-caffe-nero-way-1408938605",
@@ -4155,7 +5669,13 @@
     "locationLabel": "28 High Street, Brentwood, CM14 4AB",
     "websiteUrl": "https://www.caffenero.com/uk/stores/brentwood",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 64.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6204,
+    "frontObservationPointLon": 0.3038,
+    "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4173,7 +5693,13 @@
     "locationLabel": "10 Ropers Yard, Brentwood, CM14 4FU",
     "websiteUrl": "https://heyjoemusic.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 249.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6194,
+    "frontObservationPointLon": 0.3003,
+    "facadeWidthM": 9.3
   },
   {
     "id": "cafes-maxs-cafe-way-989304116",
@@ -4187,7 +5713,13 @@
     "locationLabel": "Sawyers Hall Lane, Brentwood, CM15 9BY",
     "websiteUrl": "https://hopefield.org.uk/visit/maxs-cafe",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 62.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6307,
+    "frontObservationPointLon": 0.3011,
+    "facadeWidthM": 5
   },
   {
     "id": "cafes-starbucks-node-1693229111",
@@ -4201,7 +5733,13 @@
     "locationLabel": "36A High Street, Brentwood, CM14 4AJ",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1012135/brentwood-high-street-36-b-high-street-brentwood-eng-cm-14-4-aj-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 148,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6205,
+    "frontObservationPointLon": 0.3027,
+    "facadeWidthM": 6.4
   },
   {
     "id": "cafes-17-grams-node-11153342606",
@@ -4215,7 +5753,13 @@
     "locationLabel": "12D Meeting House Lane, Brighton, BN1 1HB",
     "websiteUrl": "https://17grams.co.uk/locations/brighton",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 305,
+    "shadeClearanceDeg": 47.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8225,
+    "frontObservationPointLon": -0.1405,
+    "facadeWidthM": 5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4242,7 +5786,13 @@
     "websiteUrl": "https://www.bamskitchen.co.uk",
     "instagramUrl": "https://instagram.com/bamskitchen",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 53.7,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8332,
+    "frontObservationPointLon": -0.1399,
+    "facadeWidthM": 13.3,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4267,7 +5817,13 @@
     "websiteUrl": "https://bondstreet.coffee",
     "instagramUrl": "https://instagram.com/bondstreetcoffee",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 198.1,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.824,
+    "frontObservationPointLon": -0.1401,
+    "facadeWidthM": 4.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4289,7 +5845,13 @@
     "locationLabel": "16 Prince Albert Street, BN1 1HF",
     "websiteUrl": "https://www.caffenero.com/uk/stores/brighton-nile-st",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 198.5,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8213,
+    "frontObservationPointLon": -0.1407,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-cloud9-brighton-node-6198336451",
@@ -4303,7 +5865,13 @@
     "locationLabel": "11 York Place, Brighton, BN1 4GU",
     "websiteUrl": "https://www.cloud9brighton.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 82,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8282,
+    "frontObservationPointLon": -0.1356,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-cornish-pasty-shop-node-10301121972",
@@ -4318,7 +5886,13 @@
     "websiteUrl": "https://www.cornishpasty.shop",
     "instagramUrl": "https://instagram.com/cornishpasty.shop",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 285.6,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8256,
+    "frontObservationPointLon": -0.1392,
+    "facadeWidthM": 10.2,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4336,7 +5910,13 @@
     "locationLabel": "12 London Road, Brighton, BN1 4JA",
     "websiteUrl": "https://cowley.club/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 80.4,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8303,
+    "frontObservationPointLon": -0.1362,
+    "facadeWidthM": 5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4358,7 +5938,13 @@
     "locationLabel": "28 St Georges Road, Brighton, BN2 1ED",
     "websiteUrl": "https://cupofjoebrighton.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 22.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8187,
+    "frontObservationPointLon": -0.1221,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-cuppapug-node-13737942060",
@@ -4372,7 +5958,13 @@
     "locationLabel": "2a Waterfront, Brighton, BN2 5WA",
     "websiteUrl": "https://book.cuppapug.com/brighton",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 195.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8122,
+    "frontObservationPointLon": -0.1029,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-famous-cake-company-node-7206021550",
@@ -4387,7 +5979,13 @@
     "websiteUrl": "https://www.famouscakecompany.com",
     "instagramUrl": "https://instagram.com/famouscakecompany",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 333.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8369,
+    "frontObservationPointLon": -0.0749,
+    "facadeWidthM": 5.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4405,7 +6003,13 @@
     "locationLabel": "24 Bond Street, Brighton, BN1 1RD",
     "websiteUrl": "https://flintowlbakery.com/pages/brighton",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 17.3,
+    "shadeClearanceDeg": 57.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.824,
+    "frontObservationPointLon": -0.1402,
+    "facadeWidthM": 8.1,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4423,7 +6027,13 @@
     "locationLabel": "20 Market Street, Brighton, BN1 1HH",
     "websiteUrl": "https://hausofchai.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 285.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8213,
+    "frontObservationPointLon": -0.1401,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4441,7 +6051,13 @@
     "locationLabel": "19 North Street, Brighton, BN1 1EB",
     "websiteUrl": "https://www.hotelchocolat.com/uk/chocolate-shops/brighton.html",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 141.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8225,
+    "frontObservationPointLon": -0.1399,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-hunglish-node-6700588466",
@@ -4456,7 +6072,13 @@
     "websiteUrl": "https://hunglish.co.uk",
     "instagramUrl": "https://instagram.com/hunglish.ecoshop",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 16.6,
+    "shadeClearanceDeg": 37.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.828,
+    "frontObservationPointLon": -0.1377,
+    "facadeWidthM": 5
   },
   {
     "id": "cafes-leman-tea-room-node-11886081750",
@@ -4471,7 +6093,13 @@
     "websiteUrl": "https://www.lemantearoom.com",
     "instagramUrl": "https://instagram.com/lemantearoom",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 98.2,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8208,
+    "frontObservationPointLon": -0.1344,
+    "facadeWidthM": 7.1,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4490,7 +6118,13 @@
     "websiteUrl": "https://www.roedeancafeandminigolf.co.uk/macs-cafe",
     "instagramUrl": "https://instagram.com/macscafekemptown",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 109.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8163,
+    "frontObservationPointLon": -0.1074,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4509,7 +6143,13 @@
     "websiteUrl": "https://www.milosbrunch.com",
     "instagramUrl": "https://instagram.com/MILOS_brunch",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 224.7,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.824,
+    "frontObservationPointLon": -0.1444,
+    "facadeWidthM": 10.8,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4528,7 +6168,13 @@
     "websiteUrl": "https://mokshacaffe.co.uk",
     "instagramUrl": "https://instagram.com/mokshacaffe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 177.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8282,
+    "frontObservationPointLon": -0.1356,
+    "facadeWidthM": 8.1,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4546,7 +6192,13 @@
     "locationLabel": "19 Market Street, BN1 1JS",
     "websiteUrl": "https://munchiescraft.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 282.2,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8214,
+    "frontObservationPointLon": -0.14,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4564,7 +6216,13 @@
     "locationLabel": "17 Jubilee Street, BN1 1GE",
     "websiteUrl": "https://www.northlainecafe.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 106.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8246,
+    "frontObservationPointLon": -0.1389,
+    "facadeWidthM": 8.6,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4582,7 +6240,13 @@
     "locationLabel": "15 Lewes Road, Brighton, BN2 3HP",
     "websiteUrl": "https://www.pelicanocoffee.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 129.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8328,
+    "frontObservationPointLon": -0.129,
+    "facadeWidthM": 9.5
   },
   {
     "id": "cafes-pelicano-way-138143357",
@@ -4596,7 +6260,13 @@
     "locationLabel": "28 Sydney Street, Brighton, BN1 4EP",
     "websiteUrl": "https://www.pelicanocoffee.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 105.7,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8278,
+    "frontObservationPointLon": -0.1375,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4615,7 +6285,13 @@
     "websiteUrl": "https://www.puzzlebored.co.uk",
     "instagramUrl": "https://instagram.com/puzzlebored",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 291.9,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8238,
+    "frontObservationPointLon": -0.1392,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4633,7 +6309,13 @@
     "locationLabel": "13 Pavilion Buildings, Brighton, BN1 1EE",
     "websiteUrl": "https://www.techtakeback.com/revaluit-hub.html",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 228.7,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8217,
+    "frontObservationPointLon": -0.1383,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-social-board-node-12721849259",
@@ -4648,7 +6330,13 @@
     "websiteUrl": "https://socialboardbrighton.com",
     "instagramUrl": "https://instagram.com/socialboardsandwiches",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 11.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8208,
+    "frontObservationPointLon": -0.1344,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4672,7 +6360,13 @@
     "locationLabel": "25-26 St. James's Street, Brighton, BN2 1RF",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1021718/brighton-st-james-street-25-25-26-st-james-street-brighton-eng-bn-2-1-rf-gb",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 107.3,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.821,
+    "frontObservationPointLon": -0.134,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-stoney-point-node-10097169618",
@@ -4686,7 +6380,13 @@
     "locationLabel": "15 Montpelier Place, BN1 3BF",
     "websiteUrl": "https://stoneypoint.co",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 200.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8266,
+    "frontObservationPointLon": -0.1536,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-temple-way-1441630297",
@@ -4700,7 +6400,13 @@
     "locationLabel": "1 Madeira Drive, Brighton, BN2 1FY",
     "websiteUrl": "https://portlandbrighton.com",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 17.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8144,
+    "frontObservationPointLon": -0.1082,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-that-little-teashop-in-the-lanes-node-4577405061",
@@ -4715,7 +6421,13 @@
     "websiteUrl": "https://www.thatlittleteashop.com",
     "instagramUrl": "https://instagram.com/thatlittleteashop",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 301.2,
+    "shadeClearanceDeg": 42.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8224,
+    "frontObservationPointLon": -0.1406,
+    "facadeWidthM": 4.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4733,7 +6445,13 @@
     "locationLabel": "1 Kings Parade, Brighton, BN1 6JT",
     "websiteUrl": "https://www.theflourpot.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 147.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8442,
+    "frontObservationPointLon": -0.135,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4756,7 +6474,13 @@
     "websiteUrl": "https://themilkshed.coffee",
     "instagramUrl": "https://instagram.com/themilkshedcoffee",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 119.2,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8226,
+    "frontObservationPointLon": -0.1357,
+    "facadeWidthM": 9.7
   },
   {
     "id": "cafes-the-roastery-node-6409549483",
@@ -4770,7 +6494,13 @@
     "locationLabel": "13-14 Sydney Street, BN1 4EN",
     "websiteUrl": "https://www.tradingpostcoffee.co.uk/pages/trading-post-coffee-roasters-brighton-sydney-street",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 107.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8276,
+    "frontObservationPointLon": -0.1379,
+    "facadeWidthM": 4.9,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4788,7 +6518,13 @@
     "locationLabel": "5 Pavilion Buildings, Brighton, BN1 1EE",
     "websiteUrl": "https://www.thebotanistcoffee.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 296.4,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8222,
+    "frontObservationPointLon": -0.1381,
+    "facadeWidthM": 4.5,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4807,7 +6543,13 @@
     "websiteUrl": "https://www.twinpinescoffee.com",
     "instagramUrl": "https://instagram.com/twinpinescoffee",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 198.3,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 50.8212,
+    "frontObservationPointLon": -0.1354,
+    "facadeWidthM": 5.7
   },
   {
     "id": "st-jamess-cafe-london",
@@ -4917,7 +6659,13 @@
     "locationLabel": "Woodhouse Lane, Leeds, LS2 9JT",
     "websiteUrl": "https://gfal.leeds.ac.uk/where-to-eat/cafes/1915",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 92.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8091,
+    "frontObservationPointLon": -1.5538,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-200-coffee-node-6022850199",
@@ -4931,7 +6679,13 @@
     "locationLabel": "31 Bond Street, Leeds, LS1 5BQ",
     "websiteUrl": "https://200degs.com/pages/location-leeds-bond-street",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 218.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7977,
+    "frontObservationPointLon": -1.5462,
+    "facadeWidthM": 6.9,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -4959,7 +6713,13 @@
     "locationLabel": "11 Call Lane, Leeds, LS1 7DH",
     "websiteUrl": "https://92degrees.coffee",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 22.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7962,
+    "frontObservationPointLon": -1.5399,
+    "facadeWidthM": 9.6,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4976,7 +6736,13 @@
     "regionLabel": "Leeds",
     "locationLabel": "Wharf Approach, Leeds, LS1 4EZ",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 319.1,
+    "shadeClearanceDeg": 27.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7926,
+    "frontObservationPointLon": -1.5515,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-abbey-cafe-node-11582788372",
@@ -4989,7 +6755,13 @@
     "regionLabel": "Leeds",
     "locationLabel": "Abbey Road, Leeds, LS5 3EH",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 22.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8207,
+    "frontObservationPointLon": -1.6076,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-afterz-way-473639039",
@@ -5002,7 +6774,13 @@
     "regionLabel": "Leeds",
     "locationLabel": "63 Queens Road, Leeds, LS6 1HY",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 98.2,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8115,
+    "frontObservationPointLon": -1.5695,
+    "facadeWidthM": 5
   },
   {
     "id": "cafes-aishas-cafe-node-6769233557",
@@ -5015,7 +6793,13 @@
     "regionLabel": "Leeds",
     "locationLabel": "159 Roundhay Road, Leeds, LS8 5AJ",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 27.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8133,
+    "frontObservationPointLon": -1.5214,
+    "facadeWidthM": 12
   },
   {
     "id": "cafes-archive-node-6349523682",
@@ -5029,7 +6813,13 @@
     "locationLabel": "94 Kirkstall Road, Leeds, LS3 1HD",
     "websiteUrl": "https://archiveleeds.co.uk",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 217.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8009,
+    "frontObservationPointLon": -1.5666,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -5053,7 +6843,13 @@
     "locationLabel": "Leeds",
     "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/leeds/killingbeck-drive/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 142.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.8061,
+    "frontObservationPointLon": -1.4767,
+    "facadeWidthM": 4.5,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5071,7 +6867,13 @@
     "locationLabel": "Old Lane, Leeds, LS11 8AG",
     "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/beeston-leeds/old-lane/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 171.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7673,
+    "frontObservationPointLon": -1.5653,
+    "facadeWidthM": 18,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5089,7 +6891,13 @@
     "locationLabel": "Leeds",
     "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/leeds/holme-well-road/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 191.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7487,
+    "frontObservationPointLon": -1.5308,
+    "facadeWidthM": 18,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5107,7 +6915,13 @@
     "locationLabel": "97 Briggate, Leeds, LS1 6NP",
     "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/leeds-briggate",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 278.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7986,
+    "frontObservationPointLon": -1.5419,
+    "facadeWidthM": 16.2,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5125,7 +6939,13 @@
     "locationLabel": "29A Bond Street, Leeds, LS1 5BQ",
     "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/leeds-bond-street",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 270,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.7977,
+    "frontObservationPointLon": -1.5463,
+    "facadeWidthM": 10.7
   },
   {
     "id": "cafes-tastee-way-1258321909",
@@ -5138,7 +6958,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "7 White Lane, Sheffield, S12 3GD",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 205.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3416,
+    "frontObservationPointLon": -1.4134,
+    "facadeWidthM": 5.3
   },
   {
     "id": "cafes-1554-cafe-node-6362462808",
@@ -5152,7 +6978,13 @@
     "locationLabel": "Church Street, Sheffield, S1 1HA",
     "websiteUrl": "https://www.1554.co.uk",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 266.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.383,
+    "frontObservationPointLon": -1.4698,
+    "facadeWidthM": 13.7
   },
   {
     "id": "cafes-200-degree-coffee-way-200223328",
@@ -5165,7 +6997,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "25 Division Street, Sheffield, S1 4GE",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 73.6,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.38,
+    "frontObservationPointLon": -1.4732,
+    "facadeWidthM": 13.1
   },
   {
     "id": "cafes-420-degrees-coffee-way-339930105",
@@ -5178,7 +7016,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "76 Barber Road, Sheffield, S10 1EE",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 204,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3866,
+    "frontObservationPointLon": -1.496,
+    "facadeWidthM": 4.8
   },
   {
     "id": "cafes-aesthete-coffee-kitchen-way-1274522665",
@@ -5191,7 +7035,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "52a Sandygate Road, Sheffield, S10 5RY",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 163.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3792,
+    "frontObservationPointLon": -1.5211,
+    "facadeWidthM": 4.8
   },
   {
     "id": "cafes-aesthete-coffee-and-kitchen-node-1937682082",
@@ -5205,7 +7055,13 @@
     "locationLabel": "348-352 South Road, Sheffield, S6 3TE",
     "websiteUrl": "https://www.aesthetesheffield.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 239.1,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.394,
+    "frontObservationPointLon": -1.5017,
+    "facadeWidthM": 11.7,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -5228,7 +7084,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "143 Spital Hill, Sheffield, S4 7LF",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 112,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.391,
+    "frontObservationPointLon": -1.4589,
+    "facadeWidthM": 18
   },
   {
     "id": "cafes-als-goncha-bubble-tea-node-6698539599",
@@ -5241,7 +7103,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "10 Eyre Street, Sheffield, S1 4QY",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 33.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3768,
+    "frontObservationPointLon": -1.4701,
+    "facadeWidthM": 4.5
   },
   {
     "id": "cafes-ambulo-node-1936459741",
@@ -5255,7 +7123,13 @@
     "locationLabel": "48 Arundel Gate, Sheffield, S1 2PP",
     "websiteUrl": "https://www.weareambulo.com",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 31.5,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3795,
+    "frontObservationPointLon": -1.4668,
+    "facadeWidthM": 6,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5272,7 +7146,13 @@
     "regionLabel": "Sheffield",
     "locationLabel": "78-82 The Moor, Sheffield, S1 3LT",
     "solarMode": "facade",
-    "status": "unavailable"
+    "frontBearingDeg": 299.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3759,
+    "frontObservationPointLon": -1.4754,
+    "facadeWidthM": 17.1
   },
   {
     "id": "cafes-asda-cafe-node-6282566879",
@@ -5286,7 +7166,13 @@
     "locationLabel": "Chaucer Road, Sheffield, S5 8NH",
     "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/sheffield/chaucer-road-parson-cross/cafe",
     "solarMode": "facade",
-    "status": "unavailable",
+    "frontBearingDeg": 45.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.4282,
+    "frontObservationPointLon": -1.4866,
+    "facadeWidthM": 4.5,
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"

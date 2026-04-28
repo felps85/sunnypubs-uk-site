@@ -8,7 +8,16 @@
     "locationLabel": "491 Union Street, Aberdeen, AB11 6DB",
     "lat": 57.142942,
     "lon": -2.111264,
-    "websiteUrl": "https://www.491unionstreet.co.uk"
+    "websiteUrl": "https://www.491unionstreet.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAgABAAAAaAAQBgAB4AAA7gAQDgDx8AAP78AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 57.143,
+    "frontObservationPointLon": -2.1113,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 333.3,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-popworld-node-9209792488",
@@ -19,7 +28,16 @@
     "locationLabel": "Schoolhill, Aberdeen, AB10 1JT",
     "lat": 57.147595,
     "lon": -2.102628,
-    "websiteUrl": "https://www.popworldparty.co.uk/aberdeen"
+    "websiteUrl": "https://www.popworldparty.co.uk/aberdeen",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAIAAAAAAPgAAA8AMOAAD/+AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 57.1479,
+    "frontObservationPointLon": -2.1024,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 161.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-club-lomah-node-524896167",
@@ -34,7 +52,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.walcothousebath.com"
+    "websiteUrl": "https://www.walcothousebath.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAgAAACAAAAAAAgABACAAEAAAAoABAGAAHAAADuABAODxHwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.3865,
+    "frontObservationPointLon": -2.3594,
+    "facadeWidthM": 11,
+    "frontBearingDeg": 7.9,
+    "shadeClearanceDeg": 27.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-labyrinth-node-300010441",
@@ -49,7 +76,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.labyrinthbath.com"
+    "websiteUrl": "https://www.labyrinthbath.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDAAwAAAAD8DQAA+f8AAJD/DwAA+f8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.3807,
+    "frontObservationPointLon": -2.3568,
+    "facadeWidthM": 16.6,
+    "frontBearingDeg": 358.1,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-alibi-way-364180385",
@@ -65,7 +101,17 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://alibibelfast.com",
-    "instagramUrl": "https://instagram.com/alibibelfast"
+    "instagramUrl": "https://instagram.com/alibibelfast",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAQAAAA8AEAAAAfAABA8AcAAI5/AADg+wcAAP7/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.5889,
+    "frontObservationPointLon": -5.9353,
+    "facadeWidthM": 11.5,
+    "frontBearingDeg": 204.6,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Renwick Street"
   },
   {
     "id": "nightclubs-the-kremlin-node-4513738301",
@@ -76,7 +122,17 @@
     "locationLabel": "96 Donegall Street, Belfast, BT1 2GW",
     "lat": 54.603896,
     "lon": -5.930842,
-    "websiteUrl": "https://www.kremlin-belfast.com"
+    "websiteUrl": "https://www.kremlin-belfast.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAABggAADkAwIAwD8gAAD8AwMAwD88AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.6039,
+    "frontObservationPointLon": -5.9308,
+    "facadeWidthM": 5.5,
+    "frontBearingDeg": 60.2,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Donegall Street"
   },
   {
     "id": "nightclubs-the-limelight-way-256651844",
@@ -91,7 +147,16 @@
       "status": "limited",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.limelightbelfast.com"
+    "websiteUrl": "https://www.limelightbelfast.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAgAAAAAP8BAADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.5928,
+    "frontObservationPointLon": -5.9286,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 199.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-great-barr-conservative-club-node-2142641275",
@@ -102,7 +167,17 @@
     "locationLabel": "6A Newton Road, B43 6BN",
     "lat": 52.545409,
     "lon": -1.934446,
-    "websiteUrl": "https://www.greatbarrcons.co.uk"
+    "websiteUrl": "https://www.greatbarrcons.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAWAAAAMAPAAAA/AMAAMA/AAAA/AcAAMB/AAAA/AcAAMB/IAAA/AcDAMB/MAAA/IcDAMD/PgAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.5454,
+    "frontObservationPointLon": -1.9345,
+    "facadeWidthM": 6.1,
+    "frontBearingDeg": 260.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Bromford Walk"
   },
   {
     "id": "nightclubs-pop-world-way-32005713",
@@ -113,7 +188,17 @@
     "locationLabel": "Broad Street, Birmingham, B1 2HJ",
     "lat": 52.477122,
     "lon": -1.912263,
-    "websiteUrl": "https://www.popworldparty.co.uk/birmingham"
+    "websiteUrl": "https://www.popworldparty.co.uk/birmingham",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAIAAABwAAAEAAMAAABwAAAEAAMAAAD4AAAMAAOAAAH8AAAcIEPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.4772,
+    "frontObservationPointLon": -1.9122,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 37.1,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Oozells Street"
   },
   {
     "id": "nightclubs-rosies-node-5562950662",
@@ -124,7 +209,17 @@
     "locationLabel": "259-262 Broad Street, Birmingham, B1 2HF",
     "lat": 52.477327,
     "lon": -1.911114,
-    "websiteUrl": "https://www.rosiesclubs.co.uk/birmingham"
+    "websiteUrl": "https://www.rosiesclubs.co.uk/birmingham",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAEAAAAAFxAAAY8AcAgIN/AAD4+AcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.4773,
+    "frontObservationPointLon": -1.9112,
+    "facadeWidthM": 17.4,
+    "frontBearingDeg": 310.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Broad Street"
   },
   {
     "id": "nightclubs-snobs-node-3117288068",
@@ -135,7 +230,17 @@
     "locationLabel": "200 Broad Street, Birmingham, B15 1SU",
     "lat": 52.475252,
     "lon": -1.913925,
-    "websiteUrl": "https://www.snobsnightclub.co.uk"
+    "websiteUrl": "https://www.snobsnightclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAgAAAAAAIAAQAgBFAAAC4AQQAgP9DAAD4PwQAgP9DAAD4fwQAgP9HAAD4fwQAgP9nAAD4fwcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.4754,
+    "frontObservationPointLon": -1.9139,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 309.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Broad Street"
   },
   {
     "id": "nightclubs-popworld-way-146615133",
@@ -146,7 +251,17 @@
     "locationLabel": "120-122 Promenade, Blackpool, FY1 1RA",
     "lat": 53.819443,
     "lon": -3.055186,
-    "websiteUrl": "https://www.popworldparty.co.uk/blackpool"
+    "websiteUrl": "https://www.popworldparty.co.uk/blackpool",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAQAAgBAACAAAAwAAwDAATAAAJyAAwDAiz0AAPz5AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.8194,
+    "frontObservationPointLon": -3.055,
+    "facadeWidthM": 17.3,
+    "frontBearingDeg": 99.7,
+    "shadeClearanceDeg": 27.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "The Strand"
   },
   {
     "id": "nightclubs-brighton-music-hall-node-6979189202",
@@ -158,7 +273,15 @@
     "lat": 50.820732,
     "lon": -0.146637,
     "websiteUrl": "https://www.brightonmusichall.co.uk",
-    "instagramUrl": "https://instagram.com/btnmusichall"
+    "instagramUrl": "https://instagram.com/btnmusichall",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwDw/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 50.8207,
+    "frontObservationPointLon": -0.1466,
+    "facadeWidthM": 7,
+    "frontBearingDeg": 194.4,
+    "shadeClearanceDeg": 2.5
   },
   {
     "id": "nightclubs-casablanca-jazz-club-node-1155446685",
@@ -169,7 +292,17 @@
     "locationLabel": "5 Middle Street, BN1 1AL",
     "lat": 50.820854,
     "lon": -0.143418,
-    "websiteUrl": "https://www.casablancajazzclub.com"
+    "websiteUrl": "https://www.casablancajazzclub.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAgAAACAAAAAAAgBAACAAAAQAAwDAADAAAByAAwDAAzwAAHzwAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 50.8208,
+    "frontObservationPointLon": -0.1434,
+    "facadeWidthM": 5.1,
+    "frontBearingDeg": 95.8,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Middle Street"
   },
   {
     "id": "nightclubs-tide-club-node-11182160517",
@@ -181,7 +314,16 @@
     "lat": 50.819682,
     "lon": -0.141356,
     "websiteUrl": "https://tidenightclub.com",
-    "instagramUrl": "https://instagram.com/tidenightclub"
+    "instagramUrl": "https://instagram.com/tidenightclub",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwD8AQAAwB8AAOb/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 50.8198,
+    "frontObservationPointLon": -0.1417,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 94,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-electric-way-466509541",
@@ -192,7 +334,17 @@
     "locationLabel": "15 Nelson Street, Bristol, BS1 2JY",
     "lat": 51.456578,
     "lon": -2.592051,
-    "websiteUrl": "https://electricbristol.com"
+    "websiteUrl": "https://electricbristol.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQCAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAIAHAAAAeAAAAIAHAAAAeAAAAMAHAAAAfgAAAPwHAADAfwAAAPwHAADA/wEAAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4567,
+    "frontObservationPointLon": -2.5921,
+    "facadeWidthM": 5.7,
+    "frontBearingDeg": 341.4,
+    "shadeClearanceDeg": 27.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Nelson Street"
   },
   {
     "id": "nightclubs-exchange-way-126148590",
@@ -211,7 +363,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://exchangebristol.com"
+    "websiteUrl": "https://exchangebristol.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAABACAAAAIwAAALASAACA7wEAAPj/AACA/w8AAPj/AACA/w8AAPj/AACA/w8AAPj/AACA/w8AAPj/AACA/w8AAPj/AACA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4553,
+    "frontObservationPointLon": -2.5831,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 354.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-motion-node-13285867957",
@@ -223,7 +384,17 @@
     "lat": 51.448719,
     "lon": -2.56901,
     "websiteUrl": "https://motion-bristol.com",
-    "instagramUrl": "https://instagram.com/motionbristol"
+    "instagramUrl": "https://instagram.com/motionbristol",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD8AwAAAACAAAAAAD8AAMD/AwAA/D8AAMD/AwAA/D8AAMD/AwAA/D8AAOD/AwAA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4488,
+    "frontObservationPointLon": -2.569,
+    "facadeWidthM": 8.1,
+    "frontBearingDeg": 338.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Victoria Terrace"
   },
   {
     "id": "nightclubs-popworld-way-123969955",
@@ -238,7 +409,17 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.popworldparty.co.uk/bristol"
+    "websiteUrl": "https://www.popworldparty.co.uk/bristol",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAEAAIAQAAwAAAE4AMAQAA+AAAM4AMAwAA+AAA84AMAwAc+AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4535,
+    "frontObservationPointLon": -2.5947,
+    "facadeWidthM": 14.8,
+    "frontBearingDeg": 178.3,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Baldwin Street"
   },
   {
     "id": "nightclubs-strange-brew-way-479616156",
@@ -249,7 +430,17 @@
     "locationLabel": "Fairfax Street, Bristol, BS1 3DB",
     "lat": 51.4563,
     "lon": -2.592347,
-    "websiteUrl": "https://www.strangebrewbristol.com"
+    "websiteUrl": "https://www.strangebrewbristol.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAADAAAAMAAIAAADwAAAcAAOAAAf+AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4563,
+    "frontObservationPointLon": -2.5923,
+    "facadeWidthM": 8.9,
+    "frontBearingDeg": 42.6,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Fairfax Street"
   },
   {
     "id": "nightclubs-the-shilling-way-380874326",
@@ -260,7 +451,16 @@
     "locationLabel": "9 Frogmore Street, Bristol, BS1 5NA",
     "lat": 51.453692,
     "lon": -2.60098,
-    "websiteUrl": "https://www.queenshilling.com"
+    "websiteUrl": "https://www.queenshilling.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAABAAAAMB8AAAA/AcAAMB/AAAA/AcAAMB/BwAA/P8BAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.454,
+    "frontObservationPointLon": -2.6012,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 137.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-thekla-way-90958156",
@@ -275,7 +475,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.theklabristol.co.uk"
+    "websiteUrl": "https://www.theklabristol.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDgAwAAAAACAAAAIjQAAOD3HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.449,
+    "frontObservationPointLon": -2.5941,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 6,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-circuit-node-7590302141",
@@ -286,7 +495,16 @@
     "locationLabel": "Greyfriars Road, Cardiff, CF10 3DP",
     "lat": 51.483208,
     "lon": -3.175591,
-    "websiteUrl": "https://circuitclub.co.uk"
+    "websiteUrl": "https://circuitclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAQAAADwAAAAoA8AAID/QAAA+E8GAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4835,
+    "frontObservationPointLon": -3.1752,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 151.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-clwb-ifor-bach-node-852071475",
@@ -297,7 +515,17 @@
     "locationLabel": "11 Womanby Street, Cardiff, CF10 1BR",
     "lat": 51.480524,
     "lon": -3.181523,
-    "websiteUrl": "https://clwb.net"
+    "websiteUrl": "https://clwb.net",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAAAABgABAGAAHgAADvABAOAAHwAAHvABAOCHHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4805,
+    "frontObservationPointLon": -3.1815,
+    "facadeWidthM": 10.3,
+    "frontBearingDeg": 253.7,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Womanby Street"
   },
   {
     "id": "nightclubs-district-node-11136823955",
@@ -309,7 +537,16 @@
     "lat": 51.483256,
     "lon": -3.175754,
     "websiteUrl": "https://districtnightclub.co.uk/club/cardiff",
-    "instagramUrl": "https://instagram.com/districtcardiff"
+    "instagramUrl": "https://instagram.com/districtcardiff",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAQAAAAAAGAAAA4AAAAAAeAAAA4P8IAAD+7wAA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4835,
+    "frontObservationPointLon": -3.1757,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 174.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-pop-world-node-6535979845",
@@ -320,7 +557,17 @@
     "locationLabel": "96 Saint Mary Street, Cardiff, CF10 1DX",
     "lat": 51.478663,
     "lon": -3.178543,
-    "websiteUrl": "https://www.popworldparty.co.uk/cardiff"
+    "websiteUrl": "https://www.popworldparty.co.uk/cardiff",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAQAAABgAAA4AAcAgA98AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4787,
+    "frontObservationPointLon": -3.1784,
+    "facadeWidthM": 11.3,
+    "frontBearingDeg": 68.9,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Saint Mary Street"
   },
   {
     "id": "nightclubs-pulse-node-1104510171",
@@ -336,7 +583,17 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.pulsecardiff.com",
-    "instagramUrl": "https://instagram.com/pulsecardiff"
+    "instagramUrl": "https://instagram.com/pulsecardiff",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwCAAAAAAAgABACAAHAAAAjkBwCAwH8AABj8BwCAw38AADj8BwCA338AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4822,
+    "frontObservationPointLon": -3.1729,
+    "facadeWidthM": 14,
+    "frontBearingDeg": 228.7,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Churchill Way"
   },
   {
     "id": "nightclubs-y-plas-node-6865047467",
@@ -351,7 +608,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.cardiffstudents.com/venues/y-plas"
+    "websiteUrl": "https://www.cardiffstudents.com/venues/y-plas",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAADAAQAAAB4MAADzwwAA8D8OAAD/9wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4884,
+    "frontObservationPointLon": -3.177,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 40.9,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-palm-beach-club-way-198678844",
@@ -362,7 +628,16 @@
     "locationLabel": "3-7 Park Street, Croydon, CR0 1YD",
     "lat": 51.373471,
     "lon": -0.099333,
-    "websiteUrl": "https://badapple.co"
+    "websiteUrl": "https://badapple.co",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAABACAB3AAAPj3BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.3735,
+    "frontObservationPointLon": -0.0994,
+    "facadeWidthM": 17.8,
+    "frontBearingDeg": 346,
+    "shadeClearanceDeg": 72.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-fever-way-116042877",
@@ -374,7 +649,16 @@
     "lat": 52.922067,
     "lon": -1.479324,
     "websiteUrl": "https://www.feverbars.co.uk/derby",
-    "instagramUrl": "https://instagram.com/fever.clubrooms"
+    "instagramUrl": "https://instagram.com/fever.clubrooms",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAABAAAAIAAQBgABgAAA7AAQDgAR4AAH7wAQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.9223,
+    "frontObservationPointLon": -1.4793,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 205.4,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-moomoo-node-5537591658",
@@ -386,7 +670,17 @@
     "lat": 52.922522,
     "lon": -1.477497,
     "websiteUrl": "https://www.moomooderby.com",
-    "instagramUrl": "https://instagram.com/moomooderby"
+    "instagramUrl": "https://instagram.com/moomooderby",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAgAAAAAAIAAAAwAAAEAAMAQAAwAAAMgAMAwAE8AAA84AMAwI8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.9224,
+    "frontObservationPointLon": -1.4775,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 177.3,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Saint James's Street"
   },
   {
     "id": "nightclubs-the-blue-note-club-node-1438242149",
@@ -398,7 +692,17 @@
     "lat": 52.923392,
     "lon": -1.478532,
     "websiteUrl": "https://www.thebluenotederby.com",
-    "instagramUrl": "https://instagram.com/explore"
+    "instagramUrl": "https://instagram.com/explore",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAEAAIAAADwAAAMAAMAAAH4AAA8AAPAAB//gAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.9233,
+    "frontObservationPointLon": -1.4785,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 159.3,
+    "shadeClearanceDeg": 32.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Sadler Gate"
   },
   {
     "id": "nightclubs-hangar-5-node-522823456",
@@ -413,7 +717,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.eusa.ed.ac.uk/eatdrinkshop/findaspace/hangar5"
+    "websiteUrl": "https://www.eusa.ed.ac.uk/eatdrinkshop/findaspace/hangar5",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAACARAAAA/h8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9459,
+    "frontObservationPointLon": -3.1884,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 254.7,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-la-belle-angele-node-3259778902",
@@ -424,7 +737,16 @@
     "locationLabel": "11 Hastie's Close, Edinburgh, EH1 1HJ",
     "lat": 55.948377,
     "lon": -3.187389,
-    "websiteUrl": "https://la-belleangele.com"
+    "websiteUrl": "https://la-belleangele.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAIABAAAAGAAAgMEBAAAYHwAAwP8BAAD8HwAA4P8BAID/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9484,
+    "frontObservationPointLon": -3.1868,
+    "facadeWidthM": 8.1,
+    "frontBearingDeg": 253.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-shanghai-club-node-11042738372",
@@ -435,7 +757,16 @@
     "locationLabel": "16 George Street, Edinburgh, EH2 2PF",
     "lat": 55.953566,
     "lon": -3.196077,
-    "websiteUrl": "https://shanghaiclub.co.uk"
+    "websiteUrl": "https://shanghaiclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwABAAAAEAAMAAAR8AAA8AMPAAD/8QAA8B8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9538,
+    "frontObservationPointLon": -3.1963,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 163.2,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-stramash-node-3829574791",
@@ -446,7 +777,17 @@
     "locationLabel": "209 Cowgate, Edinburgh, EH1 1JQ",
     "lat": 55.948563,
     "lon": -3.187798,
-    "websiteUrl": "https://www.stramashedinburgh.com"
+    "websiteUrl": "https://www.stramashedinburgh.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AcD/AwAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQgAAAAAEIAAAQgAcAAAP4AAAwgA8AAAf4AADwwQ8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9487,
+    "frontObservationPointLon": -3.188,
+    "facadeWidthM": 4.9,
+    "frontBearingDeg": 81.8,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Stevenlaw's Close"
   },
   {
     "id": "nightclubs-the-bongo-club-node-4166866989",
@@ -457,7 +798,16 @@
     "locationLabel": "66 Cowgate, Edinburgh, EH1 1JX",
     "lat": 55.948208,
     "lon": -3.192104,
-    "websiteUrl": "https://www.thebongoclub.co.uk"
+    "websiteUrl": "https://www.thebongoclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAQAAAJAAADgAAYAAP5jAADgPwYAAP53AADg/wcAAP5/AADg/wcAAP5/AADw/wcAAP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9483,
+    "frontObservationPointLon": -3.1923,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 71.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-liquid-room-node-3007617849",
@@ -468,7 +818,16 @@
     "locationLabel": "9C Victoria Street, Edinburgh, EH1 2HE",
     "lat": 55.948521,
     "lon": -3.193734,
-    "websiteUrl": "https://www.liquidroom.com"
+    "websiteUrl": "https://www.liquidroom.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD8AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAAAAGAAAAIABAAAAHAAAAMABAAAAHAAAAsABACAAHAAABsABAOAAHAAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9485,
+    "frontObservationPointLon": -3.1938,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 249.5,
+    "shadeClearanceDeg": 32.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-mash-house-node-3259772347",
@@ -479,7 +838,17 @@
     "locationLabel": "37 Guthrie Street, Edinburgh, EH1 1JG",
     "lat": 55.948368,
     "lon": -3.18764,
-    "websiteUrl": "https://themashhouse.co.uk"
+    "websiteUrl": "https://themashhouse.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AYD/AwAAAAAAAAAAAAAAAACAAAAAAHwCAADwPwAAgP8HAAD4/wIAgP8/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9485,
+    "frontObservationPointLon": -3.1877,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 72.8,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Hastie's Close"
   },
   {
     "id": "nightclubs-whynot-node-2415446250",
@@ -490,7 +859,16 @@
     "locationLabel": "14 George Street, Edinburgh, EH2 2PF",
     "lat": 55.953585,
     "lon": -3.195577,
-    "websiteUrl": "https://www.wnclub.co.uk"
+    "websiteUrl": "https://www.wnclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/A0AAAAAABgAAAHwAAADwBwAAgH8AAAD4BwAAgH9DAAD4PwQAgP93AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.9536,
+    "frontObservationPointLon": -3.1959,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 72.9,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-cathouse-node-1322796875",
@@ -505,7 +883,17 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://cathouse.co.uk"
+    "websiteUrl": "https://cathouse.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAALAAQBgABwAAB7gAQDgxx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.8586,
+    "frontObservationPointLon": -4.257,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 89.1,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Union Street"
   },
   {
     "id": "nightclubs-polo-lounge-node-1543443657",
@@ -516,7 +904,17 @@
     "locationLabel": "84 Wilson Street, G1 1UZ",
     "lat": 55.858947,
     "lon": -4.249628,
-    "websiteUrl": "https://www.pologlasgow.co.uk"
+    "websiteUrl": "https://www.pologlasgow.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAABAAAAIAAYAgABgAAAIAAcAgAF8AAAY4AcAgAN+AAB44AcAgA9+AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.8589,
+    "frontObservationPointLon": -4.2494,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 191.5,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Wilson Street"
   },
   {
     "id": "nightclubs-slay-node-9750981325",
@@ -527,7 +925,17 @@
     "locationLabel": "24 Glassford Street, Glasgow, G1 1UL",
     "lat": 55.858127,
     "lon": -4.248997,
-    "websiteUrl": "https://www.slayglasgow.com"
+    "websiteUrl": "https://www.slayglasgow.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAAAAAAAABAAAAEAAIAAADgAAAcAAOAAAP8AAA8IEPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.8581,
+    "frontObservationPointLon": -4.2491,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 280.3,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Glassford Street"
   },
   {
     "id": "nightclubs-sub-club-node-3834521842",
@@ -543,7 +951,17 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://subclub.co.uk",
-    "instagramUrl": "https://instagram.com/subclub87"
+    "instagramUrl": "https://instagram.com/subclub87",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAwAAQDAATgAAHzgAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.8579,
+    "frontObservationPointLon": -4.2572,
+    "facadeWidthM": 15.8,
+    "frontBearingDeg": 100.6,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Jamaica Street"
   },
   {
     "id": "nightclubs-the-berkeley-suite-node-6396532829",
@@ -554,7 +972,16 @@
     "locationLabel": "237 North Street, Glasgow, G3 7DL",
     "lat": 55.865848,
     "lon": -4.272037,
-    "websiteUrl": "https://berkeleysuite.com"
+    "websiteUrl": "https://berkeleysuite.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwDAAAAAgA4AAADoAAAAgA8AAAD4AAAQ/g8AAPH/AACw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.8658,
+    "frontObservationPointLon": -4.272,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 80.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-wunderbar-way-165771361",
@@ -565,7 +992,17 @@
     "locationLabel": "59 Dumbarton Road, Glasgow, G11 6PD",
     "lat": 55.869823,
     "lon": -4.296606,
-    "websiteUrl": "https://wunderbarglasgow.com"
+    "websiteUrl": "https://wunderbarglasgow.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDAAzgAAADwDwAA4f8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 55.8699,
+    "frontObservationPointLon": -4.2967,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 1.3,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Dumbarton Road"
   },
   {
     "id": "nightclubs-circuit-node-11267868904",
@@ -576,7 +1013,16 @@
     "locationLabel": "154 Clarence Street, Kingston upon Thames, KT1 1QP",
     "lat": 51.411469,
     "lon": -0.300178,
-    "websiteUrl": "https://circuitclub.co.uk/kingston"
+    "websiteUrl": "https://circuitclub.co.uk/kingston",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAACfgAAMOAHAIAHfgAA+OAHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4116,
+    "frontObservationPointLon": -0.3003,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 266,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-project-house-node-11637605269",
@@ -588,7 +1034,16 @@
     "lat": 53.795647,
     "lon": -1.566266,
     "websiteUrl": "https://projecthouselds.com",
-    "instagramUrl": "https://instagram.com/projecthouselds"
+    "instagramUrl": "https://instagram.com/projecthouselds",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwCA/wEAAPx/AADA/wcAAPx/AADA/w8AAPz/AADA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.7956,
+    "frontObservationPointLon": -1.5662,
+    "facadeWidthM": 17.8,
+    "frontBearingDeg": 219.3,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-pryzm-node-299171008",
@@ -611,7 +1066,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.pryzm.co.uk"
+    "websiteUrl": "https://www.pryzm.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAABAAAAEAgAAAABkIAAGCgBwAABv4BAGDgHwAABv4BAGDgHwAABv4BAODgHwAADv8BAOD5HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.8011,
+    "frontObservationPointLon": -1.5448,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 251.5,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-key-club-node-3817114481",
@@ -630,7 +1094,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://thekeyclubleeds.com"
+    "websiteUrl": "https://thekeyclubleeds.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAAACAAAAAAAwAAADAAAAAAAwAAADgAAAAAB8AAAD4AQAAgH8AAAD+BwAA4P8AAAD+HwAA4P8TAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.8011,
+    "frontObservationPointLon": -1.5435,
+    "facadeWidthM": 5.5,
+    "frontBearingDeg": 290.5,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-mosh-node-3392744956",
@@ -645,7 +1118,16 @@
       "status": "limited",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.moshnightclub.co.uk"
+    "websiteUrl": "https://www.moshnightclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAQAAAHN4AADwzw8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.6351,
+    "frontObservationPointLon": -1.1398,
+    "facadeWidthM": 5.2,
+    "frontBearingDeg": 197.3,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-flares-node-10234611884",
@@ -656,7 +1138,17 @@
     "locationLabel": "Mathew Street, Liverpool, L2 6RE",
     "lat": 53.406253,
     "lon": -2.987762,
-    "websiteUrl": "https://www.flaresbars.co.uk/liverpool"
+    "websiteUrl": "https://www.flaresbars.co.uk/liverpool",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDgAwAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAAAIAAAAAADAAAAcAAABAADgAAA/AAAHCADwAAD/4AAPDzDwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.4063,
+    "frontObservationPointLon": -2.9876,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 355.3,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Mathew Street"
   },
   {
     "id": "nightclubs-ink-bar-way-1175774673",
@@ -667,7 +1159,17 @@
     "locationLabel": "78-82 Wood Street, Liverpool, L1 4DQ",
     "lat": 53.402391,
     "lon": -2.978164,
-    "websiteUrl": "https://www.inkbarliverpool.co.uk"
+    "websiteUrl": "https://www.inkbarliverpool.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAMAAAAwAAAAAAcAAAAwAEAAIAdAAAA+AEAAIA/AAAA/A8AAMD/AwAA/j8AAPj/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.4024,
+    "frontObservationPointLon": -2.9783,
+    "facadeWidthM": 11.1,
+    "frontBearingDeg": 216.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Saint Peter's Square"
   },
   {
     "id": "nightclubs-popworld-way-1247828043",
@@ -678,7 +1180,16 @@
     "locationLabel": "Liverpool",
     "lat": 53.404173,
     "lon": -2.981822,
-    "websiteUrl": "https://www.popworldparty.co.uk/liverpool"
+    "websiteUrl": "https://www.popworldparty.co.uk/liverpool",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD4AwAAAABAAAAAAAQAAABwAAAAgAcAAOB3AAAA/g8AAOD/AAAA/g8AAPD/AACA/w8AAPz/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.4042,
+    "frontObservationPointLon": -2.9819,
+    "facadeWidthM": 8.9,
+    "frontBearingDeg": 321.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-100-club-node-313349354",
@@ -694,7 +1205,17 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.the100club.co.uk",
-    "instagramUrl": "https://instagram.com/100clublondon"
+    "instagramUrl": "https://instagram.com/100clublondon",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDgAwAAAAAAAACAAAAAAAgABACAAWAAABiABwCAA34AAPjxBwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5159,
+    "frontObservationPointLon": -0.135,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 349.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Oxford Street"
   },
   {
     "id": "nightclubs-alaska-waterloo-node-11876483273",
@@ -706,7 +1227,16 @@
     "lat": 51.503871,
     "lon": -0.111093,
     "websiteUrl": "https://www.alaskawaterloo.com",
-    "instagramUrl": "https://instagram.com/alaska_waterloo"
+    "instagramUrl": "https://instagram.com/alaska_waterloo",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMABAAAA/AAAAOAfAAAA/w8AAPz/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5036,
+    "frontObservationPointLon": -0.111,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 325.5,
+    "shadeClearanceDeg": 52.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-arizona-lounge-node-1614146298",
@@ -717,7 +1247,16 @@
     "locationLabel": "134 Marylebone Road, London",
     "lat": 51.522232,
     "lon": -0.158001,
-    "websiteUrl": "https://www.arizonalounge.com"
+    "websiteUrl": "https://www.arizonalounge.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAYOUPAAD2/wAA4P8PAAD+/wAA4P8PAAD+/wAA4P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5224,
+    "frontObservationPointLon": -0.158,
+    "facadeWidthM": 7.7,
+    "frontBearingDeg": 163.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-blagclub-kensington-node-7394550611",
@@ -728,7 +1267,16 @@
     "locationLabel": "11 Russell Gardens, London",
     "lat": 51.500155,
     "lon": -0.211026,
-    "websiteUrl": "https://blagclub.com"
+    "websiteUrl": "https://blagclub.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAwAAAAwA8AAAH8AABwwA8AAAf8AADw5w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5002,
+    "frontObservationPointLon": -0.211,
+    "facadeWidthM": 5.1,
+    "frontBearingDeg": 319.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-bodos-schloss-node-4177285145",
@@ -739,7 +1287,16 @@
     "locationLabel": "2a Kensington High Street, London, W8 4PT",
     "lat": 51.502545,
     "lon": -0.18778,
-    "websiteUrl": "https://www.bodosschloss.com"
+    "websiteUrl": "https://www.bodosschloss.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAHAAAA8AMAAAA/AAAA8AMIAAD/4wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5025,
+    "frontObservationPointLon": -0.1878,
+    "facadeWidthM": 8.7,
+    "frontBearingDeg": 156.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-cafe-1001-way-270424942",
@@ -750,7 +1307,16 @@
     "locationLabel": "Dray Walk, London, E1 6QL",
     "lat": 51.520792,
     "lon": -0.072076,
-    "websiteUrl": "https://www.cafe1001.co.uk"
+    "websiteUrl": "https://www.cafe1001.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAMAAAAAAHAAAAcAAAAAAPAAAA+BEAAIA/AQAA/B8AAMD/AQAA/h8AAPj/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5208,
+    "frontObservationPointLon": -0.0719,
+    "facadeWidthM": 13.1,
+    "frontBearingDeg": 93.2,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-corsica-studios-node-1548849869",
@@ -765,7 +1331,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.corsicastudios.com"
+    "websiteUrl": "https://www.corsicastudios.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAEAAM2TAADwPAsAAM+zAADwPAsAAM+zAADwPA8AAM/zAADwPw8AAP/zAADwPw8AAP/3AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4936,
+    "frontObservationPointLon": -0.0982,
+    "facadeWidthM": 17.8,
+    "frontBearingDeg": 197.6,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-downstairs-at-the-dome-node-13162024712",
@@ -780,7 +1355,17 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://domelondon.co.uk"
+    "websiteUrl": "https://domelondon.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAABwAAAAAP8AAADwDwAAAP8TAAD2/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5571,
+    "frontObservationPointLon": -0.1384,
+    "facadeWidthM": 14.3,
+    "frontBearingDeg": 286.3,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Dartmouth Park Hill"
   },
   {
     "id": "nightclubs-egg-london-nightclub-node-6772902785",
@@ -791,7 +1376,17 @@
     "locationLabel": "200 York Way, London, N7 9AX",
     "lat": 51.541827,
     "lon": -0.124788,
-    "websiteUrl": "https://www.egglondon.co.uk"
+    "websiteUrl": "https://www.egglondon.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD4AwAAAAAAAAAA8AEAAIAfAQAA/BMAAPy/AQDA/x8AAPz/AQDA/x8AAPz/AQDA/x8AAPz/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5417,
+    "frontObservationPointLon": -0.1248,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 333.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Vale Royal"
   },
   {
     "id": "nightclubs-electric-ballroom-way-451480064",
@@ -810,7 +1405,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://electricballroom.co.uk"
+    "websiteUrl": "https://electricballroom.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAEAAAAAABgAAgGAAAACIBwAAgH0AAAD4BwAAgH8AAAD4BwAAgH8AAAD4BwAAgH8CAAD4fwAAgP8fAAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5398,
+    "frontObservationPointLon": -0.1424,
+    "facadeWidthM": 7.4,
+    "frontBearingDeg": 188.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-fire-way-331438863",
@@ -829,7 +1433,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.firelondon.net"
+    "websiteUrl": "https://www.firelondon.net",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAQAAAEAAEAwAEcAABc8AEAwP0fAADc/wEAwP8fAAD8/wEAwP8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.485,
+    "frontObservationPointLon": -0.1236,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 286.3,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-fire-london-node-13577489801",
@@ -840,7 +1453,16 @@
     "locationLabel": "39 Parry Street",
     "lat": 51.484479,
     "lon": -0.124166,
-    "websiteUrl": "https://www.firelondon.net"
+    "websiteUrl": "https://www.firelondon.net",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAMAQAAwAAA8AAMAwCcwAAB8AgMAwCcwAAB8AgMAwCcwAAB8DgMAwGcwAAD8BwMAwH8wAAD8BwMAwH8wAAD8BwMAwP8wAAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4844,
+    "frontObservationPointLon": -0.1242,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 176.6,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-fold-node-12043434971",
@@ -852,7 +1474,16 @@
     "lat": 51.519073,
     "lon": 0.003919,
     "websiteUrl": "https://www.fold.london",
-    "instagramUrl": "https://instagram.com/fold.ldn"
+    "instagramUrl": "https://instagram.com/fold.ldn",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwDGAADg9w8AAP7/AADg/w8AAP7/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5191,
+    "frontObservationPointLon": 0.004,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 79.1,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-jako-london-node-3868765589",
@@ -863,7 +1494,16 @@
     "locationLabel": "1 Kensington High Street, London, W8 5NP",
     "lat": 51.50215,
     "lon": -0.187551,
-    "websiteUrl": "https://www.jakolondon.com"
+    "websiteUrl": "https://www.jakolondon.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/A/8BAAD8HwAAwP8BAAD8HwAAxv8BAGD8HwAAzv8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5022,
+    "frontObservationPointLon": -0.1875,
+    "facadeWidthM": 12.3,
+    "frontBearingDeg": 11,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-kadies-club-node-5683818786",
@@ -874,7 +1514,16 @@
     "locationLabel": "9 Swallow Street, London",
     "lat": 51.509429,
     "lon": -0.137594,
-    "websiteUrl": "https://www.kadiesclub.com"
+    "websiteUrl": "https://www.kadiesclub.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAABwAAAPAAAAAAD4AAAPAACAAAD8AAAPAADAAAD+AAAPABDwAAf/wAAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5092,
+    "frontObservationPointLon": -0.1372,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 241.4,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-koko-way-225465155",
@@ -889,7 +1538,16 @@
       "status": "limited",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.koko.co.uk"
+    "websiteUrl": "https://www.koko.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAgAAAAkGcAAOD5BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5346,
+    "frontObservationPointLon": -0.1384,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 228.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-la-hacienda-node-9370334863",
@@ -901,7 +1559,17 @@
     "lat": 51.504562,
     "lon": 0.017587,
     "websiteUrl": "https://www.lalounge.co.uk",
-    "instagramUrl": "https://instagram.com/laloungeuk"
+    "instagramUrl": "https://instagram.com/laloungeuk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAIAAAB9gAAMPAPAAAD/wAA8PcPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5046,
+    "frontObservationPointLon": 0.0176,
+    "facadeWidthM": 7.6,
+    "frontBearingDeg": 41,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "North Woolwich Road"
   },
   {
     "id": "nightclubs-lafayette-node-9697951364",
@@ -912,7 +1580,16 @@
     "locationLabel": "11 Goods Way, London, N1C 4DP",
     "lat": 51.534189,
     "lon": -0.12584,
-    "websiteUrl": "https://www.lafayettelondon.com"
+    "websiteUrl": "https://www.lafayettelondon.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAADAAQDgARwAAB7wAQDg8x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5343,
+    "frontObservationPointLon": -0.1258,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 334,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-le-fez-node-8809964755",
@@ -923,7 +1600,17 @@
     "locationLabel": "200B Upper Richmond Road, London, SW15 2SH",
     "lat": 51.460808,
     "lon": -0.216652,
-    "websiteUrl": "https://www.lefez.co.uk/putney"
+    "websiteUrl": "https://www.lefez.co.uk/putney",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAgAEGAAA44AMAgA9+AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4608,
+    "frontObservationPointLon": -0.2167,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 194.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Upper Richmond Road"
   },
   {
     "id": "nightclubs-lightbox-node-368025671",
@@ -934,7 +1621,16 @@
     "locationLabel": "6a South Lambeth Place, London, SW8 1SP",
     "lat": 51.485359,
     "lon": -0.123476,
-    "websiteUrl": "https://www.lightboxlondon.net"
+    "websiteUrl": "https://www.lightboxlondon.net",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwEAAAAQAAAAAAEAAAAQAAAEAAEAwAAQAAAcAAEAwAMYAAA8gAEAwAMcAAA+4AEA4M8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4853,
+    "frontObservationPointLon": -0.1235,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 285.6,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-ma-dame-node-6981977191",
@@ -945,7 +1641,17 @@
     "locationLabel": "58 Porchester Road, London",
     "lat": 51.518298,
     "lon": -0.188894,
-    "websiteUrl": "https://ma-dame.london"
+    "websiteUrl": "https://ma-dame.london",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAQQAAA4AEEAIAfQAAA+IcHAID/eAAA+M8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5183,
+    "frontObservationPointLon": -0.1889,
+    "facadeWidthM": 6.1,
+    "frontBearingDeg": 267.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Porchester Road"
   },
   {
     "id": "nightclubs-mahiki-way-289954045",
@@ -960,7 +1666,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://mahiki.com"
+    "websiteUrl": "https://mahiki.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAACYAAAPAACAAAD4AAAPAACAAAD8AAAPAADgAAD+AAAPABDwAA//gAAPDvDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5077,
+    "frontObservationPointLon": -0.1414,
+    "facadeWidthM": 6.6,
+    "frontBearingDeg": 239.3,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-milk-and-honey-way-273720739",
@@ -975,7 +1690,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.mlkhny.com"
+    "websiteUrl": "https://www.mlkhny.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAgABAOABGAAAHsABAOBxHAAA/vcBAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5138,
+    "frontObservationPointLon": -0.1364,
+    "facadeWidthM": 5.2,
+    "frontBearingDeg": 246.2,
+    "shadeClearanceDeg": 27.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-moth-club-node-8846263692",
@@ -990,7 +1714,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.mothclub.co.uk"
+    "websiteUrl": "https://www.mothclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAACAAABIAAAMAAOAAADIADAMABOAAAvMMDAMA/PgAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5457,
+    "frontObservationPointLon": -0.0546,
+    "facadeWidthM": 6.7,
+    "frontBearingDeg": 261.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-night-tales-node-6900790809",
@@ -1002,7 +1735,17 @@
     "lat": 51.547332,
     "lon": -0.052925,
     "websiteUrl": "https://nighttales.co.uk",
-    "instagramUrl": "https://instagram.com/nighttalesldn"
+    "instagramUrl": "https://instagram.com/nighttalesldn",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AcD/AwAAAAAAAACAAAAAAAgAAACAAUAAABgABgCAA3AAAHiABwCAD38AAPjzBwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5474,
+    "frontObservationPointLon": -0.0532,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 354.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Bohemia Place"
   },
   {
     "id": "nightclubs-night-tales-loft-node-9286567817",
@@ -1014,7 +1757,16 @@
     "lat": 51.537484,
     "lon": -0.057773,
     "websiteUrl": "https://ntloft.co.uk",
-    "instagramUrl": "https://instagram.com/ntloft"
+    "instagramUrl": "https://instagram.com/ntloft",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAuAAAQ4QMAwB8+AAD84wMAwL8+AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5374,
+    "frontObservationPointLon": -0.0578,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 179.2,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-no4-mayfair-node-5643033215",
@@ -1025,7 +1777,16 @@
     "locationLabel": "4 Mill Street, London",
     "lat": 51.51249,
     "lon": -0.14233,
-    "websiteUrl": "https://www.no4mayfair.com"
+    "websiteUrl": "https://www.no4mayfair.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAAAAAEAAIAAABgAAAEAAMAAADwAAAMAAOAAAH8AAA8MEPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5125,
+    "frontObservationPointLon": -0.1423,
+    "facadeWidthM": 7.4,
+    "frontBearingDeg": 41.4,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-notting-hill-arts-club-node-2244810458",
@@ -1036,7 +1797,17 @@
     "locationLabel": "21 Notting Hill Gate, London",
     "lat": 51.509241,
     "lon": -0.194438,
-    "websiteUrl": "https://nottinghillartsclub.com"
+    "websiteUrl": "https://nottinghillartsclub.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AeD/AwAAAAAAAgAAADAAABjAAwDABz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5093,
+    "frontObservationPointLon": -0.1946,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 342.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Notting Hill Gate"
   },
   {
     "id": "nightclubs-o2-academy-islington-node-582582173",
@@ -1051,7 +1822,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.academymusicgroup.com/o2academyislington"
+    "websiteUrl": "https://www.academymusicgroup.com/o2academyislington",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AYD/AwAAAAAAAAAAAAIAAAAgAAAAAAMAAAA4AAAAwAMAAAA8AABA8AMAAPw/AADk/wMAQP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5345,
+    "frontObservationPointLon": -0.1059,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 296.8,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-popworld-node-8872309808",
@@ -1062,7 +1842,16 @@
     "locationLabel": "London",
     "lat": 51.658223,
     "lon": -0.400456,
-    "websiteUrl": "https://www.popworldparty.co.uk/watford"
+    "websiteUrl": "https://www.popworldparty.co.uk/watford",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAEAIAAcAAAW8AEA4MMfAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.6583,
+    "frontObservationPointLon": -0.4005,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 46.3,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-scala-way-137825939",
@@ -1073,7 +1862,16 @@
     "locationLabel": "London",
     "lat": 51.530611,
     "lon": -0.120662,
-    "websiteUrl": "https://scala.co.uk"
+    "websiteUrl": "https://scala.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAABgAAADAHwAAAP8BAADwHwAAAP8BAADwHwAA8P8BAMD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5306,
+    "frontObservationPointLon": -0.1214,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 12.1,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-shoreditch-townhouse-way-173037429",
@@ -1084,7 +1882,17 @@
     "locationLabel": "25 Paul Street, London, EC2A 4JU",
     "lat": 51.523021,
     "lon": -0.084577,
-    "websiteUrl": "https://www.shoreditchtownhouse.com"
+    "websiteUrl": "https://www.shoreditchtownhouse.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AcD/AwAAAAAAAAAAAAAAAAAgAAAAAAIAAAAgAAAAAAYAAABgABgAAA7AAQDgAR4AAH7wAQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.523,
+    "frontObservationPointLon": -0.0845,
+    "facadeWidthM": 6.8,
+    "frontBearingDeg": 92.9,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Paul Street"
   },
   {
     "id": "nightclubs-tape-node-5618206360",
@@ -1095,7 +1903,16 @@
     "locationLabel": "17 Hanover Square, London",
     "lat": 51.514296,
     "lon": -0.144675,
-    "websiteUrl": "https://tapelondon.com"
+    "websiteUrl": "https://tapelondon.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAgAcAAIB9AAAA+AcAAIB/AAAA+AcAAIB/AAAA+AcAAIB/AAAA/AcAAMB/AAAA/AcAAMB/AAAA/gcAAPh/AADg/wcAAP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5143,
+    "frontObservationPointLon": -0.1446,
+    "facadeWidthM": 7.3,
+    "frontBearingDeg": 73.2,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-brink-node-9116743525",
@@ -1107,7 +1924,17 @@
     "lat": 51.537363,
     "lon": -0.061386,
     "websiteUrl": "https://www.offbroadway.org.uk",
-    "instagramUrl": "https://instagram.com/thebrinkvenue"
+    "instagramUrl": "https://instagram.com/thebrinkvenue",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAgAAAAAAIAABgwAADkgQMAwB48AADs8QMAwP4/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5373,
+    "frontObservationPointLon": -0.0612,
+    "facadeWidthM": 5.5,
+    "frontBearingDeg": 297.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Broadway Market"
   },
   {
     "id": "nightclubs-the-cause-node-12681133571",
@@ -1118,7 +1945,17 @@
     "locationLabel": "60 Dock Road, London, E16 1YZ",
     "lat": 51.504418,
     "lon": 0.016878,
-    "websiteUrl": "https://supportthecause.co.uk"
+    "websiteUrl": "https://supportthecause.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwD8fgAA4P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5042,
+    "frontObservationPointLon": 0.0168,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 148.3,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Bell Lane"
   },
   {
     "id": "nightclubs-the-cuckoo-club-node-5471743323",
@@ -1129,7 +1966,17 @@
     "locationLabel": "London",
     "lat": 51.509858,
     "lon": -0.137962,
-    "websiteUrl": "https://www.thecuckooclub.com"
+    "websiteUrl": "https://www.thecuckooclub.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAQAAABAAAAAABQAAABAAQAAADYAAADgAwAA8H8AAMD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5099,
+    "frontObservationPointLon": -0.1379,
+    "facadeWidthM": 9.1,
+    "frontBearingDeg": 117.8,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Swallow Street"
   },
   {
     "id": "nightclubs-the-dome-node-5208012486",
@@ -1144,7 +1991,17 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://domelondon.co.uk"
+    "websiteUrl": "https://domelondon.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAACAABwMAAAAP8DAADwPwAAAP8DAIDwPwAAGP8DAID/PwAA+P8DAID/PwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5571,
+    "frontObservationPointLon": -0.1385,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 267.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Burghley Road"
   },
   {
     "id": "nightclubs-the-famous-cocktail-bar-node-331880921",
@@ -1155,7 +2012,16 @@
     "locationLabel": "259 Upper Street, London, N1 1RU",
     "lat": 51.546005,
     "lon": -0.103386,
-    "websiteUrl": "https://www.barsandvenues.co.uk/jamandryeislington"
+    "websiteUrl": "https://www.barsandvenues.co.uk/jamandryeislington",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwIIAACgsBcAAP77AQDgvx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.546,
+    "frontObservationPointLon": -0.1033,
+    "facadeWidthM": 7.6,
+    "frontBearingDeg": 92.9,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-garage-node-360043073",
@@ -1170,7 +2036,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.thegarage.london"
+    "websiteUrl": "https://www.thegarage.london",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAwAAgDAACAAADwAAwDAAzwAAHzgAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5467,
+    "frontObservationPointLon": -0.104,
+    "facadeWidthM": 13.8,
+    "frontBearingDeg": 220.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-globe-node-7194787125",
@@ -1181,7 +2056,17 @@
     "locationLabel": "103 Talbot Road",
     "lat": 51.516664,
     "lon": -0.200492,
-    "websiteUrl": "https://www.theglobeclub.com/home"
+    "websiteUrl": "https://www.theglobeclub.com/home",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAABAAAAGAAAAAABgAAgHAAABiYBwCAg38AAHj4BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5167,
+    "frontObservationPointLon": -0.2005,
+    "facadeWidthM": 5.3,
+    "frontBearingDeg": 345.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Talbot Road"
   },
   {
     "id": "nightclubs-the-grace-node-12240961536",
@@ -1197,7 +2082,16 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thegrace.london",
-    "instagramUrl": "https://instagram.com/thegraceldn"
+    "instagramUrl": "https://instagram.com/thegraceldn",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAwAAgDAACAAADwAAwDAAzwAAHzgAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5467,
+    "frontObservationPointLon": -0.104,
+    "facadeWidthM": 13.8,
+    "frontBearingDeg": 220.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-hatch-club-node-1686457367",
@@ -1209,7 +2103,16 @@
     "lat": 51.47522,
     "lon": -0.0352,
     "websiteUrl": "https://www.thehatchclub.co.uk",
-    "instagramUrl": "https://instagram.com/hatchclub"
+    "instagramUrl": "https://instagram.com/hatchclub",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAIAAAAHgOAACA/xkAAPj/AQCA/x8AAPj/AQCA/x8AAPj/AQCA/x8AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.475,
+    "frontObservationPointLon": -0.0349,
+    "facadeWidthM": 8.2,
+    "frontBearingDeg": 226.2,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-pheasantry-way-894981162",
@@ -1220,7 +2123,16 @@
     "locationLabel": "152 King's Road, London, SW3 4UT",
     "lat": 51.489095,
     "lon": -0.165472,
-    "websiteUrl": "https://www.pizzaexpresslive.com/venues/chelsea-the-pheasantry"
+    "websiteUrl": "https://www.pizzaexpresslive.com/venues/chelsea-the-pheasantry",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAQAAIBgAAALDAQDgMB8AAB7/AQDg+x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.4889,
+    "frontObservationPointLon": -0.1649,
+    "facadeWidthM": 13.3,
+    "frontBearingDeg": 330.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-roxy-node-2993795433",
@@ -1231,7 +2143,16 @@
     "locationLabel": "3-5 Rathbone Place, London, W1T 1HJ",
     "lat": 51.516625,
     "lon": -0.133066,
-    "websiteUrl": "https://theroxy.co.uk"
+    "websiteUrl": "https://theroxy.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAwAAAHAGAAAA/wcAAPD/AAAA/58AAPD/CwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5166,
+    "frontObservationPointLon": -0.1331,
+    "facadeWidthM": 17.8,
+    "frontBearingDeg": 243.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-underworld-node-430832360",
@@ -1250,7 +2171,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.theunderworldcamden.co.uk"
+    "websiteUrl": "https://www.theunderworldcamden.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwCAAAAAABgAAACQIwAACDsDAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5392,
+    "frontObservationPointLon": -0.1426,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 153,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-vaults-node-3249860773",
@@ -1261,7 +2191,17 @@
     "locationLabel": "Leake Street, London, SE1 7NN",
     "lat": 51.501027,
     "lon": -0.114204,
-    "websiteUrl": "https://www.thevaults.london"
+    "websiteUrl": "https://www.thevaults.london",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAACAAAAP4BAADgPwAAAP4TAADgvxMAAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5013,
+    "frontObservationPointLon": -0.1142,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 205.2,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Leake Street"
   },
   {
     "id": "nightclubs-the-waiting-room-node-8811598060",
@@ -1281,7 +2221,16 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thewaitingroomn16.com",
-    "instagramUrl": "https://instagram.com/waitingroomn16"
+    "instagramUrl": "https://instagram.com/waitingroomn16",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAABAAAAAAAQAgABgAAAYAAcAgAF4AAC44AcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.562,
+    "frontObservationPointLon": -0.074,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 185.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-top-secret-comedy-club-23-kingsway-node-12794460301",
@@ -1292,7 +2241,16 @@
     "locationLabel": "23 Kingsway, London, WC2B 6UJ",
     "lat": 51.514203,
     "lon": -0.118406,
-    "websiteUrl": "https://thetopsecretcomedyclub.co.uk"
+    "websiteUrl": "https://thetopsecretcomedyclub.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAEAAAAAABAACHEAAA/g8BAOD/EAAA/h8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5143,
+    "frontObservationPointLon": -0.118,
+    "facadeWidthM": 9.5,
+    "frontBearingDeg": 247.2,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-troxy-way-190715113",
@@ -1308,7 +2266,16 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://troxy.co.uk",
-    "instagramUrl": "https://instagram.com/troxylondon"
+    "instagramUrl": "https://instagram.com/troxylondon",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAgAAACAAwAAAPgAAACAfwAAAPgHAACAfwAACPgHAICAfwAAGPgHAICBfwAAOPgHAICHfwAA+PkHAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5131,
+    "frontObservationPointLon": -0.0436,
+    "facadeWidthM": 7,
+    "frontBearingDeg": 269.6,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-venue-229-node-2766493533",
@@ -1323,7 +2290,16 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://229.london"
+    "websiteUrl": "https://229.london",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAGAFAAD8/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5234,
+    "frontObservationPointLon": -0.145,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 288.9,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-vfd-node-4691984825",
@@ -1334,7 +2310,16 @@
     "locationLabel": "66 Stoke Newington Road, London, N16 7XB",
     "lat": 51.552469,
     "lon": -0.0747,
-    "websiteUrl": "https://www.vfdalston.com"
+    "websiteUrl": "https://www.vfdalston.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAIAAAAAACMEDAIDwPwAAmP8HAID9fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5525,
+    "frontObservationPointLon": -0.0748,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 273.7,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-village-underground-way-205296759",
@@ -1349,7 +2334,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.villageunderground.co.uk"
+    "websiteUrl": "https://www.villageunderground.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAUAAAAYBEAAAD2AQAA9B8AAOD/AQAA/h8AAOD/AQAA/h8AAOD/AQAA/h8AAOD/BwAA/n8AAOD/BwAA/v8AAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5234,
+    "frontObservationPointLon": -0.0789,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 133.3,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-xoyo-way-155362965",
@@ -1364,7 +2358,17 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.xoyo.co.uk"
+    "websiteUrl": "https://www.xoyo.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAQAAgAAAEAAMAwAA4AAAcwAMAwAM+AAD8/QMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5254,
+    "frontObservationPointLon": -0.0858,
+    "facadeWidthM": 17.4,
+    "frontBearingDeg": 176.5,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Cowper Street"
   },
   {
     "id": "nightclubs-zodiac-node-13577476901",
@@ -1375,7 +2379,16 @@
     "locationLabel": "119 Hampstead Road, London",
     "lat": 51.52801,
     "lon": -0.139038,
-    "websiteUrl": "https://www.zodiacbarlondon.com"
+    "websiteUrl": "https://www.zodiacbarlondon.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAACAEAAAAMgBAADg3QMAAP5/AADg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5279,
+    "frontObservationPointLon": -0.139,
+    "facadeWidthM": 8.7,
+    "frontBearingDeg": 90.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-zoo-bar-and-club-node-7741904802",
@@ -1386,7 +2399,17 @@
     "locationLabel": "13-17 Bear Street, London, WC2H 7AS",
     "lat": 51.510883,
     "lon": -0.128873,
-    "websiteUrl": "https://www.zoobar.co.uk"
+    "websiteUrl": "https://www.zoobar.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDwAwAAAAAAEAAAAAABAAAAGAAAAoABACAAGAAABoABAGAAHAAADuABAOABHwAAfv8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.5109,
+    "frontObservationPointLon": -0.1288,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 13.9,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Bear Street"
   },
   {
     "id": "nightclubs-aatma-node-13168115001",
@@ -1397,7 +2420,16 @@
     "locationLabel": "14-16 Faraday Street",
     "lat": 53.482628,
     "lon": -2.232932,
-    "websiteUrl": "https://aatmavenue.co.uk"
+    "websiteUrl": "https://aatmavenue.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAACAAAAAABgAAAGAAAAAABoAAAGAAHAAABuABAGAAHgAABuABAGAIHgAAjuABAOANHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.4826,
+    "frontObservationPointLon": -2.2328,
+    "facadeWidthM": 11.1,
+    "frontBearingDeg": 126.1,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-club-tropicana-node-1295097473",
@@ -1412,7 +2444,17 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.therembrandtmanchester.com/club-tropicana"
+    "websiteUrl": "https://www.therembrandtmanchester.com/club-tropicana",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAwgcAAGB8AAAA7g8AAOD/AQAA/j8AAOD/BwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.4771,
+    "frontObservationPointLon": -2.2369,
+    "facadeWidthM": 11.6,
+    "frontBearingDeg": 133.9,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Canal Street"
   },
   {
     "id": "nightclubs-n-om-node-13289915701",
@@ -1424,7 +2466,16 @@
     "lat": 53.484713,
     "lon": -2.214153,
     "websiteUrl": "https://n-om.club",
-    "instagramUrl": "https://instagram.com/n_om.club"
+    "instagramUrl": "https://instagram.com/n_om.club",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAEAAAAAABAAAAEAAAAAABAAAAEAAIAAADgAAAMAAMAAAH4AAA8AEPAAD//gAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.4847,
+    "frontObservationPointLon": -2.2139,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 45,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-yes-node-9062401417",
@@ -1435,7 +2486,17 @@
     "locationLabel": "38 Charles Street, Manchester, M1 7DB",
     "lat": 53.474011,
     "lon": -2.238158,
-    "websiteUrl": "https://yes-manchester.com"
+    "websiteUrl": "https://yes-manchester.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAIAAAAAACAAAAOAgAAICjAAAAeAoAAID/DAAA+P8AAID/DwAA+P8AAID/DwAA+P8AAID/HwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.474,
+    "frontObservationPointLon": -2.2381,
+    "facadeWidthM": 10.7,
+    "frontBearingDeg": 154.7,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Charles Street"
   },
   {
     "id": "nightclubs-flares-popworld-way-1125523286",
@@ -1446,7 +2507,17 @@
     "locationLabel": "7 Albert Road, Middlesbrough, TS1 1PQ",
     "lat": 54.577908,
     "lon": -1.234581,
-    "websiteUrl": "https://www.flaresbars.co.uk/middlesbrough"
+    "websiteUrl": "https://www.flaresbars.co.uk/middlesbrough",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAACADwAAAP8AAAD4HwAAgP8BAAD4HwAAgP8BAAD4HwAAgP8BAAD4HwAAgP8BAAD8HwAAwP8BAAD+HwAA8P8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.578,
+    "frontObservationPointLon": -1.2346,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 7.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Wilson Street"
   },
   {
     "id": "nightclubs-middlesbrough-empire-way-348786091",
@@ -1457,7 +2528,17 @@
     "locationLabel": "2 Corporation Road, Middlesbrough, TS1 2RT",
     "lat": 54.575942,
     "lon": -1.233237,
-    "websiteUrl": "https://www.themiddlesbroughempire.co.uk"
+    "websiteUrl": "https://www.themiddlesbroughempire.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAADAAAByAAwDAATgAADzAAwDABz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.5759,
+    "frontObservationPointLon": -1.233,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 97.5,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Pine Street"
   },
   {
     "id": "nightclubs-bistro-live-node-11840412559",
@@ -1469,7 +2550,16 @@
     "lat": 52.038983,
     "lon": -0.760423,
     "websiteUrl": "https://www.bistrolive.com",
-    "instagramUrl": "https://instagram.com/bistrolive"
+    "instagramUrl": "https://instagram.com/bistrolive",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAICAADw/wAAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.039,
+    "frontObservationPointLon": -0.7602,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 55.7,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-popworld-way-120290879",
@@ -1480,7 +2570,17 @@
     "locationLabel": "499 Lower Twelfth Street, Milton Keynes, MK9 3PY",
     "lat": 52.043359,
     "lon": -0.749874,
-    "websiteUrl": "https://www.popworldparty.co.uk/milton-keynes"
+    "websiteUrl": "https://www.popworldparty.co.uk/milton-keynes",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAABAAAAYAAQBgABgAAAaAAQBgABgAAAaAAQBgABgAAAaAAQBgABgAAAaAAQBgABwAAAbgAQDgAR8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.0435,
+    "frontObservationPointLon": -0.75,
+    "facadeWidthM": 7.2,
+    "frontBearingDeg": 326.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Twelfth Street"
   },
   {
     "id": "nightclubs-flares-node-102817269",
@@ -1491,7 +2591,17 @@
     "locationLabel": "33 Mosley Street, Newcastle upon Tyne, NE1 1YF",
     "lat": 54.970626,
     "lon": -1.611636,
-    "websiteUrl": "https://www.flaresbars.co.uk/newcastleupontyne"
+    "websiteUrl": "https://www.flaresbars.co.uk/newcastleupontyne",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AYD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAwAAAfgAABwAA8AAA/wAADwgw8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9707,
+    "frontObservationPointLon": -1.6117,
+    "facadeWidthM": 12.1,
+    "frontBearingDeg": 323.3,
+    "shadeClearanceDeg": 32.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Drury Lane"
   },
   {
     "id": "nightclubs-howlers-node-4515143089",
@@ -1502,7 +2612,17 @@
     "locationLabel": "28-32 Collingwood Street, Newcastle Upon Tyne",
     "lat": 54.969969,
     "lon": -1.613535,
-    "websiteUrl": "https://howlersnewcastle.com"
+    "websiteUrl": "https://howlersnewcastle.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAIAAABgABAAAAaAAQDgABwAAB7wAQDgBx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9697,
+    "frontObservationPointLon": -1.6136,
+    "facadeWidthM": 6.6,
+    "frontBearingDeg": 333.7,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Collingwood Street"
   },
   {
     "id": "nightclubs-little-buildings-node-6111301458",
@@ -1513,7 +2633,17 @@
     "locationLabel": "3-5 Stepney Bank, Newcastle upon Tyne, NE1 2PW",
     "lat": 54.974708,
     "lon": -1.596187,
-    "websiteUrl": "https://www.littlebuildingslive.com"
+    "websiteUrl": "https://www.littlebuildingslive.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAABAAAAP4dAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9747,
+    "frontObservationPointLon": -1.5961,
+    "facadeWidthM": 7.4,
+    "frontBearingDeg": 168.7,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Stepney Bank"
   },
   {
     "id": "nightclubs-riverside-way-131661180",
@@ -1524,7 +2654,16 @@
     "locationLabel": "Close, Newcastle upon Tyne, NE1 3RQ",
     "lat": 54.967893,
     "lon": -1.609028,
-    "websiteUrl": "https://www.riversidencl.co.uk"
+    "websiteUrl": "https://www.riversidencl.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAACAAAABABxwAAH7wAQDgBx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9679,
+    "frontObservationPointLon": -1.6091,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 326.2,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-grove-node-12645056589",
@@ -1535,7 +2674,17 @@
     "locationLabel": "1 St Michael's Rd, Newcastle upon Tyne, NE6 1QU",
     "lat": 54.972672,
     "lon": -1.583983,
-    "websiteUrl": "https://www.thegrovenewcastle.co.uk"
+    "websiteUrl": "https://www.thegrovenewcastle.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwCABwAAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9726,
+    "frontObservationPointLon": -1.584,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 194,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Saint Michael's Road"
   },
   {
     "id": "nightclubs-tup-tup-palace-node-5961871388",
@@ -1546,7 +2695,16 @@
     "locationLabel": "7 - 9 St Nicholas Street, Newcastle upon Tyne, NE1 1RE",
     "lat": 54.969872,
     "lon": -1.612186,
-    "websiteUrl": "https://www.tuptuppalace.com"
+    "websiteUrl": "https://www.tuptuppalace.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAACAAAAoAAAGAAHAAAPuABAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9699,
+    "frontObservationPointLon": -1.6117,
+    "facadeWidthM": 6.8,
+    "frontBearingDeg": 253.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-world-headquarters-node-215654059",
@@ -1557,7 +2715,17 @@
     "locationLabel": "Carliol Square, Newcastle upon Tyne, NE1 6UF",
     "lat": 54.97256,
     "lon": -1.60824,
-    "websiteUrl": "https://www.welovewhq.com"
+    "websiteUrl": "https://www.welovewhq.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAD4BwAAgv8BACD4HwAAnv8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.9726,
+    "frontObservationPointLon": -1.6083,
+    "facadeWidthM": 16.9,
+    "frontBearingDeg": 250.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Carliol Square"
   },
   {
     "id": "nightclubs-bar-and-beyond-way-170316357",
@@ -1569,7 +2737,16 @@
     "lat": 52.629801,
     "lon": 1.300188,
     "websiteUrl": "https://barandbeyond.co.uk/norwich",
-    "instagramUrl": "https://instagram.com/barandbeyondnorwich"
+    "instagramUrl": "https://instagram.com/barandbeyondnorwich",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAAAMAFAABw/gAAAP8fAAD4/wEAgP8fAAD4/wMAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.6298,
+    "frontObservationPointLon": 1.3003,
+    "facadeWidthM": 13.1,
+    "frontBearingDeg": 73.7,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-loft-way-242049091",
@@ -1580,7 +2757,17 @@
     "locationLabel": "78-80 Rose Lane, Norwich, NR1 1PT",
     "lat": 52.628529,
     "lon": 1.303114,
-    "websiteUrl": "https://www.loftnr1.co.uk"
+    "websiteUrl": "https://www.loftnr1.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAACAAAAAAAgAAAeAAABwAAgAAAeAAABwAAgAAAfAAABwAAwAAAfgAADwAA8AAB/8AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.6285,
+    "frontObservationPointLon": 1.303,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 203,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Rose Lane"
   },
   {
     "id": "nightclubs-popworld-way-120680604",
@@ -1591,7 +2778,16 @@
     "locationLabel": "63-67 Prince of Wales Road, Norwich, NR1 1DG",
     "lat": 52.628941,
     "lon": 1.302399,
-    "websiteUrl": "https://www.popworldparty.co.uk/norwich"
+    "websiteUrl": "https://www.popworldparty.co.uk/norwich",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD8AwAAAAAAAAAAAAAAAAAAAAAAAA8AAADwAAAAAA8AAADwAAAAAA8AAADwAAAAAA8AAADwAQAAgB8AAAD8AwAA+P8AAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.6288,
+    "frontObservationPointLon": 1.3026,
+    "facadeWidthM": 6.5,
+    "frontBearingDeg": 29,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-ng-one-way-125402781",
@@ -1603,7 +2799,16 @@
     "lat": 52.95482,
     "lon": -1.141937,
     "websiteUrl": "https://www.ng-one.club",
-    "instagramUrl": "https://instagram.com/ngoneclub"
+    "instagramUrl": "https://instagram.com/ngoneclub",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAABAACAMCBPwAAHPgDAMCBPwAAPPgDAMCDPwAAfPgDAMCfPwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.9549,
+    "frontObservationPointLon": -1.1418,
+    "facadeWidthM": 10.2,
+    "frontBearingDeg": 24.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-ocean-way-85644334",
@@ -1615,7 +2820,16 @@
     "lat": 52.949206,
     "lon": -1.149474,
     "websiteUrl": "https://www.oceantickets.com",
-    "instagramUrl": "https://instagram.com/andythehoe"
+    "instagramUrl": "https://instagram.com/andythehoe",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAADwAAAA4A8AAAH+AAAQ4A8AAAH/AAAQ/A8AAOP/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.9493,
+    "frontObservationPointLon": -1.1497,
+    "facadeWidthM": 7,
+    "frontBearingDeg": 317.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-brickworks-node-7176563885",
@@ -1626,7 +2840,16 @@
     "locationLabel": "Newark Street, Nottingham, NG2 4PP",
     "lat": 52.951048,
     "lon": -1.134912,
-    "websiteUrl": "https://thebrickworksnottingham.co.uk"
+    "websiteUrl": "https://thebrickworksnottingham.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAgBAAAAEMAAAD8BwAAwP8AAAD8DwAAwP8BAAD8PwAAwP8PAAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.9511,
+    "frontObservationPointLon": -1.1356,
+    "facadeWidthM": 13.3,
+    "frontBearingDeg": 177,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-glamorous-way-988834884",
@@ -1637,7 +2860,17 @@
     "locationLabel": "15 St Clements Street, Oxford, OX4 1AB",
     "lat": 51.750351,
     "lon": -1.243671,
-    "websiteUrl": "https://glamorous.bar/locations/oxford"
+    "websiteUrl": "https://glamorous.bar/locations/oxford",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAEACAAAAJAAAAMADAADgPwAAAP8DAAD4PwAA+P8DAID/PwAA+P8DAID/PwAA+P8DAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.7504,
+    "frontObservationPointLon": -1.2434,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 270.4,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "York Place"
   },
   {
     "id": "nightclubs-o2-academy-node-175707022",
@@ -1652,7 +2885,17 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.o2academyoxford.co.uk"
+    "websiteUrl": "https://www.o2academyoxford.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAQAAAAAAEAIAAcAAAGMAHAIATfwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.7469,
+    "frontObservationPointLon": -1.2345,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 29.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Cowley Road"
   },
   {
     "id": "nightclubs-plush-node-5424554834",
@@ -1663,7 +2906,16 @@
     "locationLabel": "Frewin Court, Oxford, OX1 3JB",
     "lat": 51.75291,
     "lon": -1.25889,
-    "websiteUrl": "https://plushoxford.com"
+    "websiteUrl": "https://plushoxford.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD+AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAABgAAAAAAYAAAB4AADw4QcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.753,
+    "frontObservationPointLon": -1.2591,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 71.2,
+    "shadeClearanceDeg": 52.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-popworld-way-927363063",
@@ -1674,7 +2926,16 @@
     "locationLabel": "Plymouth",
     "lat": 50.370155,
     "lon": -4.148088,
-    "websiteUrl": "https://www.popworldparty.co.uk/plymouth"
+    "websiteUrl": "https://www.popworldparty.co.uk/plymouth",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAEAAAAIAfYAAA+IcHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 50.3702,
+    "frontObservationPointLon": -4.1482,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 267.6,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-spirit-node-514180678",
@@ -1685,7 +2946,16 @@
     "locationLabel": "33 Derry's Cross, Plymouth, PL1 2SW",
     "lat": 50.369483,
     "lon": -4.145869,
-    "websiteUrl": "https://www.spiritplymouth.co.uk"
+    "websiteUrl": "https://www.spiritplymouth.co.uk",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQDAAwAAAACwAAAA/v8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 50.3695,
+    "frontObservationPointLon": -4.1459,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 359.3,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-pop-world-node-9838690220",
@@ -1696,7 +2966,17 @@
     "locationLabel": "Portsmouth",
     "lat": 50.797191,
     "lon": -1.093488,
-    "websiteUrl": "https://www.popworldparty.co.uk/portsmouth"
+    "websiteUrl": "https://www.popworldparty.co.uk/portsmouth",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAMAAAAAADAAAAOAAAPMADAMB3PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 50.7972,
+    "frontObservationPointLon": -1.0934,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 19.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "King Henry I Street"
   },
   {
     "id": "nightclubs-popworld-node-4997017595",
@@ -1707,7 +2987,17 @@
     "locationLabel": "13 Church Street, Preston, PR1 3BQ",
     "lat": 53.758705,
     "lon": -2.697115,
-    "websiteUrl": "https://www.popworldparty.co.uk/preston"
+    "websiteUrl": "https://www.popworldparty.co.uk/preston",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAABAAAAIAAYAgABgAAAYAAYAgANgAAA4AAcAgAd8AAD48QcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.7588,
+    "frontObservationPointLon": -2.6977,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 73.4,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Lancaster Road"
   },
   {
     "id": "nightclubs-circus-tavern-way-83523764",
@@ -1718,7 +3008,16 @@
     "locationLabel": "Meads Corner, Purfleet, RM19 1TS",
     "lat": 51.48586,
     "lon": 0.246371,
-    "websiteUrl": "https://www.circustavern.org"
+    "websiteUrl": "https://www.circustavern.org",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAA4PEHAAD/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.486,
+    "frontObservationPointLon": 0.246,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 270.1,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-corporation-way-96402566",
@@ -1734,7 +3033,17 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://corporation.org.uk",
-    "instagramUrl": "https://instagram.com/corpsheffield"
+    "instagramUrl": "https://instagram.com/corpsheffield",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAYAAABAACAAAAcAAADAADAAAA+AAAHAADgAAD/AAAPDjDwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3774,
+    "frontObservationPointLon": -1.4761,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 235.6,
+    "shadeClearanceDeg": 27.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Eldon Street"
   },
   {
     "id": "nightclubs-popworld-way-118215170",
@@ -1745,7 +3054,17 @@
     "locationLabel": "2-8 Carver Street, Sheffield, S1 4FS",
     "lat": 53.38069,
     "lon": -1.474533,
-    "websiteUrl": "https://www.popworldparty.co.uk/sheffield"
+    "websiteUrl": "https://www.popworldparty.co.uk/sheffield",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAADAAwAAADwAAADAAwAAADwAAATAAwBAADwAAAzwAwDAGT8AANz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3808,
+    "frontObservationPointLon": -1.4746,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 343.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Carver Place"
   },
   {
     "id": "nightclubs-the-foundry-node-8755032262",
@@ -1756,7 +3075,16 @@
     "locationLabel": "Western Bank, Sheffield, S10 2TG",
     "lat": 53.38056,
     "lon": -1.48747,
-    "websiteUrl": "https://foundrysu.com"
+    "websiteUrl": "https://foundrysu.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAgCMCAAA4PwAAgP8DAAD4PwAAgP8DAAD4PwAAgP8DAAD4PwAAgP8DAAD4PwAAgP8DAAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3805,
+    "frontObservationPointLon": -1.4872,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 187.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-pop-world-way-168803972",
@@ -1771,7 +3099,17 @@
       "status": "yes",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.popworldparty.co.uk/southampton"
+    "websiteUrl": "https://www.popworldparty.co.uk/southampton",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAwAEAAAAeAAAA8AEA4PkfAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 50.9124,
+    "frontObservationPointLon": -1.4052,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 167.6,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Vernon Walk"
   },
   {
     "id": "nightclubs-popworld-way-625263604",
@@ -1782,7 +3120,17 @@
     "locationLabel": "2 Wind Street",
     "lat": 51.619804,
     "lon": -3.940716,
-    "websiteUrl": "https://www.popworldparty.co.uk/swansea"
+    "websiteUrl": "https://www.popworldparty.co.uk/swansea",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAASAAwDAAT4AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.6197,
+    "frontObservationPointLon": -3.9408,
+    "facadeWidthM": 6.3,
+    "frontBearingDeg": 216.8,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Wind Street"
   },
   {
     "id": "nightclubs-central-station-venue-node-31321593",
@@ -1793,7 +3141,16 @@
     "locationLabel": "Wrexham",
     "lat": 53.045735,
     "lon": -2.995844,
-    "websiteUrl": "https://centralstationvenue.com"
+    "websiteUrl": "https://centralstationvenue.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAIAAABwAAQAgA9wAAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.0457,
+    "frontObservationPointLon": -2.9958,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 194.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-flares-node-27497661",
@@ -1808,6 +3165,16 @@
       "status": "limited",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.flaresbars.co.uk/york"
+    "websiteUrl": "https://www.flaresbars.co.uk/york",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAABAAAAEAAAAAABAACAEAAIAAABAACAEAAMAAADAADAMAAMAAAHAADAMABOAAAPMADAMAPPgAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.9587,
+    "frontObservationPointLon": -1.0867,
+    "facadeWidthM": 11.3,
+    "frontBearingDeg": 140.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Tanner Row"
   }
 ]

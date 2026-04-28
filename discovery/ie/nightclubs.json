@@ -12,8 +12,22 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://alibibelfast.com",
-    "instagramUrl": "https://instagram.com/alibibelfast"
+    "instagramUrl": "https://instagram.com/alibibelfast",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAQAAAA8AEAAAAfAABA8AcAAI5/AADg+wcAAP7/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.5889,
+    "frontObservationPointLon": -5.9353,
+    "facadeWidthM": 11.5,
+    "frontBearingDeg": 204.6,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Renwick Street"
   },
   {
     "id": "nightclubs-the-kremlin-node-4513738301",
@@ -25,7 +39,17 @@
     "lat": 54.603896,
     "lon": -5.930842,
     "websiteUrl": "https://www.kremlin-belfast.com",
-    "instagramUrl": "https://instagram.com/kremlinbelfast"
+    "instagramUrl": "https://instagram.com/kremlinbelfast",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAABggAADkAwIAwD8gAAD8AwMAwD88AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.6039,
+    "frontObservationPointLon": -5.9308,
+    "facadeWidthM": 5.5,
+    "frontBearingDeg": 60.2,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Donegall Street"
   },
   {
     "id": "nightclubs-the-limelight-way-256651844",
@@ -40,7 +64,20 @@
       "status": "limited",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.limelightbelfast.com"
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://www.limelightbelfast.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAgAAAAAP8BAADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 54.5928,
+    "frontObservationPointLon": -5.9286,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 199.4,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-cyprus-avenue-node-11925173866",
@@ -55,8 +92,22 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.cyprusavenue.ie",
-    "instagramUrl": "https://instagram.com/cyprusavenuecork"
+    "instagramUrl": "https://instagram.com/cyprusavenuecork",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAIAAAAgABAAAAIAAQAgAFAAAA4AAYAgANgAAB4AAcAgB98AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.8983,
+    "frontObservationPointLon": -8.4698,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 73.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Caroline Street"
   },
   {
     "id": "nightclubs-voodoo-rooms-node-5814718249",
@@ -72,7 +123,16 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://voodoorooms.ie",
-    "instagramUrl": "https://instagram.com/voodoorooms"
+    "instagramUrl": "https://instagram.com/voodoorooms",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAAAAAAAAAAAABAAAAMAAIAAADgAAAcAAMAAAf4AAA8IcPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.8973,
+    "frontObservationPointLon": -8.4741,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 161.6,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-block-node-13457855285",
@@ -84,7 +144,16 @@
     "lat": 53.336674,
     "lon": -6.266342,
     "websiteUrl": "https://www.blockdublin.com",
-    "instagramUrl": "https://instagram.com/block.dublin"
+    "instagramUrl": "https://instagram.com/block.dublin",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAADwHwAABP8DAEDwPwAABP8DAED4PwAAzP8DAMD+PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3367,
+    "frontObservationPointLon": -6.2664,
+    "facadeWidthM": 10.2,
+    "frontBearingDeg": 264.5,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-club-m-node-278857890",
@@ -95,7 +164,16 @@
     "locationLabel": "Cope Street, Dublin",
     "lat": 53.344813,
     "lon": -6.26233,
-    "websiteUrl": "https://clubm.ie"
+    "websiteUrl": "https://clubm.ie",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAGAAAA8D8AAAD/FwAA8P8BAAD/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3447,
+    "frontObservationPointLon": -6.2625,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 268,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "copper-face-jacks-dublin",
@@ -111,7 +189,16 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://copperfacejacks.ie",
-    "instagramUrl": "https://instagram.com/copperfacejacks"
+    "instagramUrl": "https://instagram.com/copperfacejacks",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAGAAGAIADcAAA+MAHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3358,
+    "frontObservationPointLon": -6.2632,
+    "facadeWidthM": 14.4,
+    "frontBearingDeg": 270.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-d-two-node-775415426",
@@ -122,7 +209,20 @@
     "locationLabel": "60 Harcourt Street, Dublin, D02 P902",
     "lat": 53.334454,
     "lon": -6.26284,
-    "websiteUrl": "https://www.dtwonightclub.com"
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://www.dtwonightclub.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af//AwAAIAAAAAD+AQAA8B8DAMD/OwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3345,
+    "frontObservationPointLon": -6.2629,
+    "facadeWidthM": 17,
+    "frontBearingDeg": 258.9,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-fitzsimons-node-6257799735",
@@ -137,8 +237,25 @@
       "status": "no",
       "confidence": "confirmed"
     },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.fitzsimonsbar.ie/nightclub",
-    "instagramUrl": "https://instagram.com/fitzsimonsbar"
+    "instagramUrl": "https://instagram.com/fitzsimonsbar",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAABgAAAGAQAAAAhgEAAOAcAAAA/oEAAOAfDAAA/uEAAPA/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3455,
+    "frontObservationPointLon": -6.2648,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 243.5,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-house-dublin-node-4209884820",
@@ -150,7 +267,16 @@
     "lat": 53.334011,
     "lon": -6.255159,
     "websiteUrl": "https://www.housedublin.ie",
-    "instagramUrl": "https://instagram.com/housedublin2"
+    "instagramUrl": "https://instagram.com/housedublin2",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAYAEQAAA+wAEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.334,
+    "frontObservationPointLon": -6.2551,
+    "facadeWidthM": 7,
+    "frontBearingDeg": 54.7,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-index-dublin-node-13432368201",
@@ -161,8 +287,22 @@
     "locationLabel": "57 Middle Abbey Street",
     "lat": 53.347986,
     "lon": -6.261852,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://www.indexdublin.com",
-    "instagramUrl": "https://instagram.com/indexdublin"
+    "instagramUrl": "https://instagram.com/indexdublin",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AQD4AwAAAAAAAAAAAEAAAAgABgCAAXAAAHjABwCAD38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3481,
+    "frontObservationPointLon": -6.2619,
+    "facadeWidthM": 11.6,
+    "frontBearingDeg": 349.1,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Middle Abbey Street"
   },
   {
     "id": "opium-live-dublin",
@@ -178,7 +318,17 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://opium.ie/spaces/club",
-    "instagramUrl": "https://instagram.com/opiumdublin"
+    "instagramUrl": "https://instagram.com/opiumdublin",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAgAAAAAAYAAAAwAEAAAjcAACAwB8AAAj8BwCA4H8AAAj+BwCA4X8AADj/BwCA838AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3364,
+    "frontObservationPointLon": -6.2655,
+    "facadeWidthM": 13,
+    "frontBearingDeg": 351.6,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Camden Row"
   },
   {
     "id": "nightclubs-rain-node-778699198",
@@ -189,7 +339,17 @@
     "locationLabel": "33 Richmond Street South",
     "lat": 53.3304,
     "lon": -6.264112,
-    "websiteUrl": "https://portobellohotel.ie/Dublin-Nightclub"
+    "websiteUrl": "https://portobellohotel.ie/Dublin-Nightclub",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAADAAQAAEP8AAAD/DwAA8P8AAAD/DwAA8P8AAID/DwAA/v8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3303,
+    "frontObservationPointLon": -6.2636,
+    "facadeWidthM": 5.1,
+    "frontBearingDeg": 356.4,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Richmond Place South"
   },
   {
     "id": "nightclubs-tramline-node-2885169530",
@@ -204,7 +364,16 @@
       "status": "no",
       "confidence": "confirmed"
     },
-    "websiteUrl": "https://www.tramline.ie"
+    "websiteUrl": "https://www.tramline.ie",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAgABACAAUAAABgABACAA3AAAHjABwCAv38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3464,
+    "frontObservationPointLon": -6.2578,
+    "facadeWidthM": 12.6,
+    "frontBearingDeg": 231.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-yamamori-tengu-node-13432378601",
@@ -215,7 +384,21 @@
     "locationLabel": "37 Great Strand Street",
     "lat": 53.347006,
     "lon": -6.26391,
-    "websiteUrl": "https://www.yamamori.ie/night-life"
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://www.yamamori.ie/night-life",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAPgBAACAHwAAAPgBAACAHwAAAPgDAACA/wEAAPgfAACA/wEAAPwfAADA/wEAAP4fAADw/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3467,
+    "frontObservationPointLon": -6.2639,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 168.8,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Ormond Quay Lower"
   },
   {
     "id": "nightclubs-dna-node-6763852524",
@@ -226,7 +409,16 @@
     "locationLabel": "Ballalley Lane, Galway, H91 CFX5",
     "lat": 53.273967,
     "lon": -9.050429,
-    "websiteUrl": "https://www.dnagalway.com"
+    "websiteUrl": "https://www.dnagalway.com",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAADAAAAAAAwAAADAAAAAAAwAAADAAAEAAA8YAAD8wAEA4A8eAAD+8AEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.2741,
+    "frontObservationPointLon": -9.0509,
+    "facadeWidthM": 10.2,
+    "frontBearingDeg": 45.4,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-electric-node-8004189199",
@@ -241,8 +433,25 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://electricgalway.com",
-    "instagramUrl": "https://instagram.com/electricgalway"
+    "instagramUrl": "https://instagram.com/electricgalway",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAABAAAAAAAQCAABAIAAAAAQDAADAMCAAAPwDAgDAPzAAAPyDAwDAPzwAAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.2737,
+    "frontObservationPointLon": -9.0529,
+    "facadeWidthM": 6.3,
+    "frontBearingDeg": 224.6,
+    "shadeClearanceDeg": 12.5,
+    "facadeInferenceSource": "osm-building-facade"
   },
   {
     "id": "nightclubs-the-grand-node-6859936149",
@@ -257,12 +466,26 @@
       "status": "no",
       "confidence": "confirmed"
     },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.killarneygrand.com",
-    "instagramUrl": "https://instagram.com/killarneygrandofficial"
+    "instagramUrl": "https://instagram.com/killarneygrandofficial",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAgAAAAgAMAAIB4AAAA+AcAAIB/AAAQ+A8AAIP/AABw+A8AAI//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.0581,
+    "frontObservationPointLon": -9.509,
+    "facadeWidthM": 9.6,
+    "frontBearingDeg": 79.3,
+    "shadeClearanceDeg": 2.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Main Street"
   },
   {
     "id": "nightclubs-angel-lane-night-club-node-2177640720",
@@ -273,7 +496,20 @@
     "locationLabel": "Robert Street, Limerick",
     "lat": 52.663735,
     "lon": -8.622965,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "websiteUrl": "https://angellanenightclub.ie",
-    "instagramUrl": "https://instagram.com/angellanenightclub"
+    "instagramUrl": "https://instagram.com/angellanenightclub",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAwD8EAAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.6637,
+    "frontObservationPointLon": -8.623,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 176.1,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
   }
 ]
