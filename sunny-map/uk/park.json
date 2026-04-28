@@ -3005,6 +3005,28 @@
     "solarMode": "open-area"
   },
   {
+    "id": "hyde-park-london",
+    "name": "Hyde Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 51.5074889,
+    "lon": -0.1622074,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "Hyde Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/hyde-park",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "open-area",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
     "id": "parks-islip-manor-meadows-way-9170993",
     "name": "Islip Manor Meadows",
     "placeTypeId": "park",
@@ -3457,6 +3479,24 @@
     }
   },
   {
+    "id": "st-jamess-park-london",
+    "name": "St. James's Park",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 51.5031295,
+    "lon": -0.133165,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "St. James's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "open-area",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    }
+  },
+  {
     "id": "parks-st-johns-wood-church-grounds-way-398337148",
     "name": "St. John's Wood Church Grounds",
     "placeTypeId": "park",
@@ -3486,6 +3526,28 @@
     "websiteUrl": "https://www.westminster.gov.uk/leisure-libraries-and-community/parks-and-open-spaces/parks",
     "solarMode": "open-area",
     "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "regents-park-primrose-hill-london",
+    "name": "The Regent's Park & Primrose Hill",
+    "placeTypeId": "park",
+    "appId": "uk",
+    "lat": 51.530107,
+    "lon": -0.1537691,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "The Regent's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/parks/the-regents-park",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "open-area",
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
       "status": "yes",
       "confidence": "confirmed"
     }

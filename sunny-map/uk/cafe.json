@@ -4808,5 +4808,488 @@
     "instagramUrl": "https://instagram.com/twinpinescoffee",
     "solarMode": "facade",
     "status": "unavailable"
+  },
+  {
+    "id": "st-jamess-cafe-london",
+    "name": "St. James's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.5038627,
+    "lon": -0.1317283,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "St. James's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/st-jamess-park/st-jamess-cafe",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "broad-walk-cafe-regents-park-london",
+    "name": "The Broad Walk Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.5310283,
+    "lon": -0.1504233,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "The Regent's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/broad-walk-cafe-0",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "waterside-cafe-regents-park-london",
+    "name": "The Waterside Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.5288695,
+    "lon": -0.1614681,
+    "regionId": "london",
+    "regionLabel": "London",
+    "locationLabel": "The Regent's Park, London",
+    "websiteUrl": "https://www.royalparks.org.uk/visit/parks/regents-park-primrose-hill/waterside-cafe",
+    "instagramUrl": "https://instagram.com/theroyalparks",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "burger"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-1915-node-10212939502",
+    "name": "1915",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.80913,
+    "lon": -1.553832,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Woodhouse Lane, Leeds, LS2 9JT",
+    "websiteUrl": "https://gfal.leeds.ac.uk/where-to-eat/cafes/1915",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-200-coffee-node-6022850199",
+    "name": "200° Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.797635,
+    "lon": -1.546092,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "31 Bond Street, Leeds, LS1 5BQ",
+    "websiteUrl": "https://200degs.com/pages/location-leeds-bond-street",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-92-degrees-node-2142553146",
+    "name": "92 Degrees",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.796275,
+    "lon": -1.539971,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "11 Call Lane, Leeds, LS1 7DH",
+    "websiteUrl": "https://92degrees.coffee",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-92-degrees-node-11759089383",
+    "name": "92 Degrees",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.792575,
+    "lon": -1.551528,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Wharf Approach, Leeds, LS1 4EZ",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-abbey-cafe-node-11582788372",
+    "name": "Abbey Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.820653,
+    "lon": -1.607566,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Abbey Road, Leeds, LS5 3EH",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-afterz-way-473639039",
+    "name": "Afterz",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.8115,
+    "lon": -1.569494,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "63 Queens Road, Leeds, LS6 1HY",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-aishas-cafe-node-6769233557",
+    "name": "Aisha's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.813244,
+    "lon": -1.521301,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "159 Roundhay Road, Leeds, LS8 5AJ",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-archive-node-6349523682",
+    "name": "Archive",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.800956,
+    "lon": -1.566498,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "94 Kirkstall Road, Leeds, LS3 1HD",
+    "websiteUrl": "https://archiveleeds.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-asda-cafe-node-4192442240",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.806316,
+    "lon": -1.476383,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Leeds",
+    "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/leeds/killingbeck-drive/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-asda-cafe-node-6007297542",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.767597,
+    "lon": -1.565281,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Old Lane, Leeds, LS11 8AG",
+    "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/beeston-leeds/old-lane/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-asda-cafe-node-7525746477",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.7489,
+    "lon": -1.530737,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "Leeds",
+    "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/leeds/holme-well-road/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-black-sheep-coffee-node-333799014",
+    "name": "Black Sheep Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.798591,
+    "lon": -1.541842,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "97 Briggate, Leeds, LS1 6NP",
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/leeds-briggate",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-black-sheep-coffee-node-11144743506",
+    "name": "Black Sheep Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.797865,
+    "lon": -1.546554,
+    "regionId": "leeds",
+    "regionLabel": "Leeds",
+    "locationLabel": "29A Bond Street, Leeds, LS1 5BQ",
+    "websiteUrl": "https://blacksheepcoffee.co.uk/blogs/locations/leeds-bond-street",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-tastee-way-1258321909",
+    "name": "#tastee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.341702,
+    "lon": -1.413347,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "7 White Lane, Sheffield, S12 3GD",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-1554-cafe-node-6362462808",
+    "name": "1554 Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.383406,
+    "lon": -1.469501,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Church Street, Sheffield, S1 1HA",
+    "websiteUrl": "https://www.1554.co.uk",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-200-degree-coffee-way-200223328",
+    "name": "200 degree Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.379992,
+    "lon": -1.473269,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "25 Division Street, Sheffield, S1 4GE",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-420-degrees-coffee-way-339930105",
+    "name": "420 Degrees Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.386606,
+    "lon": -1.495993,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "76 Barber Road, Sheffield, S10 1EE",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-aesthete-coffee-kitchen-way-1274522665",
+    "name": "Aesthete Coffee + Kitchen",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.379238,
+    "lon": -1.521169,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "52a Sandygate Road, Sheffield, S10 5RY",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-aesthete-coffee-and-kitchen-node-1937682082",
+    "name": "Aesthete Coffee and Kitchen",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.394032,
+    "lon": -1.501679,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "348-352 South Road, Sheffield, S6 3TE",
+    "websiteUrl": "https://www.aesthetesheffield.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-al-naseem-node-9576091395",
+    "name": "Al Naseem",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.390982,
+    "lon": -1.459006,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "143 Spital Hill, Sheffield, S4 7LF",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-als-goncha-bubble-tea-node-6698539599",
+    "name": "Als Goncha Bubble Tea",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.377102,
+    "lon": -1.470493,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "10 Eyre Street, Sheffield, S1 4QY",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-ambulo-node-1936459741",
+    "name": "Ambulo",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.379386,
+    "lon": -1.467027,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "48 Arundel Gate, Sheffield, S1 2PP",
+    "websiteUrl": "https://www.weareambulo.com",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-angelicas-cafe-node-9645509692",
+    "name": "Angelica's Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.375604,
+    "lon": -1.475637,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "78-82 The Moor, Sheffield, S1 3LT",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-asda-cafe-node-6282566879",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 53.428189,
+    "lon": -1.486803,
+    "regionId": "sheffield",
+    "regionLabel": "Sheffield",
+    "locationLabel": "Chaucer Road, Sheffield, S5 8NH",
+    "websiteUrl": "https://storelocator.asda.com/yorkshire-&-humber/sheffield/chaucer-road-parson-cross/cafe",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   }
 ]
