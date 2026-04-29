@@ -292,7 +292,11 @@
     "facadeWidthM": 7,
     "frontBearingDeg": 54.7,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-index-dublin-node-13432368201",
@@ -344,7 +348,11 @@
     "frontBearingDeg": 351.6,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Camden Row"
+    "facadeInferenceRoadName": "Camden Row",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-rain-node-778699198",
@@ -467,7 +475,11 @@
     "facadeWidthM": 6.3,
     "frontBearingDeg": 224.6,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-the-grand-node-6859936149",

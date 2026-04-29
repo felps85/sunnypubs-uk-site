@@ -89,6 +89,19 @@
     "instagramUrl": "https://instagram.com/belfastcitycouncil"
   },
   {
+    "id": "parks-bells-lane-park-way-44460791",
+    "appId": "ie",
+    "name": "Bells Lane Park",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Bells Lane, Lisburn",
+    "lat": 54.533544,
+    "lon": -6.027723,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.lisburncastlereagh.gov.uk/w/bikes-boards-and-bells-lane-park"
+  },
+  {
     "id": "parks-belmont-park-relation-14351527",
     "type": "park",
     "name": "Belmont Park",
@@ -114,6 +127,19 @@
     "websiteUrl": "https://www.lisburncastlereagh.gov.uk/w/billy-neill-mbe-country-park"
   },
   {
+    "id": "parks-blythefield-park-way-468547356",
+    "appId": "ie",
+    "name": "Blythefield Park",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Sandy Row, Belfast",
+    "lat": 54.59077,
+    "lon": -5.946077,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.belfastcity.gov.uk/Things-to-Do/Outdoor-leisure-activities/Sports-pitches-and-facilities/Blythefield-MUGA"
+  },
+  {
     "id": "parks-botanic-gardens-way-21532382",
     "type": "park",
     "name": "Botanic Gardens",
@@ -124,6 +150,19 @@
     "lon": -5.932349,
     "websiteUrl": "https://www.belfastcity.gov.uk/botanicgardens",
     "instagramUrl": "https://instagram.com/belfastcitycouncil"
+  },
+  {
+    "id": "parks-carema-allen-memorial-park-way-667577802",
+    "appId": "ie",
+    "name": "Carema Allen Memorial Park",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Braniel, Belfast",
+    "lat": 54.577312,
+    "lon": -5.854068,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.belfastcity.gov.uk/community/parks-and-open-spaces/playgrounds/carema-allen-memorial-park"
   },
   {
     "id": "parks-carnanmore-park-way-429291367",
@@ -701,6 +740,19 @@
     "websiteUrl": "https://carlow.ie/council-offices-and-facilities/carlow-town-park-and-playground"
   },
   {
+    "id": "parks-castletown-demesne-way-35695118",
+    "appId": "ie",
+    "name": "Castletown Demesne",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Celbridge",
+    "locationLabel": "Celbridge, Co. Kildare",
+    "lat": 53.35028,
+    "lon": -6.529785,
+    "solarMode": "open-area",
+    "websiteUrl": "https://heritageireland.ie/visit/places-to-visit/castletown-house-and-parklands/"
+  },
+  {
     "id": "parks-ballincollig-regional-park-way-129463104",
     "type": "park",
     "name": "Ballincollig Regional Park",
@@ -740,6 +792,32 @@
     "lat": 51.897146,
     "lon": -8.476058,
     "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks"
+  },
+  {
+    "id": "parks-bishopscourt-green-way-294894993",
+    "appId": "ie",
+    "name": "Bishopscourt Green",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Bishopstown, Cork",
+    "lat": 51.879894,
+    "lon": -8.51477,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.corkcity.ie/en/council-services/news-room/latest-news/cork-city-council-fai-s-soccer-on-the-green-series-comes-to-a-close/"
+  },
+  {
+    "id": "parks-bridevalley-park-way-75925238",
+    "appId": "ie",
+    "name": "Bridevalley Park",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Fair Hill, Cork",
+    "lat": 51.915877,
+    "lon": -8.48918,
+    "solarMode": "open-area",
+    "websiteUrl": "https://corkcity.maps.arcgis.com/apps/webappviewer/index.html?id=47debefa9eb443cbbbbd1930b60c8da7"
   },
   {
     "id": "parks-cork-lough-way-554942527",
@@ -1145,6 +1223,19 @@
     }
   },
   {
+    "id": "parks-billy-edwards-park-way-290533426",
+    "appId": "ie",
+    "name": "Billy Edwards Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Manor Place, Stoneybatter, Dublin",
+    "lat": 53.351205,
+    "lon": -6.287258,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/sites/default/files/2021-02/stoneybatter_greening_strategy_document.pdf"
+  },
+  {
     "id": "parks-blessington-street-basin-way-132758444",
     "type": "park",
     "name": "Blessington Street Basin",
@@ -1189,6 +1280,19 @@
         "playground"
       ]
     }
+  },
+  {
+    "id": "parks-bram-stoker-park-way-38151735",
+    "appId": "ie",
+    "name": "Bram Stoker Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Marino Crescent, Dublin",
+    "lat": 53.364718,
+    "lon": -6.227958,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/library/blog/onthisday-1912-bram-stoker-died"
   },
   {
     "id": "parks-brickfield-park-way-107908259",
@@ -2661,6 +2765,19 @@
     "lat": 52.849963,
     "lon": -9.002562,
     "websiteUrl": "http://www.wetlandsystems.ie/gardenofedenproject.html"
+  },
+  {
+    "id": "parks-brook-park-relation-3570152",
+    "appId": "ie",
+    "name": "Brook Park",
+    "type": "park",
+    "regionId": "enniskillen",
+    "regionLabel": "Enniskillen",
+    "locationLabel": "Brook Park, Enniskillen",
+    "lat": 54.348437,
+    "lon": -7.64821,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fermanaghomagh.com/water-refill-station-locations/"
   },
   {
     "id": "parks-forthill-park-way-226557362",
