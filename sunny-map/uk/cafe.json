@@ -7674,5 +7674,349 @@
     "frontObservationPointLat": 50.9219,
     "frontObservationPointLon": -1.4331,
     "facadeWidthM": 4.8
+  },
+  {
+    "id": "cafes-brynmill-coffee-house-node-338725990",
+    "name": "Brynmill Coffee House",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.613463,
+    "lon": -3.974321,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "31 Langland Terrace, Swansea, SA2 0BB",
+    "websiteUrl": "https://www.brynmillcoffeehouse.com/",
+    "solarMode": "facade",
+    "frontBearingDeg": 288,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "bearing-shadow-v1",
+    "frontObservationPointLat": 51.6135,
+    "frontObservationPointLon": -3.9744,
+    "facadeWidthM": 7,
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-cafe-ark-node-13015780401",
+    "name": "Cafe Ark",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.618864,
+    "lon": -3.948467,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "32 Oxford Street",
+    "websiteUrl": "https://ancswansea.com/",
+    "solarMode": "facade",
+    "frontBearingDeg": 336.8,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6189,
+    "frontObservationPointLon": -3.9485,
+    "facadeWidthM": 11.7
+  },
+  {
+    "id": "cafes-cafe-janet-way-511461060",
+    "name": "Cafe Janet",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.619298,
+    "lon": -3.944917,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Swansea Market, Swansea, SA1 3PQ",
+    "solarMode": "facade",
+    "frontBearingDeg": 159.4,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6194,
+    "frontObservationPointLon": -3.9442,
+    "facadeWidthM": 13.9
+  },
+  {
+    "id": "cafes-caffe-lucia-node-13322230887",
+    "name": "Caffe Lucia",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.619503,
+    "lon": -3.944265,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "12-14 Whitewalls, Swansea, SA1 3AA",
+    "solarMode": "facade",
+    "frontBearingDeg": 250.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6194,
+    "frontObservationPointLon": -3.9442,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-coast-cafe-node-4551111127",
+    "name": "Coast Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.615833,
+    "lon": -3.931052,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Unit 3 Trawler Road, SA1 1FZ",
+    "solarMode": "facade",
+    "frontBearingDeg": 309.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6158,
+    "frontObservationPointLon": -3.9312,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "cafes-common-meeple-board-game-cafe-way-1266108743",
+    "name": "Common Meeple",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.616104,
+    "lon": -3.956654,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "77 St Helen's Road, Swansea, SA1 4BG",
+    "websiteUrl": "https://www.commonmeeple.co.uk/",
+    "solarMode": "facade",
+    "frontBearingDeg": 220.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6161,
+    "frontObservationPointLon": -3.9567,
+    "facadeWidthM": 9.9
+  },
+  {
+    "id": "cafes-costa-node-4551111098",
+    "name": "Costa Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.625317,
+    "lon": -3.941218,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "High Street, SA1 1NU",
+    "websiteUrl": "https://www.costa.co.uk/stores/caterleisure-services-ltd-swansea-station",
+    "solarMode": "facade",
+    "frontBearingDeg": 221.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6252,
+    "frontObservationPointLon": -3.9412,
+    "facadeWidthM": 7.2,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-node-6786071274",
+    "name": "Costa Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.649991,
+    "lon": -3.989878,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "SA5 4BB",
+    "websiteUrl": "https://www.costa.co.uk/stores/forest-fach-swansea",
+    "solarMode": "facade",
+    "frontBearingDeg": 15.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6501,
+    "frontObservationPointLon": -3.9898,
+    "facadeWidthM": 13.9,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-way-625163614",
+    "name": "Costa Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.619666,
+    "lon": -3.944011,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "9-11 Whitewalls, Swansea, SA1 3AA",
+    "websiteUrl": "https://www.costa.co.uk/stores/swansea/swansea",
+    "solarMode": "facade",
+    "frontBearingDeg": 70.5,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6194,
+    "frontObservationPointLon": -3.9442,
+    "facadeWidthM": 4.5
+  },
+  {
+    "id": "cafes-costa-way-966549003",
+    "name": "Costa Coffee",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.618341,
+    "lon": -3.966063,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "32 Uplands Crescent, SA2 0PG",
+    "websiteUrl": "https://www.costa.co.uk/stores/swansea-uplands-cres",
+    "solarMode": "facade",
+    "frontBearingDeg": 78.3,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6184,
+    "frontObservationPointLon": -3.966,
+    "facadeWidthM": 9.6,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-costa-node-6790698345",
+    "name": "Costa Coffee@ Next",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.643259,
+    "lon": -3.930021,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Brunel Way, SA1 7BP",
+    "websiteUrl": "https://www.costa.co.uk/stores/next-swansea-morfa",
+    "solarMode": "facade",
+    "frontBearingDeg": 228.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6432,
+    "frontObservationPointLon": -3.9303,
+    "facadeWidthM": 8,
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-coffee-fresco-node-3833461157",
+    "name": "Fresco Bar Ltd",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 51.616432,
+    "lon": -3.938007,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Oystermouth Road, SA1 3RD",
+    "websiteUrl": "https://www.fresco-bar.com/",
+    "solarMode": "facade",
+    "frontBearingDeg": 160,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6164,
+    "frontObservationPointLon": -3.9382,
+    "facadeWidthM": 18,
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "burger",
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "cafes-asda-cafe-node-7522946601",
+    "name": "Asda Café",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.592881,
+    "lon": -2.128698,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "Wolverhampton",
+    "websiteUrl": "https://storelocator.asda.com/west-midlands/wolverhampton/jack-hayward-way-waterloo-road/cafe",
+    "solarMode": "facade",
+    "frontBearingDeg": 341.8,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5931,
+    "frontObservationPointLon": -2.1286,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "cafes-chapel-ash-cafe-node-9395414488",
+    "name": "Chapel Ash Cafe",
+    "placeTypeId": "cafe",
+    "appId": "uk",
+    "lat": 52.58537,
+    "lon": -2.140639,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "47 Chapel Ash, Wolverhampton, WV3 0UF",
+    "solarMode": "facade",
+    "frontBearingDeg": 21.6,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5852,
+    "frontObservationPointLon": -2.141,
+    "facadeWidthM": 4.5
   }
 ]
