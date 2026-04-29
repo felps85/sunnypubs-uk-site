@@ -77,7 +77,11 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 199.4,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-cyprus-avenue-node-11925173866",
@@ -132,7 +136,11 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 161.6,
     "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-block-node-13457855285",
@@ -222,7 +230,11 @@
     "facadeWidthM": 17,
     "frontBearingDeg": 258.9,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fitzsimons-node-6257799735",
@@ -255,7 +267,11 @@
     "facadeWidthM": 4.5,
     "frontBearingDeg": 243.5,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-house-dublin-node-4209884820",

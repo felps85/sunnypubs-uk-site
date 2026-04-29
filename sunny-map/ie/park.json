@@ -111,6 +111,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-billy-neill-mbe-country-park-way-460961741",
+    "name": "Billy Neill MBE Country Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.580922,
+    "lon": -5.780251,
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Comber Road, Dundonald, Belfast BT16 1RQ",
+    "websiteUrl": "https://www.lisburncastlereagh.gov.uk/w/billy-neill-mbe-country-park",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-botanic-gardens-way-21532382",
     "name": "Botanic Gardens",
     "placeTypeId": "park",
@@ -759,6 +772,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-carlow-town-park-way-37180406",
+    "name": "Carlow Town Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.838701,
+    "lon": -6.93628,
+    "regionId": "carlow",
+    "regionLabel": "Carlow",
+    "locationLabel": "Millennium Bridge, Carlow, Co. Carlow",
+    "websiteUrl": "https://carlow.ie/council-offices-and-facilities/carlow-town-park-and-playground",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-ballincollig-regional-park-way-129463104",
     "name": "Ballincollig Regional Park",
     "placeTypeId": "park",
@@ -776,6 +802,19 @@
         "skatepark"
       ]
     }
+  },
+  {
+    "id": "parks-beaumont-park-way-744791470",
+    "name": "Beaumont Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 51.890202,
+    "lon": -8.430432,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Beaumont, Cork",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/tree-planting/",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-bishop-lucey-park-way-22329196",
@@ -911,6 +950,32 @@
         "skatepark"
       ]
     }
+  },
+  {
+    "id": "parks-bay-road-park-way-80652553",
+    "name": "Bay Road Nature Reserve",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 55.016827,
+    "lon": -7.303289,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Bay Road, Derry",
+    "websiteUrl": "https://www.derrystrabane.com/services/parks-and-play/parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-bonds-hill-park-way-475724602",
+    "name": "Bonds Hill Neighbourhood Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.995018,
+    "lon": -7.311627,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Bonds Hill, Derry",
+    "websiteUrl": "https://www.derrystrabane.com/getmedia/943d1c20-786c-43ea-8a14-01f90b6f845a/EVB-17-Open-Space%2C-Sport-and-Outdoor-Recreation.pdf",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-brooke-park-way-74055673",
@@ -1145,6 +1210,19 @@
         "tennis-court"
       ]
     }
+  },
+  {
+    "id": "parks-beech-park-way-71919320",
+    "name": "Beech Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.380721,
+    "lon": -6.424812,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Clonsilla, Dublin 15",
+    "websiteUrl": "https://www.fingal.ie/news/major-restoration-works-commence-shackleton-gardens-clonsilla",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-belcamp-park-way-50904809",
@@ -2717,6 +2795,19 @@
     }
   },
   {
+    "id": "parks-blackrock-park-way-306401048",
+    "name": "Blackrock Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.964006,
+    "lon": -6.373076,
+    "regionId": "dundalk",
+    "regionLabel": "Dundalk",
+    "locationLabel": "Blackrock, Dundalk, Co. Louth",
+    "websiteUrl": "https://www.louthcoco.ie/en/services/community/entente-florale-europe/blackrock%20gearing%20up%20for%20entente%20florale/",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-claureen-community-orchard-way-527804903",
     "name": "Claureen Community Orchard",
     "placeTypeId": "park",
@@ -3061,6 +3152,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-bernard-mcglinchey-town-park-way-484968328",
+    "name": "Bernard McGlinchey Town Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.957938,
+    "lon": -7.730193,
+    "regionId": "letterkenny",
+    "regionLabel": "Letterkenny",
+    "locationLabel": "Ballyboe Glencar, Letterkenny, Co. Donegal",
+    "websiteUrl": "https://www.discoverireland.ie/donegal/bernard-mcglinchey-town-park",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-arthurs-quay-park-way-25591746",
     "name": "Arthur's Quay Park",
     "placeTypeId": "park",
@@ -3253,6 +3357,19 @@
     "regionLabel": "Navan",
     "locationLabel": "Athlumney, Navan, Co. Meath",
     "websiteUrl": "https://www.meath.ie/consultations/proposed-development-at-the-former-spicers-bakery-ramparts-car-park-and-andy-brennan-park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-blackwater-park-way-885490738",
+    "name": "Blackwater Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.660139,
+    "lon": -6.694138,
+    "regionId": "navan",
+    "regionLabel": "Navan",
+    "locationLabel": "Blackwater Park, Navan, Co. Meath",
+    "websiteUrl": "https://www.meath.ie/council/council-services/community/community-facilities/playing-pitches-in-blackwater-park-navan",
     "solarMode": "open-area"
   },
   {
@@ -3487,6 +3604,19 @@
     "regionLabel": "Swords",
     "locationLabel": "Balheary, Swords, Co. Dublin",
     "websiteUrl": "https://www.fingal.ie/Pitches",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-broadmeadow-linear-park-way-26817990",
+    "name": "Broadmeadow Linear Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.474915,
+    "lon": -6.233697,
+    "regionId": "swords",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, Co. Dublin",
+    "websiteUrl": "https://www.fingal.ie/news/sod-turn-marks-initiation-active-travel-project-balheary",
     "solarMode": "open-area"
   },
   {
