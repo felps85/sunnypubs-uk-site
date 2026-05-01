@@ -1,4 +1,5 @@
 const SHELL_CACHE_NAME = "sunny-pubs-shell-v3";
+const STATIC_DATA_CACHE_NAME = "sunny-pubs-static-data-v1";
 const PRECACHE_URLS = [
   "/",
   "/site.webmanifest",
@@ -25,8 +26,9 @@ self.addEventListener("install", (event) => {
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     (async () => {
+      const activeCacheNames = new Set([SHELL_CACHE_NAME, STATIC_DATA_CACHE_NAME]);
       const keys = await caches.keys();
-      await Promise.all(keys.filter((key) => key !== SHELL_CACHE_NAME).map((key) => caches.delete(key)));
+      await Promise.all(keys.filter((key) => !activeCacheNames.has(key)).map((key) => caches.delete(key)));
       await self.clients.claim();
     })()
   );
@@ -56,6 +58,27 @@ async function networkFirst(request, fallbackPathname) {
   }
 }
 
+async function cacheFirstWithBackgroundRefresh(request) {
+  const cache = await caches.open(STATIC_DATA_CACHE_NAME);
+  const cached = await cache.match(request);
+  const refresh = fetch(request)
+    .then(async (response) => {
+      if (response.ok) {
+        await cache.put(request, response.clone());
+      }
+      return response;
+    })
+    .catch(() => undefined);
+
+  if (cached) {
+    refresh.catch(() => undefined);
+    return cached;
+  }
+
+  const response = await refresh;
+  return response ?? Response.error();
+}
+
 function shouldUseNetworkFirst(request, requestUrl) {
   return (
     NETWORK_FIRST_DESTINATIONS.has(request.destination) ||
@@ -64,13 +87,31 @@ function shouldUseNetworkFirst(request, requestUrl) {
   );
 }
 
+function isStaticMapDataRequest(requestUrl) {
+  return requestUrl.pathname.startsWith("/sunny-map/");
+}
+
+function isRuntimeFunctionRequest(requestUrl) {
+  return requestUrl.pathname.startsWith("/functions/");
+}
+
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   const requestUrl = new URL(event.request.url);
   if (requestUrl.origin !== self.location.origin) return;
 
+  if (isRuntimeFunctionRequest(requestUrl)) {
+    event.respondWith(fetch(event.request));
+    return;
+  }
+
   if (event.request.mode === "navigate") {
     event.respondWith(networkFirst(event.request, requestUrl.pathname));
+    return;
+  }
+
+  if (isStaticMapDataRequest(requestUrl)) {
+    event.respondWith(cacheFirstWithBackgroundRefresh(event.request));
     return;
   }
 

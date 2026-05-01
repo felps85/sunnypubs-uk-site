@@ -850,6 +850,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-corke-abbey-valley-park-way-61498641",
+    "name": "Corke Abbey Valley Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.21264,
+    "lon": -6.109409,
+    "regionId": "dublin",
+    "regionLabel": "Bray",
+    "locationLabel": "Bray and Dun Laoghaire-Rathdown boundary",
+    "websiteUrl": "https://dlrcoco.citizenspace.com/parks/parks-corke-abbey-valley-park/",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-carlow-town-park-way-37180406",
     "name": "Carlow Town Park",
     "placeTypeId": "park",
@@ -1132,6 +1145,19 @@
         "skatepark"
       ]
     }
+  },
+  {
+    "id": "parks-dillons-park-way-119557136",
+    "name": "Dillons Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.27161,
+    "lon": -6.092066,
+    "regionId": "dublin",
+    "regionLabel": "Dalkey",
+    "locationLabel": "Dalkey, County Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/sites/dlrcoco/files/2024-08/dlr%20Annual%20Report%20English%202023.pdf#:~:text=Dillons%20Park",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-bay-road-park-way-80652553",
@@ -1624,6 +1650,19 @@
     }
   },
   {
+    "id": "parks-california-hills-park-relation-8797383",
+    "name": "California Hills Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.348954,
+    "lon": -6.35597,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "California Hills, Dublin",
+    "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/4-resources-and-services/46-natural-areas-biodiversity/462-biodiversity-and-green-infrastructure",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-carrigmore-park-way-317216092",
     "name": "Carrigmore Park",
     "placeTypeId": "park",
@@ -1651,6 +1690,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-central-square-way-136549341",
+    "name": "Central Square",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.348493,
+    "lon": -6.237312,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Spencer Dock, Dublin 1",
+    "websiteUrl": "https://www.dublincity.ie/sites/default/files/2022-08/area-3-central.pdf",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-chancery-park-way-153254211",
     "name": "Chancery Park",
     "placeTypeId": "park",
@@ -1674,6 +1726,19 @@
     "regionLabel": "Dublin",
     "locationLabel": "Cherry Orchard, Ballyfermot, Dublin 10",
     "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/4-resources-and-services/41-parks/416-quality-parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-chimney-park-way-312553676",
+    "name": "Chimney Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.344983,
+    "lon": -6.239365,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Grand Canal Dock, Dublin 2",
+    "websiteUrl": "https://www.dublincity.ie/planning-and-land-use/learn-about-councils-plans-city/public-realm-strategy-and-master-plans/dublin-docklands/visiting-docklands",
     "solarMode": "open-area"
   },
   {
@@ -2211,6 +2276,19 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-irishtown-nature-park-way-23582259",
+    "name": "Irishtown Nature Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.336342,
+    "lon": -6.200882,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Poolbeg Peninsula, Dublin",
+    "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/2-parks-and-landscapes-perspective/21-growing-dublin/219-contemporary-dublin",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-iveagh-gardens-way-275449345",
     "name": "Iveagh Gardens",
     "placeTypeId": "park",
@@ -2351,6 +2429,19 @@
     }
   },
   {
+    "id": "parks-liberty-park-way-13904710",
+    "name": "Liberty Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.352022,
+    "lon": -6.252204,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "North East Inner City, Dublin",
+    "websiteUrl": "https://www.dublincity.ie/news/liberty-park-open-public-following-official-reopening-lord-mayor",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-loreto-park-way-22980750",
     "name": "Loreto Park",
     "placeTypeId": "park",
@@ -2441,6 +2532,19 @@
         "parking"
       ]
     }
+  },
+  {
+    "id": "parks-liam-mellowes-park-way-30677662",
+    "name": "Mellows Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.393926,
+    "lon": -6.305229,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Finglas, Dublin 11",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/mellows-park",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-merrion-square-park-way-4078069",
@@ -3144,6 +3248,45 @@
         "playground"
       ]
     }
+  },
+  {
+    "id": "parks-clarinda-park-way-48063956",
+    "name": "Clarinda Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.288934,
+    "lon": -6.131687,
+    "regionId": "dublin",
+    "regionLabel": "Dun Laoghaire",
+    "locationLabel": "Dun Laoghaire, County Dublin",
+    "websiteUrl": "https://dlrcoco.citizenspace.com/infrastructure-climate-change/living-streets-dun-laoghaire/",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-crosthwaite-park-way-48063960",
+    "name": "Crosthwaite Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.286487,
+    "lon": -6.134142,
+    "regionId": "dublin",
+    "regionLabel": "Dun Laoghaire",
+    "locationLabel": "Dun Laoghaire, County Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/sites/dlrcoco/files/2024-08/dlr%20Annual%20Report%20English%202023.pdf#:~:text=Crosthwaite%20Park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-dunedin-park-way-9070963",
+    "name": "Dunedin Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.287616,
+    "lon": -6.152083,
+    "regionId": "dublin",
+    "regionLabel": "Dun Laoghaire-Rathdown",
+    "locationLabel": "Dun Laoghaire-Rathdown, County Dublin",
+    "websiteUrl": "https://www.dlrcoco.ie/sites/dlrcoco/files/2024-08/dlr%20Annual%20Report%20English%202023.pdf#:~:text=Dunedin%20Park",
+    "solarMode": "open-area"
   },
   {
     "id": "parks-blackrock-park-way-306401048",
@@ -3981,6 +4124,45 @@
     "regionLabel": "Swords",
     "locationLabel": "Swords, Co. Dublin",
     "websiteUrl": "https://www.fingal.ie/news/sod-turn-marks-initiation-active-travel-project-balheary",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-holywell-park-way-37793954",
+    "name": "Holywell Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.440489,
+    "lon": -6.213341,
+    "regionId": "dublin",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, County Dublin",
+    "websiteUrl": "https://www.fingal.ie/news/holywell-welcomes-fingals-operation-transformation-walk",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-kettles-memorial-park-way-68348810",
+    "name": "Kettles Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.439503,
+    "lon": -6.200653,
+    "regionId": "dublin",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, County Dublin",
+    "websiteUrl": "https://www.fingal.ie/sites/default/files/2025-12/fingal-county-council-development-contribution-scheme-2026-2030.pdf",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-castle-park-way-668237186",
+    "name": "Swords Castle Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.46126,
+    "lon": -6.220145,
+    "regionId": "dublin",
+    "regionLabel": "Swords",
+    "locationLabel": "Swords, County Dublin",
+    "websiteUrl": "https://www.fingal.ie/sustainableswords/natural-environment",
     "solarMode": "open-area"
   },
   {
