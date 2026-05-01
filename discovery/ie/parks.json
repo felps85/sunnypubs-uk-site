@@ -14,6 +14,7 @@
   },
   {
     "id": "parks-alderman-tommy-patton-memorial-park-way-38380590",
+    "appId": "ie",
     "type": "park",
     "name": "Alderman Tommy Patton Memorial Park",
     "regionId": "belfast",
@@ -207,6 +208,19 @@
     }
   },
   {
+    "id": "parks-cherryvale-playing-fields-way-15238551",
+    "appId": "ie",
+    "name": "Cherryvale Playing Fields",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Ravenhill Road, Belfast, BT6",
+    "lat": 54.573879,
+    "lon": -5.910942,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/outdoor-leisure-activities/sports-pitches-and-facilities/cherryvale-playing-fields"
+  },
+  {
     "id": "parks-clarawood-millennium-park-way-41670319",
     "type": "park",
     "name": "Clarawood Millennium Park",
@@ -223,6 +237,19 @@
         "playground"
       ]
     }
+  },
+  {
+    "id": "parks-clarendon-playing-fields-way-1078357112",
+    "appId": "ie",
+    "name": "Clarendon Playing Fields",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Somerdale Park, Belfast, BT14",
+    "lat": 54.61563,
+    "lon": -5.973742,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.belfastcity.gov.uk/Business-and-investment/Physical-investment/Projects-delivered-in-partnership/SEUPB-PEACE-programme/PEACE-IV-Shared-Spaces/Forth-Meadow-Community-Greenway-project#clarendon-playing-fields"
   },
   {
     "id": "parks-clement-wilson-park-way-431664548",
@@ -457,6 +484,19 @@
         "playground"
       ]
     }
+  },
+  {
+    "id": "parks-lenadoon-park-way-409989070",
+    "appId": "ie",
+    "name": "Lenadoon Millennium Park",
+    "type": "park",
+    "regionId": "belfast",
+    "regionLabel": "Belfast",
+    "locationLabel": "Lenadoon Avenue, Belfast, BT11",
+    "lat": 54.570745,
+    "lon": -6.01132,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.belfastcity.gov.uk/things-to-do/parks-and-open-spaces/a-z-parks/lenadoon-millennium-park"
   },
   {
     "id": "parks-ligoniel-park-way-38544071",
@@ -820,6 +860,19 @@
     "websiteUrl": "https://corkcity.maps.arcgis.com/apps/webappviewer/index.html?id=47debefa9eb443cbbbbd1930b60c8da7"
   },
   {
+    "id": "parks-clashduv-park-way-74585017",
+    "appId": "ie",
+    "name": "Clashduv Park",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Togher, Cork",
+    "lat": 51.881121,
+    "lon": -8.495391,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/playgrounds/#clashduv-park"
+  },
+  {
     "id": "parks-cork-lough-way-554942527",
     "type": "park",
     "name": "Cork Lough",
@@ -829,6 +882,19 @@
     "lat": 51.887582,
     "lon": -8.486692,
     "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks"
+  },
+  {
+    "id": "parks-douglas-park-way-80728549",
+    "appId": "ie",
+    "name": "Douglas Park",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Douglas, Cork",
+    "lat": 51.875012,
+    "lon": -8.437995,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.corkcity.ie/en/council-services/public-info/events-hosting-and-licences/casual-trading-licences/#douglas-park"
   },
   {
     "id": "parks-fitzgeralds-park-way-31310116",
@@ -846,6 +912,19 @@
     "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks"
   },
   {
+    "id": "parks-gerry-osullivan-park-way-31405383",
+    "appId": "ie",
+    "name": "Gerry O'Sullivan Park",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "St Colmcille's Road, Gurranabraher, Cork",
+    "lat": 51.90704,
+    "lon": -8.494291,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.corkcity.ie/en/sports-and-leisure/sports-facilities/gyms/outdoor-public-gyms/#gerry-osullivan-park"
+  },
+  {
     "id": "parks-glen-river-park-relation-17858680",
     "type": "park",
     "name": "Glen River Park",
@@ -855,6 +934,19 @@
     "lat": 51.913419,
     "lon": -8.456811,
     "websiteUrl": "https://corknaturenetwork.ie/wild-walks/the-glen-river-park"
+  },
+  {
+    "id": "parks-john-ocallaghan-park-way-770603399",
+    "appId": "ie",
+    "name": "John O'Callaghan Park",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Ballinglanna, Cork",
+    "lat": 51.927209,
+    "lon": -8.392612,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.corkcity.ie/en/sports-and-leisure/sports-facilities/gyms/outdoor-public-gyms/#john-ocallaghan-park"
   },
   {
     "id": "parks-kennedy-park-way-399060502",
@@ -870,6 +962,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/cork-city-parks/cork-city-parks"
+  },
+  {
+    "id": "parks-lough-mahon-park-way-744776817",
+    "appId": "ie",
+    "name": "Loughmahon Park",
+    "type": "park",
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "Mahon, Cork",
+    "lat": 51.892455,
+    "lon": -8.39948,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.corkcity.ie/en/things-to-do/parks-outdoors/playgrounds/#loughmahon-park"
   },
   {
     "id": "parks-marina-park-relation-16253619",
@@ -1380,6 +1485,19 @@
     }
   },
   {
+    "id": "parks-carrigmore-park-way-317216092",
+    "appId": "ie",
+    "name": "Carrigmore Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Citywest, Dublin",
+    "lat": 53.280193,
+    "lon": -6.426218,
+    "solarMode": "open-area",
+    "websiteUrl": "https://meetings.southdublin.ie/Home/ViewReply/82578"
+  },
+  {
     "id": "parks-carysfort-park-way-49946447",
     "type": "park",
     "name": "Carysfort Park",
@@ -1390,6 +1508,32 @@
     "lon": -6.184584,
     "websiteUrl": "https://www.dlrcoco.ie/parks-outdoors/parks/carysfort-park",
     "instagramUrl": "https://instagram.com/dlrcoco.ie"
+  },
+  {
+    "id": "parks-chancery-park-way-153254211",
+    "appId": "ie",
+    "name": "Chancery Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Chancery Street, Dublin 1",
+    "lat": 53.346584,
+    "lon": -6.272208,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/dublin-city-development-plan-2022-2028/written-statement/chapter-13-strategic-development-regeneration-areas/1315-sdra-13-markets-area-and-environs"
+  },
+  {
+    "id": "parks-cherry-orchard-park-way-262923334",
+    "appId": "ie",
+    "name": "Cherry Orchard Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Cherry Orchard, Ballyfermot, Dublin 10",
+    "lat": 53.336795,
+    "lon": -6.375748,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/dublin-city-parks-strategy/4-resources-and-services/41-parks/416-quality-parks"
   },
   {
     "id": "parks-clonmore-park-way-22677944",
@@ -1406,6 +1550,19 @@
         "playground"
       ]
     }
+  },
+  {
+    "id": "parks-corduff-park-way-26840998",
+    "appId": "ie",
+    "name": "Corduff Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Corduff, Dublin 15",
+    "lat": 53.397474,
+    "lon": -6.380473,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fingal.ie/news/work-set-begin-major-upgrade-corduff-park"
   },
   {
     "id": "parks-corkagh-park-way-325933039",
@@ -1433,6 +1590,19 @@
         "playground"
       ]
     }
+  },
+  {
+    "id": "parks-croppies-acre-memorial-park-relation-13044043",
+    "appId": "ie",
+    "name": "Croppies Acre",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Wolfe Tone Quay, Dublin 7",
+    "lat": 53.347517,
+    "lon": -6.287213,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/sites/default/files/2021-02/stoneybatter_greening_strategy_document.pdf#page=39"
   },
   {
     "id": "parks-darndale-park-way-33149679",
@@ -1637,6 +1807,19 @@
     }
   },
   {
+    "id": "parks-farmleigh-way-20487299",
+    "appId": "ie",
+    "name": "Farmleigh House and Estate",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Phoenix Park, Dublin 15",
+    "lat": 53.363973,
+    "lon": -6.357842,
+    "solarMode": "open-area",
+    "websiteUrl": "https://farmleigh.ie/farmleigh-opw/"
+  },
+  {
     "id": "parks-father-collins-park-way-139437113",
     "type": "park",
     "name": "Father Collins Park",
@@ -1678,6 +1861,32 @@
         "parking"
       ]
     }
+  },
+  {
+    "id": "parks-garden-of-remembrance-way-14047792",
+    "appId": "ie",
+    "name": "Garden of Remembrance",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Parnell Square East, Dublin 1",
+    "lat": 53.353719,
+    "lon": -6.264171,
+    "solarMode": "open-area",
+    "websiteUrl": "https://heritageireland.ie/places-to-visit/garden-of-remembrance/"
+  },
+  {
+    "id": "parks-great-western-square-park-way-14047826",
+    "appId": "ie",
+    "name": "Great Western Square Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Great Western Square, Phibsborough, Dublin 7",
+    "lat": 53.35909,
+    "lon": -6.276826,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/sites/default/files/media/file-uploads/2018-05/21_Great_Western_Square_ACA_adopted_05.10.16.pdf"
   },
   {
     "id": "parks-griffeen-valley-park-way-4054585",
@@ -1753,6 +1962,19 @@
     }
   },
   {
+    "id": "parks-hartstown-park-way-28158281",
+    "appId": "ie",
+    "name": "Hartstown Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Hartstown, Dublin 15",
+    "lat": 53.395705,
+    "lon": -6.410061,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.fingal.ie/news/success-hartstown-fingal-parks-achieve-seven-green-flag-awards"
+  },
+  {
     "id": "parks-herbert-park-relation-19668146",
     "type": "park",
     "name": "Herbert Park",
@@ -1801,6 +2023,19 @@
     }
   },
   {
+    "id": "parks-irish-national-war-memorial-gardens-way-26868842",
+    "appId": "ie",
+    "name": "Irish National War Memorial Gardens",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Islandbridge, Dublin 8",
+    "lat": 53.344566,
+    "lon": -6.318082,
+    "solarMode": "open-area",
+    "websiteUrl": "https://heritageireland.ie/visit/places-to-visit/irish-national-war-memorial-gardens/"
+  },
+  {
     "id": "parks-iveagh-gardens-way-275449345",
     "type": "park",
     "name": "Iveagh Gardens",
@@ -1824,6 +2059,19 @@
         "entrance"
       ]
     }
+  },
+  {
+    "id": "parks-john-paul-ii-park-way-37611153",
+    "appId": "ie",
+    "name": "John Paul II Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Ratoath Road, Cabra, Dublin 7",
+    "lat": 53.367284,
+    "lon": -6.306701,
+    "solarMode": "open-area",
+    "websiteUrl": "https://www.dublincity.ie/sports-and-healthy-living/find-sports-facilities-and-pitches-dublin/sports-and-fitness-centres/cabra-parkside-community-sports-centre"
   },
   {
     "id": "parks-johnstown-park-way-94205453",

@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "park-amenity-pin-parks-alderman-tommy-patton-memorial-park-way-38380590-playground-way-296917815",
+    "parkVenueId": "parks-alderman-tommy-patton-memorial-park-way-38380590",
+    "appId": "ie",
+    "type": "playground",
+    "name": "Alderman Tommy Patton Memorial Park playground",
+    "lat": 54.610039,
+    "lon": -5.869626,
+    "metadata": {
+      "acceptedPresenceId": "park-amenity-presence-ie-parks-alderman-tommy-patton-memorial-park-way-38380590-playground",
+      "acceptedAt": "2026-05-01T00:00:00.000Z",
+      "sourceConfidence": "confirmed",
+      "geospatialSource": "osm-overpass",
+      "geospatialSourceUrl": "https://www.openstreetmap.org/way/296917815",
+      "placementConfidence": "source-backed",
+      "placementEvidence": {
+        "osmType": "way",
+        "osmId": 296917815,
+        "tags": {
+          "leisure": "playground"
+        }
+      },
+      "satelliteAerialUsage": "not-used"
+    }
+  }
+]
