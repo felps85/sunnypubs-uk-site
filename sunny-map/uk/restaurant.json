@@ -80,7 +80,7 @@
     "regionLabel": "Aberdeen",
     "locationLabel": "257 Union Street, Aberdeen, AB11 6BR",
     "websiteUrl": "https://www.amaronerestaurant.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 332.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -91,7 +91,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 57.1445,
+    "outdoorObservationPointLon": -2.1059,
+    "outdoorAreaWidthM": 12,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-amuse-by-kevin-dalgleish-node-13647661035",
@@ -1782,7 +1786,7 @@
     "regionLabel": "Bath",
     "locationLabel": "15 Milsom Street, Bath, BA1 1DE",
     "websiteUrl": "https://bananatree.co.uk/restaurants/bath",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 73,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1794,6 +1798,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3842,
+    "outdoorObservationPointLon": -2.3618,
+    "outdoorAreaWidthM": 7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2062,7 +2070,7 @@
     "regionLabel": "Bath",
     "locationLabel": "15a George Street, BA1 2EN",
     "websiteUrl": "https://www.claytonskitchen.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 164,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2074,6 +2082,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3848,
+    "outdoorObservationPointLon": -2.3627,
+    "outdoorAreaWidthM": 10.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -2186,7 +2198,7 @@
     "regionLabel": "Bath",
     "locationLabel": "Unit R4 SouthGate Place, BA1 1AP",
     "websiteUrl": "https://cosyclub.co.uk/location/bath",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 21.8,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2198,6 +2210,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3787,
+    "outdoorObservationPointLon": -2.3583,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2238,7 +2254,7 @@
     "regionLabel": "Bath",
     "locationLabel": "2 Margaret's Buildings, BA1 2LP",
     "websiteUrl": "https://www.crescent-restaurant-bath.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 285.5,
     "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2249,7 +2265,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.3865,
+    "outdoorObservationPointLon": -2.3659,
+    "outdoorAreaWidthM": 6.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-dough-node-9023464052",
@@ -2918,18 +2938,22 @@
     "regionLabel": "Bath",
     "locationLabel": "31 Barton Street, Bath, BA1 1HG",
     "websiteUrl": "https://pintxo.co.uk",
-    "solarMode": "facade",
-    "frontBearingDeg": 76.4,
-    "shadeClearanceDeg": 2.5,
+    "solarMode": "outdoor-area",
+    "frontBearingDeg": 167.1,
+    "shadeClearanceDeg": 82.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.3826,
     "frontObservationPointLon": -2.3628,
-    "facadeWidthM": 7.7,
+    "facadeWidthM": 7.8,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3826,
+    "outdoorObservationPointLon": -2.3628,
+    "outdoorAreaWidthM": 7.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3030,7 +3054,7 @@
     "regionLabel": "Bath",
     "locationLabel": "Spring Gardens Road, BA2 6PW",
     "websiteUrl": "https://www.pontevecchiobath.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 148.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3042,6 +3066,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3832,
+    "outdoorObservationPointLon": -2.3567,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3194,7 +3222,7 @@
     "regionLabel": "Bath",
     "locationLabel": "4 Cheap Street, BA1 1NE",
     "websiteUrl": "https://rosasthai.com/locations/rosas-thai-restaurant-delivery-takeaway-bath",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 263.3,
     "shadeClearanceDeg": 32.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3206,6 +3234,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3817,
+    "outdoorObservationPointLon": -2.3599,
+    "outdoorAreaWidthM": 9.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3351,7 +3383,7 @@
     "regionLabel": "Bath",
     "locationLabel": "11-12 Abbey Churchyard, Bath, BA1 1LY",
     "websiteUrl": "https://squaregrillbath.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 256.4,
     "shadeClearanceDeg": 62.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3363,6 +3395,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.3815,
+    "outdoorObservationPointLon": -2.36,
+    "outdoorAreaWidthM": 6.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4102,7 +4138,7 @@
     "regionLabel": "Beckenham",
     "locationLabel": "82 High Street, Beckenham, BR3 1ED",
     "websiteUrl": "https://jamsbeckenham.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 103.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4113,7 +4149,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.4083,
+    "outdoorObservationPointLon": -0.0253,
+    "outdoorAreaWidthM": 5.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-love-a-slice-node-13674344795",
@@ -4894,7 +4934,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "376-378 Upper Newtownards Road, Belfast, BT4 3FB",
     "websiteUrl": "https://www.pizzaexpress.com/belfast-ballyhackamore",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 183.6,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4906,6 +4946,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.5952,
+    "outdoorObservationPointLon": -5.8673,
+    "outdoorAreaWidthM": 15.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "pizza"
@@ -5046,7 +5090,7 @@
     "locationLabel": "62-68 High Street, Belfast, Antrim, BT1 2BE",
     "websiteUrl": "https://www.thenationalbelfast.com",
     "instagramUrl": "https://instagram.com/nationalbelfast",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 151.1,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5058,6 +5102,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.6005,
+    "outdoorObservationPointLon": -5.9258,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -5354,7 +5402,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "1377 Pershore Road, Birmingham, B30 2JR",
     "websiteUrl": "https://aliciasmicrobakehouse.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 82.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5366,6 +5414,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.4279,
+    "outdoorObservationPointLon": -1.9225,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "pizza"
@@ -5444,7 +5496,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "102 New Street, Birmingham, B2 4HS",
     "websiteUrl": "https://www.bellaitalia.co.uk/restaurants/birmingham/new-street",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 97.1,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5456,6 +5508,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.4792,
+    "outdoorObservationPointLon": -1.9005,
+    "outdoorAreaWidthM": 11.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5473,7 +5529,7 @@
     "locationLabel": "Birmingham, B5 4BE",
     "websiteUrl": "https://bills-website.co.uk",
     "instagramUrl": "https://instagram.com/billsrestaurant",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 226.2,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5485,6 +5541,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.4777,
+    "outdoorObservationPointLon": -1.8941,
+    "outdoorAreaWidthM": 11.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5501,9 +5561,9 @@
     "regionLabel": "Birmingham",
     "locationLabel": "64 New Street, Birmingham, B2 4DU",
     "websiteUrl": "https://boojummex.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 186.2,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.4794,
@@ -5513,6 +5573,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.4794,
+    "outdoorObservationPointLon": -1.9012,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5575,7 +5639,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "Birmingham",
     "websiteUrl": "https://caffedimilano.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 40.9,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5586,7 +5650,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.4748,
+    "outdoorObservationPointLon": -1.8965,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-casa-italia-node-6443260852",
@@ -5620,7 +5688,7 @@
     "locationLabel": "6 Spiceal Street, Birmingham, B5 4BH",
     "websiteUrl": "https://chaophraya.co.uk/birmingham",
     "instagramUrl": "https://instagram.com/chaophrayathai",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 349.4,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5632,6 +5700,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.477,
+    "outdoorObservationPointLon": -1.8936,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5648,7 +5720,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "5 Greenfield Crescent, Birmingham, B15 3BE",
     "websiteUrl": "https://www.chapteredgbaston.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 131.1,
     "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5660,6 +5732,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.4701,
+    "outdoorObservationPointLon": -1.9217,
+    "outdoorAreaWidthM": 13.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5796,7 +5872,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "1 Chamberlain Square, Birmingham, B3 3AX",
     "websiteUrl": "https://www.dishoom.com/birmingham",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 154.2,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5807,7 +5883,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.4801,
+    "outdoorObservationPointLon": -1.9051,
+    "outdoorAreaWidthM": 10.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-everest-indigo-node-9008328273",
@@ -5866,7 +5946,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "624 Bearwood Road",
     "websiteUrl": "https://www.flameandice.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 77.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5878,6 +5958,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.4728,
+    "outdoorObservationPointLon": -1.9686,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "burger"
@@ -6407,7 +6491,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "18 Aston Webb Boulevard, Birmingham, B29 6SQ",
     "websiteUrl": "https://www.nandos.co.uk/restaurants/selly-oak",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 179.8,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6418,7 +6502,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.4439,
+    "outdoorObservationPointLon": -1.9387,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-nandos-node-6554909205",
@@ -6471,7 +6559,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "614 Bearwood Road",
     "websiteUrl": "https://www.oakcaphe.co.uk/birmingham",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 77.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6482,7 +6570,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.4728,
+    "outdoorObservationPointLon": -1.9686,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-onye-node-12874131620",
@@ -6596,7 +6688,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "14T The Waters Edge, Birmingham, B1 2HL",
     "websiteUrl": "https://www.myperios.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 37.7,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6607,7 +6699,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.4782,
+    "outdoorObservationPointLon": -1.9123,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-pieminister-node-9927270617",
@@ -6885,7 +6981,7 @@
     "regionLabel": "Birmingham",
     "locationLabel": "105 Three Shires Oak Road",
     "websiteUrl": "https://rouhirestaurant.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 196.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6896,7 +6992,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.4772,
+    "outdoorObservationPointLon": -1.9709,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-rudys-pizza-napoletana-node-7142730585",
@@ -7853,7 +7953,7 @@
     "regionLabel": "Blaydon-on-Tyne",
     "locationLabel": "Spa Well Road, Blaydon-on-Tyne, NE21 6RT",
     "websiteUrl": "https://www.petros-restaurant.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 205.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7864,7 +7964,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 54.9426,
+    "outdoorObservationPointLon": -1.7117,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bhageecha-way-286966171",
@@ -7917,7 +8021,7 @@
     "regionLabel": "Borehamwood",
     "locationLabel": "75-77 Shenley Road, Borehamwood, WD6 1AG",
     "websiteUrl": "https://www.nandos.co.uk/restaurants/borehamwood",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 143.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7928,7 +8032,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.6557,
+    "outdoorObservationPointLon": -0.2763,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-tay-tar-thai-node-11739121017",
@@ -7961,7 +8069,7 @@
     "regionLabel": "Borehamwood",
     "locationLabel": "195C Shenley Road, Borehamwood, WD6 1AW",
     "websiteUrl": "https://thearchturkishrestaurant.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 54.6,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7972,7 +8080,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.6577,
+    "outdoorObservationPointLon": -0.2724,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-aruba-node-810359926",
@@ -8105,7 +8217,7 @@
     "regionLabel": "Bournemouth",
     "locationLabel": "Bournemouth",
     "websiteUrl": "https://keywestbournemouth.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 74,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8117,6 +8229,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 50.7141,
+    "outdoorObservationPointLon": -1.8745,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8260,7 +8376,7 @@
     "regionLabel": "Bournemouth",
     "locationLabel": "Pier Approach, BH2 5AA",
     "websiteUrl": "https://west-beach.co.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 164.8,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8271,7 +8387,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.7156,
+    "outdoorObservationPointLon": -1.8776,
+    "outdoorAreaWidthM": 14.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-zizzi-node-1436288410",
@@ -8512,7 +8632,7 @@
     "regionLabel": "Brentford",
     "locationLabel": "Brentford High Street, Brentford, TW8 8AQ",
     "websiteUrl": "https://www.siracusarestaurant.uk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 51.6,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8523,7 +8643,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.4829,
+    "outdoorObservationPointLon": -0.3109,
+    "outdoorAreaWidthM": 11.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-doci-visi-node-12066008855",
@@ -9012,7 +9136,7 @@
     "locationLabel": "42 Meeting House Lane, Brighton, BN1 1HB",
     "websiteUrl": "https://embersbrighton.co.uk",
     "instagramUrl": "https://instagram.com/embers_restaurant_",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 22.2,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9023,7 +9147,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8216,
+    "outdoorObservationPointLon": -0.1402,
+    "outdoorAreaWidthM": 4.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-englishs-of-brighton-node-4574887844",
@@ -9037,7 +9165,7 @@
     "locationLabel": "29-31 East Street, Brighton, BN1 1HL",
     "websiteUrl": "https://www.englishs.co.uk",
     "instagramUrl": "https://instagram.com/englishsofbrighton",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 8.1,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9048,7 +9176,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8212,
+    "outdoorObservationPointLon": -0.1394,
+    "outdoorAreaWidthM": 7.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-fatto-a-mano-node-5639759316",
@@ -9217,9 +9349,9 @@
     "locationLabel": "64 Preston Street, BN1 2HE",
     "websiteUrl": "https://www.halisco-brighton.co.uk",
     "instagramUrl": "https://instagram.com/haliscobrighton",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 285.5,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 50.8238,
@@ -9228,7 +9360,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8238,
+    "outdoorObservationPointLon": -0.1508,
+    "outdoorAreaWidthM": 4.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-happy-maki-node-13300965501",
@@ -9325,7 +9461,7 @@
     "locationLabel": "56 Gardner Street, Brighton, BN1 1UN",
     "websiteUrl": "https://www.kooksrestaurant.com",
     "instagramUrl": "https://instagram.com/kooksrestaurant",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 285.8,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9336,7 +9472,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8244,
+    "outdoorObservationPointLon": -0.1397,
+    "outdoorAreaWidthM": 4.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-las-iguanas-node-1236329255",
@@ -9479,7 +9619,7 @@
     "locationLabel": "8 East Street, Brighton, BN1 1HP",
     "websiteUrl": "https://martinsburgerhouse.com",
     "instagramUrl": "https://instagram.com/martinsburgerhouse",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 4.7,
     "shadeClearanceDeg": 27.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9490,7 +9630,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8202,
+    "outdoorObservationPointLon": -0.1393,
+    "outdoorAreaWidthM": 8.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-mowgli-street-food-node-12074952052",
@@ -9543,7 +9687,7 @@
     "regionLabel": "Brighton",
     "locationLabel": "34 Duke Street, Brighton, BN1 1AG",
     "websiteUrl": "https://www.nandos.co.uk/restaurants/brighton-duke-street",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 196.1,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9554,7 +9698,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8228,
+    "outdoorObservationPointLon": -0.1428,
+    "outdoorAreaWidthM": 6.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-nandos-node-6423732486",
@@ -9608,7 +9756,7 @@
     "locationLabel": "30 Grand Parade, Brighton, BN2 9QA",
     "websiteUrl": "https://ouicreperie.co.uk",
     "instagramUrl": "https://instagram.com/ouicreperie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 18.9,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9619,7 +9767,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8255,
+    "outdoorObservationPointLon": -0.1352,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-pastan-way-1301573928",
@@ -9652,7 +9804,7 @@
     "regionLabel": "Brighton",
     "locationLabel": "56 Ship Street, BN1 1AF",
     "websiteUrl": "https://www.pattyandbun.co.uk/locations/brighton",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 17.6,
     "shadeClearanceDeg": 37.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9664,6 +9816,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 50.8223,
+    "outdoorObservationPointLon": -0.1414,
+    "outdoorAreaWidthM": 10.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "burger"
@@ -9703,9 +9859,9 @@
     "locationLabel": "22 New Road, Brighton, BN1 1UF",
     "websiteUrl": "https://www.pinocchio.co.uk",
     "instagramUrl": "https://instagram.com/pinocchio_brighton",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 108.5,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 50.8238,
@@ -9715,6 +9871,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 50.8238,
+    "outdoorObservationPointLon": -0.1393,
+    "outdoorAreaWidthM": 5.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "pizza"
@@ -9785,7 +9945,7 @@
     "regionLabel": "Brighton",
     "locationLabel": "16, BN1 1GE",
     "websiteUrl": "https://www.pizzaexpress.com/brighton-jubilee-street",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 283.7,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9797,6 +9957,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 50.8247,
+    "outdoorObservationPointLon": -0.1379,
+    "outdoorAreaWidthM": 4.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "pizza"
@@ -9836,7 +10000,7 @@
     "regionLabel": "Brighton",
     "locationLabel": "12B Meeting House Lane, Brighton, BN1 1HB",
     "websiteUrl": "https://www.riddleandfinns.co.uk/restaurant-brighton-lanes",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 304.9,
     "shadeClearanceDeg": 42.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9847,7 +10011,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8226,
+    "outdoorObservationPointLon": -0.1405,
+    "outdoorAreaWidthM": 4.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-roti-king-node-13157129457",
@@ -9911,7 +10079,7 @@
     "locationLabel": "41 Meeting House Lane, Brighton, BN1 1HB",
     "websiteUrl": "https://www.rybka.fish",
     "instagramUrl": "https://instagram.com/thefishlikestoswim",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 22.2,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9922,7 +10090,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 50.8216,
+    "outdoorObservationPointLon": -0.1402,
+    "outdoorAreaWidthM": 4.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-saffrons-way-1302744652",
@@ -10840,7 +11012,7 @@
     "regionId": "sheffield",
     "regionLabel": "Sheffield",
     "locationLabel": "46 Castle Square, Sheffield, S1 2GF",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 312.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10851,7 +11023,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3828,
+    "outdoorObservationPointLon": -1.4656,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-ages-ago-node-11137067643",
@@ -11335,6 +11511,178 @@
     "facadeWidthM": 6.3
   },
   {
+    "id": "restaurants-buchon-du-rossi-node-3809342906",
+    "name": "Buchon du Rossi",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.618894,
+    "lon": -3.948956,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "217 Oxford Street, SA1 3BG",
+    "solarMode": "facade",
+    "frontBearingDeg": 155.5,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6189,
+    "frontObservationPointLon": -3.9489,
+    "facadeWidthM": 6.1
+  },
+  {
+    "id": "restaurants-gallinis-node-1094024159",
+    "name": "Gallinis Restaurant",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.615875,
+    "lon": -3.935062,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "3 Fishmarket Quay, SA1 1UP",
+    "solarMode": "facade",
+    "frontBearingDeg": 339.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6159,
+    "frontObservationPointLon": -3.9351,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-gigi-gao-s-favourite-authentic-chinese-node-5792801555",
+    "name": "Gigi Gao‘s Favourite Authentic Chinese",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.616004,
+    "lon": -3.939979,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "18 & 23 Anchor Court, Victoria Quay, SA1 3XA",
+    "solarMode": "facade",
+    "frontBearingDeg": 159.1,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6159,
+    "frontObservationPointLon": -3.9402,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-harvester-way-45324479",
+    "name": "Harvester Restaurant",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.654083,
+    "lon": -4.040436,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Victoria Road, SA4 3AB",
+    "solarMode": "facade",
+    "frontBearingDeg": 127.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.654,
+    "frontObservationPointLon": -4.0403,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-pant-y-gwydr-node-2430963420",
+    "name": "Pant-y-gwydr",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.617669,
+    "lon": -3.952619,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "178 Oxford Street, SA1 3JA",
+    "solarMode": "facade",
+    "frontBearingDeg": 234.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6177,
+    "frontObservationPointLon": -3.9527,
+    "facadeWidthM": 12
+  },
+  {
+    "id": "restaurants-pizzeria-vesuvio-node-13582210019",
+    "name": "Pizzeria Vesuvio",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.642092,
+    "lon": -3.937418,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "200-201 Neath Road Neath Road, SA1 2JT",
+    "solarMode": "facade",
+    "frontBearingDeg": 112,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.642,
+    "frontObservationPointLon": -3.9374,
+    "facadeWidthM": 13.9
+  },
+  {
+    "id": "restaurants-the-bistro-node-3833551368",
+    "name": "The Bistro",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.622827,
+    "lon": -3.991635,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "91 Carnglas Road, SA2 9BN",
+    "solarMode": "facade",
+    "frontBearingDeg": 80.3,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6228,
+    "frontObservationPointLon": -3.9916,
+    "facadeWidthM": 10.4
+  },
+  {
+    "id": "restaurants-truffles-node-3809356665",
+    "name": "Truffle",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.616356,
+    "lon": -3.959983,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "1a King Edwards Road, SA1 4LH",
+    "solarMode": "facade",
+    "frontBearingDeg": 282.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6164,
+    "frontObservationPointLon": -3.9598,
+    "facadeWidthM": 6.1
+  },
+  {
+    "id": "restaurants-wagamama-node-314847649",
+    "name": "wagamama swansea",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.61883,
+    "lon": -3.938311,
+    "regionId": "swansea",
+    "regionLabel": "Swansea",
+    "locationLabel": "Wind Street, SA1 1EE",
+    "websiteUrl": "https://wagamama.com/restaurants/swansea/swansea",
+    "solarMode": "facade",
+    "frontBearingDeg": 289.3,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.6187,
+    "frontObservationPointLon": -3.9385,
+    "facadeWidthM": 8.5
+  },
+  {
     "id": "restaurants-bella-way-559511926",
     "name": "Bella",
     "placeTypeId": "restaurant",
@@ -11391,5 +11739,140 @@
     "frontObservationPointLat": 52.5839,
     "frontObservationPointLon": -2.1315,
     "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-grill-it-way-558524200",
+    "name": "Grill-It",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.596106,
+    "lon": -2.158418,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "291 Tettenhall Road, WV6 0LE",
+    "solarMode": "facade",
+    "frontBearingDeg": 308.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5961,
+    "frontObservationPointLon": -2.1585,
+    "facadeWidthM": 6.3
+  },
+  {
+    "id": "restaurants-heavenly-desserts-node-8156347061",
+    "name": "Heavenly Desserts",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.585218,
+    "lon": -2.133539,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "68A Darlington Street, WV1 4ND",
+    "solarMode": "facade",
+    "frontBearingDeg": 166.6,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5852,
+    "frontObservationPointLon": -2.1333,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-nandos-node-8169017903",
+    "name": "Nando's",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.585673,
+    "lon": -2.125046,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "23 - 24 Queen Street, WV1 3JW",
+    "websiteUrl": "https://www.nandos.co.uk/restaurants/wolverhampton-queen-street",
+    "solarMode": "facade",
+    "frontBearingDeg": 346.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5855,
+    "frontObservationPointLon": -2.1251,
+    "facadeWidthM": 6
+  },
+  {
+    "id": "restaurants-mother-india-way-296216306",
+    "name": "New Mother India",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.594454,
+    "lon": -2.155175,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "136 Tettenhall Road, WV6 0BQ",
+    "websiteUrl": "https://mother-india.co.uk/",
+    "solarMode": "facade",
+    "frontBearingDeg": 325.9,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5945,
+    "frontObservationPointLon": -2.1552,
+    "facadeWidthM": 14.6
+  },
+  {
+    "id": "restaurants-rocco-italiano-node-8156347070",
+    "name": "Rocco",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.58531,
+    "lon": -2.13283,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "72 - 73 Darlington Street, WV1 4LY",
+    "solarMode": "facade",
+    "frontBearingDeg": 167.7,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5853,
+    "frontObservationPointLon": -2.1328,
+    "facadeWidthM": 13
+  },
+  {
+    "id": "restaurants-veggie-lounge-node-5095567677",
+    "name": "Veggie Lounge",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.574075,
+    "lon": -2.126629,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "441 Dudley Road, WV2 3AQ",
+    "solarMode": "facade",
+    "frontBearingDeg": 84.9,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5741,
+    "frontObservationPointLon": -2.1266,
+    "facadeWidthM": 13.8
+  },
+  {
+    "id": "restaurants-veggie-supreme-node-5095567676",
+    "name": "Veggie Supreme Also T/a Desserts By Jazz Also T/a V Stack",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 52.573807,
+    "lon": -2.128189,
+    "regionId": "wolverhampton",
+    "regionLabel": "Wolverhampton",
+    "locationLabel": "21-25 Sedgley Street, WV2 3AJ",
+    "solarMode": "facade",
+    "frontBearingDeg": 184.2,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 52.5737,
+    "frontObservationPointLon": -2.1282,
+    "facadeWidthM": 16.6
   }
 ]
