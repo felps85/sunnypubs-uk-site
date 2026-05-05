@@ -3061,10 +3061,6 @@
     "frontObservationPointLat": 53.3455,
     "frontObservationPointLon": -6.2657,
     "facadeWidthM": 13,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -3733,10 +3729,6 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -3746,10 +3738,6 @@
         "pizza"
       ],
       "confidence": "confirmed"
-    },
-    "parking": {
-      "status": "no",
-      "confidence": "likely"
     },
     "websiteUrl": "https://bonobodublin.com",
     "instagramUrl": "https://instagram.com/bonobo_smithfield"
@@ -4219,10 +4207,6 @@
     "frontObservationPointLat": 53.3504,
     "frontObservationPointLon": -6.2598,
     "facadeWidthM": 7.8,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -4416,10 +4400,6 @@
       "type": "roof-terrace",
       "confidence": "confirmed"
     },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4446,10 +4426,6 @@
         "quiz",
         "shuffleboard"
       ]
-    },
-    "parking": {
-      "status": "no",
-      "confidence": "likely"
     },
     "websiteUrl": "https://brewdog.com/pages/bars/dublin",
     "instagramUrl": "https://instagram.com/brewdogdublin"
@@ -6493,14 +6469,6 @@
     "frontObservationPointLat": 53.3712,
     "frontObservationPointLon": -6.2533,
     "facadeWidthM": 13.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -6896,10 +6864,6 @@
     "outdoorArea": {
       "type": "terrace",
       "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
     },
     "foodOffer": {
       "category": "gastropub",
@@ -10226,10 +10190,6 @@
     "frontObservationPointLat": 53.3419,
     "frontObservationPointLon": -6.2593,
     "facadeWidthM": 5.3,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -10738,10 +10698,6 @@
     "frontObservationPointLat": 53.3355,
     "frontObservationPointLon": -6.2655,
     "facadeWidthM": 11.9,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -11036,14 +10992,6 @@
     "frontObservationPointLat": 53.3438,
     "frontObservationPointLon": -6.2637,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -11106,10 +11054,6 @@
     "frontObservationPointLat": 53.3381,
     "frontObservationPointLon": -6.253,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.dohenyandnesbitts.ie"
   },
   {
@@ -11667,22 +11611,6 @@
     "frontObservationPointLat": 53.3607,
     "frontObservationPointLon": -6.2725,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
-    "foodOffer": {
-      "category": "pub-menu",
-      "confidence": "likely"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.doylescorner.ie",
     "instagramUrl": "https://instagram.com/doylescorner"
   },
@@ -12503,7 +12431,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.897,
     "frontObservationPointLon": -8.4668,
-    "facadeWidthM": 6.3
+    "facadeWidthM": 6.3,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "eldon-s-node-7792189738",
@@ -12592,10 +12524,6 @@
     "frontObservationPointLat": 53.3379,
     "frontObservationPointLon": -6.254,
     "facadeWidthM": 7.2,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.elywinebar.ie"
   },
   {
@@ -12970,10 +12898,6 @@
     "outdoorArea": {
       "type": "beer-garden",
       "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
     },
     "foodOffer": {
       "category": "pub-menu",
@@ -13424,14 +13348,6 @@
     "frontObservationPointLat": 53.3471,
     "frontObservationPointLon": -6.2803,
     "facadeWidthM": 7.4,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -14710,14 +14626,6 @@
     "frontObservationPointLat": 53.347,
     "frontObservationPointLon": -6.2801,
     "facadeWidthM": 6.6,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -17002,10 +16910,6 @@
     "frontObservationPointLat": 53.3671,
     "frontObservationPointLon": -6.2165,
     "facadeWidthM": 13,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -18805,10 +18709,6 @@
     "frontObservationPointLat": 53.3431,
     "frontObservationPointLon": -6.2618,
     "facadeWidthM": 8.4,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -19405,10 +19305,6 @@
     "frontObservationPointLat": 53.3468,
     "frontObservationPointLon": -6.2583,
     "facadeWidthM": 16,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.jrmahons.ie"
   },
   {
@@ -20743,10 +20639,6 @@
     "frontObservationPointLat": 53.3429,
     "frontObservationPointLon": -6.262,
     "facadeWidthM": 5.7,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.johnnyrushs.ie"
   },
   {
@@ -21032,10 +20924,6 @@
     "frontObservationPointLat": 53.361,
     "frontObservationPointLon": -6.2595,
     "facadeWidthM": 9.3,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.junobar.ie"
   },
   {
@@ -21548,10 +21436,6 @@
     "frontObservationPointLat": 53.34,
     "frontObservationPointLon": -6.2609,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://kehoesdublin.ie",
     "instagramUrl": "https://instagram.com/kehoesdublin"
   },
@@ -22684,24 +22568,6 @@
     "frontObservationPointLat": 53.322,
     "frontObservationPointLon": -6.2654,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "likely"
-    },
-    "foodTags": {
-      "tags": [
-        "pizza"
-      ],
-      "confidence": "likely"
-    },
     "instagramUrl": "https://instagram.com/kodiak_rathmines"
   },
   {
@@ -22781,10 +22647,6 @@
     "frontObservationPointLat": 53.3511,
     "frontObservationPointLon": -6.2828,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -25548,14 +25410,6 @@
     "frontObservationPointLat": 53.3429,
     "frontObservationPointLon": -6.2604,
     "facadeWidthM": 14.3,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -29105,10 +28959,6 @@
     "frontObservationPointLat": 53.3469,
     "frontObservationPointLon": -6.2555,
     "facadeWidthM": 13.9,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.mulligans.ie"
   },
   {
@@ -31253,10 +31103,6 @@
     "frontObservationPointLat": 53.3398,
     "frontObservationPointLon": -6.2596,
     "facadeWidthM": 17,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -32575,23 +32421,7 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3417,
     "frontObservationPointLon": -6.3037,
-    "facadeWidthM": 8.7,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
-    "foodOffer": {
-      "category": "burger-pizza-sandwich",
-      "confidence": "likely"
-    },
-    "liveMusic": {
-      "status": "yes",
-      "confidence": "likely"
-    }
+    "facadeWidthM": 8.7
   },
   {
     "id": "olde-castle-bar-node-1906721904",
@@ -32661,10 +32491,6 @@
     "frontObservationPointLat": 53.3455,
     "frontObservationPointLon": -6.2648,
     "facadeWidthM": 5.3,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.gogartys.ie"
   },
   {
@@ -34162,14 +33988,6 @@
     "frontObservationPointLat": 53.3361,
     "frontObservationPointLon": -6.2735,
     "facadeWidthM": 18,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -34189,10 +34007,6 @@
     "frontObservationPointLat": 53.3443,
     "frontObservationPointLon": -6.2654,
     "facadeWidthM": 5.8,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.peadarkearneys.ie"
   },
   {
@@ -34267,14 +34081,6 @@
     "frontObservationPointLat": 53.3237,
     "frontObservationPointLon": -6.2786,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -37996,10 +37802,6 @@
     "frontObservationPointLat": 53.3409,
     "frontObservationPointLon": -6.2622,
     "facadeWidthM": 9.6,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -39216,10 +39018,6 @@
     "frontObservationPointLat": 53.3446,
     "frontObservationPointLon": -6.268,
     "facadeWidthM": 18,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
@@ -39462,14 +39260,6 @@
     "frontObservationPointLat": 53.3241,
     "frontObservationPointLon": -6.2523,
     "facadeWidthM": 5.2,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "instagramUrl": "https://instagram.com/humphreysranelagh"
   },
   {
@@ -40848,10 +40638,6 @@
       "type": "beer-garden",
       "confidence": "confirmed"
     },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -40921,10 +40707,6 @@
     "frontObservationPointLat": 53.409,
     "frontObservationPointLon": -6.1783,
     "facadeWidthM": 18,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -41040,10 +40822,6 @@
     "frontObservationPointLat": 53.3439,
     "frontObservationPointLon": -6.2623,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -41109,10 +40887,6 @@
     "frontObservationPointLat": 53.3521,
     "frontObservationPointLon": -6.2798,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
@@ -41274,10 +41048,6 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
     },
     "foodOffer": {
       "category": "pub-menu",
@@ -41499,14 +41269,6 @@
     "frontObservationPointLat": 53.3646,
     "frontObservationPointLon": -6.2714,
     "facadeWidthM": 16.6,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -41945,10 +41707,6 @@
     "frontObservationPointLat": 53.3344,
     "frontObservationPointLon": -6.2651,
     "facadeWidthM": 9.7,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "sportsScreenings": {
       "status": "yes",
       "confidence": "confirmed",
@@ -42359,10 +42117,6 @@
     "frontObservationPointLat": 53.3438,
     "frontObservationPointLon": -6.2863,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -42966,10 +42720,6 @@
     "frontObservationPointLat": 53.336,
     "frontObservationPointLon": -6.2654,
     "facadeWidthM": 13.4,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -43482,10 +43232,6 @@
     "frontObservationPointLat": 53.3506,
     "frontObservationPointLon": -6.2549,
     "facadeWidthM": 8.6,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -44049,10 +43795,6 @@
     "frontObservationPointLat": 53.3486,
     "frontObservationPointLon": -6.2828,
     "facadeWidthM": 17.1,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -46176,10 +45918,6 @@
     "frontObservationPointLat": 53.3459,
     "frontObservationPointLon": -6.2406,
     "facadeWidthM": 11,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.theferrymantownhouse.ie"
   },
   {
@@ -46389,10 +46127,6 @@
     "frontObservationPointLat": 53.3488,
     "frontObservationPointLon": -6.2579,
     "facadeWidthM": 15.2,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.theflowingtide.ie"
   },
   {
@@ -47149,14 +46883,6 @@
     "frontObservationPointLat": 53.3506,
     "frontObservationPointLon": -6.2818,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -51170,14 +50896,6 @@
     "frontObservationPointLat": 53.2984,
     "frontObservationPointLon": -6.3029,
     "facadeWidthM": 18,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -51292,10 +51010,6 @@
     "frontObservationPointLat": 53.3483,
     "frontObservationPointLon": -6.3424,
     "facadeWidthM": 15.3,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -52004,10 +51718,6 @@
     "frontObservationPointLat": 53.4567,
     "frontObservationPointLon": -6.2229,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -52443,10 +52153,6 @@
     "frontObservationPointLat": 53.3456,
     "frontObservationPointLon": -6.2636,
     "facadeWidthM": 18,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.thepalacebardublin.com"
   },
   {
@@ -52564,10 +52270,6 @@
     "frontObservationPointLat": 53.3417,
     "frontObservationPointLon": -6.3077,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -52908,10 +52610,6 @@
     "frontObservationPointLat": 53.3455,
     "frontObservationPointLon": -6.2648,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "sportsScreenings": {
       "status": "yes",
       "confidence": "confirmed",
@@ -53826,10 +53524,6 @@
     "frontObservationPointLat": 53.2984,
     "frontObservationPointLon": -6.2856,
     "facadeWidthM": 7.2,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -55755,10 +55449,6 @@
     "frontObservationPointLat": 53.3443,
     "frontObservationPointLon": -6.2661,
     "facadeWidthM": 4.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -56143,10 +55833,6 @@
     "frontObservationPointLat": 53.3398,
     "frontObservationPointLon": -6.266,
     "facadeWidthM": 8,
-    "outdoorArea": {
-      "type": "terrace",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.theswanbar.com"
   },
   {
@@ -56460,10 +56146,6 @@
     "frontObservationPointLat": 53.3455,
     "frontObservationPointLon": -6.2648,
     "facadeWidthM": 9.5,
-    "outdoorArea": {
-      "type": "beer-garden",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -57094,10 +56776,6 @@
     "frontObservationPointLat": 53.3092,
     "frontObservationPointLon": -6.3053,
     "facadeWidthM": 14.9,
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -57450,10 +57128,6 @@
     "frontObservationPointLat": 53.3406,
     "frontObservationPointLon": -6.3426,
     "facadeWidthM": 5.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "burger-pizza-sandwich",
       "confidence": "confirmed"
@@ -57553,10 +57227,6 @@
     "frontObservationPointLat": 53.381,
     "frontObservationPointLon": -6.2459,
     "facadeWidthM": 15,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -57683,10 +57353,6 @@
     "frontObservationPointLat": 53.3798,
     "frontObservationPointLon": -6.1771,
     "facadeWidthM": 12.5,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "websiteUrl": "https://www.thewatermill.ie"
   },
   {
@@ -61227,10 +60893,6 @@
     "frontObservationPointLat": 53.348,
     "frontObservationPointLon": -6.2622,
     "facadeWidthM": 12.3,
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"

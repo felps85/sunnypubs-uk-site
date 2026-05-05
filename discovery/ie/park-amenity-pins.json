@@ -12,5 +12,19 @@
       "placementConfidence": "source-backed"
     },
     "sourceName": "Belfast City Council parks"
+  },
+  {
+    "id": "park-amenity-pin-parks-barnett-demesne-way-554010963-playground-way-466760851",
+    "parkVenueId": "parks-barnett-demesne-way-554010963",
+    "appId": "ie",
+    "type": "playground",
+    "name": "Barnett Demesne playground",
+    "lat": 54.552992,
+    "lon": -5.955509,
+    "metadata": {
+      "sourceConfidence": "confirmed",
+      "placementConfidence": "source-backed"
+    },
+    "sourceName": "Belfast City Council parks"
   }
 ]

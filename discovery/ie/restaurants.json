@@ -1257,15 +1257,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.pizzaexpress.com/belfast-ballyhackamore",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAQAAAAAA0AAMAQF88AAD0/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAQAAAAAA0AAMAQF88AAD0/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAgAEAAABoABwCgD3gAAP/3BwDw//8AAP//HwDw//8BgP//HwD4//8DgP//PwD8//8H4P///wD///8f////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.5953,
     "frontObservationPointLon": -5.8673,
     "facadeWidthM": 15.7,
     "frontBearingDeg": 183.6,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 54.5952,
+    "outdoorObservationPointLon": -5.8673,
+    "outdoorAreaWidthM": 15.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-pizzaexpress-node-7289320587",
@@ -1429,15 +1433,19 @@
     },
     "websiteUrl": "https://www.thenationalbelfast.com",
     "instagramUrl": "https://instagram.com/nationalbelfast",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwCAAAAAcAgEAACHYAAA+MgHAIDffwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwCAAAAAcAgEAACHYAAA+MgHAIDffwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAIAAAABwCAgAIIfgAAD6iA8A4M//AAD+/w8A8P//AMD//w8A/P//AMD//x8A/P//AcD//x8A/P//D/D///8D////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.6005,
     "frontObservationPointLon": -5.9258,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 151.1,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 54.6005,
+    "outdoorObservationPointLon": -5.9258,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-pizza-company-east-belfast-node-7182885552",
@@ -2239,15 +2247,19 @@
     },
     "websiteUrl": "https://vaughans.ie",
     "instagramUrl": "https://instagram.com/vaughansanchor",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAgAcAAAB4AAAAgAcAAAB4AAAQkAcAAAF5AAAwkAcAAAd7AADwsAcAAD9/AADw/wcAAP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAAAAAgAcAAAB4AAAAgAcAAAB4AAAQkAcAAAF5AAAwkAcAAAd7AADwsAcAAD9/AADw/wcAAP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAOAAwA/wDAAPAPAAwA/wDAAPAPAAwQ/wDAAPEPABwQ/wDAAfMPADww/wDAB/cPAPzw/wDIP/8fwP///wP+////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.9388,
     "frontObservationPointLon": -9.3909,
     "facadeWidthM": 11.1,
     "frontBearingDeg": 74.8,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 52.9388,
+    "outdoorObservationPointLon": -9.3909,
+    "outdoorAreaWidthM": 11.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-babylon-restaurant-node-7824250892",
@@ -2453,15 +2465,19 @@
     },
     "websiteUrl": "https://115cafe.com",
     "instagramUrl": "https://instagram.com/115cafecork",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAEAAIAAABgAAAEAAMAAADwAAAcAAPAAAH+AAA8PgPAAC//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAAAAAAAAEAAIAAABgAAAEAAMAAADwAAAcAAPAAAH+AAA8PgPAAC//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAIAAAAgAAAAAAIADgAwACAAwAeADgA4AGAAwA+AHwA4APgBwB+AH8A8A/8BwD/+f8B/P//P/D///8P////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 51.8982,
     "frontObservationPointLon": -8.4699,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 162.7,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 51.8981,
+    "outdoorObservationPointLon": -8.4699,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-akira-node-13051403450",
@@ -3229,15 +3245,19 @@
     },
     "websiteUrl": "https://leasattheglucksman.com",
     "instagramUrl": "https://instagram.com/leasattheglucksman",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/A4AAAAAAPgAAAOAjAAAA/gMAAOA/AAAA/gcAAOB/AAAA/gcAAOB/AAAA/wcAAPh/AACw/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/A4AAAAAAPgAAAOAjAAAA/gMAAOA/AAAA/gcAAOB/AAAA/gcAAOB/AAAA/wcAAPh/AACw/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAgAAAAAA+EAAA4GMFAAD+dwAA4H8HAAD+fwAA4P8HAAD+fwAA4P8HAAD/fwAA8P8HAID/fwCI/f8HgP//fwD8//8P4P//////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 51.8947,
     "frontObservationPointLon": -8.4904,
     "facadeWidthM": 9.4,
     "frontBearingDeg": 65.6,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 51.8947,
+    "outdoorObservationPointLon": -8.4903,
+    "outdoorAreaWidthM": 9.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-loving-salads-node-5203958871",
@@ -3330,15 +3350,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.marketlane.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAgBAACAAAAwAAwDAADAAAAyAAwDAATwAABzwAwDAAz8AAPz5AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/D/AwAAAAAAAAAAAAAAAAAAAABAAAAAAAQAAgBAACAAAAwAAwDAADAAAAyAAwDAATwAABzwAwDAAz8AAPz5AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAACAAgAAAAgAMACAAwAAABwAMAHAAwAAABwAeAHgA4AGADwA+APwA8APAD4A/APwB/AfAH/D/AP4H/z/8////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 51.8984,
     "frontObservationPointLon": -8.4681,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 341.1,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 51.8985,
+    "outdoorObservationPointLon": -8.4681,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-milano-node-4710373849",
@@ -4019,15 +4043,19 @@
     },
     "websiteUrl": "https://bubbas.ie",
     "instagramUrl": "https://instagram.com/bubbas_dublin",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAABBgAAAMAwMAADD8wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAABBgAAAMAwMAADD8wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAEAAAIA/DIgD+MPjP4B///8D+P//P8D///8D/P//f8D///8H/P//f8D///8P/P////D/////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.2785,
     "frontObservationPointLon": -6.1073,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 39.8,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.2785,
+    "outdoorObservationPointLon": -6.1073,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-de-villes-node-4297074389",
@@ -4413,15 +4441,19 @@
     },
     "websiteUrl": "https://www.12tables.ie",
     "instagramUrl": "https://instagram.com/12_tables",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAABfAAAHAADwAAB/wAAHDADwAAB/wAAHDADwAAB/wAAPDADwAAH/4AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAABfAAAHAADwAAB/wAAHDADwAAB/wAAHDADwAAB/wAAPDADwAAH/4AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAB4CEAMAAfAoAD+CEAOIAfAsAD+D8APoD/A/AD+D8AP4D/A/AH+D+A/4D/A/j//z/A////A/z//3/g////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 51.8763,
     "frontObservationPointLon": -8.4336,
     "facadeWidthM": 5.5,
     "frontBearingDeg": 118,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 51.8763,
+    "outdoorObservationPointLon": -8.4335,
+    "outdoorAreaWidthM": 5.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bamboo-house-node-291175336",
@@ -4949,15 +4981,19 @@
     },
     "websiteUrl": "https://www.alvesuviopizzeria.com",
     "instagramUrl": "https://instagram.com/al_vesuvio_dublin",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAQAAABAGAAAAOQDAADAPwAAAPwDAADAPwAAAPwDAADgPwAABP4DAEDgPwAADP8DAMDzPwAAvP8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A+D/AwAAAAAAAAAAAAAAAAQAAABAGAAAAOQDAADAPwAAAPwDAADAPwAAAPwDAADgPwAABP4DAEDgPwAADP8DAMDzPwAAvP8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAABAAAAEAYAAAAxA8AAOD/AAAA/g8AAOD/AIAA/w8ACPD/A4CB/38AHPj/D+Dh//8B////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3449,
     "frontObservationPointLon": -6.2651,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 264.6,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3449,
+    "outdoorObservationPointLon": -6.2652,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-aleena-node-6568359164",
@@ -5075,10 +5111,6 @@
     "lat": 53.2811683,
     "lon": -6.4768954,
     "regionId": "dublin",
-    "outdoorArea": {
-      "type": "outdoor-seating",
-      "confidence": "likely"
-    },
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -5364,8 +5396,8 @@
     },
     "websiteUrl": "https://asone.ie",
     "instagramUrl": "https://instagram.com/asonefood",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD8A4gBAODzHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwD8A4gBAODzHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAiAcA8PN/AAD//wcA8P9/AID//wcA+P9/AID//w8A+P//AID//w8A/P//AMD//x8A/P//A+D//z8A////D/z/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3471,
     "frontObservationPointLon": -6.2505,
@@ -5373,7 +5405,11 @@
     "frontBearingDeg": 12.4,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "City Quay"
+    "facadeInferenceRoadName": "City Quay",
+    "outdoorObservationPointLat": 53.3471,
+    "outdoorObservationPointLon": -6.2505,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-asador-node-6482448785",
@@ -5492,8 +5528,8 @@
     },
     "websiteUrl": "https://badasstemplebar.ie",
     "instagramUrl": "https://instagram.com/badasscafe",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDAAwAAAAAAAAAAAAAAAAAAAQAABhwAAPDxDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwDAAwAAAAAAAAAAAAAAAAAAAQAABhwAAPDxDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAACAAACOAAA/OA/AMB//wMA/v8/AOD//wcA/v9/APD//wcA////APj//x/A////B/7/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3454,
     "frontObservationPointLon": -6.2631,
@@ -5501,7 +5537,11 @@
     "frontBearingDeg": 357.2,
     "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Temple Bar Square"
+    "facadeInferenceRoadName": "Temple Bar Square",
+    "outdoorObservationPointLat": 53.3455,
+    "outdoorObservationPointLon": -6.2631,
+    "outdoorAreaWidthM": 14.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bagel-factory-node-2563510544",
@@ -5580,8 +5620,8 @@
     },
     "websiteUrl": "https://balfes.ie",
     "instagramUrl": "https://instagram.com/balfesdublin",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAICAAAgIAAAAAcCAAA0IEAAAAdDAAA/OEAAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAICAAAgIAAAAAcCAAA0IEAAAAdDAAA/OEAAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAAAAAAAAgQAADAAAEAAA0QAADwgQMAgB94AAD8wQcA/j98AOD/9w8A/v//APD//x8A////Afj//3/A////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3414,
     "frontObservationPointLon": -6.2614,
@@ -5589,7 +5629,11 @@
     "frontBearingDeg": 122.7,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Westbury Mall"
+    "facadeInferenceRoadName": "Westbury Mall",
+    "outdoorObservationPointLat": 53.3414,
+    "outdoorObservationPointLon": -6.2613,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bambino-way-231245956",
@@ -5630,15 +5674,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.bangrestaurant.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAIADAAAAOAAAAIADAAAAOAAAAMADAAAAfAAAAMAHAAAA/gAAAPAfAACA/wcAAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAAAAAAAAAAAAIADAAAAOAAAAIADAAAAOAAAAMADAAAAfAAAAMAHAAAA/gAAAPAfAACA/wcAAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAgAMAAAA4AAIEgAPgfwA4AP4HwAPgfwB8AP4HwAfgfwD+AP4H8B/g/4D/B///////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3383,
     "frontObservationPointLon": -6.2544,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 205,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3383,
+    "outdoorObservationPointLon": -6.2544,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-banyi-node-7878897386",
@@ -5690,16 +5738,20 @@
     },
     "websiteUrl": "https://www.baritalia.ie",
     "instagramUrl": "https://instagram.com/baritaliadublin",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAC8AEA4C8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAEAAIAAABAADAMAAOAAA/PgDAMD/PwAAAAAAAAAAAAAA+AEAAIAfAAAA+AGAAIAfAAgA+AGAAIAfAAgA+AGAAYA/wBkA+Af+A8D//z8A/P//B+D///+B////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3464,
-    "frontObservationPointLon": -6.265,
-    "facadeWidthM": 14.3,
-    "frontBearingDeg": 170.5,
-    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 53.3465,
+    "frontObservationPointLon": -6.2651,
+    "facadeWidthM": 15.9,
+    "frontBearingDeg": 259.3,
+    "shadeClearanceDeg": 62.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Ormond Quay Lower"
+    "facadeInferenceRoadName": "Bloom Lane",
+    "outdoorObservationPointLat": 53.3465,
+    "outdoorObservationPointLon": -6.2651,
+    "outdoorAreaWidthM": 15.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-base-node-10792683508",
@@ -5721,8 +5773,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.basewfp.com/locations/ballsbridge",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAEAAAAObjAQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAEAAAAObjAQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAABAQAAAAp+MDAPj/fwDA//8HAP//fwDw//8HAP//fwDw//8HAP///wDw//8PAP///wHw//8fgP///xf+////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3289,
     "frontObservationPointLon": -6.2301,
@@ -5730,7 +5782,11 @@
     "frontBearingDeg": 206.9,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Merrion Road"
+    "facadeInferenceRoadName": "Merrion Road",
+    "outdoorObservationPointLat": 53.3289,
+    "outdoorObservationPointLon": -6.2302,
+    "outdoorAreaWidthM": 7.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-base-wood-fired-pizza-node-3104850201",
@@ -5827,16 +5883,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://beefandlobster.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwD4AAAAgA8AAAD4AAAQgA8AAAP4AAAwgA8AAAf4AADwwA8AAN//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwDwAwAAAAAAAAAAQEAAABgMBgCAwWAAABicBwCA538AAPj+BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAEAAAAYAEBAwAMADgw+APDA4AMAHxw+APDj/wMAf/4/APD//wMA//8/APD//wcA//8/APj//weA////Av3//z/w////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3443,
-    "frontObservationPointLon": -6.2674,
-    "facadeWidthM": 12.7,
-    "frontBearingDeg": 79.9,
-    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 53.344,
+    "frontObservationPointLon": -6.2672,
+    "facadeWidthM": 8.6,
+    "frontBearingDeg": 349.1,
+    "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Parliament Street"
+    "facadeInferenceRoadName": "Parliament Street",
+    "outdoorObservationPointLat": 53.3441,
+    "outdoorObservationPointLon": -6.2672,
+    "outdoorAreaWidthM": 8.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bellagio-node-3096549708",
@@ -5881,15 +5941,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://bermanandwallace.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AfD/AwAAABAAAAAAAQAAABAAAAAAAwAAADAAAAQ4AwDAgD8AADz4AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/D/AwAAABAAAAAAAQAAABAAAAAAAwAAADAAAAQ4AwDAgD8AADz4AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAwAAACAD8AIADwAzBjAH8A/wfwD/B/AP8B/wfw//5/AP///wfw////AP///x/8////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3123,
     "frontObservationPointLon": -6.2343,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 223.2,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3122,
+    "outdoorObservationPointLon": -6.2344,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bianconis-node-4751529381",
@@ -5929,8 +5993,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.bigfan.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAACAAAAQAAgDAADgAABzAAwDADz8AAPzwAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAACAAAAQAAgDAADgAABzAAwDADz8AAPzwAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAEACAAQAAABwAGAPAAcAAAH4APAPAL/AAA/+APAPCP/wAA//8PAPD//wGA//8fAPj//wOA//8/APz//wPg////AP//////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3404,
     "frontObservationPointLon": -6.2658,
@@ -5938,7 +6002,11 @@
     "frontBearingDeg": 99.9,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Aungier Street"
+    "facadeInferenceRoadName": "Aungier Street",
+    "outdoorObservationPointLat": 53.3404,
+    "outdoorObservationPointLon": -6.2658,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-bijou-rathgar-node-1030099785",
@@ -6407,16 +6475,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.cafetopolis.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDgAAAAAA4AAADgAAAQAA4AAAPgAABwAA4AAAfwAABwwQ8AAB/8AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAIAAAAgAAAQAAYAAAPgAABwAA4AAAfwAABwwQ8AAB/8AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAACAAGAAAAwABgDAA+ADADwAPgDAA+ADAHwAPwDgH/wHAP7BfwDg//8HAP///wDw//8PgP///wH8//8/wP//////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3444,
     "frontObservationPointLon": -6.2674,
     "facadeWidthM": 5.9,
     "frontBearingDeg": 80.2,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Parliament Street"
+    "facadeInferenceRoadName": "Parliament Street",
+    "outdoorObservationPointLat": 53.3444,
+    "outdoorObservationPointLon": -6.2674,
+    "outdoorAreaWidthM": 5.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-cala-node-13195903947",
@@ -6521,16 +6593,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.camile.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDgBwAAAH4AABjgBwCAA34AAHjgBwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAACAAAAAANgABgCAD3AAAPgABwCAD3AAAPiABwCAD3wAAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAMAAgAAA3AAeAPAP8AHA/wAfAPwP8AHA/wAfAPwP+AHA/+E/APz//wPA//8/APz//wfA////AP7//x/w////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3443,
-    "frontObservationPointLon": -6.2493,
-    "facadeWidthM": 13.4,
-    "frontBearingDeg": 110.3,
-    "shadeClearanceDeg": 2.5,
+    "frontObservationPointLat": 53.344,
+    "frontObservationPointLon": -6.2496,
+    "facadeWidthM": 4.5,
+    "frontBearingDeg": 105.4,
+    "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Lombard Street East"
+    "facadeInferenceRoadName": "Lombard Street East",
+    "outdoorObservationPointLat": 53.344,
+    "outdoorObservationPointLon": -6.2495,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-camile-node-4853732948",
@@ -6596,15 +6672,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.carluccios.com/restaurants/dublin-dawson-street",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAgAAAAgAMAAAA4AAAAwAMAAAA8AAAAwAMAAAD8AAAAwD8AAAD+AwAA4D8AAAD+AwBA4D8AAAT+AwDA4D8AAAz/AwDA+z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAAAAAAAA4AIAAAA+AAAA4AMAAAB+AAAA4D8AAAD+AwAA4D8AAAD+AwBA4D8AAAT/AwDA8D8AAIz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4AAATgAwBAAH4AAQTgPxtAAP7/AQTg/x9AAP7/AQTg/x9AAP//AQbw/x94gP///wf8//9/////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3419,
     "frontObservationPointLon": -6.2585,
     "facadeWidthM": 6.5,
     "frontBearingDeg": 99.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3419,
+    "outdoorObservationPointLon": -6.2584,
+    "outdoorAreaWidthM": 6.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-chai-yo-node-7593633416",
@@ -6653,10 +6733,6 @@
     "outdoorArea": {
       "type": "terrace",
       "confidence": "confirmed"
-    },
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
     },
     "foodOffer": {
       "category": "gastropub",
@@ -6842,16 +6918,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.cornucopia.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAQAgABAAAAIAAQAgABAAAAIAAYAgABgAAAYAAcAgAF4AAA4gAcAgAd/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAgAAAAAAIAAQAgABAAAAIAAYAgABgAAAYAAcAgAF4AAA4gAcAgAd/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAADABAAMAAAA4ADADgAOAAAA8AHgDwAOABAB8AHwDwAfwBgH/gPwD4D/8DwP//fwD+//8P+P////P/////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3431,
     "frontObservationPointLon": -6.2614,
     "facadeWidthM": 11.4,
     "frontBearingDeg": 185.6,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Wicklow Street"
+    "facadeInferenceRoadName": "Wicklow Street",
+    "outdoorObservationPointLat": 53.3431,
+    "outdoorObservationPointLon": -6.2614,
+    "outdoorAreaWidthM": 11.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-courtyard-bar-and-grill-node-5417320724",
@@ -6867,15 +6947,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://marcopierrewhite.ie/donnybrook",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD4AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAwAAADwAAADwAwAA+D8AAID/AwCA/D8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwD4AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAACAAwAAADwAAADwAwAA+D8AAID/AwCA/D8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAwB8AAAD8AwAA8P8BAID/HwAA/P8RAOD//w/+/////v//////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3227,
     "frontObservationPointLon": -6.2386,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 225,
     "shadeClearanceDeg": 42.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3226,
+    "outdoorObservationPointLon": -6.2386,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-dada-way-230567949",
@@ -6945,8 +7029,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.darwins.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAABAAAAEAAAAAABgAAAHMAAADwBwAACH8AAIDxBwAAeH8EAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAABAAAAEAAAAAABgAAAHMAAADwBwAACH8AAIDxBwAAeH8EAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAEAIAAQAAAOAAGAIADcUAAOPAHDoAHf+AA+PAHDoA/f/gA+P/HD4D///8A+P//H4D///8B+P//H+D///8B////f/j/////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3416,
     "frontObservationPointLon": -6.2655,
@@ -6954,7 +7038,11 @@
     "frontBearingDeg": 151.4,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "South Great George's Street"
+    "facadeInferenceRoadName": "South Great George's Street",
+    "outdoorObservationPointLat": 53.3416,
+    "outdoorObservationPointLon": -6.2655,
+    "outdoorAreaWidthM": 7.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-delhi-darbar-node-506834729",
@@ -7466,8 +7554,8 @@
     },
     "websiteUrl": "https://elephantandcastle.ie",
     "instagramUrl": "https://instagram.com/elephantcastledublin",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAABCAAAEAAAgBABjAAAHyAAwDABzgAAPzgAwDAPz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAABCAAAEAAAgBABjAAAHyAAwDABzgAAPzgAwDAPz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAQAAABAEYAAAQwAGAHAGcAAAfwAPAPAH+AAAf4APAPgH/ACA//MfAPj//wHA//8fAPz//yPk//9/////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3224,
     "frontObservationPointLon": -6.2658,
@@ -7475,7 +7563,11 @@
     "frontBearingDeg": 99.3,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Rathmines Road Lower"
+    "facadeInferenceRoadName": "Rathmines Road Lower",
+    "outdoorObservationPointLat": 53.3224,
+    "outdoorObservationPointLon": -6.2657,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-elephant-and-castle-node-2419700347",
@@ -7522,8 +7614,8 @@
     },
     "websiteUrl": "https://www.elmepicurean.ie",
     "instagramUrl": "https://instagram.com/elmepicurean",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAA0AAAAwD8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAA0AAAAwD8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAQAAAADQEAADA/wOA//8/APj//wOA//8/APj//wOA//8/APj//wOA//8/APj//wOA//9/APz//w/g////Af//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3134,
     "frontObservationPointLon": -6.2027,
@@ -7531,7 +7623,11 @@
     "frontBearingDeg": 344,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Llandaff Terrace"
+    "facadeInferenceRoadName": "Llandaff Terrace",
+    "outdoorObservationPointLat": 53.3134,
+    "outdoorObservationPointLon": -6.2028,
+    "outdoorAreaWidthM": 8.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-etto-way-279140838",
@@ -7701,15 +7797,19 @@
     },
     "websiteUrl": "https://www.firesteakhouse.ie",
     "instagramUrl": "https://instagram.com/firerestaurantandlounge",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAADgAAACAAwAAADwAAAD/AwAA8D8AAID/AwAA+D8AAMD/AwAA/j8AAPD/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAADgAAACAAwAAADwAAAD/AwAA8D8AAID/AwAA+D8AAMD/AwAA/j8AAPD/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAIAAGAAA+IABAIAfHAAA+MEBAMEfPgDw/+MDAP8/PwD4//8HwP//fwD8//8P8P////P/////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3404,
     "frontObservationPointLon": -6.2578,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 96.9,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3404,
+    "outdoorObservationPointLon": -6.2578,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-flanagans-restaurant-node-5219702777",
@@ -7729,15 +7829,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.flanagansrestaurant.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAA4CAAAgIdgAAB4yAcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAA4CAAAgIdgAAB4yAcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAIABADwIGADAh+ABAHyIHwDA7/8BAPz/PwDA//8DAP7/PwDg//8DAP7/fwDg//8HAP///wDw//8fgP///wH8//9/8P//////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3503,
     "frontObservationPointLon": -6.2609,
     "facadeWidthM": 8,
     "frontBearingDeg": 75,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3503,
+    "outdoorObservationPointLon": -6.2608,
+    "outdoorAreaWidthM": 8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-forest-avenue-node-2985497858",
@@ -7788,15 +7892,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.forno500.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAQAAADAADAAAB/8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAQAAADAADAAAB/8AAPD/DwAA/wAAAAAAAAAAAgAAACAAAQAAAhwAAGDgAQAABh8AAGDwAQAABh8AAGDwAwAABj8AAGDwAwAAxj8AAOD/BwAA/n8AAOD/DwAA/v8HAPD//3/A////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3443,
     "frontObservationPointLon": -6.2661,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 3.6,
     "shadeClearanceDeg": 57.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3443,
+    "outdoorObservationPointLon": -6.2661,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-freshii-node-5792836122",
@@ -8608,15 +8716,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://napoli.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD8AwAAAAAAAAAAAAAAAAAAAAAABwAAAHAAAAAABwAAAHAAAAAABwAAAHAAAAAADwAAAPAAAAAAHwAAAPgHAACAfwAAAPwHAADgfwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwD8AwAAAAAAAAAAAAAAAAAAAAAABwAAAHAAAAAABwAAAHAAAAAABwAAAHAAAAAADwAAAPAAAAAAHwAAAPgHAACAfwAAAPwHAADgfwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAA4AAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOgAgA8AH8AAA/+Q8A8P//AAD//w8A8P//AYD//z8A/P//////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3427,
     "frontObservationPointLon": -6.2498,
     "facadeWidthM": 8.4,
     "frontBearingDeg": 270.9,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3427,
+    "outdoorObservationPointLon": -6.2498,
+    "outdoorAreaWidthM": 8.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-il-corvo-way-679933311",
@@ -8632,15 +8744,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://ilcorvo.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAQAAQAAAegAEA4AEYAAAewAEA4A8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAQAAQAAAegAEA4AEYAAAewAEA4A8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAgBgAHAAAB4ABwDgAXgAgB/ABwD4C34AgP/8DwD4//8AgP//DwD8//8BwP//HwD+//8D8P//f4D///8f/v//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.372,
     "frontObservationPointLon": -6.2527,
     "facadeWidthM": 11.7,
     "frontBearingDeg": 292.5,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.372,
+    "outdoorObservationPointLon": -6.2528,
+    "outdoorAreaWidthM": 11.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-il-fornaio-node-725068605",
@@ -8702,15 +8818,19 @@
     },
     "websiteUrl": "https://indiantiffinsrathgar.ie",
     "instagramUrl": "https://instagram.com/indian_tiffins_rathgar",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAgBAAAAP8AAAD4DwAA+P8AAID/DwAA+P8AAID/DwAA+P8AAMD/DwAA/v8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAgBAAAAP8AAAD4DwAA+P8AAID/DwAA+P8AAID/DwAA+P8AAMD/DwAA/v8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAQAAADAAACAMAwAA/z8AAPD/xwL8//8/wP///wP8//8/wP///wP+//8/8P///4P/////////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3184,
     "frontObservationPointLon": -6.2789,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 242.8,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3183,
+    "outdoorObservationPointLon": -6.279,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-indian-zaika-node-12371010268",
@@ -9398,8 +9518,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.loosecanon.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAACAAEAAABgIBgCA0WMAADg/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAACAAEAAABgIBgCA0WMAADg/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAABAAAAOAAgAEADggcAODBwQEAHhweAOD79wMA//8/APD//wMA//9/APj//weA////APz//z/w////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3425,
     "frontObservationPointLon": -6.2633,
@@ -9407,7 +9527,11 @@
     "frontBearingDeg": 111.3,
     "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Drury Street"
+    "facadeInferenceRoadName": "Drury Street",
+    "outdoorObservationPointLat": 53.3425,
+    "outdoorObservationPointLon": -6.2632,
+    "outdoorAreaWidthM": 13.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-lumanti-of-nepal-node-3040069950",
@@ -9871,8 +9995,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://uppercrosshousehotel.com/restaurant",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAACAAAAAABgYBAGDgGAAADs4BAODjHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAACAAAAAABgYBAGDgGAAADs4BAODjHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAABAAAAOAAgAMAHBgMAfOAwAOAPjhcA/+H/A/g//n+A////B/j//3+A////B/j//3+A////B/j////A////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3207,
     "frontObservationPointLon": -6.2653,
@@ -9880,7 +10004,11 @@
     "frontBearingDeg": 248.4,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Rathmines Road Upper"
+    "facadeInferenceRoadName": "Rathmines Road Upper",
+    "outdoorObservationPointLat": 53.3207,
+    "outdoorObservationPointLon": -6.2653,
+    "outdoorAreaWidthM": 5.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-musashi-node-11866711461",
@@ -9946,8 +10074,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.nandos.ie/restaurants/dun-laoghaire-ireland",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AyAQAAAADgEBAOAwHwAADvMBAODwHwAAvv8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AyAQAAAADgEBAOAwHwAADvMBAODwHwAAvv8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAOBAAAIAPAQEA+DA/AIAP8wcA+PB/AICf/w8A/P//AMD//x8A/P//A8D//38A/P//D+D///8A/v//D/D///8B////f/z/////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.2937,
     "frontObservationPointLon": -6.1349,
@@ -9955,7 +10083,11 @@
     "frontBearingDeg": 127.1,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Marine Road"
+    "facadeInferenceRoadName": "Marine Road",
+    "outdoorObservationPointLat": 53.2936,
+    "outdoorObservationPointLon": -6.1349,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-nandos-node-5516020730",
@@ -10150,15 +10282,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.onesociety.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A+ABAAAAHgAAQOABAAAMHwAAwPEBAAD8HwAAwP8BAAD8HwAAwv8BAOD9HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///A+ABAAAAHgAAQOABAAAMHwAAwPEBAAD8HwAAwP8BAAD8HwAAwv8BAOD9HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAA4P8AAAD+DyBA4P8AAgz/D3DA8f8AB7z/D/DA//8AD/z/D/DB//8Af/z/D/j///+A////D/j////A////D/7////h////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3541,
     "frontObservationPointLon": -6.257,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 9.5,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3541,
+    "outdoorObservationPointLon": -6.257,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-osteria-lucio-node-4201938189",
@@ -10204,16 +10340,20 @@
     },
     "websiteUrl": "https://pacinos.ie",
     "instagramUrl": "https://instagram.com/pacinosdub",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAgAAAAAAIAAAAgAAAAADIAAABgAxAAAD4AAQDgAxgAAD6AAQDgAxwAAH7gAQDgjx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAAAAAAAAAAAAAAAAAADAAAAAgAxAAAD4AAQDgAxgAAD6AAQDgAxwAAH7gAQDgjx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAACAAAAEEA0CQAD/MAAG8D8DYAD/PwAH8P8DcAD/PwAH8P8D+AD/P8AP8P8D/gD/f/gP8P///wH///8f8P////f/////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3434,
     "frontObservationPointLon": -6.2595,
     "facadeWidthM": 7.7,
     "frontBearingDeg": 210.4,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Suffolk Street"
+    "facadeInferenceRoadName": "Suffolk Street",
+    "outdoorObservationPointLat": 53.3433,
+    "outdoorObservationPointLon": -6.2595,
+    "outdoorAreaWidthM": 7.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-panda-restaurant-sushi-and-burger-node-12128731881",
@@ -10260,16 +10400,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://panem.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwD+AAEA4I8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAAAEA4I8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAEAAwDwjz8AAP//BwDw/38AgP//BwD4/38AgP//BwD4//8AwP//DwD8//8A4P//HwD+//8B8P//P8D///8P////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3463,
-    "frontObservationPointLon": -6.2655,
-    "facadeWidthM": 7.8,
-    "frontBearingDeg": 170.3,
+    "frontObservationPointLon": -6.2654,
+    "facadeWidthM": 11,
+    "frontBearingDeg": 170.2,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Ormond Quay Lower"
+    "facadeInferenceRoadName": "Ormond Quay Lower",
+    "outdoorObservationPointLat": 53.3463,
+    "outdoorObservationPointLon": -6.2654,
+    "outdoorAreaWidthM": 11,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-passion-4-food-node-2995007516",
@@ -10313,15 +10457,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://paulies.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwBAACAAAAzuAwDA+z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwBAACAAAAzuAwDA+z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAEAAIAAAD+4HAPD5/wCA//8PAPj//wCA//8fAPj//wHA//8/APz//wPg//9/AP///z/8////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3374,
     "frontObservationPointLon": -6.2346,
     "facadeWidthM": 6.7,
     "frontBearingDeg": 219.9,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3374,
+    "outdoorObservationPointLon": -6.2347,
+    "outdoorAreaWidthM": 6.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-pearl-brasserie-node-5790027353",
@@ -10820,15 +10968,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://restaurant104.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAIAAAAAADAAAAcAAAAAAfAAAA8A8AAAD/AABA8A8AAAz/AADA8Q8AAHz/AADA/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAIAAAAAADAAAAcAAAAAAfAAAA8A8AAAD/AABA8A8AAAz/AADA8Q8AAHz/AADA/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAgAgADAAAAMAAwAwAD8AAA//AwDw/z8AAP//AyDw/z8AAv//A2Dw/z8ADv//A+Dx/z/w////g////z/+////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3724,
     "frontObservationPointLon": -6.2525,
     "facadeWidthM": 13.3,
     "frontBearingDeg": 201.9,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3724,
+    "outdoorObservationPointLon": -6.2525,
+    "outdoorAreaWidthM": 13.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-restaurant-patrick-guilbaud-way-231245954",
@@ -10944,15 +11096,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://rubys.ie/point-square",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDgA/sBAID/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwDgA/sBAID/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAA+wcAhP9/AED//wcA/P9/AMD//wcA/P9/AMD//wcA/P9/AMD//w8A/P//AOD//w8A/v//AfD//z+A////B/z/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3484,
     "frontObservationPointLon": -6.2275,
     "facadeWidthM": 15,
     "frontBearingDeg": 6.5,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3484,
+    "outdoorObservationPointLon": -6.2275,
+    "outdoorAreaWidthM": 15,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-ryleighs-rooftop-steakhouse-node-11033224817",
@@ -11094,8 +11250,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.sfuso.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAADgAAAAAA4AAADgAAAAAA4AAAPgAABwAA4AAA/wAADw9w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A+D/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAADgAAAAAA4AAADgAAAAAA4AAAPgAABwAA4AAA/wAADw9w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAAAAIADAAAAOAAAAIADAAAAeAAAAIAHAA8AeAD4AYAPgB8A/Af+A+D///+A////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3467,
     "frontObservationPointLon": -6.2652,
@@ -11103,7 +11259,11 @@
     "frontBearingDeg": 78,
     "shadeClearanceDeg": 27.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bloom Lane"
+    "facadeInferenceRoadName": "Bloom Lane",
+    "outdoorObservationPointLat": 53.3467,
+    "outdoorObservationPointLon": -6.2652,
+    "outdoorAreaWidthM": 6.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-shallots-node-13525591502",
@@ -11189,15 +11349,19 @@
     },
     "websiteUrl": "https://www.silkroadcafe.ie",
     "instagramUrl": "https://instagram.com/silkroadcafeie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAACAHwAAAP8jAAD4fwMAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAACAHwAAAP8jAAD4fwMAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAIAfAAAA/6MAAPx/CgDg//8AAP7/DwDg//8AAP7/DwDg//8BAP7/HwDg//8BAP//HwDw//8DIP//P4D////3////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3422,
     "frontObservationPointLon": -6.2672,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 71.5,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3422,
+    "outdoorObservationPointLon": -6.2672,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-smokin-bones-node-446782627",
@@ -11467,16 +11631,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.sumaki.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDAAAAAAAwAAADAAAAQAAwAAAHAAADwAA4AAA/wAADwiA8AAJ/4AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAQAAABAAAAQAAwAAAHAAADwAA4AAA/wAADwiA8AAJ/4AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAABACAAEAAAAwAPADAAcADAHwAPADAB+ADAHwAPwDgh/AHAP6PfwDg//8HAP//fwDw//8PgP///wD+////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3444,
     "frontObservationPointLon": -6.2674,
     "facadeWidthM": 5.8,
     "frontBearingDeg": 78.4,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Parliament Street"
+    "facadeInferenceRoadName": "Parliament Street",
+    "outdoorObservationPointLat": 53.3444,
+    "outdoorObservationPointLon": -6.2674,
+    "outdoorAreaWidthM": 5.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-sushida-node-2886195172",
@@ -11683,15 +11851,19 @@
     },
     "websiteUrl": "https://www.tastecatering.ie",
     "instagramUrl": "https://instagram.com/tastefoodcompany",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAA0AAADwAAAAAA/kAADw/Q8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAAAAAAAAAAAAA0AAADwAAAAAA/kAADw/Q8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAwAAADABQADAHwAMADAB4ADAHz8fgDA3/8HAPz/fwDA//8PAP7//wDw//8fgP///wP8//9/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3411,
     "frontObservationPointLon": -6.2626,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 204.5,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3411,
+    "outdoorObservationPointLon": -6.2626,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-tempura-house-node-560635045",
@@ -11920,16 +12092,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thecounter.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAgAAAAAAIAAAAgAAAAADIAAABgAxAAAD4AAQDgAxgAAD6AAQDgAxwAAH7gAQDgjx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAAAAAAAAAAAAAAAAAADAAAAAgAxAAAD4AAQDgAxgAAD6AAQDgAxwAAH7gAQDgjx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAACAAAAEEA0CQAD/MAAG8D8DYAD/PwAH8P8DcAD/PwAH8P8D+AD/P8AP8P8D/gD/f/gP8P///wH///8f8P////f/////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3434,
     "frontObservationPointLon": -6.2595,
     "facadeWidthM": 7.7,
     "frontBearingDeg": 210.4,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Suffolk Street"
+    "facadeInferenceRoadName": "Suffolk Street",
+    "outdoorObservationPointLat": 53.3433,
+    "outdoorObservationPointLon": -6.2595,
+    "outdoorAreaWidthM": 7.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-french-paradox-node-576619740",
@@ -12117,15 +12293,19 @@
     },
     "websiteUrl": "https://lennansyard.com",
     "instagramUrl": "https://instagram.com/lennansyard",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAQAAAQAAHAAD+/wAA4P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAQAAAQAAHAAD+/wAA4P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAADAAABgAH4AAH7+BwDw/38A4P//BwD+//8A8P//DwD///8B+P//P8D///8P////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3403,
     "frontObservationPointLon": -6.2582,
     "facadeWidthM": 10.9,
     "frontBearingDeg": 278.5,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3403,
+    "outdoorObservationPointLon": -6.2582,
+    "outdoorAreaWidthM": 10.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-little-kitchen-node-3905818975",
@@ -12282,8 +12462,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.gogartys.ie/restaurant",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAEAAAAQAAACAAGAIAAYAAAGAAGAIADcAAAeAAHAIAPfAAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAAAAAAAAAAEAAAAQAAACAAGAIAAYAAAGAAGAIADcAAAeAAHAIAPfAAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAACAAAAEABgAQADAAQAGABwA4ADAAQAOADwA4AHAAwAeAD4A8APwB4B/gH8A+A/8D8D///8D////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3454,
     "frontObservationPointLon": -6.2617,
@@ -12291,7 +12471,11 @@
     "frontBearingDeg": 270,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Anglesea Street"
+    "facadeInferenceRoadName": "Anglesea Street",
+    "outdoorObservationPointLat": 53.3454,
+    "outdoorObservationPointLon": -6.2618,
+    "outdoorAreaWidthM": 14.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-pigs-ear-node-2681836811",
@@ -12336,8 +12520,8 @@
     },
     "websiteUrl": "https://www.porthouse.ie",
     "instagramUrl": "https://instagram.com/theporthouse",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAA8B8AAAD/AQAA8B8AAAD/gQAA8B8OAAD/4QAA8D8OAAD/+wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAEAAAAAABAAAAMAAAAAADgAAAcAAOAAAP4AAA8AAOAAA/+AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAEAAQAQABAAgAMAAQA4ADwAgAfAAwB8ADwAwA/gAwD+gX8A4H/+BwD///8A+P//H8D///8D/v//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3428,
     "frontObservationPointLon": -6.262,
@@ -12345,7 +12529,11 @@
     "frontBearingDeg": 276,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "William Street South"
+    "facadeInferenceRoadName": "William Street South",
+    "outdoorObservationPointLat": 53.3428,
+    "outdoorObservationPointLon": -6.262,
+    "outdoorAreaWidthM": 5.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-port-house-pintxo-node-4884359235",
@@ -12446,16 +12634,20 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.shackrestaurant.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAAEAAAAQAAAAAAEAAAAQAAACAAEAIIAZAAAG+AEA4IAfAAAO+AEA4IMfAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAAAAQAAACAAEAIIAZAAAG+AEA4IAfAAAO+AEA4IMfAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAQgAAAAgEYACAQgAEAAwE4AHAQwAOwxwE8AH8ewAfw/wH8AP8f4B/w/wH+g/8f8P///8H///8/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3455,
     "frontObservationPointLon": -6.2648,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 170.3,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Essex Street East"
+    "facadeInferenceRoadName": "Essex Street East",
+    "outdoorObservationPointLat": 53.3455,
+    "outdoorObservationPointLon": -6.2648,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-vintage-kitchen-way-228284419",
@@ -12560,8 +12752,8 @@
     },
     "websiteUrl": "https://www.thunderroadcafe.com",
     "instagramUrl": "https://instagram.com/thunderroad_cafe",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDgAwAAAAAAAAAAAIAAAAAADAAAAMAAABAADgAAA/AAAHCADwAAD/8AAPD3DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwDgAwAAAAAAAAAAAIAAAAAADAAAAMAAABAADgAAA/AAAHCADwAAD/8AAPD3DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAQAEAAgAEADAAYAMAAwAEADAA8AMAB4AMAPgA/AOAD+AMAfsB/APAf/wcA////APj//x/A////A/7/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3457,
     "frontObservationPointLon": -6.2612,
@@ -12569,7 +12761,11 @@
     "frontBearingDeg": 355.6,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Fleet Street"
+    "facadeInferenceRoadName": "Fleet Street",
+    "outdoorObservationPointLat": 53.3457,
+    "outdoorObservationPointLon": -6.2612,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-tippenyaki-node-2984215092",
@@ -12876,8 +13072,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.wallacewinebars.ie/wallaces-taverna",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAGAAAAwAA4AAH/+AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAgAAAGAAAAwAA4AAH/+AADw/w8AAAAAAAAAAAACAAAAPwAAAPAHAAAAfwBAAPAHABwAfwDAEfgHAPz/fwDg//8HAP7/fwDg//8PAP///wD4//8fgP///wf+////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3465,
     "frontObservationPointLon": -6.2651,
@@ -12885,7 +13081,11 @@
     "frontBearingDeg": 78,
     "shadeClearanceDeg": 67.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bloom Lane"
+    "facadeInferenceRoadName": "Bloom Lane",
+    "outdoorObservationPointLat": 53.3465,
+    "outdoorObservationPointLon": -6.2651,
+    "outdoorAreaWidthM": 12.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-wasabi-node-5404670727",
@@ -12948,15 +13148,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.xianstreetfooddublin.ie/north-earl-street",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAEAAABwAAAA8AcAAIB/AAAA/AcAAOD/AACA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAEAAABwAAAA8AcAAIB/AAAA/AcAAOD/AACA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAACAKAAPBgAAjwDw7AgP/gxw/8D/7/4P/g/9//////////////////////////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3501,
     "frontObservationPointLon": -6.2589,
     "facadeWidthM": 11.2,
     "frontBearingDeg": 346.3,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3501,
+    "outdoorObservationPointLon": -6.2589,
+    "outdoorAreaWidthM": 11.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-yamamori-izakaya-node-559854611",
@@ -13066,15 +13270,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.yoiramen.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAIAAABgAAAAAB4AAADgiwAAAP44AADg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAAAAAAAAIAAABgAAAAAB4AAADgiwAAAP44AADg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAwAAAHAAAAAADwAAAPADAACA/xgAAPjvfwCA//9HAPj/fwTw//9vgP///xf+////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3408,
     "frontObservationPointLon": -6.2361,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 210.7,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3407,
+    "outdoorObservationPointLon": -6.2362,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-zakura-node-4396342595",
@@ -13193,8 +13401,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.zizzi.co.uk/italian/restaurants/dublin-suffolk-street",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAIAAAAAACAAEAIABYAAAGAAGAIABcAAAOIAHAIAHeAAA+OMHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAAAAAAAAIAAAAAACAAEAIABYAAAGAAGAIABcAAAOIAHAIAHeAAA+OMHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAACAAAAAABgAYACAAQAOABgA4AHAAQAeABwA4AHgAQAeAD8A4APwAwB+gH8A8B/8DwD///8A8P//P5D/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3435,
     "frontObservationPointLon": -6.2602,
@@ -13202,7 +13410,11 @@
     "frontBearingDeg": 32.6,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Suffolk Street"
+    "facadeInferenceRoadName": "Suffolk Street",
+    "outdoorObservationPointLat": 53.3435,
+    "outdoorObservationPointLon": -6.2602,
+    "outdoorAreaWidthM": 7.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-zizzi-node-4471456455",
@@ -13310,8 +13522,8 @@
     },
     "websiteUrl": "https://casperandgiumbinis.ie",
     "instagramUrl": "https://instagram.com/caspergiumbinis_dl",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwQLAADz/wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwQLAADz/wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAABAsAgPP/AwD4/z8AwP//AwD8/z8A4P//AwD+/38A4P//BwD///8A+P//H4D///8D/P//f/D/////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.294,
     "frontObservationPointLon": -6.1334,
@@ -13319,7 +13531,11 @@
     "frontBearingDeg": 37.1,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Pavillion Deck"
+    "facadeInferenceRoadName": "Pavillion Deck",
+    "outdoorObservationPointLat": 53.294,
+    "outdoorObservationPointLon": -6.1334,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-firebyrd-node-610843612",
@@ -13387,15 +13603,19 @@
     },
     "websiteUrl": "https://hartleys.ie",
     "instagramUrl": "https://instagram.com/hartleysrestaurant",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwEAAPAcAAAA/wMAAPg/AADk/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwEAAPAcAAAA/wMAAPg/AADk/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAgQcA8Bx4AAD//wcA+P9/wOP//w/8////wP///w/+////+P//////////////////////////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.295,
     "frontObservationPointLon": -6.1341,
     "facadeWidthM": 6.1,
     "frontBearingDeg": 303.4,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.295,
+    "outdoorObservationPointLon": -6.1341,
+    "outdoorAreaWidthM": 6.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-indian-vibe-node-2392176684",
@@ -13446,15 +13666,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.milano.ie/dun-laoghaire",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwMAAOAzAAAE/gMAQOA/AAAM/wMAwPk/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwMAAOAzAAAE/gMAQOA/AAAM/wMAwPk/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAADwAA4PMDAAb+fwBg4P8/AA7//wPx+P8/8P///wP///8/+P//////////////////////////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.2949,
     "frontObservationPointLon": -6.1348,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 300.7,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.2949,
+    "outdoorObservationPointLon": -6.1348,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-adelphi-jade-node-2651601374",
@@ -13730,8 +13954,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "http://www.indianoceandungarvan.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAMAAAAwAAAAAAMAAAAwAAAAAAMAAABwAAAEAAMAAADwAAAcAAMAAAH4AAA8AEPAAB//AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAMAAAAwAAAAAAMAAAAwAAAAAAMAAABwAAAEAAMAAADwAAAcAAMAAAH4AAA8AEPAAB//AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAADwAAAPgAAACADwAEAPgAQACADwAMAPgAwACADwAOAPgA4AGADwAeAPgA8AOADwA/APwB8AfAP4D/AP4H/D/4////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.0896,
     "frontObservationPointLon": -7.6179,
@@ -13739,7 +13963,11 @@
     "frontBearingDeg": 283,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Galwey's Lane"
+    "facadeInferenceRoadName": "Galwey's Lane",
+    "outdoorObservationPointLat": 52.0896,
+    "outdoorObservationPointLon": -7.618,
+    "outdoorAreaWidthM": 10.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-interlude-node-9277483276",
@@ -14361,8 +14589,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.freddys.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAgAAAAAAIAAAAgAAAAAAIAAAAgAAAAAAIAAAAgAAAAAAYAAABgAAAAAAYAAQDgABAAAA6AAQDgAx4AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/D/AwAAAAAAAAAAAAAgAAAAAAIAAAAgAAAAAAIAAAAgAAAAAAIAAAAgAAAAAAYAAABgAAAAAAYAAQDgABAAAA6AAQDgAx4AAP7/AQDg/x8AAP7/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABACSACA+cAHAPg/fADA/+MPAP7//wDg//8PgP///wH8//8///////P/////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.2711,
     "frontObservationPointLon": -9.0537,
@@ -14370,7 +14598,11 @@
     "frontBearingDeg": 211.8,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Druid Lane"
+    "facadeInferenceRoadName": "Druid Lane",
+    "outdoorObservationPointLat": 53.2711,
+    "outdoorObservationPointLon": -9.0538,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-gatto-rosso-node-9366321356",
@@ -15444,8 +15676,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.buoyskitchen.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAABwAAAPAAAgAADzwAAPDADwAAD/wAAPDnDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwAABwAAAPAAAgAADzwAAPDADwAAD/wAAPDnDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAIAHQAIA+ABkAIAPfAcA+MB/AIAP/AcA/MF/AMD//wcA/P9/AOD//wcA/v9/APD//x8A////Afj//3/g////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.144,
     "frontObservationPointLon": -6.061,
@@ -15453,7 +15685,11 @@
     "frontBearingDeg": 241.8,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Church Road"
+    "facadeInferenceRoadName": "Church Road",
+    "outdoorObservationPointLat": 53.144,
+    "outdoorObservationPointLon": -6.0611,
+    "outdoorAreaWidthM": 10.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-camile-thai-node-7040558879",
@@ -15668,15 +15904,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.kirbys.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAIAAAAAACAAAAIAAAAAYCAABgoAAAAA4eAADg4AMAAD5+AADg7x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAIAAAAAACAAAAIAAAAAYCAABgoAAAAA4eAADg4AMAAD5+AADg7x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAgACAAAAIAAgAgACDAAwIAAjwgASDABxYAB3xgA3LAD3YwB/7h/3vgf/7/B////3/4////5///////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.2716,
     "frontObservationPointLon": -9.0543,
     "facadeWidthM": 8.7,
     "frontBearingDeg": 328.5,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.2716,
+    "outdoorObservationPointLon": -9.0543,
+    "outdoorAreaWidthM": 8.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-alexanders-relation-10212739",
@@ -15703,8 +15943,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.alexandersholywood.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAMAHAAAAfAAAAOMHAADwfwAAAP8HAADwfwAAAP8HAADwfwAAAP8HAADwfwAAgP8HAAD8fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAMAHAAAAfAAAAOMHAADwfwAAAP8HAADwfwAAAP8HAADwfwAAAP8HAADwfwAAgP8HAAD8fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAACAAAAAwA0AAAD8AAAAwf8BAPj/HwCA//8BAvj/PyCA//+PA/j//z+A////A/j//z+A////B/z/////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.6419,
     "frontObservationPointLon": -5.8347,
@@ -15712,7 +15952,11 @@
     "frontBearingDeg": 33.6,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Shore Road"
+    "facadeInferenceRoadName": "Shore Road",
+    "outdoorObservationPointLat": 54.6419,
+    "outdoorObservationPointLon": -5.8347,
+    "outdoorAreaWidthM": 7.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-30-church-street-way-589373493",
@@ -15769,15 +16013,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.beshoffs.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A8A/AAAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///A8A/AAAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAwD8gAID//wMA+P8/AID//wcA+P9/AJD//xcA////A/j////g////////////////////////////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3895,
     "frontObservationPointLon": -6.0727,
     "facadeWidthM": 16.2,
     "frontBearingDeg": 125.9,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3895,
+    "outdoorObservationPointLon": -6.0727,
+    "outdoorAreaWidthM": 16.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-brass-monkey-node-1225556177",
@@ -15793,8 +16041,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.brassmonkey.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwD4BQAAgP8BAOD+HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///AwD4BQAAgP8BAOD+HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAPgFAICA/wMAeP4/AID//wMA+P9/AMD//wcA/P9/AMD//wcA/P9/AOD//w8A/v//APD//x8A////A/j//3/A////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3903,
     "frontObservationPointLon": -6.0718,
@@ -15802,7 +16050,11 @@
     "frontBearingDeg": 125.3,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "West Pier"
+    "facadeInferenceRoadName": "West Pier",
+    "outdoorObservationPointLat": 53.3903,
+    "outdoorObservationPointLon": -6.0718,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-house-node-2753831586",
@@ -15822,8 +16074,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thehouse-howth.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwCAAAAAYA4AAAD+AAAA4A8AAID/AAAA+A8AAID/AwAA+H8AAID/BwAA+P8AAID/HwAA+P8DAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/AwCAAAAAYA4AAAD+AAAA4A8AAID/AAAA+A8AAID/AwAA+H8AAID/BwAA+P8AAID/HwAA+P8DAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAIAAAABgHgAgAP4BAHbgHwBg//8BAP7/HwDg//8FAP7/fwDg//8PAP7//wDg//8/AP7//4/g////H/7////n////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3859,
     "frontObservationPointLon": -6.0653,
@@ -15831,7 +16083,11 @@
     "frontBearingDeg": 148.8,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Main Street"
+    "facadeInferenceRoadName": "Main Street",
+    "outdoorObservationPointLat": 53.3859,
+    "outdoorObservationPointLon": -6.0652,
+    "outdoorAreaWidthM": 6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-wrights-findlater-way-233883868",
@@ -15851,15 +16107,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://findlater.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A/gBACDwHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A///A/gBACDwHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAA+AcACPD/AID//w8A+P//AID//w8A+P//AID//w8A/P//AMD//w8A/P//AeD//x8A/v//A+D//38A////D/j/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3886,
     "frontObservationPointLon": -6.0724,
     "facadeWidthM": 11.7,
     "frontBearingDeg": 13.3,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3887,
+    "outdoorObservationPointLon": -6.0724,
+    "outdoorAreaWidthM": 11.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-algarve-grill-node-9403360472",
@@ -16017,8 +16277,8 @@
     },
     "websiteUrl": "https://www.paristexas.ie",
     "instagramUrl": "https://instagram.com/paristexasbar",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAQAAAAAMEAAEAQDAAAD8MAAPA/DgAA//MAAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAAAAQAAAAAMEAAEAQDAAAD8MAAPA/DgAA//MAAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAABAAgAGAAAAIABhAwAGAAgQMADhA4APAHgQMA/xA8APA/4wcA/39/APD//weA////Afz//z/g////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.6512,
     "frontObservationPointLon": -7.2526,
@@ -16026,7 +16286,11 @@
     "frontBearingDeg": 236.1,
     "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "High Street"
+    "facadeInferenceRoadName": "High Street",
+    "outdoorObservationPointLat": 52.6512,
+    "outdoorObservationPointLon": -7.2526,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-rinuccini-node-2157699644",
@@ -16205,8 +16469,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.raftersgastropub.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAIAAQAAAGAAEAIADZAAA+OEHAIAffgAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/j/AwAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAEAIAAQAAAGAAEAIADZAAA+OEHAIAffgAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAIAAAAAACABAAIACAAQAHABgAcACAAQAPABgA8ADAA4AfgD8A+AX8A8D/wX8A/h/8D/D/+/8B////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.651,
     "frontObservationPointLon": -7.2533,
@@ -16214,7 +16478,11 @@
     "frontBearingDeg": 146.4,
     "shadeClearanceDeg": 22.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Friary Street"
+    "facadeInferenceRoadName": "Friary Street",
+    "outdoorObservationPointLat": 52.651,
+    "outdoorObservationPointLon": -7.2533,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-zuni-node-8219744674",
@@ -16312,8 +16580,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.kittyoseskillarney.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAGAAAAwHA8AAOf/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAGAAAAwHA8AAOf/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAEAAQAYADAAYAHADwcfwDA9/8HAPz/fwDA//8HAPz/fwDA//8PAP7//wDg//8fAP///wP4//9/wP//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.0597,
     "frontObservationPointLon": -9.5058,
@@ -16321,7 +16589,11 @@
     "frontBearingDeg": 324.5,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Michael Collins Place"
+    "facadeInferenceRoadName": "Michael Collins Place",
+    "outdoorObservationPointLat": 52.0597,
+    "outdoorObservationPointLon": -9.5059,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-lana-killarney-asian-street-food-node-8896114291",
@@ -16406,8 +16678,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://robsranchhouse.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAEAAAAAABAAAAEAAIAAADgAAAMAAMAAAHwAAAcAAOAAAf8AAA8McPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAEAAAAAABAAAAEAAIAAADgAAAMAAMAAAHwAAAcAAOAAAf8AAA8McPAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAIAAAAgAAAAAAIADAAgAAAAwAcADAAwAEAAwAeAHgA4AGABwA+AHgA8APADwB/AP4A+A/wH+D/w/8H////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.0586,
     "frontObservationPointLon": -9.5083,
@@ -16415,7 +16687,11 @@
     "frontBearingDeg": 159.3,
     "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Plunkett Street"
+    "facadeInferenceRoadName": "Plunkett Street",
+    "outdoorObservationPointLat": 52.0586,
+    "outdoorObservationPointLon": -9.5083,
+    "outdoorAreaWidthM": 7.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-square-kebab-and-curry-node-6721894964",
@@ -17216,15 +17492,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://cush.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAABIAAADgAQAAAB4AAADgAQAAAB4AAADgAQAgAB4AAALgAQAgAB4AAAbgAQBgAB4AAA7gAQDgAx8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A+D/AwAAAAAAAAAAABIAAADgAQAAAB4AAADgAQAAAB4AAADgAQAgAB4AAALgAQAgAB4AAAbgAQBgAB4AAA7gAQDgAx8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAEAAAAYAAAA8AMAAAA/AAAA8AOAAAA/AAgA8AOAAAA/ABgA8APAAQA/ABwA8APgAQA/AB4A8APwAQD/wB8A8P//A4D//38A/v//H/D/////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 51.9159,
     "frontObservationPointLon": -8.1734,
     "facadeWidthM": 9.6,
     "frontBearingDeg": 329.6,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 51.9159,
+    "outdoorObservationPointLon": -8.1735,
+    "outdoorAreaWidthM": 9.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-dinos-node-13757741032",
@@ -17946,15 +18226,19 @@
     },
     "websiteUrl": "https://www.farmerbrowns.ie/rathmines",
     "instagramUrl": "https://instagram.com/farmerbrownsdublin",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/A34AAADgBwAAAH6AAQDg/x0AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/7/A34AAADgBwAAAH6AAQDg/x0AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAfwAAAPAHIAAAf4AHAPD/fQAA//8HAPD/fwAA//8PAPD//wAA//8PAPD//wEA//8fAPD//wMA//9/AP7//wfg////gP//////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.3249,
     "frontObservationPointLon": -6.2655,
     "facadeWidthM": 7.1,
     "frontBearingDeg": 93.7,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 53.3249,
+    "outdoorObservationPointLon": -6.2654,
+    "outdoorAreaWidthM": 7.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-gleesons-node-2650885988",
@@ -18064,15 +18348,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.hookedsligo.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAADAAAAPAAAAAADwAAAPAAAAAADwAAAPAACAAAD4AAAPAADAAAD8AAAPAADgAAD/AAAPDfDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A+D/AwAAAAAADAAAAPAAAAAADwAAAPAAAAAADwAAAPAACAAAD4AAAPAADAAAD8AAAPAADgAAD/AAAPDfDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAACAAAAPgAAAOADAAAAPgAAAOADAA8APgDwAOADAA8APgDwAOADgA8APgD4APADgB8APwD8A/gH4H/A/wP/////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.2714,
     "frontObservationPointLon": -8.4742,
     "facadeWidthM": 9.2,
     "frontBearingDeg": 124.3,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 54.2714,
+    "outdoorObservationPointLon": -8.4742,
+    "outdoorAreaWidthM": 9.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-poppadom-node-333449075",
@@ -18113,8 +18401,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://rugantino.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDAA4AAAADwDgAAz/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwDAA4AAAADwDgAAz/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAgAEAAPAeAACP/wMA8P8/AAD//wMA/P8/AMD//wMA/v9/AOD//wcA/v9/AOD//w8A////APD//x+A////B/7/////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 54.2713,
     "frontObservationPointLon": -8.473,
@@ -18122,7 +18410,11 @@
     "frontBearingDeg": 1.3,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Rockwood Parade"
+    "facadeInferenceRoadName": "Rockwood Parade",
+    "outdoorObservationPointLat": 54.2713,
+    "outdoorObservationPointLon": -8.473,
+    "outdoorAreaWidthM": 10.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-aoshima-sushi-and-grill-node-3865259598",
@@ -18951,8 +19243,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://kyoto.easydish.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDAAwAAAAAAAAAAAQAAABAAAAAAAwAAAHAAAAAABwAAAHAAAAAAB4AAAHAACAAAD5AAAPAxDwAAP/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwDAAwAAAAAAAAAAAQAAABAAAAAAAwAAAHAAAAAABwAAAHAAAAAAB4AAAHAACAAAD5AAAPAxDwAAP/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAABAAAAEAAAAIABAAIAPAAgAMADAAIAPABgAOADAAYAPgBwAOADAA8AfwD8APAHwB+A/3D+B/4f////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.2605,
     "frontObservationPointLon": -7.1084,
@@ -18960,7 +19252,11 @@
     "frontBearingDeg": 0.6,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "High Street"
+    "facadeInferenceRoadName": "High Street",
+    "outdoorObservationPointLat": 52.2605,
+    "outdoorObservationPointLon": -7.1084,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-magic-wok-node-4002236518",
@@ -19348,8 +19644,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://thegallerywestport.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOAAEA4AAQAAAOAAEA4AAYAAAe4AEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOAAAA4AAAAAAOAAEA4AAQAAAOAAEA4AAYAAAe4AEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAADAAAAMAAAAAAHAAAAMABwAAAHAAMAMABwAAAHAAOAMAD8AAAPMAPAMAP/wAA/P8PAMD//wEA/P8fAOD/AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 53.7991,
     "frontObservationPointLon": -9.5219,
@@ -19357,7 +19653,11 @@
     "frontBearingDeg": 172.5,
     "shadeClearanceDeg": 12.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Market Lane"
+    "facadeInferenceRoadName": "Market Lane",
+    "outdoorObservationPointLat": 53.799,
+    "outdoorObservationPointLon": -9.5218,
+    "outdoorAreaWidthM": 9.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-pantry-and-corkscrew-node-1288998505",
@@ -19409,15 +19709,19 @@
     },
     "websiteUrl": "https://www.charredwx.com",
     "instagramUrl": "https://instagram.com/charred_wexford",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD/AwAAAAAAAAAAAAAAAIAHAAAA/AAAAOAPAAAE/gAAYOAPAAAH/gAA8PEPAAC//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "AwD/AwAAAAAAAAAAAAAAAIAHAAAA/AAAAOAPAAAE/gAAYOAPAAAH/gAA8PEPAAC//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAgB8AAAD4AwAw4D8AAAP+AwAw4D8AAAP+AwA44H8AwA/+BwD+8f8A+N//H8D///8D/v//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.3412,
     "frontObservationPointLon": -6.4649,
     "facadeWidthM": 10.9,
     "frontBearingDeg": 275.2,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 52.3412,
+    "outdoorObservationPointLon": -6.4649,
+    "outdoorAreaWidthM": 10.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-copper-chimney-node-5684774787",
@@ -19511,8 +19815,8 @@
     },
     "websiteUrl": "https://www.franksplace1860.ie",
     "instagramUrl": "https://instagram.com/franksplace1860",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAIAAABAACAMAAMAAAHIADAMADOAAAfOADAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAIAAABAACAMAAMAAAHIADAMADOAAAfOADAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAADAAgAMACAAAADAAwAMADAAIAHAAwAeADgAYAHAB4A+ADwA4APAH8A/AH4D+A/wP8B/5//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.3401,
     "frontObservationPointLon": -6.4625,
@@ -19520,7 +19824,11 @@
     "frontBearingDeg": 264.7,
     "shadeClearanceDeg": 22.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "North Main Street"
+    "facadeInferenceRoadName": "North Main Street",
+    "outdoorObservationPointLat": 52.3401,
+    "outdoorObservationPointLon": -6.4626,
+    "outdoorAreaWidthM": 6.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-green-acres-restaurant-node-2430479727",
@@ -19540,15 +19848,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://greenacres.ie/pages/restaurant",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAIAAAcwAAA8AMOAAB/+gAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAIAAAcwAAA8AMOAAB/+gAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAgACAAAAIAAkAgACAADAYAD8BhAPAAfAaAH8DvwfgD/D/Mf8D/w/8H/P////D/////////////////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.3415,
     "frontObservationPointLon": -6.4639,
     "facadeWidthM": 4.5,
     "frontBearingDeg": 40.3,
     "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 52.3415,
+    "outdoorObservationPointLon": -6.4639,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-iskender-grill-node-5581103837",
@@ -19982,15 +20294,19 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://redelephant.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AfD/A38/AAD49wMAgH8/AAD4/wMAgP8/AAD4/wMAgP8/AAD4/wMAgP8/AAD4/wMAgP8/AAD4/wMAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "solarMode": "outdoor-area",
+    "sunGeometryProfileBase64": "A/D/A38/AAD49wMAgH8/AAD4/wMAgP8/AAD4/wMAgP8/AAD4/wMAgP8/AAD4/wMAgP8/AAD4/wMAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAf34AAP7nBwDgf34AAP7/BwDg/3+AAf7/Bxjg/3+AAf7/Bxjw/3+AAf//Bxjw/3+Igf//5xz8///f4f///5//////////////////////////AAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "frontObservationPointLat": 52.3397,
     "frontObservationPointLon": -6.4606,
     "facadeWidthM": 9.4,
     "frontBearingDeg": 72,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorObservationPointLat": 52.3397,
+    "outdoorObservationPointLon": -6.4606,
+    "outdoorAreaWidthM": 9.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "restaurants-the-shack-sinnotts-node-10937813249",

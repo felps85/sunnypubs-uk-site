@@ -1213,6 +1213,32 @@
     "solarMode": "open-area"
   },
   {
+    "id": "parks-creggan-country-park-way-80027773",
+    "name": "Creggan Country Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.998788,
+    "lon": -7.352882,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Creggan, Derry",
+    "websiteUrl": "https://creggancountrypark.com/",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-drumahoe-district-park-way-864206849",
+    "name": "Drumahoe District Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.97864,
+    "lon": -7.279142,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Drumahoe, Derry",
+    "websiteUrl": "https://meetings.derrycityandstrabanedistrict.com/documents/s56895/BC83%2026%20Greenway%20Lighting%20Project%20Funding%20Update.pdf",
+    "solarMode": "open-area"
+  },
+  {
     "id": "parks-kilfennan-park-way-120607480",
     "name": "Kilfennan Park",
     "placeTypeId": "park",
@@ -1223,6 +1249,45 @@
     "regionLabel": "Derry",
     "locationLabel": "Derry",
     "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-lisnagelvin-playing-fields-way-122194972",
+    "name": "Lisnagelvin Playing Fields",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.984977,
+    "lon": -7.3014,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Lisnagelvin, Derry",
+    "websiteUrl": "https://www.derrystrabane.com/getmedia/943d1c20-786c-43ea-8a14-01f90b6f845a/EVB-17-Open-Space%2C-Sport-and-Outdoor-Recreation.pdf#:~:text=Lisnagelvin%20Playing%20Fields",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-lowrys-lane-park-relation-5153294",
+    "name": "Lowrys Lane Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 55.008944,
+    "lon": -7.337607,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Lowrys Lane, Derry",
+    "websiteUrl": "https://www.derrystrabane.com/getmedia/943d1c20-786c-43ea-8a14-01f90b6f845a/EVB-17-Open-Space%2C-Sport-and-Outdoor-Recreation.pdf#:~:text=Lowrys%20Lane%20Park",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-marianus-glen-park-relation-12667136",
+    "name": "Marianus Glen Country Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 55.01739,
+    "lon": -7.354662,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Marianus Glen, Derry",
+    "websiteUrl": "https://www.derrystrabane.com/getmedia/943d1c20-786c-43ea-8a14-01f90b6f845a/EVB-17-Open-Space%2C-Sport-and-Outdoor-Recreation.pdf#:~:text=Marianus%20Glen",
     "solarMode": "open-area"
   },
   {
@@ -1249,6 +1314,19 @@
     "regionLabel": "Derry",
     "locationLabel": "Derry",
     "websiteUrl": "https://www.derrystrabane.com/subsites/parks-and-open-spaces/parks",
+    "solarMode": "open-area"
+  },
+  {
+    "id": "parks-woodburn-urban-park-way-122454843",
+    "name": "Woodburn Urban Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 54.993817,
+    "lon": -7.293057,
+    "regionId": "derry",
+    "regionLabel": "Derry",
+    "locationLabel": "Waterside, Derry",
+    "websiteUrl": "https://www.derrystrabane.com/getmedia/943d1c20-786c-43ea-8a14-01f90b6f845a/EVB-17-Open-Space%2C-Sport-and-Outdoor-Recreation.pdf#:~:text=Woodburn%20Urban%20Park",
     "solarMode": "open-area"
   },
   {

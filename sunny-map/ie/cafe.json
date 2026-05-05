@@ -53,7 +53,7 @@
     "regionLabel": "Athlone",
     "locationLabel": "Athlone",
     "websiteUrl": "https://www.kafeu.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 20.8,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -64,7 +64,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.417,
+    "outdoorObservationPointLon": -7.9048,
+    "outdoorAreaWidthM": 5.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-cafollas-way-356588088",
@@ -124,7 +128,7 @@
     "regionLabel": "Ballina",
     "locationLabel": "Pearse Street, Ballina",
     "websiteUrl": "https://jimmyscoffee.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 132.5,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -136,6 +140,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.1147,
+    "outdoorObservationPointLon": -9.1505,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -176,7 +184,7 @@
     "regionLabel": "Barna",
     "locationLabel": "Barna Road, Barna",
     "websiteUrl": "https://groundandco.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 347.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -188,6 +196,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2506,
+    "outdoorObservationPointLon": -9.1555,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -302,7 +314,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "62 Boucher Road, BT12 6LR",
     "websiteUrl": "https://www.boltdelibelfast.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 37.2,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -314,6 +326,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.5733,
+    "outdoorObservationPointLon": -5.9667,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -378,7 +394,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "376-378 Upper Newtownards Road, Belfast, BT4 3FB",
     "websiteUrl": "https://www.caffenero.com/uk/stores/ballyhackamore",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 183.6,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -390,6 +406,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.5952,
+    "outdoorObservationPointLon": -5.8673,
+    "outdoorAreaWidthM": 15.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -406,7 +426,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "1 Lanyon Place, Belfast, BT1 3LP",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-lanyon-place",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 176.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -418,6 +438,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.5965,
+    "outdoorObservationPointLon": -5.9207,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -482,7 +506,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "Belfast",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-university-road",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 100.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -494,6 +518,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.5861,
+    "outdoorObservationPointLon": -5.9362,
+    "outdoorAreaWidthM": 5.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -534,7 +562,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "48-50 Ann Street, Belfast, BT1 4EG",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ann-st",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 160,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -546,6 +574,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.5992,
+    "outdoorObservationPointLon": -5.9256,
+    "outdoorAreaWidthM": 10.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -614,7 +646,7 @@
     "regionLabel": "Belfast",
     "locationLabel": "377 Ormeau Road, Belfast, BT7 2FD",
     "websiteUrl": "https://www.caffenero.com/uk/stores/belfast-ormeau-road",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 68.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -626,6 +658,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 54.578,
+    "outdoorObservationPointLon": -5.919,
+    "outdoorAreaWidthM": 5.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -1244,7 +1280,7 @@
     "locationLabel": "2a Rock Hill, Blackrock",
     "websiteUrl": "https://parlour.ie",
     "instagramUrl": "https://instagram.com/parloursocial",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 79.5,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1256,6 +1292,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3018,
+    "outdoorObservationPointLon": -6.1783,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1658,7 +1698,7 @@
     "regionLabel": "Cork",
     "locationLabel": "47 Oliver Plunkett Street, Cork, T12 XP97",
     "websiteUrl": "https://www.butterbubble.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 341.8,
     "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1669,7 +1709,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.8976,
+    "outdoorObservationPointLon": -8.4724,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-cafe-gusto-node-13464417965",
@@ -1825,7 +1869,7 @@
     "regionLabel": "Cork",
     "locationLabel": "85 Ballyhooly Road, Cork, T23 YD82",
     "websiteUrl": "https://corkcoffeeroasters.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 229.6,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1837,6 +1881,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.9047,
+    "outdoorObservationPointLon": -8.4576,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1853,7 +1901,7 @@
     "regionLabel": "Cork",
     "locationLabel": "T12 TX2F",
     "websiteUrl": "https://www.cortado.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 11.5,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1865,6 +1913,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.9014,
+    "outdoorObservationPointLon": -8.4385,
+    "outdoorAreaWidthM": 10.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1881,7 +1933,7 @@
     "regionLabel": "Cork",
     "locationLabel": "6 Emmet Place, Cork",
     "websiteUrl": "https://www.costaireland.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 287.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1893,6 +1945,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.8997,
+    "outdoorObservationPointLon": -8.4726,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1910,7 +1966,7 @@
     "locationLabel": "Cork",
     "websiteUrl": "https://www.gooddaydeli.ie",
     "instagramUrl": "https://instagram.com/gooddaydeli",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 219.5,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -1922,6 +1978,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.8929,
+    "outdoorObservationPointLon": -8.4727,
+    "outdoorAreaWidthM": 11.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -2091,7 +2151,7 @@
     "regionLabel": "Cork",
     "locationLabel": "11 Winthrop Street, Cork, T12 V076",
     "websiteUrl": "https://www.obriens.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 246.5,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2103,6 +2163,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.8981,
+    "outdoorObservationPointLon": -8.4706,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "sandwich"
@@ -2193,7 +2257,7 @@
     "regionLabel": "Cork",
     "locationLabel": "Well Road, Cork, T12 K702",
     "websiteUrl": "https://somacoffeecompany.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 88.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2204,7 +2268,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.8823,
+    "outdoorObservationPointLon": -8.4384,
+    "outdoorAreaWidthM": 6.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "soma-coffee-company-cork",
@@ -2218,7 +2286,7 @@
     "locationLabel": "23 Tuckey Street, Cork, T12 WD98",
     "websiteUrl": "https://somacoffeecompany.ie",
     "instagramUrl": "https://instagram.com/somacoffeecompany",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 160.2,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2230,6 +2298,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.8969,
+    "outdoorObservationPointLon": -8.4759,
+    "outdoorAreaWidthM": 7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2430,7 +2502,7 @@
     "regionLabel": "Cork",
     "locationLabel": "74 Tory Top Road, Cork, T12 AH2Y",
     "websiteUrl": "https://www.toryscafe.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 14.2,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2441,7 +2513,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 51.8843,
+    "outdoorObservationPointLon": -8.4755,
+    "outdoorAreaWidthM": 8.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-upstairs-cafe-node-349283185",
@@ -2566,7 +2642,7 @@
     "regionLabel": "Delgany",
     "locationLabel": "Delgany",
     "websiteUrl": "https://www.pigeonhouse.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 191.4,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2578,6 +2654,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.1327,
+    "outdoorObservationPointLon": -6.0936,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2594,7 +2674,7 @@
     "regionLabel": "Derry",
     "locationLabel": "Derry",
     "websiteUrl": "https://www.caffenero.com/uk/stores/londonderry-crescent-link",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 200.5,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2605,7 +2685,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 54.998,
+    "outdoorObservationPointLon": -7.2753,
+    "outdoorAreaWidthM": 14.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-starbucks-node-11172679844",
@@ -2669,7 +2753,7 @@
     "regionLabel": "Derry / Londonderry",
     "locationLabel": "6 Bishop Street Within, Derry / Londonderry, BT48 6HP",
     "websiteUrl": "https://www.thesandwich.co",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 311.5,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2680,7 +2764,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 54.9952,
+    "outdoorObservationPointLon": -7.3225,
+    "outdoorAreaWidthM": 11.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-mrs-jones-farm-kitchen-node-12400082140",
@@ -2823,7 +2911,7 @@
     "locationLabel": "32 Grand Canal Street Lower, Dublin",
     "websiteUrl": "https://3fe.com/gcs",
     "instagramUrl": "https://instagram.com/3fecoffee",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 215,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2835,6 +2923,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3399,
+    "outdoorObservationPointLon": -6.242,
+    "outdoorAreaWidthM": 5.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -2882,7 +2974,7 @@
     "locationLabel": "288a Harold's Cross Road, Dublin",
     "websiteUrl": "https://www.fivepointshx.com",
     "instagramUrl": "https://instagram.com/3fecoffee",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 91.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -2894,6 +2986,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3199,
+    "outdoorObservationPointLon": -6.2788,
+    "outdoorAreaWidthM": 9.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3323,7 +3419,7 @@
     "locationLabel": "13-18 City Quay, Dublin",
     "websiteUrl": "https://asone.ie",
     "instagramUrl": "https://instagram.com/asonefood",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 12.4,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3335,6 +3431,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3471,
+    "outdoorObservationPointLon": -6.2505,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3405,7 +3505,7 @@
     "locationLabel": "103a Leeson Street Lower, Dublin",
     "websiteUrl": "https://www.bagelfactory.ie",
     "instagramUrl": "https://instagram.com/bagelfactoryie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 203.5,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3417,6 +3517,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3362,
+    "outdoorObservationPointLon": -6.2571,
+    "outdoorAreaWidthM": 8.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -3502,7 +3606,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "59a Leinster Street North, Dublin",
     "websiteUrl": "https://www.bangbang.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 15.9,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3513,7 +3617,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3643,
+    "outdoorObservationPointLon": -6.2755,
+    "outdoorAreaWidthM": 7.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-bean-and-gone-node-2801693252",
@@ -3552,7 +3660,7 @@
     "locationLabel": "26 Dawson Street",
     "websiteUrl": "https://www.beanhive.ie",
     "instagramUrl": "https://instagram.com/beanhivecoffee",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 102.2,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3563,7 +3671,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3398,
+    "outdoorObservationPointLon": -6.2587,
+    "outdoorAreaWidthM": 7.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-bear-market-coffee-sandyford-node-12252979608",
@@ -3576,7 +3688,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://bearmarket.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 53,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3587,7 +3699,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.2792,
+    "outdoorObservationPointLon": -6.2119,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-bear-markt-coffee-node-559854621",
@@ -3642,7 +3758,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "39 Westland Row, Dublin",
     "websiteUrl": "https://www.bearmarket.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 292,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3653,7 +3769,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3426,
+    "outdoorObservationPointLon": -6.2501,
+    "outdoorAreaWidthM": 6.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-beast-node-6152411099",
@@ -3712,7 +3832,7 @@
     "locationLabel": "78-79 Grafton Street, Dublin",
     "websiteUrl": "https://bewleysgraftonstreet.com",
     "instagramUrl": "https://instagram.com/bewleysgraftonst",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 20.9,
     "shadeClearanceDeg": 27.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3724,6 +3844,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3418,
+    "outdoorObservationPointLon": -6.2603,
+    "outdoorAreaWidthM": 12.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3740,7 +3864,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Patrick Street, Dublin",
     "websiteUrl": "https://biteoflife.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 270.2,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3752,6 +3876,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3408,
+    "outdoorObservationPointLon": -6.2722,
+    "outdoorAreaWidthM": 9.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3881,7 +4009,7 @@
     "locationLabel": "Old Bray Road",
     "websiteUrl": "https://www.bread41.ie",
     "instagramUrl": "https://instagram.com/bread41bakery",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 31.1,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3893,6 +4021,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2614,
+    "outdoorObservationPointLon": -6.1517,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3910,7 +4042,7 @@
     "locationLabel": "Pearse Street, Dublin, D02 H308",
     "websiteUrl": "https://bread41.ie",
     "instagramUrl": "https://instagram.com/bread41dublin",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 199.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3922,6 +4054,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3447,
+    "outdoorObservationPointLon": -6.2517,
+    "outdoorAreaWidthM": 13.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3978,7 +4114,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "63 Saint Assam's Park, D05 HT21",
     "websiteUrl": "https://www.brewcoffee.ie/brew-raheny",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 81.7,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3990,6 +4126,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3811,
+    "outdoorObservationPointLon": -6.1653,
+    "outdoorAreaWidthM": 5.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4049,7 +4189,7 @@
     "locationLabel": "Rock Hill, A94 F729",
     "websiteUrl": "https://www.butlerschocolates.com/en/chocolate-cafes/locator/blackrock",
     "instagramUrl": "https://instagram.com/butlerschocolate",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 281.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4061,6 +4201,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3019,
+    "outdoorObservationPointLon": -6.1805,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4102,7 +4246,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "61 Ranelagh, Dublin",
     "websiteUrl": "http://www.butlerschocolates.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 128.4,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4114,6 +4258,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3244,
+    "outdoorObservationPointLon": -6.2536,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4248,9 +4396,9 @@
     "locationLabel": "33 Hatch Street Lower, Dublin",
     "websiteUrl": "https://www.cafesol.ie",
     "instagramUrl": "https://instagram.com/cafesolirl",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 326.3,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3342,
@@ -4259,7 +4407,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3342,
+    "outdoorObservationPointLon": -6.2556,
+    "outdoorAreaWidthM": 9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-cafe-sol-way-231551374",
@@ -4273,7 +4425,7 @@
     "locationLabel": "1 Lincoln Place, Dublin",
     "websiteUrl": "https://www.cafesol.ie",
     "instagramUrl": "https://instagram.com/cafesolirl",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 56.1,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4285,6 +4437,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3419,
+    "outdoorObservationPointLon": -6.2504,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4327,7 +4483,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Millennium Walkway, Dublin",
     "websiteUrl": "https://www.wallacewinebars.ie/caffe-cagliostro",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 258,
     "shadeClearanceDeg": 42.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4339,6 +4495,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3467,
+    "outdoorObservationPointLon": -6.2652,
+    "outdoorAreaWidthM": 9.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4472,7 +4632,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "9 O'Connell Street Lower, Dublin",
     "websiteUrl": "https://caffenero.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 92.1,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4484,6 +4644,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3483,
+    "outdoorObservationPointLon": -6.2592,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4585,18 +4749,22 @@
     "regionLabel": "Dublin",
     "locationLabel": "42 Pearse Street, Dublin, D02FP30",
     "websiteUrl": "https://cloudpickercoffee.ie",
-    "solarMode": "facade",
-    "frontBearingDeg": 199.2,
-    "shadeClearanceDeg": 2.5,
+    "solarMode": "outdoor-area",
+    "frontBearingDeg": 298.1,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3444,
-    "frontObservationPointLon": -6.2499,
-    "facadeWidthM": 4.5,
+    "frontObservationPointLat": 53.344,
+    "frontObservationPointLon": -6.2502,
+    "facadeWidthM": 18,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.344,
+    "outdoorObservationPointLon": -6.2503,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-cocos-creperie-node-9893490523",
@@ -4764,7 +4932,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://coolhandcoffeeroasters.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 355,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4776,6 +4944,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3406,
+    "outdoorObservationPointLon": -6.3078,
+    "outdoorAreaWidthM": 5.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -4974,7 +5146,7 @@
     "locationLabel": "Glenageary Road Upper, A96 KT35",
     "websiteUrl": "https://www.costaireland.ie",
     "instagramUrl": "https://instagram.com/costacoffeeireland",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 207.8,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -4986,6 +5158,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2824,
+    "outdoorObservationPointLon": -6.1437,
+    "outdoorAreaWidthM": 11.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5281,7 +5457,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Exchequer Street, Dublin",
     "websiteUrl": "https://www.fallonandbyrne.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 358,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5293,6 +5469,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.343,
+    "outdoorObservationPointLon": -6.2638,
+    "outdoorAreaWidthM": 8.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5309,7 +5489,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Castlewood Avenue",
     "websiteUrl": "https://www.fallonandbyrne.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 346.1,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5320,7 +5500,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3228,
+    "outdoorObservationPointLon": -6.2645,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-fire-and-stone-node-2578552430",
@@ -5333,7 +5517,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "26 Belarmine Plaza, D18 H0K7",
     "websiteUrl": "https://fireandstone.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 270.8,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5345,6 +5529,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2607,
+    "outdoorObservationPointLon": -6.2208,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5475,7 +5663,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Leeson Street Lower, Dublin",
     "websiteUrl": "https://www.gerardsdeli.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 231.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5486,7 +5674,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3359,
+    "outdoorObservationPointLon": -6.2567,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-gourmet-shankill-way-349161808",
@@ -5640,7 +5832,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "28-32 O'Connell Street Upper, Dublin, D01 T2X2",
     "websiteUrl": "https://www.guudday.ie/guudday-oconnell-street",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 254.9,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5651,7 +5843,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3522,
+    "outdoorObservationPointLon": -6.261,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-happy-out-node-5492609796",
@@ -5685,7 +5881,7 @@
     "locationLabel": "Windsor Terrace",
     "websiteUrl": "https://happyout.ie",
     "instagramUrl": "https://instagram.com/happyoutcafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 237,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5697,6 +5893,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2909,
+    "outdoorObservationPointLon": -6.1278,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5713,9 +5913,9 @@
     "regionLabel": "Dublin",
     "locationLabel": "45 Pearse Street, Dublin",
     "websiteUrl": "https://honeytruffle.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 18.5,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3439,
@@ -5724,7 +5924,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3439,
+    "outdoorObservationPointLon": -6.2485,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-howards-way-node-1218862904",
@@ -5757,7 +5961,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Grange Road",
     "websiteUrl": "https://hx46cafe.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 205.1,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5768,7 +5972,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.2809,
+    "outdoorObservationPointLon": -6.2747,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-il-fornaio-node-877759828",
@@ -5805,7 +6013,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "1A Harbour Road",
     "websiteUrl": "https://ilpanoramacafe.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 157.4,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5817,6 +6025,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3877,
+    "outdoorObservationPointLon": -6.0662,
+    "outdoorAreaWidthM": 14,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5833,7 +6045,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Pearse Street, Dublin",
     "websiteUrl": "https://www.ilvalentino.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 97.4,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5845,6 +6057,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3428,
+    "outdoorObservationPointLon": -6.2389,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5905,7 +6121,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Drury Street, Dublin",
     "websiteUrl": "https://industryandco.com/pages/cafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 291.4,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5916,7 +6132,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3426,
+    "outdoorObservationPointLon": -6.2631,
+    "outdoorAreaWidthM": 7.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-insomnia-node-576619749",
@@ -5929,7 +6149,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Merrion Road, Dublin",
     "websiteUrl": "https://insomnia.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 213,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -5941,6 +6161,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3291,
+    "outdoorObservationPointLon": -6.2306,
+    "outdoorAreaWidthM": 6.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -6161,18 +6385,22 @@
     "locationLabel": "Leeson Street Lower, Dublin",
     "websiteUrl": "https://www.insomnia.ie",
     "instagramUrl": "https://instagram.com/insomniacoffeeco",
-    "solarMode": "facade",
-    "frontBearingDeg": 22.5,
+    "solarMode": "outdoor-area",
+    "frontBearingDeg": 21,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3363,
-    "frontObservationPointLon": -6.2563,
-    "facadeWidthM": 7.7,
+    "frontObservationPointLat": 53.3364,
+    "frontObservationPointLon": -6.2569,
+    "facadeWidthM": 10.1,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3364,
+    "outdoorObservationPointLon": -6.2569,
+    "outdoorAreaWidthM": 10.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-insomnia-way-273674456",
@@ -6234,7 +6462,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "81 Aungier Street",
     "websiteUrl": "https://www.itsatrap.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 151.4,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6245,7 +6473,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3416,
+    "outdoorObservationPointLon": -6.2655,
+    "outdoorAreaWidthM": 7.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-itsabagel-node-3114068060",
@@ -6523,7 +6755,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Unit 11 Millennium Walkway, Dublin, D01 Y027",
     "websiteUrl": "https://www.lemonjellycafe.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 77.9,
     "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6535,6 +6767,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3471,
+    "outdoorObservationPointLon": -6.2654,
+    "outdoorAreaWidthM": 10.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -6710,7 +6946,7 @@
     "locationLabel": "Merrion Road, Dublin",
     "websiteUrl": "https://www.mistermagpiecoffee.com",
     "instagramUrl": "https://instagram.com/mistermagpiecoffee",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 271.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6721,7 +6957,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3293,
+    "outdoorObservationPointLon": -6.231,
+    "outdoorAreaWidthM": 5.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-mister-magpie-node-10582777067",
@@ -6780,7 +7020,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "22 Bachelors Walk, Dublin, D01 V838",
     "websiteUrl": "https://www.murphysbistro.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 161.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6791,7 +7031,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3472,
+    "outdoorObservationPointLon": -6.2612,
+    "outdoorAreaWidthM": 11,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-nanas-tea-node-13724230917",
@@ -6825,9 +7069,9 @@
     "locationLabel": "186 South Circular Road, Dublin",
     "websiteUrl": "https://noshington.ie",
     "instagramUrl": "https://instagram.com/noshingtoncafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 92.3,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3316,
@@ -6836,7 +7080,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3316,
+    "outdoorObservationPointLon": -6.2796,
+    "outdoorAreaWidthM": 10.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-noshington-way-1316739335",
@@ -6850,9 +7098,9 @@
     "locationLabel": "Harold's Cross Road, Dublin",
     "websiteUrl": "https://noshington.ie",
     "instagramUrl": "https://instagram.com/noshingtoncafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 110.2,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3242,
@@ -6862,6 +7110,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3242,
+    "outdoorObservationPointLon": -6.2794,
+    "outdoorAreaWidthM": 6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -6909,7 +7161,7 @@
     "locationLabel": "Old Dublin Road",
     "websiteUrl": "https://www.obriens.ie",
     "instagramUrl": "https://instagram.com/OBriensCafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 67.1,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6921,6 +7173,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2892,
+    "outdoorObservationPointLon": -6.2006,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7004,7 +7260,7 @@
     "locationLabel": "Leeson Street Lower, Dublin",
     "websiteUrl": "https://www.obriens.ie",
     "instagramUrl": "https://instagram.com/OBriensCafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 203.5,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7016,6 +7272,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3362,
+    "outdoorObservationPointLon": -6.2571,
+    "outdoorAreaWidthM": 8.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "sandwich"
@@ -7127,7 +7387,7 @@
     "locationLabel": "35-37 St. Stephen's Green, Dublin",
     "websiteUrl": "https://www.kcpeaches.com/st-stephens-green",
     "instagramUrl": "https://instagram.com/kcpeachesdublin",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 204.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7139,6 +7399,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3386,
+    "outdoorObservationPointLon": -6.2552,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7156,7 +7420,7 @@
     "locationLabel": "56 Adelaide Road, Dublin, D02 H337",
     "websiteUrl": "https://www.perchcoffee.ie",
     "instagramUrl": "https://instagram.com/perch_thekiosk",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 57,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7168,6 +7432,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3324,
+    "outdoorObservationPointLon": -6.2533,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7184,7 +7452,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://phoenixparkcafe.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 179.8,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7195,7 +7463,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.352,
+    "outdoorObservationPointLon": -6.3047,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-pog-node-3051154792",
@@ -7209,7 +7481,7 @@
     "locationLabel": "32 Bachelors Walk, Dublin",
     "websiteUrl": "https://pog.ie",
     "instagramUrl": "https://instagram.com/pog_dublin",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 260.9,
     "shadeClearanceDeg": 62.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7221,6 +7493,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3475,
+    "outdoorObservationPointLon": -6.2601,
+    "outdoorAreaWidthM": 5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -7485,7 +7761,7 @@
     "locationLabel": "Unit 107 Marine Road",
     "websiteUrl": "https://shoelanecoffee.ie",
     "instagramUrl": "https://instagram.com/shoelanecoffee",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 301.4,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7497,6 +7773,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2924,
+    "outdoorObservationPointLon": -6.1357,
+    "outdoorAreaWidthM": 9.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7636,9 +7916,9 @@
     "locationLabel": "College Green, Dublin",
     "websiteUrl": "https://www.starbucks.ie",
     "instagramUrl": "https://instagram.com/starbucksireland",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 166.8,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3445,
@@ -7648,6 +7928,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3444,
+    "outdoorObservationPointLon": -6.2612,
+    "outdoorAreaWidthM": 12,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7713,7 +7997,7 @@
     "locationLabel": "Kilmacud Road Lower, A94 C840",
     "websiteUrl": "https://www.starbucks.ie",
     "instagramUrl": "https://instagram.com/starbucks_ireland",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 246.7,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7725,6 +8009,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2893,
+    "outdoorObservationPointLon": -6.2007,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7765,7 +8053,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "6/7 Marine Road",
     "websiteUrl": "https://www.starbucks.com/store-locator/store/1006147",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 124.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7777,6 +8065,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2937,
+    "outdoorObservationPointLon": -6.1348,
+    "outdoorAreaWidthM": 9.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7817,7 +8109,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Kevin Street Lower",
     "websiteUrl": "https://starbucks.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 60.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7829,6 +8121,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3377,
+    "outdoorObservationPointLon": -6.2668,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7912,7 +8208,7 @@
     "locationLabel": "62 Leeson Street Lower, Dublin",
     "websiteUrl": "https://www.starbucks.ie",
     "instagramUrl": "https://instagram.com/starbucks",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 239,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7924,6 +8220,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3335,
+    "outdoorObservationPointLon": -6.2541,
+    "outdoorAreaWidthM": 13.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7981,7 +8281,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/26584-244694/warrington-house",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 209.8,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -7992,7 +8292,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3367,
+    "outdoorObservationPointLon": -6.2431,
+    "outdoorAreaWidthM": 7.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-steam-cafe-node-10303290484",
@@ -8025,7 +8329,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "23c Dawson Street, Dublin",
     "websiteUrl": "https://www.tang.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 281.4,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8037,6 +8341,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3397,
+    "outdoorObservationPointLon": -6.2586,
+    "outdoorAreaWidthM": 10.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -8074,7 +8382,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Rathfarnham Road",
     "websiteUrl": "https://brambles.ie/cafes/rathfarnham-castle",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 4.5,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8085,7 +8393,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.2981,
+    "outdoorObservationPointLon": -6.2839,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-art-of-coffee-node-860008802",
@@ -8098,7 +8410,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://theartofcoffee.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 277.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8110,6 +8422,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3423,
+    "outdoorObservationPointLon": -6.2388,
+    "outdoorAreaWidthM": 12.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -8174,7 +8490,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "126 Pembroke Road, Dublin",
     "websiteUrl": "https://theartofcoffee.ie/ballsbridge",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 235.8,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8185,7 +8501,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3313,
+    "outdoorObservationPointLon": -6.2339,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-bagel-bar-node-291776562",
@@ -8289,7 +8609,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "St Michael's Estate",
     "websiteUrl": "https://www.walk.ie/thegreenkitchen",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 262.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8301,6 +8621,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.338,
+    "outdoorObservationPointLon": -6.3162,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8431,7 +8755,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Bachelors Walk, Dublin",
     "websiteUrl": "https://www.therollingdonut.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 75.4,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8443,6 +8767,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3476,
+    "outdoorObservationPointLon": -6.2598,
+    "outdoorAreaWidthM": 5.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8459,7 +8787,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Wolfe Tone Square, Dublin",
     "websiteUrl": "https://www.thetramcafe.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 257.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8470,7 +8798,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3482,
+    "outdoorObservationPointLon": -6.2664,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-tram-cafe-albert-college-node-13432347601",
@@ -8532,7 +8864,7 @@
     "locationLabel": "Unit 4 Marine Walk",
     "websiteUrl": "https://www.thevanillapodeatery.ie",
     "instagramUrl": "https://instagram.com/thevanillapodeatery",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 217.1,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8544,6 +8876,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2928,
+    "outdoorObservationPointLon": -6.1338,
+    "outdoorAreaWidthM": 16.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8564,7 +8900,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Unit 14, Dublin, D07 P440",
     "websiteUrl": "https://thirdspace.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 98.6,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8576,6 +8912,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3478,
+    "outdoorObservationPointLon": -6.2787,
+    "outdoorAreaWidthM": 13.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8592,7 +8932,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "23 South Frederick Street, Dublin",
     "websiteUrl": "https://tillerandgrain.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 288.3,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8603,7 +8943,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3423,
+    "outdoorObservationPointLon": -6.2564,
+    "outdoorAreaWidthM": 7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-urban-health-node-1426048609",
@@ -8616,9 +8960,9 @@
     "regionLabel": "Dublin",
     "locationLabel": "9 Fields Terrace, Dublin",
     "websiteUrl": "https://www.urbanhealth.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 123.1,
-    "shadeClearanceDeg": 2.5,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3251,
@@ -8628,6 +8972,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3251,
+    "outdoorObservationPointLon": -6.2555,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8653,10 +9001,6 @@
     "frontObservationPointLat": 53.3468,
     "frontObservationPointLon": -6.2791,
     "facadeWidthM": 10.4,
-    "petFriendly": {
-      "status": "pet-friendly",
-      "confidence": "likely"
-    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8773,7 +9117,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "6 Berkeley Road",
     "websiteUrl": "https://yellowcafe.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 243,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8784,7 +9128,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3581,
+    "outdoorObservationPointLon": -6.2688,
+    "outdoorAreaWidthM": 10.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-old-town-cafe-node-11826840760",
@@ -8797,7 +9145,7 @@
     "regionLabel": "Dublin 8",
     "locationLabel": "1 Le Pole Square, Ship Street Great, Dublin 8",
     "websiteUrl": "https://oldtowncafe.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 335.4,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8809,6 +9157,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3416,
+    "outdoorObservationPointLon": -6.2688,
+    "outdoorAreaWidthM": 12.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodTags": {
       "tags": [
         "sandwich"
@@ -8827,7 +9179,7 @@
     "regionLabel": "Dublin Airport",
     "locationLabel": "Dublin Airport",
     "websiteUrl": "https://www.starbucks.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 225.9,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -8838,7 +9190,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.4272,
+    "outdoorObservationPointLon": -6.2454,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-bailey-and-pim-node-10685752979",
@@ -9113,7 +9469,7 @@
     "regionLabel": "Dún Laoghaire",
     "locationLabel": "107 George's Street Lower, Dún Laoghaire, A96 X771",
     "websiteUrl": "https://www.thesunshinecafe.net",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 215,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9125,6 +9481,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2938,
+    "outdoorObservationPointLon": -6.1395,
+    "outdoorAreaWidthM": 6.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -9309,7 +9669,7 @@
     "locationLabel": "High Street, Galway",
     "websiteUrl": "https://alainn.ie",
     "instagramUrl": "https://instagram.com/alainn_galway",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 98.8,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9321,6 +9681,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.272,
+    "outdoorObservationPointLon": -9.0534,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -9498,7 +9862,7 @@
     "locationLabel": "4 Quay Street, Galway",
     "websiteUrl": "https://coffeewerkandpress.com",
     "instagramUrl": "https://instagram.com/coffeewerkandpress",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 297.3,
     "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9510,6 +9874,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2713,
+    "outdoorObservationPointLon": -9.0539,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9547,7 +9915,7 @@
     "regionLabel": "Galway",
     "locationLabel": "Galway",
     "websiteUrl": "https://taraking1997@gmail.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 6.9,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9558,7 +9926,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.2672,
+    "outdoorObservationPointLon": -9.0537,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-espresso-44-node-5968261034",
@@ -9611,7 +9983,7 @@
     "regionLabel": "Galway",
     "locationLabel": "11 Eyre Square, Galway, H91 FW42",
     "websiteUrl": "https://www.esquirescoffee.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 230,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9623,6 +9995,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2744,
+    "outdoorObservationPointLon": -9.0481,
+    "outdoorAreaWidthM": 7.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9640,7 +10016,7 @@
     "locationLabel": "Upper Salthill Road, Galway",
     "websiteUrl": "https://www.gourmettartco.com",
     "instagramUrl": "https://instagram.com/gourmettartcompany",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 286.8,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9652,6 +10028,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2604,
+    "outdoorObservationPointLon": -9.0755,
+    "outdoorAreaWidthM": 9.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9694,7 +10074,7 @@
     "locationLabel": "Raven Terrace, Galway",
     "websiteUrl": "https://www.gourmettartco.com",
     "instagramUrl": "https://instagram.com/gourmettartcompany",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 28.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9706,6 +10086,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2698,
+    "outdoorObservationPointLon": -9.0569,
+    "outdoorAreaWidthM": 7.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9723,7 +10107,7 @@
     "locationLabel": "34 Newcastle Road, Galway",
     "websiteUrl": "https://www.gourmettartco.com",
     "instagramUrl": "https://instagram.com/gourmettartcompany",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 263.7,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9735,6 +10119,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2759,
+    "outdoorObservationPointLon": -9.0634,
+    "outdoorAreaWidthM": 8.1,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9776,7 +10164,7 @@
     "regionLabel": "Galway",
     "locationLabel": "Seapoint Promenade, Galway",
     "websiteUrl": "https://groundandco.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 198.2,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9788,6 +10176,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2598,
+    "outdoorObservationPointLon": -9.0743,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9804,7 +10196,7 @@
     "regionLabel": "Galway",
     "locationLabel": "Shangort Road, Galway",
     "websiteUrl": "https://groundandco.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 343.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9816,6 +10208,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2632,
+    "outdoorObservationPointLon": -9.1053,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9904,7 +10300,7 @@
     "regionLabel": "Galway",
     "locationLabel": "Forster Street, Galway",
     "websiteUrl": "https://junglecafegalway.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 217.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9916,6 +10312,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2746,
+    "outdoorObservationPointLon": -9.0465,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9956,7 +10356,7 @@
     "regionLabel": "Galway",
     "locationLabel": "University Road, Galway",
     "websiteUrl": "https://www.mrwaffle.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 244.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -9968,6 +10368,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2767,
+    "outdoorObservationPointLon": -9.0634,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -10036,7 +10440,7 @@
     "locationLabel": "4 William Street West",
     "websiteUrl": "https://www.secretgardengalway.com",
     "instagramUrl": "https://instagram.com/thesecretgardengalway",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 166.6,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10047,7 +10451,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.27,
+    "outdoorObservationPointLon": -9.0595,
+    "outdoorAreaWidthM": 7.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-starbucks-node-4707360789",
@@ -10108,7 +10516,7 @@
     "regionLabel": "Galway",
     "locationLabel": "8 Abbeygate Street Upper, Galway, H91 PWX9",
     "websiteUrl": "https://www.lighthousecafe.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 224.7,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10120,6 +10528,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.2735,
+    "outdoorObservationPointLon": -9.0526,
+    "outdoorAreaWidthM": 5.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -10136,7 +10548,7 @@
     "regionLabel": "Galway",
     "locationLabel": "8 William Street West, Galway",
     "websiteUrl": "https://www.urbangrind.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 174.4,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10148,6 +10560,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.27,
+    "outdoorObservationPointLon": -9.0597,
+    "outdoorAreaWidthM": 6.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -10302,7 +10718,7 @@
     "locationLabel": "Victoria Road, Greystones, A63 D329",
     "websiteUrl": "https://www.lacreperie.ie",
     "instagramUrl": "https://instagram.com/lacreperie.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 140.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10314,6 +10730,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.1498,
+    "outdoorObservationPointLon": -6.0662,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -10400,7 +10820,7 @@
     "regionLabel": "Kilkenny",
     "locationLabel": "The Parade, Kilkenny",
     "websiteUrl": "https://kilkennydesign.com/foodhall",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 212.8,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10411,7 +10831,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.6497,
+    "outdoorObservationPointLon": -7.2493,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-book-and-coffee-shop-node-8313095593",
@@ -10487,7 +10911,7 @@
     "locationLabel": "Kilkenny",
     "websiteUrl": "https://www.wildtailsco.com",
     "instagramUrl": "https://instagram.com/wildtails.co",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 122.4,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10499,6 +10923,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.6516,
+    "outdoorObservationPointLon": -7.2512,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
@@ -10555,7 +10983,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney, V93 FP40",
     "websiteUrl": "https://www.tangostreetfood.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 181.9,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10567,6 +10995,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.0555,
+    "outdoorObservationPointLon": -9.5067,
+    "outdoorAreaWidthM": 15.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -10589,7 +11021,7 @@
     "regionLabel": "Kimmage",
     "locationLabel": "161 Kimmage Road Lower, Kimmage, D6W PY11",
     "websiteUrl": "https://www.artybaker.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 71.5,
     "shadeClearanceDeg": 17.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10600,7 +11032,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3198,
+    "outdoorObservationPointLon": -6.2901,
+    "outdoorAreaWidthM": 9.2,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-counter-deli-and-coffee-shop-node-8491195819",
@@ -10869,7 +11305,7 @@
     "regionLabel": "Limerick",
     "locationLabel": "10 Bedford Row",
     "websiteUrl": "https://www.thebuttery.ie/the-buttery-bedford-row",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 211.9,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10881,6 +11317,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.6637,
+    "outdoorObservationPointLon": -8.6284,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -10903,7 +11343,7 @@
     "regionLabel": "Limerick",
     "locationLabel": "Limerick",
     "websiteUrl": "https://www.pavilion.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 37.2,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10914,7 +11354,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.6793,
+    "outdoorObservationPointLon": -8.5697,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-caffe-nero-node-11524378294",
@@ -10927,7 +11371,7 @@
     "regionLabel": "Lisburn",
     "locationLabel": "40 - 46 Bow Street, Lisburn, BT28 1BJ",
     "websiteUrl": "https://www.caffenero.com/uk/stores/lisburn",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 195.3,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -10938,7 +11382,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 54.5114,
+    "outdoorObservationPointLon": -6.0473,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-starbucks-node-4396825089",
@@ -11050,7 +11498,7 @@
     "regionLabel": "Maynooth",
     "locationLabel": "The House Square, Maynooth",
     "websiteUrl": "https://www.willowandwild.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 243.7,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11061,7 +11509,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3813,
+    "outdoorObservationPointLon": -6.5903,
+    "outdoorAreaWidthM": 8.4,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-bite-size-node-3701061495",
@@ -11098,7 +11550,7 @@
     "regionLabel": "Midleton",
     "locationLabel": "Midleton",
     "websiteUrl": "https://www.granary-foodstore.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 83.5,
     "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11110,6 +11562,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 51.9135,
+    "outdoorObservationPointLon": -8.1732,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -11246,7 +11702,7 @@
     "regionLabel": "Naas",
     "locationLabel": "Naas",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/59041-292984/naas-newhall-dt",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 206.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11257,7 +11713,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.2095,
+    "outdoorObservationPointLon": -6.704,
+    "outdoorAreaWidthM": 15.6,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-pantry-cafe-node-5542554612",
@@ -11350,7 +11810,7 @@
     "regionLabel": "Oranmore",
     "locationLabel": "Oranmore",
     "websiteUrl": "https://www.groundandco.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 192.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11361,7 +11821,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.2697,
+    "outdoorObservationPointLon": -8.9315,
+    "outdoorAreaWidthM": 18,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-chocolate-brown-node-6562006404",
@@ -11514,7 +11978,7 @@
     "regionLabel": "Sutton",
     "locationLabel": "Station Road, Sutton",
     "websiteUrl": "https://www.insomnia.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 196.2,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11525,7 +11989,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.3896,
+    "outdoorObservationPointLon": -6.1103,
+    "outdoorAreaWidthM": 14.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-marqette-node-7010188985",
@@ -11607,7 +12075,7 @@
     "locationLabel": "The Ward, D11RC43",
     "websiteUrl": "https://chezemily.ie",
     "instagramUrl": "https://instagram.com/chezemilyofficial",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 298.8,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11618,7 +12086,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 53.4585,
+    "outdoorObservationPointLon": -6.3484,
+    "outdoorAreaWidthM": 15.9,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-coffee-start-node-12913980701",
@@ -11753,7 +12225,7 @@
     "locationLabel": "Peter Street, Waterford",
     "websiteUrl": "https://archcoffee.ie",
     "instagramUrl": "https://instagram.com/arch_coffee",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 353.2,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11764,7 +12236,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.2601,
+    "outdoorObservationPointLon": -7.1108,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-bishops-palace-cafe-node-12185585220",
@@ -11777,7 +12253,7 @@
     "regionLabel": "Waterford",
     "locationLabel": "The Mall, Waterford",
     "websiteUrl": "https://www.waterfordtreasures.com/landing-bishops-palace-cafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 150.3,
     "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11788,7 +12264,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.2595,
+    "outdoorObservationPointLon": -7.1075,
+    "outdoorAreaWidthM": 13.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-caffe-nero-node-7899515874",
@@ -12132,7 +12612,7 @@
     "locationLabel": "22 Great George's Street, Waterford",
     "websiteUrl": "https://thestableyard.ie/italian-bakery",
     "instagramUrl": "https://instagram.com/thestableyardbakerywaterford",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 214.7,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12143,7 +12623,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.2613,
+    "outdoorObservationPointLon": -7.1123,
+    "outdoorAreaWidthM": 4.8,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-wich-brew-node-9997795078",
@@ -12264,7 +12748,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "80 North Main Street, Wexford",
     "websiteUrl": "https://lacuisinewexford.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 55.2,
     "shadeClearanceDeg": 67.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12276,6 +12760,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.3409,
+    "outdoorObservationPointLon": -6.4633,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12314,7 +12802,7 @@
     "locationLabel": "North Main Street, Wexford",
     "websiteUrl": "https://www.obriens.ie",
     "instagramUrl": "https://instagram.com/OBriensCafe",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 152.7,
     "shadeClearanceDeg": 42.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12326,6 +12814,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.3395,
+    "outdoorObservationPointLon": -6.4627,
+    "outdoorAreaWidthM": 11,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12348,7 +12840,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "100 South Main Street, Wexford",
     "websiteUrl": "https://www.stabledietcafe.com",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 223.6,
     "shadeClearanceDeg": 27.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12360,6 +12852,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.3357,
+    "outdoorObservationPointLon": -6.4588,
+    "outdoorAreaWidthM": 12,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12376,7 +12872,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Mallin Street, Wexford",
     "websiteUrl": "https://sweetdreamswexford.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 235.2,
     "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12387,7 +12883,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.3389,
+    "outdoorObservationPointLon": -6.4632,
+    "outdoorAreaWidthM": 10.7,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-sweetness-deserts-cafe-node-10887677959",
@@ -12461,7 +12961,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "North Main Street, Wexford",
     "websiteUrl": "https://westgatedesign.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 151.1,
     "shadeClearanceDeg": 47.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12472,7 +12972,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.3389,
+    "outdoorObservationPointLon": -6.4613,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-the-trough-node-506572591",
@@ -12486,7 +12990,7 @@
     "locationLabel": "1 Crescent Quay, Wexford",
     "websiteUrl": "https://www.thetrough.ie/?location=LZWSE9W6QASNX",
     "instagramUrl": "https://instagram.com/_thetrough_",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 146,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12498,6 +13002,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 52.3383,
+    "outdoorObservationPointLon": -6.4594,
+    "outdoorAreaWidthM": 9.3,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12514,7 +13022,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Wexford",
     "websiteUrl": "https://ufucoffee.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 341.3,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12525,7 +13033,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.323,
+    "outdoorObservationPointLon": -6.4872,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-wexford-coffee-roasters-node-9377724781",
@@ -12538,7 +13050,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Selskar Avenue, Wexford",
     "websiteUrl": "https://wexfordcoffee.ie",
-    "solarMode": "facade",
+    "solarMode": "outdoor-area",
     "frontBearingDeg": 239.5,
     "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -12549,7 +13061,11 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    }
+    },
+    "outdoorObservationPointLat": 52.3416,
+    "outdoorObservationPointLon": -6.4639,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
     "id": "cafes-firehouse-bakery-node-11056352022",
