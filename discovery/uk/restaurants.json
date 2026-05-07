@@ -13906,7 +13906,12 @@
     "facadeWidthM": 6.7,
     "frontBearingDeg": 8.8,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://www.bellaitalia.co.uk/restaurants/southampton/hanover"
+    }
   },
   {
     "id": "restaurants-cattle-steakhouse-node-13594174626",
@@ -14203,7 +14208,12 @@
     "facadeWidthM": 6.3,
     "frontBearingDeg": 36.8,
     "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://www.askitalian.co.uk/italian/restaurants/swansea"
+    }
   },
   {
     "id": "restaurants-buchon-du-rossi-node-3809342906",

@@ -6969,7 +6969,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 55.9593,
     "frontObservationPointLon": -3.2139,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-artisan-roast-node-1647285890",
@@ -7733,6 +7737,10 @@
     "frontObservationPointLat": 53.3795,
     "frontObservationPointLon": -1.4668,
     "facadeWidthM": 6,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
     "wifi": {
       "status": "yes",
       "confidence": "confirmed"

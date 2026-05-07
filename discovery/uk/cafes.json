@@ -8589,7 +8589,12 @@
     "frontBearingDeg": 278.4,
     "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Raeburn Mews"
+    "facadeInferenceRoadName": "Raeburn Mews",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://artisanroast.co.uk/pages/stockbridge-cafe"
+    }
   },
   {
     "id": "cafes-artisan-roast-node-1647285890",
@@ -9520,7 +9525,12 @@
     "facadeWidthM": 6,
     "frontBearingDeg": 31.5,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed",
+      "source": "https://www.weareambulo.com/"
+    }
   },
   {
     "id": "cafes-angelicas-cafe-node-9645509692",

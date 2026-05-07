@@ -11259,7 +11259,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 50.9029,
     "frontObservationPointLon": -1.4019,
-    "facadeWidthM": 6.7
+    "facadeWidthM": 6.7,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-cattle-steakhouse-node-13594174626",
@@ -11508,7 +11512,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.6197,
     "frontObservationPointLon": -3.9408,
-    "facadeWidthM": 6.3
+    "facadeWidthM": 6.3,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-buchon-du-rossi-node-3809342906",
