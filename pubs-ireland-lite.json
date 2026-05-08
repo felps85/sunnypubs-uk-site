@@ -3229,6 +3229,11 @@
     "frontObservationPointLat": 53.3269,
     "frontObservationPointLon": -6.2647,
     "facadeWidthM": 15.9,
+    "outdoorObservationPointLat": 53.327,
+    "outdoorObservationPointLon": -6.2646,
+    "outdoorAreaWidthM": 16.7,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-294909021",
+    "outdoorAreaProfileId": "osm:way:294909021",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -3458,7 +3463,7 @@
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -6470,7 +6475,7 @@
     "frontObservationPointLon": -6.2533,
     "facadeWidthM": 13.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -6866,7 +6871,7 @@
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "gastropub",
+      "category": "restaurant-grade",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -7261,6 +7266,20 @@
     "facadeWidthM": 9.4
   },
   {
+    "id": "pubs-clancys-bar-and-restaurant-way-1372710092",
+    "name": "Clancy’s Bar & Restaurant",
+    "lat": 51.897175,
+    "lon": -8.472766,
+    "county": "Cork",
+    "addressText": "15-16 Princes Street, Cork, T12 V6FH",
+    "solarMode": "facade",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.8972,
+    "frontObservationPointLon": -8.4725,
+    "facadeWidthM": 4.5,
+    "websiteUrl": "https://www.clancyscork.ie"
+  },
+  {
     "id": "clancys-bar-athy-manual",
     "name": "Clancys Bar Athy",
     "lat": 52.9925769,
@@ -7571,6 +7590,11 @@
     "frontObservationPointLat": 53.3612,
     "frontObservationPointLon": -6.2427,
     "facadeWidthM": 10.4,
+    "outdoorObservationPointLat": 53.3609,
+    "outdoorObservationPointLon": -6.2424,
+    "outdoorAreaWidthM": 23.3,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-656057652",
+    "outdoorAreaProfileId": "osm:way:656057652",
     "outdoorArea": {
       "type": "beer-garden",
       "confidence": "confirmed"
@@ -12685,6 +12709,20 @@
     "facadeWidthM": 17.9
   },
   {
+    "id": "pubs-ewings-way-841712898",
+    "name": "Ewing’s",
+    "lat": 52.837759,
+    "lon": -6.932625,
+    "county": "Carlow",
+    "addressText": "Centaur Street, Carlow, R93 E030",
+    "solarMode": "facade",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.8376,
+    "frontObservationPointLon": -6.933,
+    "facadeWidthM": 11.8,
+    "websiteUrl": "https://ewingscarlow.com"
+  },
+  {
     "id": "exchange-node-7747519334",
     "name": "Exchange",
     "lat": 54.9983622,
@@ -12900,7 +12938,7 @@
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -13349,7 +13387,7 @@
     "frontObservationPointLon": -6.2803,
     "facadeWidthM": 7.4,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "liveMusic": {
@@ -18012,7 +18050,7 @@
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -18607,6 +18645,20 @@
     "facadeWidthM": 18
   },
   {
+    "id": "pubs-idle-hour-way-795006812",
+    "name": "Idle Hour",
+    "lat": 51.898275,
+    "lon": -8.461235,
+    "county": "Cork",
+    "addressText": "1 Albert Quay, Cork, T12 TYK0",
+    "solarMode": "facade",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 51.8983,
+    "frontObservationPointLon": -8.4613,
+    "facadeWidthM": 7.6,
+    "websiteUrl": "https://theidlehour.ie"
+  },
+  {
     "id": "idlewild-node-9238631400",
     "name": "IdleWild",
     "lat": 53.3420846,
@@ -19179,6 +19231,20 @@
     "frontObservationPointLat": 52.5115,
     "frontObservationPointLon": -9.6722,
     "facadeWidthM": 14.5
+  },
+  {
+    "id": "pubs-j-j-bowles-way-300768843",
+    "name": "J.J. Bowles",
+    "lat": 52.6704,
+    "lon": -8.628595,
+    "county": "Limerick",
+    "addressText": "8 Thomondgate, Limerick, V94 HK74",
+    "solarMode": "facade",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.6704,
+    "frontObservationPointLon": -8.6287,
+    "facadeWidthM": 7.5,
+    "websiteUrl": "https://www.jjbowlespub.com"
   },
   {
     "id": "j-j-cunningham-node-11495466656",
@@ -19997,10 +20063,6 @@
     "frontObservationPointLat": 53.3364,
     "frontObservationPointLon": -6.2655,
     "facadeWidthM": 13,
-    "foodOffer": {
-      "category": "no-food",
-      "confidence": "confirmed"
-    },
     "websiteUrl": "http://jimmyrabbittes.com",
     "instagramUrl": "https://instagram.com/jimmyrabbittes"
   },
@@ -28953,7 +29015,7 @@
     "googleFormattedAddress": "8-9 Poolbeg Street, Dublin 2, D02 TK71, Ireland",
     "solarMode": "facade",
     "frontBearingDeg": 180.7,
-    "shadeClearanceDeg": 7.5,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3469,
@@ -34082,7 +34144,7 @@
     "frontObservationPointLon": -6.2786,
     "facadeWidthM": 4.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -34947,7 +35009,7 @@
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -37189,7 +37251,7 @@
     "googleFormattedAddress": "12 Tullow St, Carlow, R93 PP79",
     "solarMode": "facade",
     "frontBearingDeg": 13,
-    "shadeClearanceDeg": 17.5,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.8363,
@@ -39545,7 +39607,7 @@
     "googleFormattedAddress": "60 Ranelagh, Dublin 6, D06 C9C6",
     "solarMode": "facade",
     "frontBearingDeg": 221,
-    "shadeClearanceDeg": 7.5,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3251,
@@ -40892,7 +40954,7 @@
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "websiteUrl": "https://thebarbers.ie",
@@ -41045,12 +41107,17 @@
     "frontObservationPointLat": 53.3375,
     "frontObservationPointLon": -6.2322,
     "facadeWidthM": 8.9,
+    "outdoorObservationPointLat": 53.3373867,
+    "outdoorObservationPointLon": -6.2321354,
+    "outdoorAreaWidthM": 12.4,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-1108388886",
+    "outdoorAreaProfileId": "osm:way:1108388886",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -41270,7 +41337,7 @@
     "frontObservationPointLon": -6.2714,
     "facadeWidthM": 16.6,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -46769,6 +46836,9 @@
     "name": "The Ginger Man",
     "lat": 53.33742,
     "lon": -6.24402,
+    "town": "Dublin",
+    "county": "Dublin",
+    "addressText": "39-40 Fenian St, Dublin 2, D02 KD51",
     "solarMode": "facade",
     "frontBearingDeg": 30.4,
     "shadeClearanceDeg": 7.5,
@@ -46884,7 +46954,7 @@
     "frontObservationPointLon": -6.2818,
     "facadeWidthM": 4.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -50897,7 +50967,7 @@
     "frontObservationPointLon": -6.3029,
     "facadeWidthM": 18,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -51719,7 +51789,7 @@
     "frontObservationPointLon": -6.2229,
     "facadeWidthM": 4.5,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -56777,7 +56847,7 @@
     "frontObservationPointLon": -6.3053,
     "facadeWidthM": 14.9,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {
@@ -58563,10 +58633,6 @@
     "frontObservationPointLat": 53.2725,
     "frontObservationPointLon": -9.0538,
     "facadeWidthM": 4.5,
-    "foodOffer": {
-      "category": "no-food",
-      "confidence": "confirmed"
-    },
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -60894,7 +60960,7 @@
     "frontObservationPointLon": -6.2622,
     "facadeWidthM": 12.3,
     "foodOffer": {
-      "category": "pub-menu",
+      "category": "full-menu",
       "confidence": "confirmed"
     },
     "foodTags": {

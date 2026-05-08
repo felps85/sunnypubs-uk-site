@@ -11263,6 +11263,20 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {
@@ -11515,6 +11529,20 @@
     "facadeWidthM": 6.3,
     "outdoorArea": {
       "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza"
+      ],
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
       "confidence": "confirmed"
     }
   },
@@ -12168,5 +12196,76 @@
     "frontObservationPointLat": 53.7984,
     "frontObservationPointLon": -1.5477,
     "facadeWidthM": 18
+  },
+  {
+    "id": "restaurants-aracelis-way-287795680",
+    "name": "Araceli's",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.318506,
+    "lon": -0.558942,
+    "regionId": "london",
+    "regionLabel": "London Surrounds",
+    "locationLabel": "16 Commercial Way, Woking, GU21 6ET",
+    "websiteUrl": "https://www.aracelis.co.uk/",
+    "solarMode": "facade",
+    "frontBearingDeg": 134.8,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.3187,
+    "frontObservationPointLon": -0.5588,
+    "facadeWidthM": 4.5,
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "wifi": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "restaurants-abbots-tandoori-node-2399943060",
+    "name": "Abbots Tandoori",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.705687,
+    "lon": -0.417123,
+    "regionId": "london",
+    "regionLabel": "London Surrounds",
+    "locationLabel": "High Street, Abbots Langley, WD5 0AB",
+    "solarMode": "facade",
+    "frontBearingDeg": 249.9,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.7057,
+    "frontObservationPointLon": -0.4172,
+    "facadeWidthM": 9.1
+  },
+  {
+    "id": "restaurants-atto-node-12953470763",
+    "name": "Atto",
+    "placeTypeId": "restaurant",
+    "appId": "uk",
+    "lat": 51.235971,
+    "lon": -0.574428,
+    "regionId": "london",
+    "regionLabel": "London Surrounds",
+    "locationLabel": "15-17 Swan Lane, Guildford, GU1 4EQ",
+    "websiteUrl": "https://www.attokorean.com/contact-10",
+    "solarMode": "facade",
+    "frontBearingDeg": 262.7,
+    "shadeClearanceDeg": 32.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 51.236,
+    "frontObservationPointLon": -0.5743,
+    "facadeWidthM": 9.5,
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
   }
 ]
