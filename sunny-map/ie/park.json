@@ -4359,5 +4359,227 @@
         "toilet"
       ]
     }
+  },
+  {
+    "id": "parks-beechill-dcc-park",
+    "name": "Beechill",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.313787,
+    "lon": -6.234227,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Beech Hill Dr, Roebuck, Dublin 4, Co. Dublin, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/beechill",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-bluebell-park-dcc-park",
+    "name": "Bluebell Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.332242,
+    "lon": -6.336043,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "46 La Touche Rd, Inchicore, Dublin 11, Co. Dublin, D12 HX32, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/bluebell-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "football-pitch",
+        "multi-sport-court",
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-cabbage-patch-dcc-park",
+    "name": "Cabbage Patch",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.336945,
+    "lon": -6.271107,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "New St Gardens, Wood Quay, Dublin 8, Co. Dublin, D08 V0HF, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/cabbage-patch",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-clontarf-promenade-dcc-park",
+    "name": "Clontarf Promenade",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.35956,
+    "lon": -6.202954,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Clontarf Rd, Clontarf East, Dublin, Co. Dublin, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/clontarf-promenade",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-coultry-park-dcc-park",
+    "name": "Coultry Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.397321,
+    "lon": -6.258467,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Coultry Terrace, Ballymun, Dublin 9, Co. Dublin, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/coultry-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "football-pitch"
+      ]
+    }
+  },
+  {
+    "id": "parks-dodderdropping-well-dcc-park",
+    "name": "Dodder/Dropping Well",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.308169,
+    "lon": -6.252025,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Orwell Gardens, Rathmines, Dublin, Co. Dublin, D14 PT93, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/dodder-dropping-well",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-edenmore-park-dcc-park",
+    "name": "Edenmore Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.386285,
+    "lon": -6.179841,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "61-89 Edenmore Cres, Northside, Dublin 5, Co. Dublin, D05 NX01, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/edenmore-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "football-pitch",
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-grattan-crescent-dcc-park",
+    "name": "Grattan Crescent",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.340452,
+    "lon": -6.319228,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Grattan Crescent Park, Grattan Cres, Kilmainham, Dublin, Co. Dublin, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/grattan-crescent-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-kylemore-park-dcc-park",
+    "name": "Kylemore Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.338311,
+    "lon": -6.35102,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Kylemore Park, Kylemore Park North, Ballyfermot, Dublin 10, Co. Dublin, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/kylemore-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-le-fanu-park-dcc-park",
+    "name": "Le Fanu Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.33896,
+    "lon": -6.357813,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Le Fanu Park, Le Fanu Rd, Kylemore, Dublin, Co. Dublin, Ireland",
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/le-fanu-park",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym"
+      ]
+    }
   }
 ]

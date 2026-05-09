@@ -4136,5 +4136,217 @@
         "visitor-centre"
       ]
     }
+  },
+  {
+    "id": "parks-beechill-dcc-park",
+    "appId": "ie",
+    "name": "Beechill",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Beech Hill Dr, Roebuck, Dublin 4, Co. Dublin, Ireland",
+    "lat": 53.313787,
+    "lon": -6.234227,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/beechill",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "football-pitch",
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-bluebell-park-dcc-park",
+    "appId": "ie",
+    "name": "Bluebell Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "46 La Touche Rd, Inchicore, Dublin 11, Co. Dublin, D12 HX32, Ireland",
+    "lat": 53.332242,
+    "lon": -6.336043,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/bluebell-park",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "football-pitch",
+        "multi-sport-court",
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-cabbage-patch-dcc-park",
+    "appId": "ie",
+    "name": "Cabbage Patch",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "New St Gardens, Wood Quay, Dublin 8, Co. Dublin, D08 V0HF, Ireland",
+    "lat": 53.336945,
+    "lon": -6.271107,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/cabbage-patch",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-clontarf-promenade-dcc-park",
+    "appId": "ie",
+    "name": "Clontarf Promenade",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Clontarf Rd, Clontarf East, Dublin, Co. Dublin, Ireland",
+    "lat": 53.35956,
+    "lon": -6.202954,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/clontarf-promenade",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-coultry-park-dcc-park",
+    "appId": "ie",
+    "name": "Coultry Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Coultry Terrace, Ballymun, Dublin 9, Co. Dublin, Ireland",
+    "lat": 53.397321,
+    "lon": -6.258467,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/coultry-park",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "football-pitch"
+      ]
+    }
+  },
+  {
+    "id": "parks-dodderdropping-well-dcc-park",
+    "appId": "ie",
+    "name": "Dodder/Dropping Well",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Orwell Gardens, Rathmines, Dublin, Co. Dublin, D14 PT93, Ireland",
+    "lat": 53.308169,
+    "lon": -6.252025,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/dodder-dropping-well",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "parks-edenmore-park-dcc-park",
+    "appId": "ie",
+    "name": "Edenmore Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "61-89 Edenmore Cres, Northside, Dublin 5, Co. Dublin, D05 NX01, Ireland",
+    "lat": 53.386285,
+    "lon": -6.179841,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/edenmore-park",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground",
+        "football-pitch",
+        "outdoor-gym"
+      ]
+    }
+  },
+  {
+    "id": "parks-grattan-crescent-dcc-park",
+    "appId": "ie",
+    "name": "Grattan Crescent",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Grattan Crescent Park, Grattan Cres, Kilmainham, Dublin, Co. Dublin, Ireland",
+    "lat": 53.340452,
+    "lon": -6.319228,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/grattan-crescent-park",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "playground"
+      ]
+    }
+  },
+  {
+    "id": "parks-kylemore-park-dcc-park",
+    "appId": "ie",
+    "name": "Kylemore Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Kylemore Park, Kylemore Park North, Ballyfermot, Dublin 10, Co. Dublin, Ireland",
+    "lat": 53.338311,
+    "lon": -6.35102,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/kylemore-park",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "multi-sport-court"
+      ]
+    }
+  },
+  {
+    "id": "parks-le-fanu-park-dcc-park",
+    "appId": "ie",
+    "name": "Le Fanu Park",
+    "type": "park",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Le Fanu Park, Le Fanu Rd, Kylemore, Dublin, Co. Dublin, Ireland",
+    "lat": 53.33896,
+    "lon": -6.357813,
+    "websiteUrl": "https://www.dublincity.ie/parks-and-nature/dublin-city-parks/visit-park/le-fanu-park",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "outdoor-gym"
+      ]
+    }
   }
 ]

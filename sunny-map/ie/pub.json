@@ -7812,6 +7812,25 @@
     "facadeWidthM": 6.8
   },
   {
+    "id": "pubs-capenters-way-787675393",
+    "name": "Carpenters",
+    "placeTypeId": "pub",
+    "appId": "ie",
+    "lat": 52.835129,
+    "lon": -6.925847,
+    "displayLat": 52.835129,
+    "displayLon": -6.925847,
+    "town": "Carlow",
+    "county": "Carlow",
+    "addressText": "10 Barrack Street, Carlow, R93 R1X2",
+    "websiteUrl": "https://www.carpentersbar.ie",
+    "solarMode": "facade",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 52.8351,
+    "frontObservationPointLon": -6.9258,
+    "facadeWidthM": 15.1
+  },
+  {
     "id": "carroll-s-node-8636701905",
     "name": "Carroll’s",
     "placeTypeId": "pub",
@@ -20710,18 +20729,19 @@
     "name": "Grogan's Castle Lounge",
     "placeTypeId": "pub",
     "appId": "ie",
-    "lat": 53.34398,
-    "lon": -6.26467,
-    "displayLat": 53.34398,
-    "displayLon": -6.26467,
+    "lat": 53.34224,
+    "lon": -6.262705,
+    "displayLat": 53.34224,
+    "displayLon": -6.262705,
+    "town": "Dublin",
+    "county": "Dublin",
+    "addressText": "15 William Street South, Dublin, D02 H336",
+    "websiteUrl": "https://www.groganspub.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 270.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3441,
-    "frontObservationPointLon": -6.2643,
-    "facadeWidthM": 17.2
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "groucho-s-node-1259633162",
@@ -43412,6 +43432,10 @@
     "frontObservationPointLat": 53.3237,
     "frontObservationPointLon": -6.2786,
     "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
     "foodOffer": {
       "category": "full-menu",
       "confidence": "confirmed"
@@ -50821,10 +50845,15 @@
     "frontObservationPointLat": 53.3346,
     "frontObservationPointLon": -6.2423,
     "facadeWidthM": 13.6,
+    "outdoorAreaProfileId": "osm:way:1469903453",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "outdoorObservationPointLat": 53.3345138,
+    "outdoorObservationPointLon": -6.2423713,
+    "outdoorAreaWidthM": 16.8,
+    "outdoorAreaInferenceSource": "osm-outdoor-area-way-1469903453",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
