@@ -1735,7 +1735,32 @@
     "frontBearingDeg": 333.1,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Vale Royal"
+    "facadeInferenceRoadName": "Vale Royal",
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://egglondon.co.uk/about-us/"
+    },
+    "vipLounge": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://egglondon.co.uk/book-a-table/"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://egglondon.co.uk/faqs/"
+    },
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://egglondon.co.uk/faqs/"
+    },
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://egglondon.co.uk/faqs/"
+    }
   },
   {
     "id": "nightclubs-electric-ballroom-way-451480064",
@@ -2045,7 +2070,17 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 285.6,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.lightboxlondon.net/"
+    },
+    "vipLounge": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.lightboxlondon.net/"
+    }
   },
   {
     "id": "nightclubs-ma-dame-node-6981977191",
@@ -2184,7 +2219,27 @@
     "frontBearingDeg": 354.1,
     "shadeClearanceDeg": 7.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bohemia Place"
+    "facadeInferenceRoadName": "Bohemia Place",
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.nighttales.co.uk/"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.nighttales.co.uk/"
+    },
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.nighttales.co.uk/"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.nighttales.co.uk/"
+    }
   },
   {
     "id": "nightclubs-night-tales-loft-node-9286567817",
@@ -2210,7 +2265,32 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 179.2,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.ntloft.co.uk/"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.ntloft.co.uk/"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.ntloft.co.uk/private-hire"
+    },
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.ntloft.co.uk/private-hire"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.ntloft.co.uk/private-hire"
+    }
   },
   {
     "id": "nightclubs-no4-mayfair-node-5643033215",
@@ -2390,7 +2470,12 @@
     "facadeWidthM": 7.3,
     "frontBearingDeg": 73.2,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.tapelondon.com/"
+    }
   },
   {
     "id": "nightclubs-the-brink-node-9116743525",
@@ -2442,7 +2527,12 @@
     "frontBearingDeg": 148.3,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bell Lane"
+    "facadeInferenceRoadName": "Bell Lane",
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://supportthecause.co.uk/faqs"
+    }
   },
   {
     "id": "nightclubs-the-cuckoo-club-node-5471743323",
@@ -2467,7 +2557,22 @@
     "frontBearingDeg": 117.8,
     "shadeClearanceDeg": 17.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Swallow Street"
+    "facadeInferenceRoadName": "Swallow Street",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.thecuckooclub.com/faq"
+    },
+    "bottleService": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.thecuckooclub.com/faq"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed",
+      "source": "https://www.thecuckooclub.com/faq"
+    }
   },
   {
     "id": "nightclubs-the-dome-node-5208012486",

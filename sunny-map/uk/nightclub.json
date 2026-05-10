@@ -1447,7 +1447,27 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5417,
     "frontObservationPointLon": -0.1248,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "vipLounge": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-electric-ballroom-way-451480064",
@@ -1704,7 +1724,15 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.4853,
     "frontObservationPointLon": -0.1235,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "vipLounge": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-ma-dame-node-6981977191",
@@ -1814,7 +1842,23 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5474,
     "frontObservationPointLon": -0.0532,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-night-tales-loft-node-9286567817",
@@ -1836,7 +1880,27 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5374,
     "frontObservationPointLon": -0.0578,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-no4-mayfair-node-5643033215",
@@ -1991,7 +2055,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5143,
     "frontObservationPointLon": -0.1446,
-    "facadeWidthM": 7.3
+    "facadeWidthM": 7.3,
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-the-brink-node-9116743525",
@@ -2034,7 +2102,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5042,
     "frontObservationPointLon": 0.0168,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-the-cuckoo-club-node-5471743323",
@@ -2055,7 +2127,19 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5099,
     "frontObservationPointLon": -0.1379,
-    "facadeWidthM": 9.1
+    "facadeWidthM": 9.1,
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "bottleService": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-the-dome-node-5208012486",
