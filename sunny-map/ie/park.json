@@ -2712,6 +2712,39 @@
     "solarMode": "open-area"
   },
   {
+    "id": "national-botanic-garden-glasnevin-dublin",
+    "name": "National Botanic Garden of Ireland - Glasnevin",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.372236,
+    "lon": -6.272147,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Glasnevin, Dublin 9, D09 VY63",
+    "websiteUrl": "https://heritageireland.ie/visit/places-to-visit/national-botanic-gardens",
+    "instagramUrl": "https://instagram.com/nationalbotanicgardens_ireopw",
+    "solarMode": "open-area",
+    "wheelchairAccess": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "bike-parking",
+        "parking",
+        "toilet"
+      ]
+    }
+  },
+  {
     "id": "parks-palmerston-park-way-23793521",
     "name": "Palmerston Park",
     "placeTypeId": "park",
@@ -2790,6 +2823,37 @@
       "amenityTypes": [
         "entrance",
         "playground"
+      ]
+    }
+  },
+  {
+    "id": "phoenix-park-dublin",
+    "name": "Phoenix Park",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 53.358938,
+    "lon": -6.330711,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Superintendent's Office, The Whitefields, Phoenix Park, Dublin, D08 KDC4",
+    "websiteUrl": "https://www.phoenixpark.ie/directions",
+    "instagramUrl": "https://instagram.com/opwireland",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "visitor-centre"
       ]
     }
   },
@@ -4357,6 +4421,45 @@
         "parking",
         "playground",
         "toilet"
+      ]
+    }
+  },
+  {
+    "id": "national-botanic-garden-kilmacurragh-wicklow",
+    "name": "National Botanic Garden of Ireland - Kilmacurragh",
+    "placeTypeId": "park",
+    "appId": "ie",
+    "lat": 52.92956,
+    "lon": -6.148874,
+    "regionId": "wicklow",
+    "regionLabel": "Wicklow",
+    "locationLabel": "Kilbride, Co. Wicklow, A67 YR12",
+    "websiteUrl": "https://heritageireland.ie/visit/places-to-visit/national-botanic-gardens-kilmacurragh",
+    "instagramUrl": "https://instagram.com/kilmacurraghgardensopw",
+    "solarMode": "open-area",
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "wheelchairAccess": {
+      "status": "limited",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "snacks",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parkAmenitySummary": {
+      "amenityTypes": [
+        "entrance",
+        "parking",
+        "picnic-area",
+        "toilet",
+        "visitor-centre"
       ]
     }
   },

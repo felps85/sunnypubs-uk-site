@@ -3892,6 +3892,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://libertygrill.ie",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "AQDwAwAAAAAAAACAAEAAADgABgCAA3AAADjABwCAD38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -3951,6 +3957,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.thespitjack.com",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "AQDwAwAAAAAAAACAAGAAABgABgCAAXAAAHjABwCAD38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -6364,7 +6376,13 @@
     "frontBearingDeg": 77.6,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Capel Street"
+    "facadeInferenceRoadName": "Capel Street",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-bullet-duck-and-dumplings-node-8423521717",
@@ -8510,7 +8528,13 @@
     "frontBearingDeg": 188.3,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Hanover Quay"
+    "facadeInferenceRoadName": "Hanover Quay",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-hillbillys-node-2886231115",
@@ -10310,7 +10334,13 @@
     "outdoorObservationPointLat": 53.3541,
     "outdoorObservationPointLon": -6.257,
     "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-osteria-lucio-node-4201938189",
@@ -11828,7 +11858,13 @@
     "facadeWidthM": 17.4,
     "frontBearingDeg": 165.8,
     "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-taste-at-rustic-node-880897739",
@@ -14326,6 +14362,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.ardbia.com",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Af//AwAADAAAAMAAAAAADAAABsAAAOADHgAAfvwBAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -14561,6 +14603,12 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://dela.ie",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAEAAABgABACAAWAAADgABwCAB3gAAPjABwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -15071,7 +15119,17 @@
     "facadeWidthM": 18,
     "frontBearingDeg": 299.2,
     "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-spiced-india-node-9925226607",
@@ -17110,6 +17168,12 @@
     },
     "websiteUrl": "https://www.thespitjack.com",
     "instagramUrl": "https://instagram.com/thespitjack",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAIAwAAwAAB8AAMAwAc4AAB8gAMAwH89AAD89wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -22803,7 +22867,13 @@
     "facadeWidthM": 6.8,
     "frontBearingDeg": 172.1,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-avalon-node-4554269900",
@@ -27367,5 +27437,29 @@
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "The Mall"
+  },
+  {
+    "id": "restaurants-the-pigeon-house-way-374958547",
+    "appId": "ie",
+    "name": "The Pigeon House",
+    "type": "restaurant",
+    "regionId": "dublin",
+    "regionLabel": "Clontarf",
+    "locationLabel": "11B Vernon Avenue, Clontarf, Dublin, D03 DK23",
+    "lat": 53.35995,
+    "lon": -6.195647,
+    "solarMode": "facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAgAAAAAAOAAAA+AAAYMAPAAAO/AAA4OMPAAD+/wAA4P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3599,
+    "frontObservationPointLon": -6.1958,
+    "facadeWidthM": 13.4,
+    "frontBearingDeg": 278.2,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Vernon Avenue"
   }
 ]

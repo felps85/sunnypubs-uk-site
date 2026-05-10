@@ -130,7 +130,27 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.8973,
     "frontObservationPointLon": -8.4741,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "bottleService": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "vipLounge": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-block-node-13457855285",
@@ -195,7 +215,35 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3358,
     "frontObservationPointLon": -6.2632,
-    "facadeWidthM": 14.4
+    "facadeWidthM": 14.4,
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "soundSystem": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "vipLounge": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-d-two-node-775415426",
@@ -218,6 +266,14 @@
     "frontObservationPointLon": -6.2629,
     "facadeWidthM": 17,
     "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
       "status": "yes",
       "confidence": "confirmed"
     }
@@ -272,7 +328,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.334,
     "frontObservationPointLon": -6.2551,
-    "facadeWidthM": 7
+    "facadeWidthM": 7,
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-index-dublin-node-13432368201",
@@ -322,6 +382,18 @@
     "frontObservationPointLon": -6.2655,
     "facadeWidthM": 13,
     "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
       "status": "yes",
       "confidence": "confirmed"
     }
@@ -499,9 +571,174 @@
     "frontObservationPointLat": 52.6637,
     "frontObservationPointLon": -8.623,
     "facadeWidthM": 18,
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
+  },
+  {
+    "id": "nightclubs-wilde-node-12718561102",
+    "name": "Wilde",
+    "placeTypeId": "nightclub",
+    "appId": "ie",
+    "lat": 51.897083,
+    "lon": -8.473652,
+    "regionId": "cork",
+    "regionLabel": "Cork",
+    "locationLabel": "64 Oliver Plunkett Street, Cork, T12 K5FH",
+    "websiteUrl": "https://www.wildecork.com",
+    "instagramUrl": "https://instagram.com/wildecork",
+    "solarMode": "outdoor-area",
+    "status": "unavailable",
+    "lgbtqFriendly": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "nightclubs-icon-node-2177640713",
+    "name": "Icon Nightclub",
+    "placeTypeId": "nightclub",
+    "appId": "ie",
+    "lat": 52.663324,
+    "lon": -8.623171,
+    "regionId": "limerick",
+    "regionLabel": "Limerick",
+    "locationLabel": "Denmark Street, Limerick",
+    "solarMode": "outdoor-area",
+    "status": "unavailable",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "nightclubs-the-george-way-273520544",
+    "name": "The George",
+    "placeTypeId": "nightclub",
+    "appId": "ie",
+    "lat": 53.343812,
+    "lon": -6.264645,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "89 South Great George's Street, Dublin 2, D02 R220",
+    "websiteUrl": "https://thegeorge.ie",
+    "instagramUrl": "https://instagram.com/thegeorgedublin",
+    "solarMode": "outdoor-area",
+    "status": "unavailable",
+    "lgbtqFriendly": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "danceFloor": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "nightclubs-diceys-garden-node-4337347089",
+    "name": "Dicey's Garden",
+    "placeTypeId": "nightclub",
+    "appId": "ie",
+    "lat": 53.335909,
+    "lon": -6.26356,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "21-25 Harcourt Street, Dublin 2, D02 YF24",
+    "websiteUrl": "https://www.russellcourthotel.ie/diceys-garden/",
+    "solarMode": "outdoor-area",
+    "status": "unavailable",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "nightclubs-krystle-node-739778204",
+    "name": "Krystle",
+    "placeTypeId": "nightclub",
+    "appId": "ie",
+    "lat": 53.335843,
+    "lon": -6.263564,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "21-25 Harcourt Street, Dublin 2, D02 YF24",
+    "websiteUrl": "https://www.russellcourthotel.ie/",
+    "solarMode": "outdoor-area",
+    "status": "unavailable"
+  },
+  {
+    "id": "nightclubs-everleigh-garden-node-3771358965",
+    "name": "Everleigh Garden",
+    "placeTypeId": "nightclub",
+    "appId": "ie",
+    "lat": 53.335161,
+    "lon": -6.263486,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "33 Harcourt Street, Dublin 2",
+    "websiteUrl": "https://everleighgarden.com",
+    "solarMode": "outdoor-area",
+    "status": "unavailable"
   }
 ]

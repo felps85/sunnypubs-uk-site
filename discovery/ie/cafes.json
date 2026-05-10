@@ -2728,7 +2728,13 @@
     "outdoorObservationPointLat": 53.1327,
     "outdoorObservationPointLon": -6.0936,
     "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-caffe-nero-way-956601354",
@@ -4295,6 +4301,12 @@
     "facadeInferenceSource": "osm-building-facade",
     "outdoorArea": {
       "type": "terrace",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
@@ -6983,7 +6995,13 @@
     "outdoorObservationPointLat": 53.3471,
     "outdoorObservationPointLon": -6.2654,
     "outdoorAreaWidthM": 10.9,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-lisboa-pastelaria-way-260308025",
@@ -9249,6 +9267,11 @@
     "name": "Two Pups Coffee",
     "regionLabel": "Dublin",
     "locationLabel": "74 Francis St, The Liberties, Dublin 8",
+    "lat": 53.339387,
+    "lon": -6.273491,
+    "geospatialSource": "osm-overpass",
+    "geospatialSourceUrl": "https://www.openstreetmap.org/node/4331570723",
+    "placementConfidence": "exact",
     "regionId": "dublin",
     "foodOffer": {
       "category": "pub-menu",
@@ -10235,6 +10258,12 @@
     },
     "websiteUrl": "https://corribhouse.com",
     "instagramUrl": "https://instagram.com/corribhousegalway",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
     "solarMode": "facade",
     "sunGeometryProfileBase64": "Af7/AwMAADh+AADg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -11153,6 +11182,12 @@
     },
     "foodOffer": {
       "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.arankilkenny.ie",
@@ -16427,7 +16462,14 @@
     "facadeWidthM": 9.3,
     "frontBearingDeg": 174.1,
     "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "websiteUrl": "https://bibis.ie",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-bloody-marys-node-5599889521",
@@ -19733,5 +19775,76 @@
     "frontBearingDeg": 27.2,
     "shadeClearanceDeg": 2.5,
     "facadeInferenceSource": "osm-building-facade"
+  },
+  {
+    "id": "cafes-stage-door-node-567736392",
+    "appId": "ie",
+    "name": "Stage Door",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "10B-11 Essex Street East, Dublin, D02 PW83",
+    "lat": 53.345217,
+    "lon": -6.265919,
+    "solarMode": "facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAEAAADwIQAAAB8CAAD4PwAA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3455,
+    "frontObservationPointLon": -6.2657,
+    "facadeWidthM": 13,
+    "frontBearingDeg": 166.3,
+    "shadeClearanceDeg": 17.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Meeting House Square"
+  },
+  {
+    "id": "cafes-two-boys-brew-node-6068432985",
+    "appId": "ie",
+    "name": "Two Boys Brew",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "375 North Circular Road",
+    "lat": 53.360829,
+    "lon": -6.271538,
+    "solarMode": "facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed",
+    "sunGeometryProfileBase64": "Af7/AwAAAAAAAPhHAAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3608,
+    "frontObservationPointLon": -6.2715,
+    "facadeWidthM": 7.6,
+    "frontBearingDeg": 187.2,
+    "shadeClearanceDeg": 7.5,
+    "facadeInferenceSource": "osm-building-facade"
+  },
+  {
+    "id": "cafes-jay-kays-node-11195349862",
+    "appId": "ie",
+    "name": "Jay Kays",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "lat": 53.347106,
+    "lon": -6.265238,
+    "solarMode": "facade",
+    "sourceConfidence": "confirmed",
+    "geospatialSource": "osm-overpass",
+    "placementConfidence": "source-backed",
+    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAAAAAABAACAEAAIAAABAADAEAAOAAALMADAMAHPwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "frontObservationPointLat": 53.3471,
+    "frontObservationPointLon": -6.2653,
+    "facadeWidthM": 18,
+    "frontBearingDeg": 256.8,
+    "shadeClearanceDeg": 22.5,
+    "facadeInferenceSource": "osm-building-facade",
+    "facadeInferenceRoadName": "Millennium Walkway"
   }
 ]

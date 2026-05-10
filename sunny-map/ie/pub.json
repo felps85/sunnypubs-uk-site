@@ -7825,7 +7825,10 @@
     "addressText": "10 Barrack Street, Carlow, R93 R1X2",
     "websiteUrl": "https://www.carpentersbar.ie",
     "solarMode": "facade",
+    "frontBearingDeg": 128.6,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.8351,
     "frontObservationPointLon": -6.9258,
     "facadeWidthM": 15.1
@@ -9223,7 +9226,10 @@
     "addressText": "15-16 Princes Street, Cork, T12 V6FH",
     "websiteUrl": "https://www.clancyscork.ie",
     "solarMode": "facade",
+    "frontBearingDeg": 72.4,
+    "shadeClearanceDeg": 22.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.8972,
     "frontObservationPointLon": -8.4725,
     "facadeWidthM": 4.5
@@ -16148,7 +16154,10 @@
     "addressText": "Centaur Street, Carlow, R93 E030",
     "websiteUrl": "https://ewingscarlow.com",
     "solarMode": "facade",
+    "frontBearingDeg": 90.9,
+    "shadeClearanceDeg": 12.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.8376,
     "frontObservationPointLon": -6.933,
     "facadeWidthM": 11.8
@@ -20738,6 +20747,13 @@
     "addressText": "15 William Street South, Dublin, D02 H336",
     "websiteUrl": "https://www.groganspub.ie",
     "solarMode": "facade",
+    "frontBearingDeg": 290.4,
+    "shadeClearanceDeg": 12.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3423,
+    "frontObservationPointLon": -6.2623,
+    "facadeWidthM": 12.9,
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -23713,7 +23729,10 @@
     "addressText": "1 Albert Quay, Cork, T12 TYK0",
     "websiteUrl": "https://theidlehour.ie",
     "solarMode": "facade",
+    "frontBearingDeg": 345,
+    "shadeClearanceDeg": 2.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.8983,
     "frontObservationPointLon": -8.4613,
     "facadeWidthM": 7.6
@@ -24461,7 +24480,10 @@
     "addressText": "8 Thomondgate, Limerick, V94 HK74",
     "websiteUrl": "https://www.jjbowlespub.com",
     "solarMode": "facade",
+    "frontBearingDeg": 240.9,
+    "shadeClearanceDeg": 7.5,
     "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.6704,
     "frontObservationPointLon": -8.6287,
     "facadeWidthM": 7.5

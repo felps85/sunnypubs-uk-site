@@ -2665,6 +2665,12 @@
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
     }
   },
   {
@@ -4165,6 +4171,12 @@
     "facadeWidthM": 8.4,
     "outdoorArea": {
       "type": "terrace",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
@@ -6786,6 +6798,12 @@
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
     }
   },
   {
@@ -8962,6 +8980,31 @@
     "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
   },
   {
+    "id": "two-pups-coffee-liberties-dublin-1",
+    "name": "Two Pups Coffee",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.339387,
+    "lon": -6.273491,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "74 Francis St, The Liberties, Dublin 8",
+    "websiteUrl": "https://www.twopupscoffee.com",
+    "instagramUrl": "https://instagram.com/two_pups_coffee",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
+  },
+  {
     "id": "cafes-urban-health-node-1426048609",
     "name": "Urban Health",
     "placeTypeId": "cafe",
@@ -9914,7 +9957,13 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.2765,
     "frontObservationPointLon": -9.0549,
-    "facadeWidthM": 10.9
+    "facadeWidthM": 10.9,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-dollys-coffee-node-13382366401",
@@ -10818,6 +10867,12 @@
     },
     "foodOffer": {
       "category": "pub-menu",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
       "confidence": "confirmed"
     }
   },
@@ -15641,6 +15696,7 @@
     "regionId": "dublin",
     "regionLabel": "Dublin",
     "locationLabel": "14b Emorville Avenue",
+    "websiteUrl": "https://bibis.ie",
     "solarMode": "facade",
     "frontBearingDeg": 174.1,
     "shadeClearanceDeg": 7.5,
@@ -15648,7 +15704,13 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3336,
     "frontObservationPointLon": -6.2725,
-    "facadeWidthM": 9.3
+    "facadeWidthM": 9.3,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-bloody-marys-node-5599889521",
@@ -18360,6 +18422,63 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.277,
     "frontObservationPointLon": -6.2117,
+    "facadeWidthM": 18
+  },
+  {
+    "id": "cafes-stage-door-node-567736392",
+    "name": "Stage Door",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.345217,
+    "lon": -6.265919,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "10B-11 Essex Street East, Dublin, D02 PW83",
+    "solarMode": "facade",
+    "frontBearingDeg": 166.3,
+    "shadeClearanceDeg": 17.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3455,
+    "frontObservationPointLon": -6.2657,
+    "facadeWidthM": 13
+  },
+  {
+    "id": "cafes-two-boys-brew-node-6068432985",
+    "name": "Two Boys Brew",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.360829,
+    "lon": -6.271538,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "375 North Circular Road",
+    "solarMode": "facade",
+    "frontBearingDeg": 187.2,
+    "shadeClearanceDeg": 7.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3608,
+    "frontObservationPointLon": -6.2715,
+    "facadeWidthM": 7.6
+  },
+  {
+    "id": "cafes-jay-kays-node-11195349862",
+    "name": "Jay Kays",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.347106,
+    "lon": -6.265238,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Dublin",
+    "solarMode": "facade",
+    "frontBearingDeg": 256.8,
+    "shadeClearanceDeg": 22.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": 53.3471,
+    "frontObservationPointLon": -6.2653,
     "facadeWidthM": 18
   }
 ]
