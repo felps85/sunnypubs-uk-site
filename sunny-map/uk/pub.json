@@ -88880,6 +88880,7 @@
     "displayLon": -0.1286818,
     "city": "London",
     "regionId": "london",
+    "websiteUrl": "https://www.morpetharms.com",
     "solarMode": "facade",
     "frontBearingDeg": 141.5,
     "shadeClearanceDeg": 2.5,
@@ -88887,7 +88888,15 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.4893,
     "frontObservationPointLon": -0.1286,
-    "facadeWidthM": 10.9
+    "facadeWidthM": 10.9,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    },
+    "snug": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "morris-arms-swansea-way-725709849",
@@ -144374,6 +144383,7 @@
     "displayLon": -1.4823544,
     "city": "Sheffield",
     "regionId": "sheffield",
+    "websiteUrl": "https://thebathhotelpub.com",
     "solarMode": "facade",
     "frontBearingDeg": 314.7,
     "shadeClearanceDeg": 17.5,
@@ -144381,7 +144391,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3792,
     "frontObservationPointLon": -1.4824,
-    "facadeWidthM": 11.6
+    "facadeWidthM": 11.6,
+    "snug": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "the-bath-house-cambridge-way-149032883",
@@ -191635,6 +191649,7 @@
     "displayLon": -0.1007062,
     "city": "London",
     "regionId": "london",
+    "websiteUrl": "https://www.halfmoonhernehill.co.uk",
     "solarMode": "facade",
     "frontBearingDeg": 349,
     "shadeClearanceDeg": 7.5,
@@ -191642,7 +191657,15 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.4528,
     "frontObservationPointLon": -0.1007,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "snug": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "the-half-moon-london-way-145796452",
@@ -259423,6 +259446,7 @@
     "displayLon": -1.5007405,
     "city": "Sheffield",
     "regionId": "sheffield",
+    "websiteUrl": "https://www.thewaggonsheffield.co.uk",
     "solarMode": "facade",
     "frontBearingDeg": 126.3,
     "shadeClearanceDeg": 2.5,
@@ -259430,7 +259454,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.343,
     "frontObservationPointLon": -1.5006,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "snug": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "the-waggon-and-horses-london-way-1029856156",

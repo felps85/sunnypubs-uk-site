@@ -291,7 +291,7 @@
     "regionId": "brighton",
     "regionLabel": "Brighton",
     "locationLabel": "5 Middle Street, BN1 1AL",
-    "websiteUrl": "https://www.casablancajazzclub.com",
+    "websiteUrl": "https://www.casasclub.co.uk",
     "solarMode": "outdoor-area",
     "status": "unavailable",
     "frontBearingDeg": 95.8,
@@ -300,7 +300,24 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 50.8208,
     "frontObservationPointLon": -0.1434,
-    "facadeWidthM": 5.1
+    "facadeWidthM": 5.1,
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "musicGenres": {
+      "genres": [
+        "soul",
+        "funk",
+        "disco",
+        "pop"
+      ],
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-tide-club-node-11182160517",
@@ -611,6 +628,10 @@
     "frontObservationPointLat": 51.4884,
     "frontObservationPointLon": -3.177,
     "facadeWidthM": 18,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -635,7 +656,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.3735,
     "frontObservationPointLon": -0.0994,
-    "facadeWidthM": 17.8
+    "facadeWidthM": 17.8,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fever-way-116042877",
@@ -894,7 +919,33 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 55.8586,
     "frontObservationPointLon": -4.257,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "musicGenres": {
+      "genres": [
+        "rock"
+      ],
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lightingVisuals": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-polo-lounge-node-1543443657",
@@ -1418,6 +1469,10 @@
     "frontObservationPointLat": 51.5398,
     "frontObservationPointLon": -0.1424,
     "facadeWidthM": 7.4,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -1446,7 +1501,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.485,
     "frontObservationPointLon": -0.1236,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-fire-london-node-13577489801",
@@ -1555,6 +1614,10 @@
     "facadeWidthM": 4.5,
     "wheelchairAccess": {
       "status": "limited",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
       "confidence": "confirmed"
     }
   },
@@ -1882,7 +1945,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5306,
     "frontObservationPointLon": -0.1214,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-shoreditch-townhouse-way-173037429",
@@ -2356,7 +2423,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.5234,
     "frontObservationPointLon": -0.0789,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-xoyo-way-155362965",
@@ -2762,7 +2833,23 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.6298,
     "frontObservationPointLon": 1.3003,
-    "facadeWidthM": 13.1
+    "facadeWidthM": 13.1,
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "multipleRooms": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "coatCheck": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-loft-way-242049091",

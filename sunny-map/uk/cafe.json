@@ -3177,7 +3177,13 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.4066,
     "frontObservationPointLon": -0.0297,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-daisy-grey-way-1136507499",
@@ -6397,7 +6403,13 @@
     "outdoorObservationPointLat": 50.824,
     "outdoorObservationPointLon": -0.1444,
     "outdoorAreaWidthM": 10.8,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-moksha-caffe-node-2774717052",
@@ -6421,6 +6433,10 @@
     "facadeWidthM": 8.1,
     "outdoorArea": {
       "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "smokingArea": {
+      "status": "yes",
       "confidence": "confirmed"
     },
     "outdoorObservationPointLat": 50.8282,
@@ -7896,7 +7912,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 50.8976,
     "frontObservationPointLon": -1.4039,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-black-wax-coffee-and-records-node-10135804817",
@@ -8711,6 +8731,10 @@
     "outdoorAreaProfileId": "chelmsford-pavement-licence:25-00424-pavli",
     "outdoorArea": {
       "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "smokingArea": {
+      "status": "yes",
       "confidence": "confirmed"
     },
     "outdoorObservationPointLat": 51.7319,

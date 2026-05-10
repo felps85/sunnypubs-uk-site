@@ -1007,7 +1007,17 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 57.1459,
     "frontObservationPointLon": -2.1025,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-yo-sushi-node-1478313603",
@@ -3395,6 +3405,10 @@
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "outdoorObservationPointLat": 51.3815,
     "outdoorObservationPointLon": -2.36,
     "outdoorAreaWidthM": 6.6,
@@ -4153,7 +4167,17 @@
     "outdoorObservationPointLat": 51.4083,
     "outdoorObservationPointLon": -0.0253,
     "outdoorAreaWidthM": 5.3,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-love-a-slice-node-13674344795",
@@ -7371,7 +7395,25 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.4258,
     "frontObservationPointLon": -1.9219,
-    "facadeWidthM": 4.8
+    "facadeWidthM": 4.8,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-the-malaya-classic-node-12652665201",
@@ -9037,6 +9079,10 @@
     "frontObservationPointLat": 50.8167,
     "frontObservationPointLon": -0.1121,
     "facadeWidthM": 4.6,
+    "smokingArea": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -9476,7 +9522,17 @@
     "outdoorObservationPointLat": 50.8244,
     "outdoorObservationPointLon": -0.1397,
     "outdoorAreaWidthM": 4.6,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "foodTags": {
+      "tags": [
+        "brunch"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-las-iguanas-node-1236329255",
