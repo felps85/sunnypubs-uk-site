@@ -49424,6 +49424,8 @@
     "county": "Kilkenny",
     "addressText": "15 John Street Lower, Kilkenny, Co. Kilkenny, R95 H2CE",
     "googleFormattedAddress": "15 John Street Lower, Gardens, Kilkenny, R95 H2CE",
+    "websiteUrl": "https://sullivanstaproom.com",
+    "instagramUrl": "https://instagram.com/sullivanstaproom",
     "solarMode": "facade",
     "frontBearingDeg": 221.9,
     "shadeClearanceDeg": 27.5,
@@ -49431,7 +49433,30 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.653,
     "frontObservationPointLon": -7.2489,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "burger"
+      ],
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "sully-s-node-3072996004",

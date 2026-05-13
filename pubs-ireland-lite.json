@@ -38823,7 +38823,32 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 52.653,
     "frontObservationPointLon": -7.2489,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "burger-pizza-sandwich",
+      "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "pizza",
+        "burger"
+      ],
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://sullivanstaproom.com",
+    "instagramUrl": "https://instagram.com/sullivanstaproom"
   },
   {
     "id": "sully-s-node-3072996004",
