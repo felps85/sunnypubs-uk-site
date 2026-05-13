@@ -10683,7 +10683,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 55.9499,
     "frontObservationPointLon": -3.1911,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-argile-restaurant-node-3111236572",
@@ -10723,7 +10727,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 55.9499,
     "frontObservationPointLon": -3.2089,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-assaggini-node-2153099985",
@@ -11372,7 +11380,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 50.9276,
     "frontObservationPointLon": -1.3915,
-    "facadeWidthM": 12.7
+    "facadeWidthM": 12.7,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-coriander-lounge-way-183692911",
@@ -11657,7 +11669,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.6159,
     "frontObservationPointLon": -3.9402,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-harvester-way-45324479",

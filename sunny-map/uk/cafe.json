@@ -7053,7 +7053,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 55.9694,
     "frontObservationPointLon": -3.1726,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-august-21-node-2774743761",
@@ -7913,6 +7917,10 @@
     "frontObservationPointLat": 50.8976,
     "frontObservationPointLon": -1.4039,
     "facadeWidthM": 18,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
     "smokingArea": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8096,7 +8104,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.6194,
     "frontObservationPointLon": -3.9442,
-    "facadeWidthM": 4.5
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-coast-cafe-node-4551111127",
@@ -8115,7 +8127,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.6158,
     "frontObservationPointLon": -3.9312,
-    "facadeWidthM": 18
+    "facadeWidthM": 18,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-common-meeple-board-game-cafe-way-1266108743",
@@ -8135,7 +8151,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 51.6161,
     "frontObservationPointLon": -3.9567,
-    "facadeWidthM": 9.9
+    "facadeWidthM": 9.9,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-costa-node-4551111098",
@@ -8308,6 +8328,10 @@
     "frontObservationPointLat": 51.6164,
     "frontObservationPointLon": -3.9382,
     "facadeWidthM": 18,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
