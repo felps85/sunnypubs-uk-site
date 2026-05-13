@@ -1786,7 +1786,26 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "musicGenres": {
+      "genres": [
+        "jazz",
+        "electronic",
+        "trad",
+        "country",
+        "house",
+        "pop"
+      ],
+      "confidence": "confirmed"
+    },
     "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
       "status": "yes",
       "confidence": "confirmed"
     },
@@ -46888,6 +46907,10 @@
       "status": "yes",
       "confidence": "confirmed"
     },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
     "sportsScreenings": {
       "status": "yes",
       "confidence": "confirmed",
@@ -60497,6 +60520,14 @@
       "confidence": "confirmed"
     },
     "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
       "status": "yes",
       "confidence": "confirmed"
     },

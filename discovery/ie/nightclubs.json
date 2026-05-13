@@ -408,7 +408,21 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.yamamori.ie/night-life",
-    "solarMode": "outdoor-area"
+    "solarMode": "outdoor-area",
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "musicGenres": {
+      "genres": [
+        "electronic"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "nightclubs-dna-node-6763852524",

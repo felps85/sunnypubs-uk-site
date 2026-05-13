@@ -16878,6 +16878,12 @@
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
     }
   },
   {

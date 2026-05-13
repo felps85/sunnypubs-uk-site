@@ -17732,7 +17732,13 @@
     "facadeWidthM": 6.2,
     "frontBearingDeg": 176.6,
     "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "facadeInferenceSource": "osm-building-facade",
+    "foodTags": {
+      "tags": [
+        "sandwich"
+      ],
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-brooks-cafe-way-1052152883",

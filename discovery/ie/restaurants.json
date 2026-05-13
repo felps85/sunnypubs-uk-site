@@ -11169,6 +11169,17 @@
     "outdoorArea": {
       "type": "terrace",
       "confidence": "confirmed"
+    },
+    "foodTags": {
+      "tags": [
+        "brunch",
+        "pizza"
+      ],
+      "confidence": "confirmed"
+    },
+    "cocktails": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {

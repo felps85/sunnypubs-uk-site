@@ -394,6 +394,20 @@
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
+    },
+    "musicGenres": {
+      "genres": [
+        "electronic"
+      ],
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "lateOpening": {
+      "status": "yes",
+      "confidence": "confirmed"
     }
   },
   {
