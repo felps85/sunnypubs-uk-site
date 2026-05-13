@@ -165,14 +165,7 @@
     "websiteUrl": "https://www.blockdublin.com",
     "instagramUrl": "https://instagram.com/block.dublin",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "frontBearingDeg": 264.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3367,
-    "frontObservationPointLon": -6.2664,
-    "facadeWidthM": 10.2
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-club-m-node-278857890",
@@ -186,14 +179,7 @@
     "locationLabel": "Cope Street, Dublin",
     "websiteUrl": "https://clubm.ie",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "frontBearingDeg": 268,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3447,
-    "frontObservationPointLon": -6.2625,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "copper-face-jacks-dublin",
@@ -209,13 +195,6 @@
     "instagramUrl": "https://instagram.com/copperfacejacks",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 270.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3358,
-    "frontObservationPointLon": -6.2632,
-    "facadeWidthM": 14.4,
     "cocktails": {
       "status": "yes",
       "confidence": "confirmed"
@@ -257,14 +236,15 @@
     "locationLabel": "60 Harcourt Street, Dublin, D02 P902",
     "websiteUrl": "https://www.dtwonightclub.com",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "frontBearingDeg": 258.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3345,
-    "frontObservationPointLon": -6.2629,
-    "facadeWidthM": 17,
+    "sunGeometryProfileSource": "manual-reviewed-gsi-dsm-v1",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "outdoorObservationPointLat": 53.3344,
+    "outdoorObservationPointLon": -6.2625,
+    "outdoorAreaWidthM": 16.8,
+    "outdoorAreaInferenceSource": "osm-way-62152061+gsi-nyu-30796-manual-reviewed-v1",
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
@@ -292,13 +272,6 @@
     "instagramUrl": "https://instagram.com/fitzsimonsbar",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 243.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3455,
-    "frontObservationPointLon": -6.2648,
-    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -322,13 +295,6 @@
     "instagramUrl": "https://instagram.com/housedublin2",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 54.7,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.334,
-    "frontObservationPointLon": -6.2551,
-    "facadeWidthM": 7,
     "cocktails": {
       "status": "yes",
       "confidence": "confirmed"
@@ -348,13 +314,6 @@
     "instagramUrl": "https://instagram.com/indexdublin",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 349.1,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3481,
-    "frontObservationPointLon": -6.2619,
-    "facadeWidthM": 11.6,
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
@@ -374,13 +333,6 @@
     "instagramUrl": "https://instagram.com/opiumdublin",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 351.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3364,
-    "frontObservationPointLon": -6.2655,
-    "facadeWidthM": 13,
     "dj": {
       "status": "yes",
       "confidence": "confirmed"
@@ -410,14 +362,7 @@
     "locationLabel": "33 Richmond Street South",
     "websiteUrl": "https://portobellohotel.ie/Dublin-Nightclub",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "frontBearingDeg": 356.4,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3303,
-    "frontObservationPointLon": -6.2636,
-    "facadeWidthM": 5.1
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-tramline-node-2885169530",
@@ -431,14 +376,7 @@
     "locationLabel": "D'Olier Street, Dublin",
     "websiteUrl": "https://www.tramline.ie",
     "solarMode": "outdoor-area",
-    "status": "unavailable",
-    "frontBearingDeg": 231.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3464,
-    "frontObservationPointLon": -6.2578,
-    "facadeWidthM": 12.6
+    "status": "unavailable"
   },
   {
     "id": "nightclubs-yamamori-tengu-node-13432378601",
@@ -453,13 +391,6 @@
     "websiteUrl": "https://www.yamamori.ie/night-life",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 168.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3467,
-    "frontObservationPointLon": -6.2639,
-    "facadeWidthM": 4.5,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"
@@ -534,13 +465,6 @@
     "instagramUrl": "https://instagram.com/killarneygrandofficial",
     "solarMode": "outdoor-area",
     "status": "unavailable",
-    "frontBearingDeg": 79.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0581,
-    "frontObservationPointLon": -9.509,
-    "facadeWidthM": 9.6,
     "liveMusic": {
       "status": "yes",
       "confidence": "confirmed"

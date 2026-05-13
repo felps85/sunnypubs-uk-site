@@ -2156,14 +2156,7 @@
     "county": "Laois",
     "addressText": "Timahoe, Co. Laois, R32 F5WP",
     "googleFormattedAddress": "R426, Timahoe, Co. Laois",
-    "solarMode": "facade",
-    "frontBearingDeg": 270.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.9606,
-    "frontObservationPointLon": -7.2013,
-    "facadeWidthM": 10.9
+    "solarMode": "facade"
   },
   {
     "id": "bar-rua-chijqqw4ppwoz0grakhnyqr5",
@@ -2244,14 +2237,7 @@
     "name": "Bardon’s",
     "lat": 53.1313768,
     "lon": -6.744417,
-    "solarMode": "facade",
-    "frontBearingDeg": 127.3,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1314,
-    "frontObservationPointLon": -6.7444,
-    "facadeWidthM": 8
+    "solarMode": "facade"
   },
   {
     "id": "barge-node-1445758303",
@@ -2785,14 +2771,7 @@
     "name": "Bergin’s",
     "lat": 53.0340814,
     "lon": -7.2981666,
-    "solarMode": "facade",
-    "frontBearingDeg": 0.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0341,
-    "frontObservationPointLon": -7.2982,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "bernard-harrington-s-node-1591395801",
@@ -4298,14 +4277,7 @@
     "name": "Brennan's",
     "lat": 53.1070146,
     "lon": -6.7627068,
-    "solarMode": "facade",
-    "frontBearingDeg": 104.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1069,
-    "frontObservationPointLon": -6.7627,
-    "facadeWidthM": 16
+    "solarMode": "facade"
   },
   {
     "id": "brennan-s-node-469621095",
@@ -5628,14 +5600,7 @@
     "name": "C.P. Farrell's",
     "lat": 52.9068502,
     "lon": -6.9651227,
-    "solarMode": "facade",
-    "frontBearingDeg": 340.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.9069,
-    "frontObservationPointLon": -6.9652,
-    "facadeWidthM": 10.9
+    "solarMode": "facade"
   },
   {
     "id": "cable-o-leary-node-1545064253",
@@ -6156,14 +6121,7 @@
     "name": "Carpe Diem",
     "lat": 52.8386692,
     "lon": -6.9302002,
-    "solarMode": "facade",
-    "frontBearingDeg": 339.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8387,
-    "frontObservationPointLon": -6.9302,
-    "facadeWidthM": 6.8
+    "solarMode": "facade"
   },
   {
     "id": "pubs-capenters-way-787675393",
@@ -6174,13 +6132,6 @@
     "county": "Carlow",
     "addressText": "10 Barrack Street, Carlow, R93 R1X2",
     "solarMode": "facade",
-    "frontBearingDeg": 128.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8351,
-    "frontObservationPointLon": -6.9258,
-    "facadeWidthM": 15.1,
     "websiteUrl": "https://www.carpentersbar.ie"
   },
   {
@@ -6787,14 +6738,7 @@
     "name": "Charlie Ryan’s",
     "lat": 53.1805448,
     "lon": -6.7980159,
-    "solarMode": "facade",
-    "frontBearingDeg": 138.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1805,
-    "frontObservationPointLon": -6.798,
-    "facadeWidthM": 9.8
+    "solarMode": "facade"
   },
   {
     "id": "charlie-st-george-node-5039867626",
@@ -6891,14 +6835,7 @@
     "name": "Charter Bar",
     "lat": 53.0349331,
     "lon": -7.3030101,
-    "solarMode": "facade",
-    "frontBearingDeg": 153.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.035,
-    "frontObservationPointLon": -7.3024,
-    "facadeWidthM": 10
+    "solarMode": "facade"
   },
   {
     "id": "chaser-s-node-4030315260",
@@ -7788,14 +7725,7 @@
     "name": "Coffey’s",
     "lat": 53.1819981,
     "lon": -6.7953597,
-    "solarMode": "facade",
-    "frontBearingDeg": 138.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.182,
-    "frontObservationPointLon": -6.7953,
-    "facadeWidthM": 8.5
+    "solarMode": "facade"
   },
   {
     "id": "cois-cuain-node-2474945028",
@@ -7972,14 +7902,7 @@
     "name": "Con Cummin’s",
     "lat": 53.1820573,
     "lon": -6.795253,
-    "solarMode": "facade",
-    "frontBearingDeg": 138.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1821,
-    "frontObservationPointLon": -6.7952,
-    "facadeWidthM": 8.8
+    "solarMode": "facade"
   },
   {
     "id": "con-j-smith-node-11746510619",
@@ -8274,14 +8197,7 @@
     "name": "Cookes Pub",
     "lat": 53.2382311,
     "lon": -6.728826,
-    "solarMode": "facade",
-    "frontBearingDeg": 149.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2382,
-    "frontObservationPointLon": -6.7288,
-    "facadeWidthM": 10.6
+    "solarMode": "facade"
   },
   {
     "id": "coolera-house-node-4788222174",
@@ -9798,14 +9714,7 @@
     "name": "D.M. Shelly",
     "lat": 53.0340494,
     "lon": -7.2996514,
-    "solarMode": "facade",
-    "frontBearingDeg": 167.4,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.034,
-    "frontObservationPointLon": -7.2999,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "d-alton-s-pub-node-932231117",
@@ -10395,14 +10304,7 @@
     "county": "Laois",
     "addressText": "106 Main Street, Portlaoise, Co. Laois, R32 Y585",
     "googleFormattedAddress": "106 Main St, Maryborough, Portlaoise, Co. Laois, R32 Y585",
-    "solarMode": "facade",
-    "frontBearingDeg": 162.4,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0341,
-    "frontObservationPointLon": -7.2956,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "debu-rca-s-node-4908151859",
@@ -10916,14 +10818,7 @@
     "county": "Offaly",
     "addressText": "Colmcille Street, Tullamore, Co. Offaly",
     "googleFormattedAddress": "D.e. Williams House, Patrick St, Tullamore, Co. Offaly",
-    "solarMode": "facade",
-    "frontBearingDeg": 194.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2768,
-    "frontObservationPointLon": -7.4914,
-    "facadeWidthM": 11.1
+    "solarMode": "facade"
   },
   {
     "id": "dignams-node-11522966667",
@@ -10972,14 +10867,7 @@
     "name": "Dinn Rí",
     "lat": 52.8361792,
     "lon": -6.9298548,
-    "solarMode": "facade",
-    "frontBearingDeg": 10.7,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8362,
-    "frontObservationPointLon": -6.9299,
-    "facadeWidthM": 14.8
+    "solarMode": "facade"
   },
   {
     "id": "dinny-s-bar-node-1617879888",
@@ -11344,14 +11232,7 @@
     "name": "Doogue's Bar",
     "lat": 52.9643911,
     "lon": -7.368895,
-    "solarMode": "facade",
-    "frontBearingDeg": 31.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.9645,
-    "frontObservationPointLon": -7.3688,
-    "facadeWidthM": 9.9
+    "solarMode": "facade"
   },
   {
     "id": "doolan-s-cow-bar-chijox1-zrubregr1rxeme6z",
@@ -12397,14 +12278,7 @@
     "name": "Edward Harrigan & Sons",
     "lat": 53.1822439,
     "lon": -6.7948332,
-    "solarMode": "facade",
-    "frontBearingDeg": 139,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1823,
-    "frontObservationPointLon": -6.7948,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "egans-node-1146292447",
@@ -12721,13 +12595,6 @@
     "county": "Carlow",
     "addressText": "Centaur Street, Carlow, R93 E030",
     "solarMode": "facade",
-    "frontBearingDeg": 90.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8376,
-    "frontObservationPointLon": -6.933,
-    "facadeWidthM": 11.8,
     "websiteUrl": "https://ewingscarlow.com"
   },
   {
@@ -13951,14 +13818,7 @@
     "county": "Kildare",
     "addressText": "Canal View, Sallins, Co. Kildare, W91 XVH3",
     "googleFormattedAddress": "Sallins, Co. Kildare, Ireland",
-    "solarMode": "facade",
-    "frontBearingDeg": 273,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2495,
-    "frontObservationPointLon": -6.665,
-    "facadeWidthM": 4.8
+    "solarMode": "facade"
   },
   {
     "id": "flannery-s-node-326474567",
@@ -16182,14 +16042,7 @@
     "name": "Grellan Delaney",
     "lat": 53.0340271,
     "lon": -7.2998189,
-    "solarMode": "facade",
-    "frontBearingDeg": 167.4,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.034,
-    "frontObservationPointLon": -7.2999,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "greyhound-bar-node-6138052917",
@@ -16281,14 +16134,7 @@
     "name": "Grill & Grain Bar",
     "lat": 53.0142385,
     "lon": -7.2997036,
-    "solarMode": "facade",
-    "frontBearingDeg": 93,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0145,
-    "frontObservationPointLon": -7.2995,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "grill-bar-restaurant-node-12159611959",
@@ -16938,14 +16784,7 @@
     "name": "Harry Burke’s",
     "lat": 52.837166,
     "lon": -6.9317647,
-    "solarMode": "facade",
-    "frontBearingDeg": 109.1,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.837,
-    "frontObservationPointLon": -6.932,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "harry-byrnes-pub-chijvxfuka0pz0gr-0zp3h9x",
@@ -17259,14 +17098,7 @@
     "name": "Hayden’s",
     "lat": 53.2193756,
     "lon": -6.6610054,
-    "solarMode": "facade",
-    "frontBearingDeg": 351.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2194,
-    "frontObservationPointLon": -6.661,
-    "facadeWidthM": 7.7
+    "solarMode": "facade"
   },
   {
     "id": "hayes-node-10826208085",
@@ -18353,14 +18185,7 @@
     "name": "Hugh Lynch’s",
     "lat": 53.2766538,
     "lon": -7.4950639,
-    "solarMode": "facade",
-    "frontBearingDeg": 294.1,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2767,
-    "frontObservationPointLon": -7.4951,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "hugh-mccann-s-cafe-bar-node-12103033113",
@@ -18682,14 +18507,7 @@
     "name": "IdleWild",
     "lat": 53.3420846,
     "lon": -6.2641425,
-    "solarMode": "facade",
-    "frontBearingDeg": 203.6,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.342,
-    "frontObservationPointLon": -6.264,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "igo-inn-chijj7yfx-ghz0grec5e2vy-",
@@ -20548,14 +20366,7 @@
     "name": "John Lee's",
     "lat": 53.2748535,
     "lon": -7.4903296,
-    "solarMode": "facade",
-    "frontBearingDeg": 202.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2748,
-    "frontObservationPointLon": -7.4904,
-    "facadeWidthM": 7.9
+    "solarMode": "facade"
   },
   {
     "id": "john-long-s-node-1853247751",
@@ -21229,28 +21040,14 @@
     "name": "Kavanagh’s",
     "lat": 53.034227,
     "lon": -7.297986,
-    "solarMode": "facade",
-    "frontBearingDeg": 174.7,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0342,
-    "frontObservationPointLon": -7.298,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "kavanagh-s-node-9864082640",
     "name": "Kavanagh’s",
     "lat": 53.2174416,
     "lon": -6.6642171,
-    "solarMode": "facade",
-    "frontBearingDeg": 109.6,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2174,
-    "frontObservationPointLon": -6.6642,
-    "facadeWidthM": 13.1
+    "solarMode": "facade"
   },
   {
     "id": "kavanagh-s-node-1593209605",
@@ -22940,14 +22737,7 @@
     "name": "Larrigy’s",
     "lat": 53.3677183,
     "lon": -7.4969189,
-    "solarMode": "facade",
-    "frontBearingDeg": 27.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3678,
-    "frontObservationPointLon": -7.4969,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "larry-nora-s-chij01skadjbz0grthd-lpqd",
@@ -23954,14 +23744,7 @@
     "name": "Lumville House",
     "lat": 53.1569079,
     "lon": -6.8129829,
-    "solarMode": "facade",
-    "frontBearingDeg": 312,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1569,
-    "frontObservationPointLon": -6.813,
-    "facadeWidthM": 13
+    "solarMode": "facade"
   },
   {
     "id": "lundy-foot-s-chijj7hgkjypz0grxk79fxx9",
@@ -25835,14 +25618,7 @@
     "name": "Mc Gowan’s",
     "lat": 53.1807442,
     "lon": -6.797643,
-    "solarMode": "facade",
-    "frontBearingDeg": 138.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1807,
-    "frontObservationPointLon": -6.7976,
-    "facadeWidthM": 6.7
+    "solarMode": "facade"
   },
   {
     "id": "mc-grath-s-node-10742214231",
@@ -26260,14 +26036,7 @@
     "name": "McCormack’s",
     "lat": 53.3678256,
     "lon": -7.4972904,
-    "solarMode": "facade",
-    "frontBearingDeg": 24.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3679,
-    "frontObservationPointLon": -7.4973,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "mcdaids-chijd5acdzwoz0grlouwjsyc",
@@ -26326,14 +26095,7 @@
     "name": "McDonnell’s",
     "lat": 53.1789934,
     "lon": -6.8003708,
-    "solarMode": "facade",
-    "frontBearingDeg": 217.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1791,
-    "frontObservationPointLon": -6.8006,
-    "facadeWidthM": 13.5
+    "solarMode": "facade"
   },
   {
     "id": "mcdowell-s-node-1416582578",
@@ -27137,14 +26899,7 @@
     "name": "McNamara’s",
     "lat": 53.3676581,
     "lon": -7.4958661,
-    "solarMode": "facade",
-    "frontBearingDeg": 205,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3677,
-    "frontObservationPointLon": -7.496,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "mcnamaras-pub-node-488567273",
@@ -27235,14 +26990,7 @@
     "name": "McTernan’s",
     "lat": 53.1314835,
     "lon": -6.7419614,
-    "solarMode": "facade",
-    "frontBearingDeg": 304.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1315,
-    "frontObservationPointLon": -6.7419,
-    "facadeWidthM": 7.6
+    "solarMode": "facade"
   },
   {
     "id": "meade-s-bar-node-5180469613",
@@ -30816,14 +30564,7 @@
     "name": "O’Connell’s",
     "lat": 53.1316945,
     "lon": -6.7417104,
-    "solarMode": "facade",
-    "frontBearingDeg": 309.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1317,
-    "frontObservationPointLon": -6.7418,
-    "facadeWidthM": 7.3
+    "solarMode": "facade"
   },
   {
     "id": "o-connell-s-node-880923510",
@@ -31587,14 +31328,7 @@
     "name": "O'Kelly's",
     "lat": 52.8781688,
     "lon": -7.0113156,
-    "solarMode": "facade",
-    "frontBearingDeg": 71.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8782,
-    "frontObservationPointLon": -7.0113,
-    "facadeWidthM": 9.4
+    "solarMode": "facade"
   },
   {
     "id": "o-looney-s-node-417500848",
@@ -32000,14 +31734,7 @@
     "name": "O’Rourke’s",
     "lat": 53.1812903,
     "lon": -6.7966561,
-    "solarMode": "facade",
-    "frontBearingDeg": 136.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1813,
-    "frontObservationPointLon": -6.7967,
-    "facadeWidthM": 7.7
+    "solarMode": "facade"
   },
   {
     "id": "o-scanaill-the-hibernian-hotel-node-6596749112",
@@ -32655,14 +32382,7 @@
     "name": "One New Row",
     "lat": 53.2157081,
     "lon": -6.6651957,
-    "solarMode": "facade",
-    "frontBearingDeg": 18.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2157,
-    "frontObservationPointLon": -6.6652,
-    "facadeWidthM": 7.1
+    "solarMode": "facade"
   },
   {
     "id": "open-gate-brewery-node-5044959521",
@@ -33042,14 +32762,7 @@
     "name": "P. Flanagan",
     "lat": 53.1818778,
     "lon": -6.7976083,
-    "solarMode": "facade",
-    "frontBearingDeg": 311.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1818,
-    "frontObservationPointLon": -6.7977,
-    "facadeWidthM": 15.8
+    "solarMode": "facade"
   },
   {
     "id": "p-gibney-est-1917-node-860632349",
@@ -35318,14 +35031,7 @@
     "county": "Carlow",
     "addressText": "79-81 Tullow Street, Carlow, Co. Carlow, R93 X2P9",
     "googleFormattedAddress": "79-81 Tullow St, Carlow, R93 X2P9",
-    "solarMode": "facade",
-    "frontBearingDeg": 181.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8362,
-    "frontObservationPointLon": -6.9258,
-    "facadeWidthM": 9.6
+    "solarMode": "facade"
   },
   {
     "id": "rackard-s-node-10826208066",
@@ -35490,14 +35196,7 @@
     "name": "Railway Inn",
     "lat": 53.2483739,
     "lon": -6.6651684,
-    "solarMode": "facade",
-    "frontBearingDeg": 274.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2483,
-    "frontObservationPointLon": -6.6653,
-    "facadeWidthM": 16.4
+    "solarMode": "facade"
   },
   {
     "id": "railway-inn-node-828218743",
@@ -35536,14 +35235,7 @@
     "county": "Laois",
     "addressText": "101 Main Street, Portlaoise, Co. Laois, R32 VF43",
     "googleFormattedAddress": "101 Main St, Maryborough, Portlaoise, Co. Laois",
-    "solarMode": "facade",
-    "frontBearingDeg": 2.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.034,
-    "frontObservationPointLon": -7.2963,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "rascals-hq-node-9322108900",
@@ -36636,14 +36328,7 @@
     "name": "Ryan’s",
     "lat": 53.0342142,
     "lon": -7.2988751,
-    "solarMode": "facade",
-    "frontBearingDeg": 172.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0342,
-    "frontObservationPointLon": -7.2989,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "ryan-s-bar-node-6200436471",
@@ -36852,14 +36537,7 @@
     "name": "Saddlers Bar & Bistro",
     "lat": 53.1704198,
     "lon": -6.8139892,
-    "solarMode": "facade",
-    "frontBearingDeg": 231.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1703,
-    "frontObservationPointLon": -6.8141,
-    "facadeWidthM": 5.1
+    "solarMode": "facade"
   },
   {
     "id": "sadlier-bar-node-508498981",
@@ -37271,14 +36949,7 @@
     "county": "Carlow",
     "addressText": "12-13 Tullow Street, Carlow, Co. Carlow, R93 PP79",
     "googleFormattedAddress": "12 Tullow St, Carlow, R93 PP79",
-    "solarMode": "facade",
-    "frontBearingDeg": 13,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8363,
-    "frontObservationPointLon": -6.9305,
-    "facadeWidthM": 13.8
+    "solarMode": "facade"
   },
   {
     "id": "screene-s-on-the-square-node-9939055185",
@@ -38774,14 +38445,7 @@
     "county": "Offaly",
     "addressText": "High Street, Tullamore, Co. Offaly",
     "googleFormattedAddress": "High St, Tullamore, Co. Offaly",
-    "solarMode": "facade",
-    "frontBearingDeg": 297.8,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.273,
-    "frontObservationPointLon": -7.4937,
-    "facadeWidthM": 11.1
+    "solarMode": "facade"
   },
   {
     "id": "sportsmans-inn-node-295257682",
@@ -40946,14 +40610,7 @@
     "name": "The Bar With No Name",
     "lat": 53.3419024,
     "lon": -6.264235,
-    "solarMode": "facade",
-    "frontBearingDeg": 23,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.342,
-    "frontObservationPointLon": -6.2642,
-    "facadeWidthM": 10.1
+    "solarMode": "facade"
   },
   {
     "id": "the-barbers-bar-chijuaqvtiwmz0grixwtz9v4",
@@ -41030,14 +40687,7 @@
     "name": "The Barracks",
     "lat": 52.8360177,
     "lon": -6.9289054,
-    "solarMode": "facade",
-    "frontBearingDeg": 1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8361,
-    "frontObservationPointLon": -6.9289,
-    "facadeWidthM": 15.3
+    "solarMode": "facade"
   },
   {
     "id": "the-barrel-castle-node-12459215217",
@@ -41562,14 +41212,7 @@
     "name": "The Black Kettle",
     "lat": 53.3683805,
     "lon": -7.4986711,
-    "solarMode": "facade",
-    "frontBearingDeg": 202.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3684,
-    "frontObservationPointLon": -7.4988,
-    "facadeWidthM": 10.9
+    "solarMode": "facade"
   },
   {
     "id": "the-black-lion-node-335569489",
@@ -42312,14 +41955,7 @@
     "county": "Offaly",
     "addressText": "High Street, Tullamore, Co. Offaly, R35 P761",
     "googleFormattedAddress": "1 High St, Tullamore, Co. Offaly, R35 P761",
-    "solarMode": "facade",
-    "frontBearingDeg": 219.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2746,
-    "frontObservationPointLon": -7.4929,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "the-brewhouse-node-7723084031",
@@ -43254,14 +42890,7 @@
     "name": "The Cedar Bar",
     "lat": 53.0401371,
     "lon": -7.2717551,
-    "solarMode": "facade",
-    "frontBearingDeg": 240,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0404,
-    "frontObservationPointLon": -7.2715,
-    "facadeWidthM": 6.2
+    "solarMode": "facade"
   },
   {
     "id": "the-cellar-bar-node-1743429522",
@@ -44915,14 +44544,7 @@
     "name": "The Curragh Inn",
     "lat": 53.1789657,
     "lon": -6.8003467,
-    "solarMode": "facade",
-    "frontBearingDeg": 217.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1791,
-    "frontObservationPointLon": -6.8006,
-    "facadeWidthM": 13.5
+    "solarMode": "facade"
   },
   {
     "id": "curragower-manual",
@@ -46787,14 +46409,7 @@
     "county": "Laois",
     "addressText": "Emo, Co. Laois, R32 YY64",
     "googleFormattedAddress": "R422, Morett, Co. Laois",
-    "solarMode": "facade",
-    "frontBearingDeg": 75.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0965,
-    "frontObservationPointLon": -7.2084,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "the-gate-inn-node-512293398",
@@ -46946,14 +46561,7 @@
     "name": "The Glenside Bar",
     "lat": 52.8482065,
     "lon": -6.9907977,
-    "solarMode": "facade",
-    "frontBearingDeg": 14.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8482,
-    "frontObservationPointLon": -6.9908,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "the-glimmer-man-chij-8y56i0mz0grnpq2fr-n",
@@ -47196,14 +46804,7 @@
     "name": "The Granary",
     "lat": 53.1806344,
     "lon": -6.7993557,
-    "solarMode": "facade",
-    "frontBearingDeg": 43.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1806,
-    "frontObservationPointLon": -6.7993,
-    "facadeWidthM": 9.9
+    "solarMode": "facade"
   },
   {
     "id": "the-grand-social-chijgzxufymoz0grahqesncy",
@@ -48142,14 +47743,7 @@
     "name": "The Hazel",
     "lat": 53.3553198,
     "lon": -7.4110977,
-    "solarMode": "facade",
-    "frontBearingDeg": 116.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3553,
-    "frontObservationPointLon": -7.411,
-    "facadeWidthM": 17.1
+    "solarMode": "facade"
   },
   {
     "id": "the-helm-node-11040180992",
@@ -48262,14 +47856,7 @@
     "name": "The Hideout",
     "lat": 53.1302301,
     "lon": -6.7455774,
-    "solarMode": "facade",
-    "frontBearingDeg": 307.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1302,
-    "frontObservationPointLon": -6.7456,
-    "facadeWidthM": 9
+    "solarMode": "facade"
   },
   {
     "id": "the-hideout-node-2071418475",
@@ -48891,14 +48478,7 @@
     "name": "The Irishman’s",
     "lat": 52.8386999,
     "lon": -6.9300152,
-    "solarMode": "facade",
-    "frontBearingDeg": 69.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8387,
-    "frontObservationPointLon": -6.9299,
-    "facadeWidthM": 9.8
+    "solarMode": "facade"
   },
   {
     "id": "the-irishtown-house-chij9uf3o-yoz0grkkiaofnd",
@@ -49156,14 +48736,7 @@
     "name": "The Keg",
     "lat": 53.1826561,
     "lon": -6.7941586,
-    "solarMode": "facade",
-    "frontBearingDeg": 49.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1826,
-    "frontObservationPointLon": -6.7942,
-    "facadeWidthM": 8.9
+    "solarMode": "facade"
   },
   {
     "id": "the-kelltic-bar-node-987772929",
@@ -49489,14 +49062,7 @@
     "name": "The Lantern",
     "lat": 53.2770267,
     "lon": -7.4957608,
-    "solarMode": "facade",
-    "frontBearingDeg": 209.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2771,
-    "frontObservationPointLon": -7.496,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "the-lark-node-11524533257",
@@ -49746,14 +49312,7 @@
     "name": "The Liffey Arms",
     "lat": 53.1826981,
     "lon": -6.7940134,
-    "solarMode": "facade",
-    "frontBearingDeg": 139.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1827,
-    "frontObservationPointLon": -6.794,
-    "facadeWidthM": 8.5
+    "solarMode": "facade"
   },
   {
     "id": "the-lincoln-s-inn-chij7zxb65aoz0grww0f1ahp",
@@ -50200,14 +49759,7 @@
     "name": "The Make & Mark",
     "lat": 53.0507257,
     "lon": -7.3216683,
-    "solarMode": "facade",
-    "frontBearingDeg": 150.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0507,
-    "frontObservationPointLon": -7.3216,
-    "facadeWidthM": 10.4
+    "solarMode": "facade"
   },
   {
     "id": "the-malbay-node-7021779978",
@@ -50228,14 +49780,7 @@
     "name": "The Mall Pub",
     "lat": 52.8427716,
     "lon": -6.9773706,
-    "solarMode": "facade",
-    "frontBearingDeg": 338.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8428,
-    "frontObservationPointLon": -6.9774,
-    "facadeWidthM": 6.6
+    "solarMode": "facade"
   },
   {
     "id": "the-malt-node-1260538148",
@@ -50416,14 +49961,7 @@
     "name": "The Market Bar",
     "lat": 53.3420522,
     "lon": -6.2640363,
-    "solarMode": "facade",
-    "frontBearingDeg": 203.6,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.342,
-    "frontObservationPointLon": -6.264,
-    "facadeWidthM": 18
+    "solarMode": "facade"
   },
   {
     "id": "the-market-stone-node-9731190622",
@@ -51656,14 +51194,7 @@
     "county": "Offaly",
     "addressText": "Harbour Street, Tullamore, Co. Offaly",
     "googleFormattedAddress": "Harbour St, Tullamore, Co. Offaly",
-    "solarMode": "facade",
-    "frontBearingDeg": 15.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2759,
-    "frontObservationPointLon": -7.4901,
-    "facadeWidthM": 14.6
+    "solarMode": "facade"
   },
   {
     "id": "the-old-killowen-inn-node-8571719074",
@@ -53174,14 +52705,7 @@
     "name": "The Railway Bar",
     "lat": 53.1810365,
     "lon": -6.7988343,
-    "solarMode": "facade",
-    "frontBearingDeg": 314.2,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.181,
-    "frontObservationPointLon": -6.7988,
-    "facadeWidthM": 13.9
+    "solarMode": "facade"
   },
   {
     "id": "the-railway-bar-node-663000559",
@@ -54172,14 +53696,7 @@
     "name": "The Saddler’s Inn",
     "lat": 53.3681049,
     "lon": -7.4985271,
-    "solarMode": "facade",
-    "frontBearingDeg": 113.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3681,
-    "frontObservationPointLon": -7.4985,
-    "facadeWidthM": 10.6
+    "solarMode": "facade"
   },
   {
     "id": "the-sailing-cot-node-5590132102",
@@ -54418,14 +53935,7 @@
     "name": "The Secret Bar / The Bar With No Name",
     "lat": 53.3418854,
     "lon": -6.2641559,
-    "solarMode": "facade",
-    "frontBearingDeg": 22.8,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3419,
-    "frontObservationPointLon": -6.2641,
-    "facadeWidthM": 7.8
+    "solarMode": "facade"
   },
   {
     "id": "the-shack-node-1458903111",
@@ -55376,14 +54886,7 @@
     "name": "The Spout",
     "lat": 53.1304099,
     "lon": -6.7453751,
-    "solarMode": "facade",
-    "frontBearingDeg": 296.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1304,
-    "frontObservationPointLon": -6.7454,
-    "facadeWidthM": 9.5
+    "solarMode": "facade"
   },
   {
     "id": "the-square-ball-node-2068246787",
@@ -56281,14 +55784,7 @@
     "name": "The Terrace",
     "lat": 52.8357434,
     "lon": -6.930122,
-    "solarMode": "facade",
-    "frontBearingDeg": 193.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8357,
-    "frontObservationPointLon": -6.9295,
-    "facadeWidthM": 8.3
+    "solarMode": "facade"
   },
   {
     "id": "the-thatch-node-13226417393",
@@ -56462,14 +55958,7 @@
     "name": "The Three Counties",
     "lat": 52.9085074,
     "lon": -6.9325125,
-    "solarMode": "facade",
-    "frontBearingDeg": 174.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.9085,
-    "frontObservationPointLon": -6.9326,
-    "facadeWidthM": 14
+    "solarMode": "facade"
   },
   {
     "id": "the-three-horse-shoes-node-1660444977",
@@ -57546,14 +57035,7 @@
     "name": "The Welcome Inn",
     "lat": 53.0335555,
     "lon": -7.302074,
-    "solarMode": "facade",
-    "frontBearingDeg": 343.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0336,
-    "frontObservationPointLon": -7.3021,
-    "facadeWidthM": 6.5
+    "solarMode": "facade"
   },
   {
     "id": "the-welcome-inn-node-12249306258",
@@ -58468,14 +57950,7 @@
     "name": "Thomas Fletcher",
     "lat": 53.2190103,
     "lon": -6.6628161,
-    "solarMode": "facade",
-    "frontBearingDeg": 128.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.219,
-    "frontObservationPointLon": -6.6628,
-    "facadeWidthM": 9.1
+    "solarMode": "facade"
   },
   {
     "id": "thomas-hanratty-node-290706550",
@@ -59788,13 +59263,6 @@
     "addressText": "148-149 Tullow Street, Carlow, Co. Carlow, R93 W243, Ireland",
     "googleFormattedAddress": "Tully's Bar, 148-149 Tullow Street, Carlow, County Carlow, R93 W243, Ireland",
     "solarMode": "facade",
-    "frontBearingDeg": 188.2,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8365,
-    "frontObservationPointLon": -6.9315,
-    "facadeWidthM": 14.1,
     "websiteUrl": "https://tullysbarcarlow.ie",
     "instagramUrl": "https://instagram.com/tullysbarcarlow"
   },
@@ -60229,14 +59697,7 @@
     "name": "Vibe",
     "lat": 53.0340774,
     "lon": -7.2980111,
-    "solarMode": "facade",
-    "frontBearingDeg": 0.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0341,
-    "frontObservationPointLon": -7.298,
-    "facadeWidthM": 4.5
+    "solarMode": "facade"
   },
   {
     "id": "vicarstown-bar-node-4732708923",
@@ -60779,14 +60240,7 @@
     "name": "Whelan’s",
     "lat": 53.0622466,
     "lon": -7.2263753,
-    "solarMode": "facade",
-    "frontBearingDeg": 313.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.0623,
-    "frontObservationPointLon": -7.2264,
-    "facadeWidthM": 10.8
+    "solarMode": "facade"
   },
   {
     "id": "whelans-dublin-manual",

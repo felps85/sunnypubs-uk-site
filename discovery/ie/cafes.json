@@ -1533,15 +1533,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.creedcoffeeroasters.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAADgAAACADwAAAPgAAACADwAAAPgAAACADwAAAPgAAADADwAAAP4BAAD8PwAAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3401,
-    "frontObservationPointLon": -6.5384,
-    "facadeWidthM": 5.4,
-    "frontBearingDeg": 298.5,
-    "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-3-little-piggies-node-12692202541",
@@ -2622,16 +2614,7 @@
     "lat": 53.277224,
     "lon": -6.103887,
     "websiteUrl": "https://countrybake.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAEAAAAYAAAGAAGAIADeAAAePEHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2772,
-    "frontObservationPointLon": -6.1039,
-    "facadeWidthM": 5.5,
-    "frontBearingDeg": 28.1,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Castle Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-thyme-out-node-9566431475",
@@ -2644,16 +2627,7 @@
     "lon": -6.103796,
     "websiteUrl": "https://thymeout.ie",
     "instagramUrl": "https://instagram.com/thyme_out",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAIAAYAAAGAAGAIADcAAAePsHAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2772,
-    "frontObservationPointLon": -6.1038,
-    "facadeWidthM": 7.7,
-    "frontBearingDeg": 29.5,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Castle Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-hx46-cafe-node-6211308346",
@@ -2716,19 +2690,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.pigeonhouse.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///AwCQhwAAgH8YAAD45wEAgP8fAAD4/wEAgP8fAAD4/wEAgP8fAAD4/wEAgP8fAAD4/wEAgP8fAAD4/wEAgP8fAAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAJCHAsD/f/gA/P/HD8D///8A/P//D/D///8A////D/j///+A////D/j///+A////D/j///+A////D/j////A////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.1327,
-    "frontObservationPointLon": -6.0936,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 191.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.1327,
-    "outdoorObservationPointLon": -6.0936,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
+    "solarMode": "facade",
     "foodTags": {
       "tags": [
         "brunch"
@@ -2856,15 +2818,7 @@
     "lat": 53.477785,
     "lon": -6.196014,
     "websiteUrl": "https://www.jonesgc.com/cafe",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwEAAPgfAADg/wEAYP8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4777,
-    "frontObservationPointLon": -6.1961,
-    "facadeWidthM": 9.8,
-    "frontBearingDeg": 285.5,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-bean-and-leaf-way-393362368",
@@ -2941,15 +2895,7 @@
     "lat": 53.70143,
     "lon": -6.310732,
     "websiteUrl": "https://www.relishcafe.ie/mint-greene",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDwNwAA4P8DAAD+PwAA4P8DAAD+PwAA4P8DAAD/PwAA+P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.7014,
-    "frontObservationPointLon": -6.3107,
-    "facadeWidthM": 4.7,
-    "frontBearingDeg": 136,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-arabica-node-2272726641",
@@ -3030,15 +2976,7 @@
     "lat": 53.346134,
     "lon": -6.308029,
     "solarMode": "facade",
-    "websiteUrl": "https://3fe.com/pages/locations/clancy-quay",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAADAQAAAMPwHAIDjfwAAOP4HAID3fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3462,
-    "frontObservationPointLon": -6.3081,
-    "facadeWidthM": 10.9,
-    "frontBearingDeg": 269.9,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "websiteUrl": "https://3fe.com/pages/locations/clancy-quay"
   },
   {
     "id": "cafes-3fe-five-points-node-2986844484",
@@ -3237,14 +3175,6 @@
     "lat": 53.412845,
     "lon": -6.218786,
     "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAwAAAAAAOAAAC4AAAIAAOAAAG8AAAYAEfAAA+8AEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4128,
-    "frontObservationPointLon": -6.2186,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 47.2,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
     "websiteUrl": "https://www.ihg.com/holidayinn/hotels/gb/en/dublin/dubap/hoteldetail"
   },
   {
@@ -3319,16 +3249,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.adydreamcafe.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAEAAEAYAAQAAAOAAEA4AEYAAB+wAEA4B8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3384,
-    "frontObservationPointLon": -6.5396,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 294.5,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Main Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-als-bakery-node-4205911415",
@@ -3459,16 +3380,7 @@
     "locationLabel": "Pelletstown Avenue, corner of Lock Keepers Walk, Dublin",
     "lat": 53.376179,
     "lon": -6.316518,
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAACAECAAAPgBAgCAHzQAAPj/AwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3762,
-    "frontObservationPointLon": -6.3171,
-    "facadeWidthM": 7,
-    "frontBearingDeg": 106.9,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Lock-Keeper's Walk"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-aras-an-phiarsaigh-coffee-area-node-3180491611",
@@ -3589,15 +3501,7 @@
     "lat": 53.349627,
     "lon": -6.344351,
     "solarMode": "facade",
-    "websiteUrl": "https://www.blacksheepfoods.ie/baabaa",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAEAAAB4AAAA4wcAAP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3495,
-    "frontObservationPointLon": -6.3448,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 70.7,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "websiteUrl": "https://www.blacksheepfoods.ie/baabaa"
   },
   {
     "id": "cafes-bagel-factory-node-616479711",
@@ -4108,15 +4012,7 @@
     "lat": 53.341769,
     "lon": -6.308404,
     "websiteUrl": "https://brambles.ie/cafes/kilmainham-gaol",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/A5wAAADAGQAAAvwBAODAHwAAPv8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3418,
-    "frontObservationPointLon": -6.3083,
-    "facadeWidthM": 8.6,
-    "frontBearingDeg": 7.6,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-bread-41-node-2721562065",
@@ -4196,15 +4092,7 @@
     "lat": 53.255634,
     "lon": -6.113185,
     "instagramUrl": "https://instagram.com/breakaway_coffee",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A/4DAADgPwAAAP4DAADgPwAAAP4DAQDgPxAAAP6DAQDgPxwAAP7jAQDgPx8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2558,
-    "frontObservationPointLon": -6.1131,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 93.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-brevato-node-724163698",
@@ -4535,15 +4423,7 @@
     "lat": 53.29864,
     "lon": -6.359452,
     "websiteUrl": "https://www.cafesol.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAGAAEA4EUfAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2986,
-    "frontObservationPointLon": -6.3595,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 169.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-cafe-sol-node-11006177430",
@@ -5117,20 +4997,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://coolhandcoffeeroasters.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/7/AwAAAGAwCAAAB/8AAHDwDwAAB/8AAPDwDwAAf/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAEAZHCQAcAH/z8AfPD/A8AH/z8AfvD/A+Af/z8A////A/D//z+A////A/j//z/A////B///////////////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3405,
-    "frontObservationPointLon": -6.3078,
-    "facadeWidthM": 5.5,
-    "frontBearingDeg": 355,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Emmet Road",
-    "outdoorObservationPointLat": 53.3406,
-    "outdoorObservationPointLon": -6.3078,
-    "outdoorAreaWidthM": 5.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-copper-straw-node-12915704201",
@@ -5166,15 +5033,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.costaireland.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAwAAgHwIAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4035,
-    "frontObservationPointLon": -6.2595,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 162.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-costa-node-1532673670",
@@ -5190,15 +5049,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.costa.co.uk",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAABAAAAEAAAAAADAACAMABIAAAHAADAMAHOAAA/OADAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3909,
-    "frontObservationPointLon": -6.3859,
-    "facadeWidthM": 11.6,
-    "frontBearingDeg": 144.7,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-costa-node-2302621746",
@@ -5816,15 +5667,7 @@
     },
     "websiteUrl": "https://www.fredandnancys.com",
     "instagramUrl": "https://instagram.com/fredandnancys",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDwvwMAAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2613,
-    "frontObservationPointLon": -6.1109,
-    "facadeWidthM": 7.6,
-    "frontBearingDeg": 204.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-french-revolution-eclairs-node-6013636369",
@@ -5889,15 +5732,7 @@
     "lat": 53.226086,
     "lon": -6.124236,
     "websiteUrl": "https://gourmetshankillcafe.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAeAAAA4A8QAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.226,
-    "frontObservationPointLon": -6.1242,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 172,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-graze-at-the-elbowroom-node-4386194690",
@@ -6223,19 +6058,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://ilpanoramacafe.com",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAEAAAAYXAAAgMEHAAB4/AAAgP8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAHwAAeP4HAID/fxxY/P/Hgcf/fzz4///Hz///////////////////////////////////////////////////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3878,
-    "frontObservationPointLon": -6.0662,
-    "facadeWidthM": 14,
-    "frontBearingDeg": 157.4,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.3877,
-    "outdoorObservationPointLon": -6.0662,
-    "outdoorAreaWidthM": 14,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-il-valentino-node-3338276450",
@@ -6510,15 +6333,7 @@
     "lat": 53.323834,
     "lon": -6.350582,
     "websiteUrl": "https://www.insomnia.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwXAAABwAA4AAAfgAABwAA4AAAfgAABwAA4AAA/wAADwgQ8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3238,
-    "frontObservationPointLon": -6.3505,
-    "facadeWidthM": 14.9,
-    "frontBearingDeg": 76.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-insomnia-node-8869352167",
@@ -6555,15 +6370,7 @@
     "lat": 53.350206,
     "lon": -6.378601,
     "websiteUrl": "https://www.insomnia.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDgAwEAAOD3DwAA/v8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3503,
-    "frontObservationPointLon": -6.3787,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 356.3,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-insomnia-node-10315658627",
@@ -7704,19 +7511,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://phoenixparkcafe.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///AwD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAcP//PwD3//8D8P///wD///8P8P///wD///8P8P///4D///8P+P///4D///8P+P///4D///8f+P///4H///8f////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.352,
-    "frontObservationPointLon": -6.3047,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 179.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.352,
-    "outdoorObservationPointLon": -6.3047,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-pog-node-3051154792",
@@ -8068,16 +7863,7 @@
     "lat": 53.340253,
     "lon": -6.314762,
     "websiteUrl": "https://www.smallchanges.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDgAwAAAAAABAAAAGEAABiwBwCAA38AAPj7BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3403,
-    "frontObservationPointLon": -6.3148,
-    "facadeWidthM": 6.7,
-    "frontBearingDeg": 354.1,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Emmet Road"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-solo-node-9272148169",
@@ -8532,15 +8318,7 @@
     "lat": 53.35439,
     "lon": -6.400686,
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/54793-288502/liffey-valley-dt",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAgAAAAAAIAAAA8gAMAwAM4AAA8gAMAwAM4AAA8gAMAwAM4AAA8gAMAwAc8AAD88QMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3543,
-    "frontObservationPointLon": -6.4007,
-    "facadeWidthM": 14.9,
-    "frontBearingDeg": 181.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-starbucks-way-1309411481",
@@ -8916,19 +8694,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.walk.ie/thegreenkitchen",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///AwAAHAABAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAeAAEA4P//AQD//x8A+P//A8D//38A/P//D/D///+D////////////////////////////////////////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.338,
-    "frontObservationPointLon": -6.3162,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 262.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.338,
-    "outdoorObservationPointLon": -6.3162,
-    "outdoorAreaWidthM": 18,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-natural-bakery-node-12075544280",
@@ -9014,15 +8780,7 @@
     "lat": 53.332554,
     "lon": -6.502794,
     "websiteUrl": "https://theplantcollector.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A8x4AADAjAcAAPx4AADAjwcAAPx4AADA/wcAAPz/AgDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3326,
-    "frontObservationPointLon": -6.5027,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 96.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-punnet-food-emporium-node-7047104659",
@@ -9284,7 +9042,8 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.twopupscoffee.com",
-    "instagramUrl": "https://instagram.com/two_pups_coffee"
+    "instagramUrl": "https://instagram.com/two_pups_coffee",
+    "solarMode": "facade"
   },
   {
     "id": "cafes-urban-health-node-1426048609",
@@ -9414,15 +9173,7 @@
     "lat": 53.366033,
     "lon": -6.503786,
     "websiteUrl": "https://willowandwild.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAMjgEAwOA/AAAc/gMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.366,
-    "frontObservationPointLon": -6.5036,
-    "facadeWidthM": 16.5,
-    "frontBearingDeg": 181.3,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "woo-cafe-dublin",
@@ -9521,19 +9272,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.starbucks.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///AwAA4B8AAAD+BwAA/H8AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAADgHwAAAP4PAAD8/wAA+P8PAOD//wAA/v8PAOD//wAA/v8fAPD//wEA//8fAPD//wGA//8/APj//wPA//9/AP7/////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.4272,
-    "outdoorObservationPointLon": -6.2454,
-    "outdoorAreaWidthM": 18,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-bailey-and-pim-node-10685752979",
@@ -9854,15 +9593,7 @@
     "locationLabel": "8 Crowe Street, Dundalk, A91 E822",
     "lat": 54.004252,
     "lon": -6.401034,
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD4AwAAAAAAAACAAUAAABgABwCAAXgAABjgBwCAE38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.0043,
-    "frontObservationPointLon": -6.401,
-    "facadeWidthM": 5,
-    "frontBearingDeg": 351,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-rocksalt-cafe-node-8022148692",
@@ -9939,15 +9670,7 @@
     "lat": 52.842097,
     "lon": -8.984426,
     "websiteUrl": "https://gourmet-hampers.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAAAAAAAA/wAAAPAPAADh/wAAEP8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8421,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 157.3,
-    "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-zest-node-5693537704",
@@ -9959,16 +9682,7 @@
     "lat": 52.843093,
     "lon": -8.984712,
     "websiteUrl": "https://www.zestfood.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDgAwAAAAAAAAAAAAAAAHAADgAAD/gAAPDhDwAAf/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8431,
-    "frontObservationPointLon": -8.9846,
-    "facadeWidthM": 16.1,
-    "frontBearingDeg": 4.3,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Lower Market Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-asda-cafe-node-7500435820",
@@ -11032,15 +10746,7 @@
     "lon": -6.060913,
     "websiteUrl": "https://www.baileyandpim.ie",
     "instagramUrl": "https://instagram.com/baileyandpim",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A/A/AAAA/wMAwPA/AAAM/wMAwPE/AAA8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.144,
-    "frontObservationPointLon": -6.0609,
-    "facadeWidthM": 6.9,
-    "frontBearingDeg": 61.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-eleven-deli-node-6431670068",
@@ -11056,16 +10762,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.elevendeli.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAgDAADQAABzAAwDAATwAAHzwAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.1444,
-    "frontObservationPointLon": -6.0621,
-    "facadeWidthM": 5.7,
-    "frontBearingDeg": 217.9,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Church Road"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-happy-pear-node-750479521",
@@ -11081,16 +10778,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://thehappypear.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAgDAADAAADzAAwDADz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.1455,
-    "frontObservationPointLon": -6.0643,
-    "facadeWidthM": 11.8,
-    "frontBearingDeg": 218,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Church Road"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-la-creperie-node-7040565202",
@@ -11111,19 +10799,7 @@
     },
     "websiteUrl": "https://www.lacreperie.ie",
     "instagramUrl": "https://instagram.com/lacreperie.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/z/AwAAAAAAHAAAAMAxAAAAvAMAAMA/AAAA/AMAAMA/AAAA/A8AAMD/AAAA/A8AAMD/AQAA/B8AAMD/AwAA/H8AAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAPwAAAPgfAADg/zEAAP+fAwDw/z8AAP//AwDw/z8AAP//EwDw//8BAP//HwDw//8BAP//HwDw//8DAP//f4Dx////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.1499,
-    "frontObservationPointLon": -6.0662,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 140.2,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.1498,
-    "outdoorObservationPointLon": -6.0662,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-baily-bites-at-kish-node-12642874631",
@@ -11136,14 +10812,6 @@
     "lon": -6.070365,
     "websiteUrl": "https://www.kishfish.ie/retail/our-cafe",
     "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwD/BwAA8P8AAAD/DwAA8P8AAAD/DwAA8P8AAAD/DwAA8P8BAAD/HwAA8P8BAID/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3916,
-    "frontObservationPointLon": -6.0703,
-    "facadeWidthM": 6.6,
-    "frontBearingDeg": 126.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
     "instagramUrl": "https://instagram.com/bailybitesatkish"
   },
   {
@@ -11348,15 +11016,7 @@
     "lat": 52.057692,
     "lon": -9.508973,
     "websiteUrl": "https://cafeduparckillarney.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD8AwAAAAAAAAAAAAAAAEAAAAAAfwAAAPh3AACA/w8AAPj/AwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0577,
-    "frontObservationPointLon": -9.5091,
-    "facadeWidthM": 16.5,
-    "frontBearingDeg": 348.5,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-lir-cafe-node-1248424123",
@@ -11368,16 +11028,7 @@
     "lat": 52.058055,
     "lon": -9.506635,
     "websiteUrl": "https://www.lircafe.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAAlAAAYOAPAAAO/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.058,
-    "frontObservationPointLon": -9.5068,
-    "facadeWidthM": 15.4,
-    "frontBearingDeg": 168.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "East Avenue Road"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-tango-street-food-node-1830824104",
@@ -11403,20 +11054,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.tangostreetfood.com",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/7/AwAAAAAAQAABAAAEMAEAwAA/AAAM8AMAwAE/AAAc8AMAwCE/AAAc8gMAwGU/AAB89gMAwGc/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAABwAAAAAAcgDABwAP4BAAfgHwBwAP4BAAfgHwBwAP4BgAfiHwB4IP4BwA/mPwD8cf4H4B/nf4D/d/4f////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0556,
-    "frontObservationPointLon": -9.5067,
-    "facadeWidthM": 15.7,
-    "frontBearingDeg": 181.9,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Muckross Drive",
-    "outdoorObservationPointLat": 52.0555,
-    "outdoorObservationPointLon": -9.5067,
-    "outdoorAreaWidthM": 15.7,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-artybaker-node-13087215559",
@@ -11456,15 +11094,7 @@
     "lat": 54.947384,
     "lon": -7.732155,
     "websiteUrl": "https://www.thecounterdeli.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A4ARAAAw+AEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9475,
-    "frontObservationPointLon": -7.7322,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 48.6,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-abbey-river-coffee-node-5573727532",
@@ -11877,15 +11507,7 @@
     "lat": 53.445212,
     "lon": -6.162498,
     "solarMode": "facade",
-    "websiteUrl": "https://www.avoca.com/en/stores-and-cafes/malahide",
-    "sunGeometryProfileBase64": "Af7/A18AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4453,
-    "frontObservationPointLon": -6.1626,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 350.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "websiteUrl": "https://www.avoca.com/en/stores-and-cafes/malahide"
   },
   {
     "id": "cafes-shaking-tang-node-9062980671",
@@ -11897,16 +11519,7 @@
     "lat": 53.380978,
     "lon": -6.591693,
     "websiteUrl": "https://shakingtang.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAQAAABAAAAAAAwAAAHAAAAAABwAAAPAAAAAADwAAAPAAAAAADwAAAPAAAAAAD8AAAPAADAAAH/AAAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.381,
-    "frontObservationPointLon": -6.5918,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 239.9,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "The Mall"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-willow-and-wild-way-41720768",
@@ -11922,19 +11535,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.willowandwild.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/z/AwAAAAAAAAAAAAAASJ4AAID/CQAA+P8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAgAAAMnAMAxP85AED8vwMA/P8/AMD//wcA/P9/AOD//wcA/v//AOD//x8A////A/j//3/A////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3813,
-    "frontObservationPointLon": -6.5902,
-    "facadeWidthM": 8.4,
-    "frontBearingDeg": 243.7,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.3813,
-    "outdoorObservationPointLon": -6.5903,
-    "outdoorAreaWidthM": 8.4,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-bite-size-node-3701061495",
@@ -12284,15 +11885,7 @@
     "lat": 53.284328,
     "lon": -6.455986,
     "websiteUrl": "https://www.avoca.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDAfwAAwP8HAAD8fwAAwP8HAAD8fwAAwP8HAAD+fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2842,
-    "frontObservationPointLon": -6.4563,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 153.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-egg-cafe-node-1757207103",
@@ -12304,15 +11897,7 @@
     "lat": 53.284325,
     "lon": -6.456089,
     "websiteUrl": "https://www.avoca.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwDAfwAAwP8HAAD8fwAAwP8HAAD8fwAAwP8HAAD+fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2842,
-    "frontObservationPointLon": -6.4563,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 153.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-district-speciality-coffee-node-11958359169",
@@ -12365,15 +11950,7 @@
     "locationLabel": "Hillcrest, St Margaret’s, Co. Dublin, K67 HN70",
     "lat": 53.428325,
     "lon": -6.303187,
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAA4B8AAAD+AQAA4B8AAAD+AQAA4B8AAAD+AQAA4B8AAAD+AQAA4B8AAAD+CQAA4P8AAAD+DwAA4P8BAAD+fwEA4P8fAAD+/wEA4P8fAAD+/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4285,
-    "frontObservationPointLon": -6.3032,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 285.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-bear-market-node-2020208824",
@@ -12410,19 +11987,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.insomnia.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///AwAQAAMAAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAABgAIwCg//8DAP7/PwDg//8DAP7/PwDg//8DAP//fwDw//8HgP///wD4//8fwP///wP///9/////////////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3896,
-    "frontObservationPointLon": -6.1103,
-    "facadeWidthM": 14.8,
-    "frontBearingDeg": 196.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.3896,
-    "outdoorObservationPointLon": -6.1103,
-    "outdoorAreaWidthM": 14.8,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-marqette-node-7010188985",
@@ -12438,15 +12003,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://marqette.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//AwAA4B8AAAD+BwAA/H8AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-gourmet-food-parlour-node-941762411",
@@ -12462,16 +12019,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.gourmetfoodparlour.com",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAGAAHAIADeAAAOIAHAIADeAAAeIAHAIAPfgAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4635,
-    "frontObservationPointLon": -6.2176,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 148.4,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Seatown West"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-think-coffee-node-12486842311",
@@ -12483,16 +12031,7 @@
     "lat": 53.460389,
     "lon": -6.218975,
     "websiteUrl": "https://thinkcoffee.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAA8CYAAAR/AgBA+D8AAMz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4604,
-    "frontObservationPointLon": -6.219,
-    "facadeWidthM": 9.8,
-    "frontBearingDeg": 98,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "North Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-chez-emily-chocolate-way-1230714741",
@@ -12509,19 +12048,7 @@
     },
     "websiteUrl": "https://chezemily.ie",
     "instagramUrl": "https://instagram.com/chezemilyofficial",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///AwEAAIA7AAAA/gMAgPc/AAD4/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAEQAYwP8BgAH+HwBY8/8BgP3/PwD8//8H4P///wD///8f+P//////////////////////////////////////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4585,
-    "frontObservationPointLon": -6.3484,
-    "facadeWidthM": 15.9,
-    "frontBearingDeg": 298.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 53.4585,
-    "outdoorObservationPointLon": -6.3484,
-    "outdoorAreaWidthM": 15.9,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-coffee-start-node-12913980701",
@@ -12533,16 +12060,7 @@
     "lat": 52.269354,
     "lon": -9.705542,
     "websiteUrl": "https://vuyo.me/coffee-start-297887-web",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwBABAAAAP8/AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2696,
-    "frontObservationPointLon": -9.7052,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 197.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "The Mall"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-daniels-coffee-and-more-node-13019364815",
@@ -12554,15 +12072,7 @@
     "lat": 52.262873,
     "lon": -9.678007,
     "websiteUrl": "https://www.danielscoffeeandmore.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A+BgAACA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2629,
-    "frontObservationPointLon": -9.6778,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 96.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-macambo-node-13019326370",
@@ -12574,15 +12084,7 @@
     "lat": 52.264329,
     "lon": -9.678424,
     "websiteUrl": "https://mocambocoffee.co.uk",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQDAAwAAAPAQAAAADwMAAPA/AAAA/wMAAPA/AAAA/wMAAPA/AAAA/wcAAPB/AAAA/w8AAPD/AQAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2644,
-    "frontObservationPointLon": -9.6784,
-    "facadeWidthM": 6,
-    "frontBearingDeg": 359.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-starbucks-node-7589195741",
@@ -12594,15 +12096,7 @@
     "lat": 52.265022,
     "lon": -9.679113,
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/58747-292986/tralee-dt",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwACAEBwPAAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.265,
-    "frontObservationPointLon": -9.679,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 18.5,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-leaf-and-bean-node-10740140206",
@@ -13113,16 +12607,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.18ctea.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAMAAABAADAAAAcAAADAADgAAB/AAAPCADwAAP/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3388,
-    "frontObservationPointLon": -6.462,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 236.6,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "North Main Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-cafe-22-node-6735274280",
@@ -13138,16 +12623,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://westgatedesign.ie",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAMAAABAADAAAAcAAADAADgAAB/AAAPCADwAAP/8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3388,
-    "frontObservationPointLon": -6.462,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 236.6,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "North Main Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-coffee-and-cake-node-11922608151",
@@ -13159,16 +12635,7 @@
     "lat": 52.338049,
     "lon": -6.461254,
     "websiteUrl": "https://www.thebookcentre.ie/the-book-centre-wexford.aspx",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAgABAGAAEAAABoABAOAAGAAAHsABAOAHHwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.338,
-    "frontObservationPointLon": -6.4614,
-    "facadeWidthM": 6.4,
-    "frontBearingDeg": 252.1,
-    "shadeClearanceDeg": 32.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "South Main Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-joannes-cafe-and-bakery-node-12409452318",
@@ -13184,16 +12651,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.staffordbakeries.ie/cafe-stores",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEEAAAD4DwAA+P8DAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3395,
-    "frontObservationPointLon": -6.4627,
-    "facadeWidthM": 11,
-    "frontBearingDeg": 152.7,
-    "shadeClearanceDeg": 42.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "North Main Street"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-la-cuisine-node-5581471694",
@@ -13213,19 +12671,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://lacuisinewexford.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "AwAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAMAAAA8AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABAAMAAAAQADABAAMAAAAQAHABAAcAAAAYAPABAA+ADwB8A/wH8A////P/z/////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3409,
-    "frontObservationPointLon": -6.4633,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 55.2,
-    "shadeClearanceDeg": 67.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 52.3409,
-    "outdoorObservationPointLon": -6.4633,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-noush-node-13437561032",
@@ -13238,15 +12684,7 @@
     "lon": -6.45587,
     "websiteUrl": "https://noush.ie",
     "instagramUrl": "https://instagram.com/noush.coffee",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A4D7AgCAvz8AAPj/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3497,
-    "frontObservationPointLon": -6.4559,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 102.5,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-obriens-node-5581103850",
@@ -13273,20 +12711,7 @@
     },
     "websiteUrl": "https://www.obriens.ie",
     "instagramUrl": "https://instagram.com/OBriensCafe",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEEAAAD4DwAA+P8DAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAYAAABgAAAAAAYAAABgCAgIAIbD44Ng/P/+D+b///9j////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3395,
-    "frontObservationPointLon": -6.4627,
-    "facadeWidthM": 11,
-    "frontBearingDeg": 152.7,
-    "shadeClearanceDeg": 42.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "North Main Street",
-    "outdoorObservationPointLat": 52.3395,
-    "outdoorObservationPointLon": -6.4627,
-    "outdoorAreaWidthM": 11,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-stable-diet-node-5581103862",
@@ -13306,20 +12731,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://www.stabledietcafe.com",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A+D/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHAgAAeCAAAIAHAgAAeDAAAMCXAwAA/j8AAPD/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAIAAAAAADwAAwP8AAAD8DwBAwP8AAAT8DwBA4P8AAAT+DwBC4P9AOAz/D/7D/v/w////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3358,
-    "frontObservationPointLon": -6.4588,
-    "facadeWidthM": 12,
-    "frontBearingDeg": 223.6,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Larkin's Lane",
-    "outdoorObservationPointLat": 52.3357,
-    "outdoorObservationPointLon": -6.4588,
-    "outdoorAreaWidthM": 12,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-sweet-dreams-node-11815215692",
@@ -13335,19 +12747,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://sweetdreamswexford.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/7/AwAAAAAAAAAAAAAABAAAAPAACAAAn4EAAPA5CAAAn8MAAPA7DAAA/+cAAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAACAQAAAEAgEA/CAQAMAfggEA/Dk4AMCfgwMA/ns4AOD/xwMA/v9+APD//wcA////Afz//z/g////////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3389,
-    "frontObservationPointLon": -6.4632,
-    "facadeWidthM": 10.7,
-    "frontBearingDeg": 235.2,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 52.3389,
-    "outdoorObservationPointLon": -6.4632,
-    "outdoorAreaWidthM": 10.7,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-sweetness-deserts-cafe-node-10887677959",
@@ -13380,15 +12780,7 @@
     "lon": -6.461861,
     "websiteUrl": "https://theclovelly.square.site",
     "instagramUrl": "https://instagram.com/the_clovelly",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "AQD4AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAADwAAAA+B8AAID/BwAA+H8AAMD/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3397,
-    "frontObservationPointLon": -6.4617,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 353.8,
-    "shadeClearanceDeg": 42.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-gallery-node-10864810525",
@@ -13400,15 +12792,7 @@
     "lat": 52.335709,
     "lon": -6.456934,
     "websiteUrl": "https://www.talbotwexford.ie/the-gallery.html",
-    "solarMode": "facade",
-    "sunGeometryProfileBase64": "Af//A/wHAADAfxwAAPzHAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3358,
-    "frontObservationPointLon": -6.4568,
-    "facadeWidthM": 11.8,
-    "frontBearingDeg": 96.3,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-lane-cafe-node-6735274279",
@@ -13428,19 +12812,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://westgatedesign.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A+D/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAQEAABASgAAAOYHAID8fwAA+P8HAID/fwAA+P8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAAAAABAAAAEAAAAAABEAAAEAABCAABEAAAnAABGQAB2Doz/sHj/+/////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.339,
-    "frontObservationPointLon": -6.4613,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 151.1,
-    "shadeClearanceDeg": 47.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 52.3389,
-    "outdoorObservationPointLon": -6.4613,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-the-trough-node-506572591",
@@ -13461,19 +12833,7 @@
     },
     "websiteUrl": "https://www.thetrough.ie/?location=LZWSE9W6QASNX",
     "instagramUrl": "https://instagram.com/_thetrough_",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///A4A/AAAA+P8AAID/HwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAAAAAAAA+D8AAID//wgA+P+fAID//w8A+P//AID//w8A+P//AYD//x8A+P//A4D//z8A+P//B8D//38A/v//D/D///+H////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3383,
-    "frontObservationPointLon": -6.4594,
-    "facadeWidthM": 9.3,
-    "frontBearingDeg": 146,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 52.3383,
-    "outdoorObservationPointLon": -6.4594,
-    "outdoorAreaWidthM": 9.3,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-ufucoffee-node-9928079765",
@@ -13489,19 +12849,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://ufucoffee.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A///Ax8AALz3AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAjgHAv/cfAPz//wPA//8/APz//wPA//8/APz//wPg//8/AP///wP4//8/wP///wP+//8/4P///wf+////4f//////////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3229,
-    "frontObservationPointLon": -6.4872,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 341.3,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "outdoorObservationPointLat": 52.323,
-    "outdoorObservationPointLon": -6.4872,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-wexford-coffee-roasters-node-9377724781",
@@ -13517,20 +12865,7 @@
       "confidence": "confirmed"
     },
     "websiteUrl": "https://wexfordcoffee.ie",
-    "solarMode": "outdoor-area",
-    "sunGeometryProfileBase64": "A/z/AwAAAAIAAAAgAAAAAAMAAABwAAAAgwcAAPD4CAAA/48AAPD/CQAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAgAAACAQAEAAAwEABHAwAECBBwMAPPgwAOCHHwMA/vkxAOD/fwcA/v9/APD//w+A////Afz//x/A////D///////////////////////AAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3416,
-    "frontObservationPointLon": -6.4638,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 239.5,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Selskar Avenue",
-    "outdoorObservationPointLat": 52.3416,
-    "outdoorObservationPointLon": -6.4639,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    "solarMode": "facade"
   },
   {
     "id": "cafes-firehouse-bakery-node-11056352022",
@@ -16129,15 +15464,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAHgAAAOAJAAAA/gAAAOAPAAAA/wAAAPAPAAAA/wEAAPAfAAAA/wEAAPAfAAAA/yEAAPAfAwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2716,
-    "frontObservationPointLon": -6.371,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 2.2,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-aspretto-node-11837408505",
@@ -16198,16 +15525,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAQnAAAIMEPAAA+/AAA4P8PAAD+/wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3219,
-    "frontObservationPointLon": -6.3191,
-    "facadeWidthM": 6.9,
-    "frontBearingDeg": 38.6,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Crumlin Village"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-baked-node-2980317232",
@@ -16292,15 +15610,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAABgQAAAAB6EAQDg/xgAAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/x8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2301,
-    "frontObservationPointLon": -6.1243,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 91.8,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-baxter-and-greene-node-1498471163",
@@ -16431,15 +15741,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAIAAQAAAKAAHAIAWfgAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4267,
-    "frontObservationPointLon": -6.2404,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 26.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bibis-node-1740228809",
@@ -16577,15 +15879,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD+A/QAAADwDwAA/v8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3886,
-    "frontObservationPointLon": -6.0727,
-    "facadeWidthM": 5,
-    "frontBearingDeg": 1.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bon-cafe-node-4814016148",
@@ -16624,14 +15918,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//Az8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 53.2789,
-    "frontObservationPointLon": -6.4876,
-    "facadeWidthM": 7,
-    "frontBearingDeg": 335.8,
-    "shadeClearanceDeg": 2.5
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bread-and-butter-node-6052660285",
@@ -16718,15 +16005,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//A4A7AADw+QMAAP8/AAD4/wMAgP8/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8535,
-    "frontObservationPointLon": -8.9714,
-    "facadeWidthM": 8.9,
-    "frontBearingDeg": 71.6,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Coffee Rush Drive Through",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16745,16 +16023,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAIAAAAAACAAAAIAAAAAACAAAAIAAAAAACAAAAIAAAAAACAAAAIAAAAAACAAAAIAAABAADAEAAOAAADMADAMDxPwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8433,
-    "frontObservationPointLon": -8.9823,
-    "facadeWidthM": 6.9,
-    "frontBearingDeg": 16.8,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Cooks Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cream-tea-room-node-10871887335",
@@ -16770,15 +16039,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAQAgABgAAALAAQAgAB4AAAbwAQBggB8AAI7/AQDg+R8AAP7/AQDg/x8AAP7/AQDg/x8AAP7/AQDg/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3374,
-    "frontObservationPointLon": -6.46,
-    "facadeWidthM": 8.9,
-    "frontBearingDeg": 330.8,
-    "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Henrietta Street",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16797,15 +16057,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQDgAwAAAAAAAAAABAAAAPAXAAAA/zMAAPj/AwCA/z8AAPj/AwCA/z8AAPj/AwCA/z8AAPj/AwCA/z8AAPj/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3397,
-    "frontObservationPointLon": -6.464,
-    "facadeWidthM": 4.6,
-    "frontBearingDeg": 336.1,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-daily-dose-coffee-node-12961984135",
@@ -16820,15 +16072,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAEAAAAAABEAAAMAABAAAHMAAAMABHAAAPMABAMAPPAAA/McDAMB/PAAA/McDAMD/PgAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3376,
-    "frontObservationPointLon": -6.4634,
-    "facadeWidthM": 7.1,
-    "frontBearingDeg": 260.5,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-flower-power-cafe-and-deli-node-2625323301",
@@ -16843,14 +16087,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AxgAAADAER8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 52.2691,
-    "frontObservationPointLon": -9.7052,
-    "facadeWidthM": 7,
-    "frontBearingDeg": 102.3,
-    "shadeClearanceDeg": 2.5
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-gather-node-11901187565",
@@ -16865,15 +16102,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAQAAABgAAACAAwAAADwAAADjAwAAMD4AAADzBwAAsP8AAAD/3wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3411,
-    "frontObservationPointLon": -6.4638,
-    "facadeWidthM": 10.3,
-    "frontBearingDeg": 42.4,
-    "shadeClearanceDeg": 32.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-himalayan-cafe-way-483722693",
@@ -16889,15 +16118,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD4AwAAAAAAAAAAAgAAACAAAAAAAgABACAAGAAAAsABAGAAHgAADvgBAODzHwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9506,
-    "frontObservationPointLon": -7.7375,
-    "facadeWidthM": 11.3,
-    "frontBearingDeg": 11.7,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Church Lane",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16916,15 +16136,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AfD/AwAAAAAABAAAAHgAAACAHwAAAPgBAADAHwAAIP8BAAD+HwAA4P8BAAD+HwAA4P8BAAD+HwAA4P8BAAD+HwAA4P8BAID/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9531,
-    "frontObservationPointLon": -7.7356,
-    "facadeWidthM": 5.8,
-    "frontBearingDeg": 13.4,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-kaffeine-coffee-house-node-5493462517",
@@ -16939,16 +16151,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAGAAAAwAAgAAAPAAABwAAwAAA/gAADwAQ8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8453,
-    "frontObservationPointLon": -8.9817,
-    "facadeWidthM": 11.4,
-    "frontBearingDeg": 201.2,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Francis Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-kp3-node-13251490342",
@@ -16964,15 +16167,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAlAAAYOAPAAAO/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.058,
-    "frontObservationPointLon": -9.5068,
-    "facadeWidthM": 15.4,
-    "frontBearingDeg": 168.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "East Avenue Road",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16991,16 +16185,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AyTgAwBAAz4AADzgAwDAAz4AADzgAwDAnz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2681,
-    "frontObservationPointLon": -9.7056,
-    "facadeWidthM": 12.1,
-    "frontBearingDeg": 102.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Denny Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-nosh-coffee-node-1611940769",
@@ -17016,14 +16201,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAEAAABhABAOCBHwAAfvwBAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3425,
-    "frontObservationPointLon": -6.4649,
-    "facadeWidthM": 16.2,
-    "frontBearingDeg": 126.2,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -17042,15 +16219,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAQAAADgAAACABwAAAHgABACAB2AAAPgABwCAP3wAAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9519,
-    "frontObservationPointLon": -7.7358,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 109.4,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-spoglers-continental-confectioners-node-3425133014",
@@ -17065,16 +16234,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD+AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAAAIAAAAAADAAAAMAAABIADAMAAOAAAHOADAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0588,
-    "frontObservationPointLon": -9.5079,
-    "facadeWidthM": 10.8,
-    "frontBearingDeg": 256.8,
-    "shadeClearanceDeg": 37.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bohereencael Glebe"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-sweetngreen-node-5630171223",
@@ -17090,15 +16250,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAABAADAAAAcAAAPAADAAA/88AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8447,
-    "frontObservationPointLon": -8.9816,
-    "facadeWidthM": 10.8,
-    "frontBearingDeg": 118.4,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Friary Hall",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -17117,15 +16268,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAIAwAAgAAAcAAMAwAM8AAD88AMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3402,
-    "frontObservationPointLon": -6.4642,
-    "facadeWidthM": 12.5,
-    "frontBearingDeg": 59.4,
-    "shadeClearanceDeg": 37.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-the-coffee-pod-node-12959212915",
@@ -17140,15 +16283,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD/AwAAAAAQEAAAgIEBAAAeHAAA+P8BAID/HwAA+P8BAID/HwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2687,
-    "frontObservationPointLon": -9.6966,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 33.2,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-the-red-kettle-node-5291804877",
@@ -17164,14 +16299,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAACAAQAAABgAAACAAQAAABgABACAAUAAABgABgCAA2AAAHgABwCAD3wAAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.339,
-    "frontObservationPointLon": -6.4634,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 235,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -17190,16 +16317,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAgAAAEAAIAAAB8AAAMIAPAAAH+AAAcIAPAAA//AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3358,
-    "frontObservationPointLon": -6.4594,
-    "facadeWidthM": 5.9,
-    "frontBearingDeg": 39,
-    "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "South Main Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-the-tea-room-node-7573183642",
@@ -17215,14 +16333,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAACDwAAKD9HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3425,
-    "frontObservationPointLon": -6.487,
-    "facadeWidthM": 14.9,
-    "frontBearingDeg": 253.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -17242,15 +16352,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAABAAAAAAAYAAADgAAAAAB8IAADwhwEAAP88AADw/wMAAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.3415,
-    "frontObservationPointLon": -6.4639,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 323.1,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Selskar Avenue",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -17269,16 +16370,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAAIwAAD8wAMAwI8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2694,
-    "frontObservationPointLon": -9.7045,
-    "facadeWidthM": 8.3,
-    "frontBearingDeg": 298.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Ashe Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-yummy-cafe-market-node-5753988721",
@@ -17293,16 +16385,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAIA3AAAA+AMAAID/AwAA+D8AAID/BwAA+H8AAID/DwAA+P8DAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2697,
-    "frontObservationPointLon": -9.707,
-    "facadeWidthM": 9.6,
-    "frontBearingDeg": 274,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bridge Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bakers-baristas-node-11886262544",
@@ -17317,16 +16400,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAEAAEB4AAAAhAcAAMD8AAAA/A8AAMD/AQAA/D8AAOD/DwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8431,
-    "frontObservationPointLon": -8.9829,
-    "facadeWidthM": 7.3,
-    "frontBearingDeg": 13.3,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "O'Connell Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bru-barista-coffee-node-13703130099",
@@ -17341,15 +16415,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8286,
-    "frontObservationPointLon": -8.9365,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 260.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bruno-cafe-node-12816239748",
@@ -17364,16 +16430,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAgAcAAAB4AAAAgAcAAAB4AAAAgAcAAAB4AAAAgAcAAAB4AAAAgA8AAAD4PwcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2691,
-    "frontObservationPointLon": -9.7081,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 312.5,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bridge Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bus-station-cafe-way-1475084520",
@@ -17388,16 +16445,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQCAAwAAAAAAAAAAAAAAAGAAAAAADggAAODzAAAA/g8AAOD/AAAA/g8AAOD/AAAA/g8AAOD/AAAA/g8AAOD/AQAA/v8AAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0598,
-    "frontObservationPointLon": -9.5021,
-    "facadeWidthM": 5.5,
-    "frontBearingDeg": 7.3,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Fairhill"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cafe-aroma-node-11893511759",
@@ -17412,16 +16460,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAMAAAAwAAAEAAMAAAD4AAAcAAPAAAf/AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8445,
-    "frontObservationPointLon": -8.9834,
-    "facadeWidthM": 16.3,
-    "frontBearingDeg": 35.4,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "High Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cafe-trax-node-11288293040",
@@ -17436,15 +16475,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQDAAwMAAMB/AACA/gcAAPh/AACA/wcAAPh/AACA/wcAAPh/AACA/wcAAPh/AACA/x8AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.954,
-    "frontObservationPointLon": -7.7262,
-    "facadeWidthM": 10.7,
-    "frontBearingDeg": 346.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-charleys-cafe-way-62158967",
@@ -17459,15 +16490,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAQAAAACAMBwAAwn8AACD8BwAA7n8AAOD/BwAA/n8AAOD/BwAA/n8AAOD/BwAA/n8AAOD/BwAA/n8AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9477,
-    "frontObservationPointLon": -7.7353,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 226.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-coffee-hatch-node-864066904",
@@ -17482,15 +16505,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AfD/AwAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAMAQAAwAAAMAAMAwAAwAAAMAAMAwAAwAAAcgAMAwAM8AAD88AMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8457,
-    "frontObservationPointLon": -8.9782,
-    "facadeWidthM": 13.2,
-    "frontBearingDeg": 61.5,
-    "shadeClearanceDeg": 22.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-coffee-rush-node-12061287147",
@@ -17505,16 +16520,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAgAAAOAzGQAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAA/v8BAOD/HwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8535,
-    "frontObservationPointLon": -8.9715,
-    "facadeWidthM": 8.9,
-    "frontBearingDeg": 253.3,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Coffee Rush Drive Through"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-curious-cat-cafe-node-6697039257",
@@ -17529,15 +16535,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAAAAAHgAAAPQHAADA/wEAAPwfAADC/wEAIP4fAADy/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0599,
-    "frontObservationPointLon": -9.5086,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 167.7,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-deenagh-lodge-way-293843962",
@@ -17552,15 +16550,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//Az8TAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.059,
-    "frontObservationPointLon": -9.5204,
-    "facadeWidthM": 6.8,
-    "frontBearingDeg": 53.3,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-dunnes-stores-cafe-node-11886262550",
@@ -17575,15 +16565,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAACAAAAIABAAAAPgAAAOEPAAAQ/wAAAPcPAADw/wAAAP9/AADw/wcAAP9/AADw/wcAAP9/AADw/wcAAP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8428,
-    "frontObservationPointLon": -8.9819,
-    "facadeWidthM": 6.6,
-    "frontBearingDeg": 186.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-elm-node-12061327897",
@@ -17598,15 +16580,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AxgAAACAAwBAADgAABzwAwDAjz8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.853,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 336.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-evas-node-11891435614",
@@ -17621,16 +16595,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAIAAGAAAGIABAIADGAAAeMAHAIAffwAA+P8HAID/fwAA+P8HAID/fwAA+P8HAID/fwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8436,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 5.8,
-    "frontBearingDeg": 266.9,
-    "shadeClearanceDeg": 32.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Merchants Square"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-good-boy-node-11829035812",
@@ -17645,16 +16610,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAEAAAAAABgAAAMAAIAAADgAAAcAAMAAAH4AAA8AEPAAD//wAA8P8PAAD//wAA8P8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0598,
-    "frontObservationPointLon": -9.5093,
-    "facadeWidthM": 15.9,
-    "frontBearingDeg": 163.1,
-    "shadeClearanceDeg": 32.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "New Market Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-kernans-bistro-node-6715214856",
@@ -17669,15 +16625,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwDAAwAAADwAAwDAAzAAADwAAwDAAzAAADyAAwDABzwAAPzwAwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9456,
-    "frontObservationPointLon": -7.7329,
-    "facadeWidthM": 17.6,
-    "frontBearingDeg": 223.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-laylas-cafe-diner-node-13006765460",
@@ -17692,15 +16640,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//A4AAAADA/QEAAP8fAADw/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.279,
-    "frontObservationPointLon": -9.7263,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 50.6,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-le-croque-node-5693537701",
@@ -17715,16 +16655,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAAQAAAAAAGAAAAwAAgAAAfAAADwAA8AAP//AADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8434,
-    "frontObservationPointLon": -8.9842,
-    "facadeWidthM": 14.7,
-    "frontBearingDeg": 81.8,
-    "shadeClearanceDeg": 47.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Chapel Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-loosely-goosey-cafe-node-11889150030",
@@ -17739,16 +16670,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAPgjAAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.2567,
-    "frontObservationPointLon": -9.7364,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 178,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Windmill Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-luna-coffee-wine-node-11826359222",
@@ -17763,16 +16685,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAlAAAYOAPAAAO/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.058,
-    "frontObservationPointLon": -9.5068,
-    "facadeWidthM": 15.4,
-    "frontBearingDeg": 168.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "East Avenue Road"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-mocha-coffee-co-node-11893674175",
@@ -17787,15 +16700,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/AwAAAAAAAAAAAAAAAAAAAGAnAAAA/gcAAOB/AAAI/wcAgPB/AAAY/wcAgPt/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8441,
-    "frontObservationPointLon": -8.9817,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 194.1,
-    "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-mondo-node-11891435615",
@@ -17810,16 +16715,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AcD/AwAAAAAAAAAAAAAAAAgAAADAAAAAAAwAAEDAAAAABAwAAEDAAAAADJ4BAMDgHwAAHP4BAMDjHwAA/P4BAMD/HwAA/P8DAMD/PwAA/P8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8437,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 5,
-    "frontBearingDeg": 264.3,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Merchants Square"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-mug-and-bean-node-6712984256",
@@ -17834,16 +16730,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAwAAADAAAAAAAwAAAHAAAAAADwAAAPAACAAAP8AAAPAHDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0584,
-    "frontObservationPointLon": -9.5112,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 243.4,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Beech Road"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-noelles-retro-cafe-node-4317511842",
@@ -17858,16 +16745,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD/AwAAAAAAAAAAAAMAAGB8AACA/w8AAPj/BACA/08AAPj/BACA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0593,
-    "frontObservationPointLon": -9.5086,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 345.5,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Old Market Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-obriens-irish-sandwich-cafe-node-13532546191",
@@ -17882,15 +16760,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwCBAgAAkD8AAAD/AwAA8D8AAID/AwAA/D8AAMD/AwAA/z8AAPj/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAPz/AwDA/z8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0591,
-    "frontObservationPointLon": -9.5025,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 95.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-offspring-node-2297940615",
@@ -17905,16 +16775,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAEAAAAcAwAAADHAAAA8H4AAAD/BwAA8H8AAAD/BwAA8H8AAAD/BwAA8P8AAAD/fwAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8484,
-    "frontObservationPointLon": -8.9819,
-    "facadeWidthM": 9,
-    "frontBearingDeg": 284.2,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Steeles Terrace"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-passatempo-node-4855508725",
@@ -17929,16 +16790,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQCAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAQAAgAAA8gAMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8422,
-    "frontObservationPointLon": -8.9839,
-    "facadeWidthM": 6.7,
-    "frontBearingDeg": 180,
-    "shadeClearanceDeg": 72.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Westbys Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-records-and-coffee-node-11891587058",
@@ -17953,16 +16805,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAADAAAAMADAAAA/AAAAMA/AAAA/AMAAMA/AAAA/AMAAMA/AAAA/AMAAMA/AAAA/AMAAMA/AAAA/AMCAMB/IAAA/A8DAMD/PwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8438,
-    "frontObservationPointLon": -8.9835,
-    "facadeWidthM": 7.4,
-    "frontBearingDeg": 256.3,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Murphy's Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-swing-room-coffee-house-node-6715200508",
@@ -17977,15 +16820,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwDABwAAAPwBAADAHwAAAPwBAADwHwAAAP8BAADwHwAAAP8BAADwHwAAAP8BAAD4HwAAgP8BAAD8HwAA4P8BAID/HwAA/v8BAOD/HwAA/v8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9446,
-    "frontObservationPointLon": -7.7346,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 134.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-taste-buds-node-1279211143",
@@ -18000,15 +16835,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAggAAADAMAACA/wEA4PwfAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAD+/wEA4P8fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 54.9467,
-    "frontObservationPointLon": -7.7409,
-    "facadeWidthM": 7.1,
-    "frontBearingDeg": 168.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-the-hub-ennis-node-709083303",
@@ -18023,16 +16850,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD8AwAAAAAAAAAAAAAAAAAAAAAAgAAAAAAIAAAAgAAAAAAIAAACgAAAIAAIAAACgAAAIAAIAAAKwAAAsAAMAAAf4AAA8IMPAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8437,
-    "frontObservationPointLon": -8.984,
-    "facadeWidthM": 5.8,
-    "frontBearingDeg": 275.4,
-    "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Chapel Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-the-snug-node-11898392657",
@@ -18047,16 +16865,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AeD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAEAAEB4AAAAhAcAAMD8AAAA/A8AAMD/AQAA/D8AAOD/DwAA/v8BAOD/HwAA/v8BAOD/HwAA/gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8431,
-    "frontObservationPointLon": -8.9829,
-    "facadeWidthM": 7.3,
-    "frontBearingDeg": 13.3,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "O'Connell Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-the-well-node-11878660450",
@@ -18071,16 +16880,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQDgAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAIAAAAgIAAAAAMCAAAxMAAAHAMDgAA7/gAAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8421,
-    "frontObservationPointLon": -8.9838,
-    "facadeWidthM": 13.8,
-    "frontBearingDeg": 4.9,
-    "shadeClearanceDeg": 32.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Westbys Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-warehouse-restaurant-node-11856668537",
@@ -18095,15 +16895,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/A8IDAMD+PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.8389,
-    "frontObservationPointLon": -8.9722,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 16.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-zone-node-2975012710",
@@ -18118,16 +16910,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQD/AwAAAAAAAAAAAAMAAGB8AACA/w8AAPj/BACA/08AAPj/BACA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 52.0593,
-    "frontObservationPointLon": -9.5086,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 345.5,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Old Market Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bare-food-node-10120837418",
@@ -18143,15 +16926,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAAAAAAEAAAccAAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.7151,
-    "frontObservationPointLon": -6.3525,
-    "facadeWidthM": 11.5,
-    "frontBearingDeg": 183.2,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-boutique-cafe-node-11209213195",
@@ -18166,15 +16941,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAAAwAAADAAAAAAAwAAADAADgAAAyAAwDAADgAAAyAAwDAADwAABzgAwDAAz8AAPz4AwDA/z8AAPz/AwDA/z8AAPz/AwDA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.6634,
-    "frontObservationPointLon": -6.6775,
-    "facadeWidthM": 8.3,
-    "frontBearingDeg": 336.3,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-caffe-letterario-gatta-nera-node-3771961837",
@@ -18189,16 +16956,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAIAAAQwAAAgAMMAAA4wAAAgAMcAAA4wAcAgAN8AAA4wAcAgAN8AAB4wAcAgB9+AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2037,
-    "frontObservationPointLon": -6.101,
-    "facadeWidthM": 8.8,
-    "frontBearingDeg": 71.7,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Albert Walk"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-checkovs-cafe-node-3048500369",
@@ -18213,16 +16971,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AcD/AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAIAAAAgAAAAAAMAAAAwAAAAgAMAAAA8AADg/AMAAP8/AAD4/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.6523,
-    "frontObservationPointLon": -6.686,
-    "facadeWidthM": 5.5,
-    "frontBearingDeg": 55.7,
-    "shadeClearanceDeg": 27.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Bakery Lane"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-coffee-house-node-12043959247",
@@ -18237,16 +16986,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwCAlw8AAPz/AADg/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AADw/w8AAP//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.7142,
-    "frontObservationPointLon": -6.3552,
-    "facadeWidthM": 4.5,
-    "frontBearingDeg": 200.2,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Wellington Quay"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-dockyard-no-8-node-4126816905",
@@ -18261,15 +17001,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afj/Ax8AAADwEQAAgP8bAAD4/wEAgP8fAAD4/wEAgP9fAAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgP9/AAD4/wcAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2076,
-    "frontObservationPointLon": -6.1022,
-    "facadeWidthM": 6.8,
-    "frontBearingDeg": 69.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-esquires-coffee-house-node-10120819016",
@@ -18284,16 +17016,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "AQDgAwAAABAAAAAAA4AAADAADAAAA8AAAHAADwAAD/wAAPDzDwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA//8AAPD/DwAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.7149,
-    "frontObservationPointLon": -6.3518,
-    "facadeWidthM": 11.4,
-    "frontBearingDeg": 4.1,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "West Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-evalynn-node-13132970902",
@@ -18309,14 +17032,6 @@
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
     "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//A0AAAAAAPNwDAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.7083,
-    "frontObservationPointLon": -6.3366,
-    "facadeWidthM": 11.9,
-    "frontBearingDeg": 143.8,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -18335,16 +17050,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/AwAAAAAAAAAAABgAAMCAAwAADHgAAMCBPwAAPPgDAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.202,
-    "frontObservationPointLon": -6.1105,
-    "facadeWidthM": 4.7,
-    "frontBearingDeg": 24.5,
-    "shadeClearanceDeg": 12.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "St Kevin's Square"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-gourmet-cafe-way-907904371",
@@ -18359,16 +17065,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Afz/AwAAAAAAAAABAAAAEAAAAAADmAAA8IAPAAAf+AAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAA8P8PAAD//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.2034,
-    "frontObservationPointLon": -6.1094,
-    "facadeWidthM": 4.8,
-    "frontBearingDeg": 283,
-    "shadeClearanceDeg": 7.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Main Street"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-bbs-coffee-and-muffins-node-989402804",
@@ -18982,16 +17679,23 @@
   {
     "id": "cafes-brindle-node-6667957466",
     "appId": "ie",
-    "name": "Brindle",
+    "name": "Brindle Coffee & Wine",
     "type": "cafe",
     "regionId": "dublin",
     "regionLabel": "Dublin",
-    "locationLabel": "Lennox Street",
+    "locationLabel": "34 Lennox Street, Dublin D08 N265",
     "lat": 53.33133,
     "lon": -6.267471,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "websiteUrl": "https://brindlecoffeewine.com/",
+    "instagramUrl": "https://www.instagram.com/brindlecoffeewine",
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
+    "geospatialSourceUrl": "https://www.openstreetmap.org/node/6667957466",
     "placementConfidence": "source-backed",
     "sunGeometryProfileBase64": "Afz/AwAAAAAAAAAAAACAAAIAQA44AAD8gAMAwA88AAD88AMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
     "sunGeometryProfileSource": "osm-building-shadow-v1",
@@ -19133,16 +17837,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af7/A/gDAACAPwAAHP8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.308,
-    "frontObservationPointLon": -6.3498,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 20,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade",
-    "facadeInferenceRoadName": "Ballymount Corporate Park"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cabana-cafe-node-3523281165",
@@ -19157,15 +17852,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAwAACQAAMAgA8+AAD4/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3283,
-    "frontObservationPointLon": -6.3442,
-    "facadeWidthM": 17.5,
-    "frontBearingDeg": 56.5,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cafe-112-way-967681081",
@@ -19486,15 +18173,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAAAAAAAAAAAAAAAAAAAAIAAEBgBAAADOYCAMDwPwAAPP8DAMD3PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAMD/PwAA/P8DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3377,
-    "frontObservationPointLon": -6.5408,
-    "facadeWidthM": 5,
-    "frontBearingDeg": 144.8,
-    "shadeClearanceDeg": 17.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-chocolate-cafe-node-6179116863",
@@ -19603,15 +18282,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwAA4B8AAAD+BwAA/H8AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwCA/38AAPj/BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18,
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cobalt-cafe-and-gallery-way-252786989",
@@ -19696,15 +18367,7 @@
     "solarMode": "facade",
     "sourceConfidence": "confirmed",
     "geospatialSource": "osm-overpass",
-    "placementConfidence": "source-backed",
-    "sunGeometryProfileBase64": "Af//AwDc8wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAD8/wMAwP8/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "frontObservationPointLat": 53.3658,
-    "frontObservationPointLon": -6.3309,
-    "facadeWidthM": 8.4,
-    "frontBearingDeg": 183.9,
-    "shadeClearanceDeg": 2.5,
-    "facadeInferenceSource": "osm-building-facade"
+    "placementConfidence": "source-backed"
   },
   {
     "id": "cafes-cool-hand-coffee-roasters-ifsc-node-387223272",
@@ -19846,5 +18509,40 @@
     "shadeClearanceDeg": 22.5,
     "facadeInferenceSource": "osm-building-facade",
     "facadeInferenceRoadName": "Millennium Walkway"
+  },
+  {
+    "id": "cafes-cafe-sol-cornelscourt-node-4993382822",
+    "appId": "ie",
+    "name": "Cafe Sol Cornelscourt",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Cornelscourt Shopping Centre, Old Bray Road, Dublin",
+    "sourceConfidence": "confirmed",
+    "lat": 53.266493,
+    "lon": -6.161376,
+    "geospatialSource": "osm-overpass",
+    "geospatialSourceUrl": "https://www.openstreetmap.org/node/4993382822",
+    "placementConfidence": "source-backed",
+    "websiteUrl": "https://www.dunnesstoresgrocery.com/cafe-sol-about-us",
+    "solarMode": "facade"
+  },
+  {
+    "id": "cafes-east-road-cafe-way-966502741",
+    "appId": "ie",
+    "name": "East Road Cafe",
+    "type": "cafe",
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "92 East Road, East Wall, Dublin 3",
+    "sourceConfidence": "confirmed",
+    "lat": 53.352734,
+    "lon": -6.232185,
+    "geospatialSource": "osm-overpass",
+    "geospatialSourceUrl": "https://www.openstreetmap.org/way/966502741",
+    "placementConfidence": "exact",
+    "websiteUrl": "https://east-road-cafe.myshopify.com/",
+    "instagramUrl": "https://www.instagram.com/east_road_cafe/",
+    "solarMode": "facade"
   }
 ]

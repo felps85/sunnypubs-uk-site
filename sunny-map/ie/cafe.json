@@ -1496,13 +1496,7 @@
     "locationLabel": "Main Street, Celbridge, W23 DC94",
     "websiteUrl": "https://www.creedcoffeeroasters.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 298.5,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3401,
-    "frontObservationPointLon": -6.5384,
-    "facadeWidthM": 5.4,
+    "status": "unavailable",
     "foodOffer": {
       "category": "snacks",
       "confidence": "confirmed"
@@ -2565,13 +2559,7 @@
     "locationLabel": "35 Castle Street, Dalkey",
     "websiteUrl": "https://countrybake.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 28.1,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2772,
-    "frontObservationPointLon": -6.1039,
-    "facadeWidthM": 5.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-thyme-out-node-9566431475",
@@ -2586,13 +2574,7 @@
     "websiteUrl": "https://thymeout.ie",
     "instagramUrl": "https://instagram.com/thyme_out",
     "solarMode": "facade",
-    "frontBearingDeg": 29.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2772,
-    "frontObservationPointLon": -6.1038,
-    "facadeWidthM": 7.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-hx46-cafe-node-6211308346",
@@ -2646,22 +2628,12 @@
     "regionLabel": "Delgany",
     "locationLabel": "Delgany",
     "websiteUrl": "https://www.pigeonhouse.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 191.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1327,
-    "frontObservationPointLon": -6.0936,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.1327,
-    "outdoorObservationPointLon": -6.0936,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2792,13 +2764,7 @@
     "locationLabel": "Donabate, K36DK68",
     "websiteUrl": "https://www.jonesgc.com/cafe",
     "solarMode": "facade",
-    "frontBearingDeg": 285.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4777,
-    "frontObservationPointLon": -6.1961,
-    "facadeWidthM": 9.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-bean-and-leaf-way-393362368",
@@ -2876,13 +2842,7 @@
     "locationLabel": "Dublin Road, Drogheda",
     "websiteUrl": "https://www.relishcafe.ie/mint-greene",
     "solarMode": "facade",
-    "frontBearingDeg": 136,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7014,
-    "frontObservationPointLon": -6.3107,
-    "facadeWidthM": 4.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-arabica-node-2272726641",
@@ -2964,13 +2924,7 @@
     "locationLabel": "Camden Block, Clancy Quay, Islandbridge, Dublin, D08 WTX9",
     "websiteUrl": "https://3fe.com/pages/locations/clancy-quay",
     "solarMode": "facade",
-    "frontBearingDeg": 269.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3462,
-    "frontObservationPointLon": -6.3081,
-    "facadeWidthM": 10.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-3fe-five-points-node-2986844484",
@@ -3163,13 +3117,7 @@
     "locationLabel": "Holiday Inn Dublin Airport, Stockhole Lane, Clonshaugh, Dublin, K67 E5C9",
     "websiteUrl": "https://www.ihg.com/holidayinn/hotels/gb/en/dublin/dubap/hoteldetail",
     "solarMode": "facade",
-    "frontBearingDeg": 47.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4128,
-    "frontObservationPointLon": -6.2186,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-505-coffee-way-1483459878",
@@ -3232,13 +3180,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.adydreamcafe.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 294.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3384,
-    "frontObservationPointLon": -6.5396,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -3373,13 +3315,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Pelletstown Avenue, corner of Lock Keepers Walk, Dublin",
     "solarMode": "facade",
-    "frontBearingDeg": 106.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3762,
-    "frontObservationPointLon": -6.3171,
-    "facadeWidthM": 7
+    "status": "unavailable"
   },
   {
     "id": "cafes-aras-an-phiarsaigh-coffee-area-node-3180491611",
@@ -3499,13 +3435,7 @@
     "locationLabel": "30 Main Street, Chapelizod, Dublin 20",
     "websiteUrl": "https://www.blacksheepfoods.ie/baabaa",
     "solarMode": "facade",
-    "frontBearingDeg": 70.7,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3495,
-    "frontObservationPointLon": -6.3448,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-bagel-factory-node-616479711",
@@ -4003,13 +3933,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://brambles.ie/cafes/kilmainham-gaol",
     "solarMode": "facade",
-    "frontBearingDeg": 7.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3418,
-    "frontObservationPointLon": -6.3083,
-    "facadeWidthM": 8.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-bread-41-node-2721562065",
@@ -4089,13 +4013,7 @@
     "locationLabel": "Station Road",
     "instagramUrl": "https://instagram.com/breakaway_coffee",
     "solarMode": "facade",
-    "frontBearingDeg": 93.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2558,
-    "frontObservationPointLon": -6.1131,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-brevato-node-724163698",
@@ -4400,13 +4318,7 @@
     "locationLabel": "Mayberry Road",
     "websiteUrl": "https://www.cafesol.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 169.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2986,
-    "frontObservationPointLon": -6.3595,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-cafe-sol-node-11006177430",
@@ -4956,22 +4868,12 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://coolhandcoffeeroasters.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 355,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3405,
-    "frontObservationPointLon": -6.3078,
-    "facadeWidthM": 5.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.3406,
-    "outdoorObservationPointLon": -6.3078,
-    "outdoorAreaWidthM": 5.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5009,13 +4911,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.costaireland.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 162.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4035,
-    "frontObservationPointLon": -6.2595,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -5033,13 +4929,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.costa.co.uk",
     "solarMode": "facade",
-    "frontBearingDeg": 144.7,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3909,
-    "frontObservationPointLon": -6.3859,
-    "facadeWidthM": 11.6,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -5647,13 +5537,7 @@
     "websiteUrl": "https://www.fredandnancys.com",
     "instagramUrl": "https://instagram.com/fredandnancys",
     "solarMode": "facade",
-    "frontBearingDeg": 204.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2613,
-    "frontObservationPointLon": -6.1109,
-    "facadeWidthM": 7.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-french-revolution-eclairs-node-6013636369",
@@ -5716,13 +5600,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://gourmetshankillcafe.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 172,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.226,
-    "frontObservationPointLon": -6.1242,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-graze-at-the-elbowroom-node-4386194690",
@@ -6037,22 +5915,12 @@
     "regionLabel": "Dublin",
     "locationLabel": "1A Harbour Road",
     "websiteUrl": "https://ilpanoramacafe.com",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 157.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3878,
-    "frontObservationPointLon": -6.0662,
-    "facadeWidthM": 14,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.3877,
-    "outdoorObservationPointLon": -6.0662,
-    "outdoorAreaWidthM": 14,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -6323,13 +6191,7 @@
     "locationLabel": "Long Mile Road, Dublin",
     "websiteUrl": "https://www.insomnia.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 76.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3238,
-    "frontObservationPointLon": -6.3505,
-    "facadeWidthM": 14.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-insomnia-node-8869352167",
@@ -6368,13 +6230,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.insomnia.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 356.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3503,
-    "frontObservationPointLon": -6.3787,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-insomnia-node-10315658627",
@@ -7482,22 +7338,12 @@
     "regionLabel": "Dublin",
     "locationLabel": "Dublin",
     "websiteUrl": "https://phoenixparkcafe.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 179.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.352,
-    "frontObservationPointLon": -6.3047,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.352,
-    "outdoorObservationPointLon": -6.3047,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-pog-node-3051154792",
@@ -7845,13 +7691,7 @@
     "locationLabel": "120 Emmet Road, Dublin",
     "websiteUrl": "https://www.smallchanges.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 354.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3403,
-    "frontObservationPointLon": -6.3148,
-    "facadeWidthM": 6.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-solo-node-9272148169",
@@ -8292,13 +8132,7 @@
     "locationLabel": "Bóthar na Life",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/54793-288502/liffey-valley-dt",
     "solarMode": "facade",
-    "frontBearingDeg": 181.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3543,
-    "frontObservationPointLon": -6.4007,
-    "facadeWidthM": 14.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-starbucks-way-1309411481",
@@ -8639,22 +8473,12 @@
     "regionLabel": "Dublin",
     "locationLabel": "St Michael's Estate",
     "websiteUrl": "https://www.walk.ie/thegreenkitchen",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 262.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.338,
-    "frontObservationPointLon": -6.3162,
-    "facadeWidthM": 18,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.338,
-    "outdoorObservationPointLon": -6.3162,
-    "outdoorAreaWidthM": 18,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8745,13 +8569,7 @@
     "locationLabel": "Stacumny Lane",
     "websiteUrl": "https://theplantcollector.com",
     "solarMode": "facade",
-    "frontBearingDeg": 96.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3326,
-    "frontObservationPointLon": -6.5027,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-punnet-food-emporium-node-7047104659",
@@ -9132,13 +8950,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://willowandwild.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 181.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.366,
-    "frontObservationPointLon": -6.5036,
-    "facadeWidthM": 16.5
+    "status": "unavailable"
   },
   {
     "id": "woo-cafe-dublin",
@@ -9234,22 +9046,12 @@
     "regionLabel": "Dublin Airport",
     "locationLabel": "Dublin Airport",
     "websiteUrl": "https://www.starbucks.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.4272,
-    "outdoorObservationPointLon": -6.2454,
-    "outdoorAreaWidthM": 18,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-bailey-and-pim-node-10685752979",
@@ -9556,13 +9358,7 @@
     "regionLabel": "Dundalk",
     "locationLabel": "8 Crowe Street, Dundalk, A91 E822",
     "solarMode": "facade",
-    "frontBearingDeg": 351,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.0043,
-    "frontObservationPointLon": -6.401,
-    "facadeWidthM": 5
+    "status": "unavailable"
   },
   {
     "id": "cafes-rocksalt-cafe-node-8022148692",
@@ -9640,13 +9436,7 @@
     "locationLabel": "Ennis",
     "websiteUrl": "https://gourmet-hampers.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 157.3,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8421,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-zest-node-5693537704",
@@ -9660,13 +9450,7 @@
     "locationLabel": "Ennis",
     "websiteUrl": "https://www.zestfood.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 4.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8431,
-    "frontObservationPointLon": -8.9846,
-    "facadeWidthM": 16.1
+    "status": "unavailable"
   },
   {
     "id": "cafes-asda-cafe-node-7500435820",
@@ -10711,13 +10495,7 @@
     "websiteUrl": "https://www.baileyandpim.ie",
     "instagramUrl": "https://instagram.com/baileyandpim",
     "solarMode": "facade",
-    "frontBearingDeg": 61.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.144,
-    "frontObservationPointLon": -6.0609,
-    "facadeWidthM": 6.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-eleven-deli-node-6431670068",
@@ -10731,13 +10509,7 @@
     "locationLabel": "Church Road",
     "websiteUrl": "https://www.elevendeli.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 217.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1444,
-    "frontObservationPointLon": -6.0621,
-    "facadeWidthM": 5.7,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -10755,13 +10527,7 @@
     "locationLabel": "Church Road",
     "websiteUrl": "https://thehappypear.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 218,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1455,
-    "frontObservationPointLon": -6.0643,
-    "facadeWidthM": 11.8,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -10779,22 +10545,12 @@
     "locationLabel": "Victoria Road, Greystones, A63 D329",
     "websiteUrl": "https://www.lacreperie.ie",
     "instagramUrl": "https://instagram.com/lacreperie.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 140.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1499,
-    "frontObservationPointLon": -6.0662,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.1498,
-    "outdoorObservationPointLon": -6.0662,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -10813,13 +10569,7 @@
     "websiteUrl": "https://www.kishfish.ie/retail/our-cafe",
     "instagramUrl": "https://instagram.com/bailybitesatkish",
     "solarMode": "facade",
-    "frontBearingDeg": 126.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3916,
-    "frontObservationPointLon": -6.0703,
-    "facadeWidthM": 6.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-anatolia-cafe-and-restaurant-node-3705782703",
@@ -11015,13 +10765,7 @@
     "locationLabel": "East Avenue, Killarney, Kerry, V93 X3VW",
     "websiteUrl": "https://cafeduparckillarney.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 348.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0577,
-    "frontObservationPointLon": -9.5091,
-    "facadeWidthM": 16.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-lir-cafe-node-1248424123",
@@ -11035,13 +10779,7 @@
     "locationLabel": "Kenmare Place, Killarney",
     "websiteUrl": "https://www.lircafe.com",
     "solarMode": "facade",
-    "frontBearingDeg": 168.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.058,
-    "frontObservationPointLon": -9.5068,
-    "facadeWidthM": 15.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-tango-street-food-node-1830824104",
@@ -11054,22 +10792,12 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney, V93 FP40",
     "websiteUrl": "https://www.tangostreetfood.com",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 181.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0556,
-    "frontObservationPointLon": -9.5067,
-    "facadeWidthM": 15.7,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 52.0555,
-    "outdoorObservationPointLon": -9.5067,
-    "outdoorAreaWidthM": 15.7,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -11121,13 +10849,7 @@
     "locationLabel": "Canal Road",
     "websiteUrl": "https://www.thecounterdeli.com",
     "solarMode": "facade",
-    "frontBearingDeg": 48.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9475,
-    "frontObservationPointLon": -7.7322,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-abbey-river-coffee-node-5573727532",
@@ -11530,13 +11252,7 @@
     "locationLabel": "Malahide Demesne, Malahide, Co. Dublin, K36 YP65",
     "websiteUrl": "https://www.avoca.com/en/stores-and-cafes/malahide",
     "solarMode": "facade",
-    "frontBearingDeg": 350.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4453,
-    "frontObservationPointLon": -6.1626,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-shaking-tang-node-9062980671",
@@ -11550,13 +11266,7 @@
     "locationLabel": "Maynooth",
     "websiteUrl": "https://shakingtang.com",
     "solarMode": "facade",
-    "frontBearingDeg": 239.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.381,
-    "frontObservationPointLon": -6.5918,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-willow-and-wild-way-41720768",
@@ -11569,22 +11279,12 @@
     "regionLabel": "Maynooth",
     "locationLabel": "The House Square, Maynooth",
     "websiteUrl": "https://www.willowandwild.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 243.7,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3813,
-    "frontObservationPointLon": -6.5902,
-    "facadeWidthM": 8.4,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.3813,
-    "outdoorObservationPointLon": -6.5903,
-    "outdoorAreaWidthM": 8.4,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-bite-size-node-3701061495",
@@ -11930,13 +11630,7 @@
     "locationLabel": "Fitzmaurice Road, Rathcoole",
     "websiteUrl": "https://www.avoca.com",
     "solarMode": "facade",
-    "frontBearingDeg": 153.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2842,
-    "frontObservationPointLon": -6.4563,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-egg-cafe-node-1757207103",
@@ -11950,13 +11644,7 @@
     "locationLabel": "Fitzmaurice Road, Rathcoole",
     "websiteUrl": "https://www.avoca.com",
     "solarMode": "facade",
-    "frontBearingDeg": 153.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2842,
-    "frontObservationPointLon": -6.4563,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-district-speciality-coffee-node-11958359169",
@@ -12009,13 +11697,7 @@
     "regionLabel": "St Margaret’s",
     "locationLabel": "Hillcrest, St Margaret’s, Co. Dublin, K67 HN70",
     "solarMode": "facade",
-    "frontBearingDeg": 285.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4285,
-    "frontObservationPointLon": -6.3032,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-bear-market-node-2020208824",
@@ -12049,22 +11731,12 @@
     "regionLabel": "Sutton",
     "locationLabel": "Station Road, Sutton",
     "websiteUrl": "https://www.insomnia.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 196.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3896,
-    "frontObservationPointLon": -6.1103,
-    "facadeWidthM": 14.8,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.3896,
-    "outdoorObservationPointLon": -6.1103,
-    "outdoorAreaWidthM": 14.8,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-marqette-node-7010188985",
@@ -12078,13 +11750,7 @@
     "locationLabel": "Dublin Airport, Swords, Dublin, K67 A0K7",
     "websiteUrl": "https://marqette.com",
     "solarMode": "facade",
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12102,13 +11768,7 @@
     "locationLabel": "Swords",
     "websiteUrl": "https://www.gourmetfoodparlour.com",
     "solarMode": "facade",
-    "frontBearingDeg": 148.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4635,
-    "frontObservationPointLon": -6.2176,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -12126,13 +11786,7 @@
     "locationLabel": "27 North St, Townparks, Swords, K67 P5W4",
     "websiteUrl": "https://thinkcoffee.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 98,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4604,
-    "frontObservationPointLon": -6.219,
-    "facadeWidthM": 9.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-chez-emily-chocolate-way-1230714741",
@@ -12146,22 +11800,12 @@
     "locationLabel": "The Ward, D11RC43",
     "websiteUrl": "https://chezemily.ie",
     "instagramUrl": "https://instagram.com/chezemilyofficial",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 298.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4585,
-    "frontObservationPointLon": -6.3484,
-    "facadeWidthM": 15.9,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.4585,
-    "outdoorObservationPointLon": -6.3484,
-    "outdoorAreaWidthM": 15.9,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-coffee-start-node-12913980701",
@@ -12175,13 +11819,7 @@
     "locationLabel": "10 The Mall",
     "websiteUrl": "https://vuyo.me/coffee-start-297887-web",
     "solarMode": "facade",
-    "frontBearingDeg": 197.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2696,
-    "frontObservationPointLon": -9.7052,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-daniels-coffee-and-more-node-13019364815",
@@ -12195,13 +11833,7 @@
     "locationLabel": "Unit 24, Tralee, V92HK35",
     "websiteUrl": "https://www.danielscoffeeandmore.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 96.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2629,
-    "frontObservationPointLon": -9.6778,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-macambo-node-13019326370",
@@ -12215,13 +11847,7 @@
     "locationLabel": "Tralee, V92 N998",
     "websiteUrl": "https://mocambocoffee.co.uk",
     "solarMode": "facade",
-    "frontBearingDeg": 359.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2644,
-    "frontObservationPointLon": -9.6784,
-    "facadeWidthM": 6
+    "status": "unavailable"
   },
   {
     "id": "cafes-starbucks-node-7589195741",
@@ -12235,13 +11861,7 @@
     "locationLabel": "Tralee",
     "websiteUrl": "https://www.starbucks.co.uk/store-locator/58747-292986/tralee-dt",
     "solarMode": "facade",
-    "frontBearingDeg": 18.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.265,
-    "frontObservationPointLon": -9.679,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-leaf-and-bean-node-10740140206",
@@ -12732,13 +12352,7 @@
     "locationLabel": "North Main Street, Wexford",
     "websiteUrl": "https://www.18ctea.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 236.6,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3388,
-    "frontObservationPointLon": -6.462,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -12756,13 +12370,7 @@
     "locationLabel": "22 North Main Street, Wexford",
     "websiteUrl": "https://westgatedesign.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 236.6,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3388,
-    "frontObservationPointLon": -6.462,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-and-cake-node-11922608151",
@@ -12776,13 +12384,7 @@
     "locationLabel": "5 South Main Street, Wexford",
     "websiteUrl": "https://www.thebookcentre.ie/the-book-centre-wexford.aspx",
     "solarMode": "facade",
-    "frontBearingDeg": 252.1,
-    "shadeClearanceDeg": 32.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.338,
-    "frontObservationPointLon": -6.4614,
-    "facadeWidthM": 6.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-joannes-cafe-and-bakery-node-12409452318",
@@ -12796,13 +12398,7 @@
     "locationLabel": "North Main Street, Wexford",
     "websiteUrl": "https://www.staffordbakeries.ie/cafe-stores",
     "solarMode": "facade",
-    "frontBearingDeg": 152.7,
-    "shadeClearanceDeg": 42.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3395,
-    "frontObservationPointLon": -6.4627,
-    "facadeWidthM": 11,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12819,22 +12415,12 @@
     "regionLabel": "Wexford",
     "locationLabel": "80 North Main Street, Wexford",
     "websiteUrl": "https://lacuisinewexford.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 55.2,
-    "shadeClearanceDeg": 67.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3409,
-    "frontObservationPointLon": -6.4633,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 52.3409,
-    "outdoorObservationPointLon": -6.4633,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12853,13 +12439,7 @@
     "websiteUrl": "https://noush.ie",
     "instagramUrl": "https://instagram.com/noush.coffee",
     "solarMode": "facade",
-    "frontBearingDeg": 102.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3497,
-    "frontObservationPointLon": -6.4559,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-obriens-node-5581103850",
@@ -12873,22 +12453,12 @@
     "locationLabel": "North Main Street, Wexford",
     "websiteUrl": "https://www.obriens.ie",
     "instagramUrl": "https://instagram.com/OBriensCafe",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 152.7,
-    "shadeClearanceDeg": 42.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3395,
-    "frontObservationPointLon": -6.4627,
-    "facadeWidthM": 11,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 52.3395,
-    "outdoorObservationPointLon": -6.4627,
-    "outdoorAreaWidthM": 11,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12911,22 +12481,12 @@
     "regionLabel": "Wexford",
     "locationLabel": "100 South Main Street, Wexford",
     "websiteUrl": "https://www.stabledietcafe.com",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 223.6,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3358,
-    "frontObservationPointLon": -6.4588,
-    "facadeWidthM": 12,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 52.3357,
-    "outdoorObservationPointLon": -6.4588,
-    "outdoorAreaWidthM": 12,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12943,22 +12503,12 @@
     "regionLabel": "Wexford",
     "locationLabel": "Mallin Street, Wexford",
     "websiteUrl": "https://sweetdreamswexford.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 235.2,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3389,
-    "frontObservationPointLon": -6.4632,
-    "facadeWidthM": 10.7,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 52.3389,
-    "outdoorObservationPointLon": -6.4632,
-    "outdoorAreaWidthM": 10.7,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-sweetness-deserts-cafe-node-10887677959",
@@ -12993,13 +12543,7 @@
     "websiteUrl": "https://theclovelly.square.site",
     "instagramUrl": "https://instagram.com/the_clovelly",
     "solarMode": "facade",
-    "frontBearingDeg": 353.8,
-    "shadeClearanceDeg": 42.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3397,
-    "frontObservationPointLon": -6.4617,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-gallery-node-10864810525",
@@ -13013,13 +12557,7 @@
     "locationLabel": "Trinity Street, Wexford",
     "websiteUrl": "https://www.talbotwexford.ie/the-gallery.html",
     "solarMode": "facade",
-    "frontBearingDeg": 96.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3358,
-    "frontObservationPointLon": -6.4568,
-    "facadeWidthM": 11.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-lane-cafe-node-6735274279",
@@ -13032,22 +12570,12 @@
     "regionLabel": "Wexford",
     "locationLabel": "North Main Street, Wexford",
     "websiteUrl": "https://westgatedesign.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 151.1,
-    "shadeClearanceDeg": 47.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.339,
-    "frontObservationPointLon": -6.4613,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 52.3389,
-    "outdoorObservationPointLon": -6.4613,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-the-trough-node-506572591",
@@ -13061,22 +12589,12 @@
     "locationLabel": "1 Crescent Quay, Wexford",
     "websiteUrl": "https://www.thetrough.ie/?location=LZWSE9W6QASNX",
     "instagramUrl": "https://instagram.com/_thetrough_",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 146,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3383,
-    "frontObservationPointLon": -6.4594,
-    "facadeWidthM": 9.3,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 52.3383,
-    "outdoorObservationPointLon": -6.4594,
-    "outdoorAreaWidthM": 9.3,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -13093,22 +12611,12 @@
     "regionLabel": "Wexford",
     "locationLabel": "Wexford",
     "websiteUrl": "https://ufucoffee.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 341.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3229,
-    "frontObservationPointLon": -6.4872,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 52.323,
-    "outdoorObservationPointLon": -6.4872,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-wexford-coffee-roasters-node-9377724781",
@@ -13121,22 +12629,12 @@
     "regionLabel": "Wexford",
     "locationLabel": "Selskar Avenue, Wexford",
     "websiteUrl": "https://wexfordcoffee.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 239.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3416,
-    "frontObservationPointLon": -6.4638,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 52.3416,
-    "outdoorObservationPointLon": -6.4639,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "cafes-firehouse-bakery-node-11056352022",
@@ -15431,13 +14929,7 @@
     "regionLabel": "Tallaght",
     "locationLabel": "Kiltipper Way, Tallaght",
     "solarMode": "facade",
-    "frontBearingDeg": 2.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2716,
-    "frontObservationPointLon": -6.371,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-aspretto-node-11837408505",
@@ -15488,13 +14980,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Saint Agnes Road",
     "solarMode": "facade",
-    "frontBearingDeg": 38.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3219,
-    "frontObservationPointLon": -6.3191,
-    "facadeWidthM": 6.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-baked-node-2980317232",
@@ -15564,13 +15050,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Main Street",
     "solarMode": "facade",
-    "frontBearingDeg": 91.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2301,
-    "frontObservationPointLon": -6.1243,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-baxter-and-greene-node-1498471163",
@@ -15678,13 +15158,7 @@
     "regionLabel": "Dublin Airport",
     "locationLabel": "Dublin Airport",
     "solarMode": "facade",
-    "frontBearingDeg": 26.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4267,
-    "frontObservationPointLon": -6.2404,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-bibis-node-1740228809",
@@ -15799,13 +15273,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "3a Harbour Road",
     "solarMode": "facade",
-    "frontBearingDeg": 1.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3886,
-    "frontObservationPointLon": -6.0727,
-    "facadeWidthM": 5
+    "status": "unavailable"
   },
   {
     "id": "cafes-bon-cafe-node-4814016148",
@@ -15837,12 +15305,7 @@
     "regionLabel": "Rathcoole",
     "locationLabel": "Naas Road, Rathcoole",
     "solarMode": "facade",
-    "frontBearingDeg": 335.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 53.2789,
-    "frontObservationPointLon": -6.4876,
-    "facadeWidthM": 7
+    "status": "unavailable"
   },
   {
     "id": "cafes-bread-and-butter-node-6052660285",
@@ -15912,13 +15375,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Tulla Road, Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 71.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8535,
-    "frontObservationPointLon": -8.9714,
-    "facadeWidthM": 8.9,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -15935,13 +15392,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "3 Cooks Lane",
     "solarMode": "facade",
-    "frontBearingDeg": 16.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8433,
-    "frontObservationPointLon": -8.9823,
-    "facadeWidthM": 6.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-cream-tea-room-node-10871887335",
@@ -15954,13 +15405,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Henrietta Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 330.8,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3374,
-    "frontObservationPointLon": -6.46,
-    "facadeWidthM": 8.9,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -15977,13 +15422,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Johns Gate Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 336.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3397,
-    "frontObservationPointLon": -6.464,
-    "facadeWidthM": 4.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-daily-dose-coffee-node-12961984135",
@@ -15996,13 +15435,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "School Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 260.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3376,
-    "frontObservationPointLon": -6.4634,
-    "facadeWidthM": 7.1
+    "status": "unavailable"
   },
   {
     "id": "cafes-flower-power-cafe-and-deli-node-2625323301",
@@ -16015,12 +15448,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "3 Denny Street, Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 102.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 52.2691,
-    "frontObservationPointLon": -9.7052,
-    "facadeWidthM": 7
+    "status": "unavailable"
   },
   {
     "id": "cafes-gather-node-11901187565",
@@ -16033,13 +15461,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "North Main Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 42.4,
-    "shadeClearanceDeg": 32.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3411,
-    "frontObservationPointLon": -6.4638,
-    "facadeWidthM": 10.3
+    "status": "unavailable"
   },
   {
     "id": "cafes-himalayan-cafe-way-483722693",
@@ -16052,13 +15474,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Church Lane, Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 11.7,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9506,
-    "frontObservationPointLon": -7.7375,
-    "facadeWidthM": 11.3,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16075,13 +15491,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "8 High Road, Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 13.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9531,
-    "frontObservationPointLon": -7.7356,
-    "facadeWidthM": 5.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-kaffeine-coffee-house-node-5493462517",
@@ -16094,13 +15504,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "41 Abbey Street, Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 201.2,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8453,
-    "frontObservationPointLon": -8.9817,
-    "facadeWidthM": 11.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-kp3-node-13251490342",
@@ -16113,13 +15517,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "3 Kenmare Place, Killarney, V93 A030",
     "solarMode": "facade",
-    "frontBearingDeg": 168.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.058,
-    "frontObservationPointLon": -9.5068,
-    "facadeWidthM": 15.4,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16136,13 +15534,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "17 Denny Street",
     "solarMode": "facade",
-    "frontBearingDeg": 102.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2681,
-    "frontObservationPointLon": -9.7056,
-    "facadeWidthM": 12.1
+    "status": "unavailable"
   },
   {
     "id": "cafes-nosh-coffee-node-1611940769",
@@ -16155,13 +15547,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "8 Redmond Square, Wexford, Y35 V0HA",
     "solarMode": "facade",
-    "frontBearingDeg": 126.2,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3425,
-    "frontObservationPointLon": -6.4649,
-    "facadeWidthM": 16.2,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16178,13 +15564,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "94-96 Upper Main Street, Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 109.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9519,
-    "frontObservationPointLon": -7.7358,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-spoglers-continental-confectioners-node-3425133014",
@@ -16197,13 +15577,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Glebe Place, Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 256.8,
-    "shadeClearanceDeg": 37.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0588,
-    "frontObservationPointLon": -9.5079,
-    "facadeWidthM": 10.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-sweetngreen-node-5630171223",
@@ -16216,13 +15590,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Friary Hall, Ennis, V95 YR92",
     "solarMode": "facade",
-    "frontBearingDeg": 118.4,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8447,
-    "frontObservationPointLon": -8.9816,
-    "facadeWidthM": 10.8,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16239,13 +15607,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Abbey Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 59.4,
-    "shadeClearanceDeg": 37.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3402,
-    "frontObservationPointLon": -6.4642,
-    "facadeWidthM": 12.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-coffee-pod-node-12959212915",
@@ -16258,13 +15620,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Boherbee, Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 33.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2687,
-    "frontObservationPointLon": -9.6966,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-red-kettle-node-5291804877",
@@ -16277,13 +15633,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "19 Mallin Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 235,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.339,
-    "frontObservationPointLon": -6.4634,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16300,13 +15650,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "106 South Main Street, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 39,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3358,
-    "frontObservationPointLon": -6.4594,
-    "facadeWidthM": 5.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-tea-room-node-7573183642",
@@ -16319,13 +15663,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Newtown Road, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 253.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3425,
-    "frontObservationPointLon": -6.487,
-    "facadeWidthM": 14.9,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16342,13 +15680,7 @@
     "regionLabel": "Wexford",
     "locationLabel": "Selskar Avenue, Wexford",
     "solarMode": "facade",
-    "frontBearingDeg": 323.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.3415,
-    "frontObservationPointLon": -6.4639,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -16365,13 +15697,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "17 The Mall, Tralee, V92 V320",
     "solarMode": "facade",
-    "frontBearingDeg": 298.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2694,
-    "frontObservationPointLon": -9.7045,
-    "facadeWidthM": 8.3
+    "status": "unavailable"
   },
   {
     "id": "cafes-yummy-cafe-market-node-5753988721",
@@ -16384,13 +15710,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Dominick Street",
     "solarMode": "facade",
-    "frontBearingDeg": 274,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2697,
-    "frontObservationPointLon": -9.707,
-    "facadeWidthM": 9.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-bakers-baristas-node-11886262544",
@@ -16403,13 +15723,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 13.3,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8431,
-    "frontObservationPointLon": -8.9829,
-    "facadeWidthM": 7.3
+    "status": "unavailable"
   },
   {
     "id": "cafes-bru-barista-coffee-node-13703130099",
@@ -16422,13 +15736,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 260.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8286,
-    "frontObservationPointLon": -8.9365,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-bruno-cafe-node-12816239748",
@@ -16441,13 +15749,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 312.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2691,
-    "frontObservationPointLon": -9.7081,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-bus-station-cafe-way-1475084520",
@@ -16460,13 +15762,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 7.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0598,
-    "frontObservationPointLon": -9.5021,
-    "facadeWidthM": 5.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-cafe-aroma-node-11893511759",
@@ -16479,13 +15775,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 35.4,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8445,
-    "frontObservationPointLon": -8.9834,
-    "facadeWidthM": 16.3
+    "status": "unavailable"
   },
   {
     "id": "cafes-cafe-trax-node-11288293040",
@@ -16498,13 +15788,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 346.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.954,
-    "frontObservationPointLon": -7.7262,
-    "facadeWidthM": 10.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-charleys-cafe-way-62158967",
@@ -16517,13 +15801,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 226.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9477,
-    "frontObservationPointLon": -7.7353,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-hatch-node-864066904",
@@ -16536,13 +15814,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 61.5,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8457,
-    "frontObservationPointLon": -8.9782,
-    "facadeWidthM": 13.2
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-rush-node-12061287147",
@@ -16555,13 +15827,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 253.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8535,
-    "frontObservationPointLon": -8.9715,
-    "facadeWidthM": 8.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-curious-cat-cafe-node-6697039257",
@@ -16574,13 +15840,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 167.7,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0599,
-    "frontObservationPointLon": -9.5086,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-deenagh-lodge-way-293843962",
@@ -16593,13 +15853,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 53.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.059,
-    "frontObservationPointLon": -9.5204,
-    "facadeWidthM": 6.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-dunnes-stores-cafe-node-11886262550",
@@ -16612,13 +15866,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 186.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8428,
-    "frontObservationPointLon": -8.9819,
-    "facadeWidthM": 6.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-elm-node-12061327897",
@@ -16631,13 +15879,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 336.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.853,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-evas-node-11891435614",
@@ -16650,13 +15892,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 266.9,
-    "shadeClearanceDeg": 32.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8436,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 5.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-good-boy-node-11829035812",
@@ -16669,13 +15905,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 163.1,
-    "shadeClearanceDeg": 32.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0598,
-    "frontObservationPointLon": -9.5093,
-    "facadeWidthM": 15.9
+    "status": "unavailable"
   },
   {
     "id": "cafes-kernans-bistro-node-6715214856",
@@ -16688,13 +15918,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 223.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9456,
-    "frontObservationPointLon": -7.7329,
-    "facadeWidthM": 17.6
+    "status": "unavailable"
   },
   {
     "id": "cafes-laylas-cafe-diner-node-13006765460",
@@ -16707,13 +15931,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 50.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.279,
-    "frontObservationPointLon": -9.7263,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-le-croque-node-5693537701",
@@ -16726,13 +15944,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 81.8,
-    "shadeClearanceDeg": 47.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8434,
-    "frontObservationPointLon": -8.9842,
-    "facadeWidthM": 14.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-loosely-goosey-cafe-node-11889150030",
@@ -16745,13 +15957,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 178,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2567,
-    "frontObservationPointLon": -9.7364,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-luna-coffee-wine-node-11826359222",
@@ -16764,13 +15970,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 168.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.058,
-    "frontObservationPointLon": -9.5068,
-    "facadeWidthM": 15.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-mocha-coffee-co-node-11893674175",
@@ -16783,13 +15983,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 194.1,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8441,
-    "frontObservationPointLon": -8.9817,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-mondo-node-11891435615",
@@ -16802,13 +15996,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 264.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8437,
-    "frontObservationPointLon": -8.9843,
-    "facadeWidthM": 5
+    "status": "unavailable"
   },
   {
     "id": "cafes-mug-and-bean-node-6712984256",
@@ -16821,13 +16009,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 243.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0584,
-    "frontObservationPointLon": -9.5112,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-noelles-retro-cafe-node-4317511842",
@@ -16840,13 +16022,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 345.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0593,
-    "frontObservationPointLon": -9.5086,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-obriens-irish-sandwich-cafe-node-13532546191",
@@ -16859,13 +16035,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 95.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0591,
-    "frontObservationPointLon": -9.5025,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-offspring-node-2297940615",
@@ -16878,13 +16048,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 284.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8484,
-    "frontObservationPointLon": -8.9819,
-    "facadeWidthM": 9
+    "status": "unavailable"
   },
   {
     "id": "cafes-passatempo-node-4855508725",
@@ -16897,13 +16061,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 180,
-    "shadeClearanceDeg": 72.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8422,
-    "frontObservationPointLon": -8.9839,
-    "facadeWidthM": 6.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-records-and-coffee-node-11891587058",
@@ -16916,13 +16074,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 256.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8438,
-    "frontObservationPointLon": -8.9835,
-    "facadeWidthM": 7.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-swing-room-coffee-house-node-6715200508",
@@ -16935,13 +16087,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 134.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9446,
-    "frontObservationPointLon": -7.7346,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-taste-buds-node-1279211143",
@@ -16954,13 +16100,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 168.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9467,
-    "frontObservationPointLon": -7.7409,
-    "facadeWidthM": 7.1
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-hub-ennis-node-709083303",
@@ -16973,13 +16113,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 275.4,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8437,
-    "frontObservationPointLon": -8.984,
-    "facadeWidthM": 5.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-snug-node-11898392657",
@@ -16992,13 +16126,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 13.3,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8431,
-    "frontObservationPointLon": -8.9829,
-    "facadeWidthM": 7.3
+    "status": "unavailable"
   },
   {
     "id": "cafes-the-well-node-11878660450",
@@ -17011,13 +16139,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 4.9,
-    "shadeClearanceDeg": 32.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8421,
-    "frontObservationPointLon": -8.9838,
-    "facadeWidthM": 13.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-warehouse-restaurant-node-11856668537",
@@ -17030,13 +16152,7 @@
     "regionLabel": "Ennis",
     "locationLabel": "Ennis",
     "solarMode": "facade",
-    "frontBearingDeg": 16.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.8389,
-    "frontObservationPointLon": -8.9722,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-zone-node-2975012710",
@@ -17049,13 +16165,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 345.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0593,
-    "frontObservationPointLon": -9.5086,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-bare-food-node-10120837418",
@@ -17069,13 +16179,7 @@
     "locationLabel": "West Street, Drogheda",
     "websiteUrl": "https://thebarefoodcompany.ie/",
     "solarMode": "facade",
-    "frontBearingDeg": 183.2,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7151,
-    "frontObservationPointLon": -6.3525,
-    "facadeWidthM": 11.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-boutique-cafe-node-11209213195",
@@ -17088,13 +16192,7 @@
     "regionLabel": "Navan",
     "locationLabel": "15 Blackcastle Shopping Centre, Navan, Meath, C15 K16W",
     "solarMode": "facade",
-    "frontBearingDeg": 336.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.6634,
-    "frontObservationPointLon": -6.6775,
-    "facadeWidthM": 8.3
+    "status": "unavailable"
   },
   {
     "id": "cafes-caffe-letterario-gatta-nera-node-3771961837",
@@ -17107,13 +16205,7 @@
     "regionLabel": "Bray",
     "locationLabel": "6 Albert Walk, Bray, A98 KC91",
     "solarMode": "facade",
-    "frontBearingDeg": 71.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2037,
-    "frontObservationPointLon": -6.101,
-    "facadeWidthM": 8.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-checkovs-cafe-node-3048500369",
@@ -17126,13 +16218,7 @@
     "regionLabel": "Navan",
     "locationLabel": "12 Trimgate Street, Navan",
     "solarMode": "facade",
-    "frontBearingDeg": 55.7,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.6523,
-    "frontObservationPointLon": -6.686,
-    "facadeWidthM": 5.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-coffee-house-node-12043959247",
@@ -17145,13 +16231,7 @@
     "regionLabel": "Drogheda",
     "locationLabel": "Wellington Quay, Drogheda",
     "solarMode": "facade",
-    "frontBearingDeg": 200.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7142,
-    "frontObservationPointLon": -6.3552,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-dockyard-no-8-node-4126816905",
@@ -17164,13 +16244,7 @@
     "regionLabel": "Bray",
     "locationLabel": "Harbour Road",
     "solarMode": "facade",
-    "frontBearingDeg": 69.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2076,
-    "frontObservationPointLon": -6.1022,
-    "facadeWidthM": 6.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-esquires-coffee-house-node-10120819016",
@@ -17183,13 +16257,7 @@
     "regionLabel": "Drogheda",
     "locationLabel": "West Street, Drogheda",
     "solarMode": "facade",
-    "frontBearingDeg": 4.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7149,
-    "frontObservationPointLon": -6.3518,
-    "facadeWidthM": 11.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-evalynn-node-13132970902",
@@ -17202,13 +16270,7 @@
     "regionLabel": "Drogheda",
     "locationLabel": "Byranstown Village, Drogheda, A92 WK8N",
     "solarMode": "facade",
-    "frontBearingDeg": 143.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7083,
-    "frontObservationPointLon": -6.3366,
-    "facadeWidthM": 11.9,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -17225,13 +16287,7 @@
     "regionLabel": "Bray",
     "locationLabel": "75 Main Street, Bray",
     "solarMode": "facade",
-    "frontBearingDeg": 24.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.202,
-    "frontObservationPointLon": -6.1105,
-    "facadeWidthM": 4.7
+    "status": "unavailable"
   },
   {
     "id": "cafes-gourmet-cafe-way-907904371",
@@ -17244,13 +16300,7 @@
     "regionLabel": "Bray",
     "locationLabel": "16 Main Street, Bray",
     "solarMode": "facade",
-    "frontBearingDeg": 283,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2034,
-    "frontObservationPointLon": -6.1094,
-    "facadeWidthM": 4.8
+    "status": "unavailable"
   },
   {
     "id": "cafes-bbs-coffee-and-muffins-node-989402804",
@@ -17780,14 +16830,16 @@
   },
   {
     "id": "cafes-brindle-node-6667957466",
-    "name": "Brindle",
+    "name": "Brindle Coffee & Wine",
     "placeTypeId": "cafe",
     "appId": "ie",
     "lat": 53.33133,
     "lon": -6.267471,
     "regionId": "dublin",
     "regionLabel": "Dublin",
-    "locationLabel": "Lennox Street",
+    "locationLabel": "34 Lennox Street, Dublin D08 N265",
+    "websiteUrl": "https://brindlecoffeewine.com/",
+    "instagramUrl": "https://www.instagram.com/brindlecoffeewine",
     "solarMode": "facade",
     "frontBearingDeg": 176.6,
     "shadeClearanceDeg": 12.5,
@@ -17795,7 +16847,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3313,
     "frontObservationPointLon": -6.2674,
-    "facadeWidthM": 6.2
+    "facadeWidthM": 6.2,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "cafes-brooks-cafe-way-1052152883",
@@ -17903,13 +16959,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Ballymount Road Upper",
     "solarMode": "facade",
-    "frontBearingDeg": 20,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.308,
-    "frontObservationPointLon": -6.3498,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-cabana-cafe-node-3523281165",
@@ -17922,13 +16972,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Old Naas Road, Dublin",
     "solarMode": "facade",
-    "frontBearingDeg": 56.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3283,
-    "frontObservationPointLon": -6.3442,
-    "facadeWidthM": 17.5
+    "status": "unavailable"
   },
   {
     "id": "cafes-cafe-112-way-967681081",
@@ -18188,13 +17232,7 @@
     "regionLabel": "Celbridge",
     "locationLabel": "English Row, Celbridge",
     "solarMode": "facade",
-    "frontBearingDeg": 144.8,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3377,
-    "frontObservationPointLon": -6.5408,
-    "facadeWidthM": 5
+    "status": "unavailable"
   },
   {
     "id": "cafes-chocolate-cafe-node-6179116863",
@@ -18283,13 +17321,7 @@
     "regionLabel": "Dublin Airport",
     "locationLabel": "Dublin Airport",
     "solarMode": "facade",
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "cafes-cobalt-cafe-and-gallery-way-252786989",
@@ -18359,13 +17391,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Phoenix Park, Dublin",
     "solarMode": "facade",
-    "frontBearingDeg": 183.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3658,
-    "frontObservationPointLon": -6.3309,
-    "facadeWidthM": 8.4
+    "status": "unavailable"
   },
   {
     "id": "cafes-cool-hand-coffee-roasters-ifsc-node-387223272",
@@ -18480,5 +17506,34 @@
     "frontObservationPointLat": 53.3471,
     "frontObservationPointLon": -6.2653,
     "facadeWidthM": 18
+  },
+  {
+    "id": "cafes-cafe-sol-cornelscourt-node-4993382822",
+    "name": "Cafe Sol Cornelscourt",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.266493,
+    "lon": -6.161376,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "Cornelscourt Shopping Centre, Old Bray Road, Dublin",
+    "websiteUrl": "https://www.dunnesstoresgrocery.com/cafe-sol-about-us",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "cafes-east-road-cafe-way-966502741",
+    "name": "East Road Cafe",
+    "placeTypeId": "cafe",
+    "appId": "ie",
+    "lat": 53.352734,
+    "lon": -6.232185,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "92 East Road, East Wall, Dublin 3",
+    "websiteUrl": "https://east-road-cafe.myshopify.com/",
+    "instagramUrl": "https://www.instagram.com/east_road_cafe/",
+    "solarMode": "facade",
+    "status": "unavailable"
   }
 ]

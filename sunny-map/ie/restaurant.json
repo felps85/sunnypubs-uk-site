@@ -52,13 +52,7 @@
     "locationLabel": "19-22 Broadmeadow Castle, Ashbourne",
     "websiteUrl": "https://www.fifty50.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 152,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.5102,
-    "frontObservationPointLon": -6.3977,
-    "facadeWidthM": 17,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1826,13 +1820,7 @@
     "locationLabel": "Strand Road, Bray, Wicklow",
     "websiteUrl": "https://www.thecatalyst.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 74.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2052,
-    "frontObservationPointLon": -6.1002,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "petFriendly": {
       "status": "pet-friendly",
       "confidence": "confirmed"
@@ -1850,13 +1838,7 @@
     "locationLabel": "40 Main Street, Bray",
     "websiteUrl": "https://chezlouis.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 293.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2018,
-    "frontObservationPointLon": -6.1103,
-    "facadeWidthM": 5.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1874,13 +1856,7 @@
     "locationLabel": "51 Main Street, Bray",
     "websiteUrl": "https://mteverestofkathmandu.com",
     "solarMode": "facade",
-    "frontBearingDeg": 9.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2007,
-    "frontObservationPointLon": -6.1112,
-    "facadeWidthM": 8.1,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -1898,13 +1874,7 @@
     "locationLabel": "7 Strand Road, Bray, Wicklow",
     "websiteUrl": "https://www.platformpizzabar.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 69.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2052,
-    "frontObservationPointLon": -6.1009,
-    "facadeWidthM": 5.9,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "pizza"
@@ -1924,13 +1894,7 @@
     "locationLabel": "Strand Road, Bray, A98 PD00",
     "websiteUrl": "https://www.the-curryleaf.com",
     "solarMode": "facade",
-    "frontBearingDeg": 58.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1986,
-    "frontObservationPointLon": -6.0956,
-    "facadeWidthM": 14.2
+    "status": "unavailable"
   },
   {
     "id": "restaurants-antonios-diner-node-4143595642",
@@ -2072,13 +2036,7 @@
     "websiteUrl": "https://marioswoodfiredpizza.ie",
     "instagramUrl": "https://instagram.com/mariowoodfiredpizza",
     "solarMode": "facade",
-    "frontBearingDeg": 48.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3438,
-    "frontObservationPointLon": -6.5419,
-    "facadeWidthM": 9.3,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -2106,13 +2064,7 @@
     "locationLabel": "Main Street, Celbridge, Kildare, W23T389",
     "websiteUrl": "https://solocafe.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 121.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3391,
-    "frontObservationPointLon": -6.5394,
-    "facadeWidthM": 8.1,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "pizza",
@@ -3860,13 +3812,7 @@
     "locationLabel": "31 Castle Street, Dalkey",
     "websiteUrl": "https://1909.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 38.1,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2771,
-    "frontObservationPointLon": -6.1036,
-    "facadeWidthM": 6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-benitos-restaurant-node-9270200937",
@@ -3881,13 +3827,7 @@
     "websiteUrl": "https://www.benitos.ie",
     "instagramUrl": "https://instagram.com/benitosofdalkey",
     "solarMode": "facade",
-    "frontBearingDeg": 30.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2776,
-    "frontObservationPointLon": -6.1049,
-    "facadeWidthM": 6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bubbas-fish-market-node-1425978368",
@@ -3901,22 +3841,12 @@
     "locationLabel": "3c Castle Street, Dalkey",
     "websiteUrl": "https://bubbas.ie",
     "instagramUrl": "https://instagram.com/bubbas_dublin",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 39.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2785,
-    "frontObservationPointLon": -6.1073,
-    "facadeWidthM": 4.5,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.2785,
-    "outdoorObservationPointLon": -6.1073,
-    "outdoorAreaWidthM": 4.5,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -3935,13 +3865,7 @@
     "websiteUrl": "https://devilles.ie",
     "instagramUrl": "https://instagram.com/devilles_dalkey",
     "solarMode": "facade",
-    "frontBearingDeg": 205.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2773,
-    "frontObservationPointLon": -6.1038,
-    "facadeWidthM": 9.7,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -3960,13 +3884,7 @@
     "websiteUrl": "https://garysgourmetpizza.ie",
     "instagramUrl": "https://instagram.com/garysgourmetpizza",
     "solarMode": "facade",
-    "frontBearingDeg": 181.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2782,
-    "frontObservationPointLon": -6.1074,
-    "facadeWidthM": 5.5,
+    "status": "unavailable",
     "foodOffer": {
       "category": "gastropub",
       "confidence": "confirmed"
@@ -3990,13 +3908,7 @@
     "locationLabel": "26 Castle Street, Dalkey",
     "websiteUrl": "https://www.onthegrapevine.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 203.3,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2773,
-    "frontObservationPointLon": -6.1036,
-    "facadeWidthM": 9.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-jaipur-node-9566369028",
@@ -4011,13 +3923,7 @@
     "websiteUrl": "https://www.jaipur.ie/dalkey",
     "instagramUrl": "https://instagram.com/JaipurDalkey",
     "solarMode": "facade",
-    "frontBearingDeg": 211.3,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2775,
-    "frontObservationPointLon": -6.1043,
-    "facadeWidthM": 8.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kathmandu-node-9269807307",
@@ -4031,13 +3937,7 @@
     "locationLabel": "24/25 Castle Street, Dalkey",
     "websiteUrl": "https://www.kathmandurestaurant.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 205.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2773,
-    "frontObservationPointLon": -6.1038,
-    "facadeWidthM": 9.7
+    "status": "unavailable"
   },
   {
     "id": "restaurants-nova-node-2969914811",
@@ -4052,13 +3952,7 @@
     "websiteUrl": "https://novarestaurant.ie",
     "instagramUrl": "https://instagram.com/novadalkey",
     "solarMode": "facade",
-    "frontBearingDeg": 347.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2773,
-    "frontObservationPointLon": -6.1029,
-    "facadeWidthM": 9.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-thai-house-node-9270042973",
@@ -4072,13 +3966,7 @@
     "locationLabel": "21 Railway Road, Dalkey, A96 HC96",
     "websiteUrl": "https://thaihouse.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 76.6,
-    "shadeClearanceDeg": 27.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2767,
-    "frontObservationPointLon": -6.1032,
-    "facadeWidthM": 4.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-ancho-node-11952381769",
@@ -4478,13 +4366,7 @@
     "locationLabel": "Bryanstown, Drogheda, A92 H4XH",
     "websiteUrl": "https://www.gringos.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 141,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7086,
-    "frontObservationPointLon": -6.3359,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-social-bar-and-restaurant-node-13152519580",
@@ -4498,13 +4380,7 @@
     "locationLabel": "Bryanstown, Drogheda, A92 H4XH",
     "websiteUrl": "https://socialbarandrestaurant.ie/menus",
     "solarMode": "facade",
-    "frontBearingDeg": 141,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7086,
-    "frontObservationPointLon": -6.3359,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-robert-stewart-spirits-grocer-way-323845600",
@@ -4934,13 +4810,7 @@
     "websiteUrl": "https://anpoitinstil.ie",
     "instagramUrl": "https://instagram.com/an_poitin_stil",
     "solarMode": "facade",
-    "frontBearingDeg": 8.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2812,
-    "frontObservationPointLon": -6.4769,
-    "facadeWidthM": 8.7,
+    "status": "unavailable",
     "foodOffer": {
       "category": "pub-menu",
       "confidence": "confirmed"
@@ -5057,13 +4927,7 @@
     "locationLabel": "Knockmaroon Hill, Strawberry Beds, Chapelizod, Dublin 20, D20 AH96",
     "websiteUrl": "https://theanglersrest.ie/",
     "solarMode": "facade",
-    "frontBearingDeg": 224.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3591,
-    "frontObservationPointLon": -6.3589,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "terrace",
       "confidence": "confirmed"
@@ -5120,13 +4984,7 @@
     "locationLabel": "Saint Margaret's Road",
     "websiteUrl": "https://www.apache.ie/stores/order-pizza-finglas",
     "solarMode": "facade",
-    "frontBearingDeg": 107.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4035,
-    "frontObservationPointLon": -6.3026,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "pizza",
@@ -6791,13 +6649,7 @@
     "websiteUrl": "https://delhidarbarindian.ie",
     "instagramUrl": "https://instagram.com/delhidarbarcelbridge",
     "solarMode": "facade",
-    "frontBearingDeg": 294.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3384,
-    "frontObservationPointLon": -6.5396,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-delhi-rasoi-node-4851487845",
@@ -6836,12 +6688,7 @@
     "locationLabel": "Dublin Airport, Dublin",
     "websiteUrl": "https://www.diep.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 27,
-    "shadeClearanceDeg": 42.5,
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 53.4262,
-    "frontObservationPointLon": -6.2405,
-    "facadeWidthM": 7
+    "status": "unavailable"
   },
   {
     "id": "restaurants-diwali-node-5691313736",
@@ -7386,13 +7233,7 @@
     "locationLabel": "4-6 Fade Street, Dublin, D02 NF77",
     "websiteUrl": "https://www.fadestreetsocial.com",
     "solarMode": "facade",
-    "frontBearingDeg": 22.4,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3419,
-    "frontObservationPointLon": -6.2639,
-    "facadeWidthM": 9.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -7726,13 +7567,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.geishaashtown.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 271.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3759,
-    "frontObservationPointLon": -6.3322,
-    "facadeWidthM": 4.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-glas-node-6144874587",
@@ -7795,13 +7630,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.goldensheepcelbridge.com",
     "solarMode": "facade",
-    "frontBearingDeg": 296,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.339,
-    "frontObservationPointLon": -6.5391,
-    "facadeWidthM": 7.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-goldenn-spoon-node-7166458819",
@@ -7815,13 +7644,7 @@
     "locationLabel": "201 Emmet Road, D08 XD50",
     "websiteUrl": "https://www.goldennspoon.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 152.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3395,
-    "frontObservationPointLon": -6.3197,
-    "facadeWidthM": 5.7,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "burger"
@@ -8237,13 +8060,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://hogsandheifers.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 341.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4458,
-    "frontObservationPointLon": -6.2237,
-    "facadeWidthM": 4.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-honest-to-goodness-node-12055178367",
@@ -8277,13 +8094,7 @@
     "locationLabel": "W23 XHF8,",
     "websiteUrl": "https://hookandladder.ie/hook-and-ladder-cafes/dublin-weston-airport",
     "solarMode": "facade",
-    "frontBearingDeg": 332.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3557,
-    "frontObservationPointLon": -6.4896,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-hugos-way-231199021",
@@ -8644,13 +8455,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.joels.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 66.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3149,
-    "frontObservationPointLon": -6.3844,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8693,13 +8498,7 @@
     "locationLabel": "453 Blanchardstown Centre",
     "websiteUrl": "https://kaizenrestaurant.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 345.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3927,
-    "frontObservationPointLon": -6.3943,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8848,13 +8647,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.kingsitric.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 0.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3882,
-    "frontObservationPointLon": -6.0636,
-    "facadeWidthM": 15.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-koba-node-937232528",
@@ -8868,13 +8661,7 @@
     "locationLabel": "Strand Road",
     "websiteUrl": "https://www.koba.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 5.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4336,
-    "frontObservationPointLon": -6.1248,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -8952,13 +8739,7 @@
     "locationLabel": "2 Unit 2 Riverforest Court, Leixlip, Kildare, Riverforest S.C.",
     "websiteUrl": "https://www.koshibaleixlip.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 100.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3716,
-    "frontObservationPointLon": -6.4878,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-lantica-way-958454291",
@@ -8992,13 +8773,7 @@
     "locationLabel": "1 Fade Street, Dublin",
     "websiteUrl": "https://www.lgueuleton.com",
     "solarMode": "facade",
-    "frontBearingDeg": 23,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.342,
-    "frontObservationPointLon": -6.2642,
-    "facadeWidthM": 10.1,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -9016,13 +8791,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://labucca.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 114.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4186,
-    "frontObservationPointLon": -6.4742,
-    "facadeWidthM": 14.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-la-gustosa-node-5685893122",
@@ -9127,13 +8896,7 @@
     "locationLabel": "Saint Margaret's Road",
     "websiteUrl": "https://www.lookmamnohands.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 197.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4032,
-    "frontObservationPointLon": -6.3035,
-    "facadeWidthM": 5.5,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "burger",
@@ -9315,13 +9078,7 @@
     "locationLabel": "Old Naas Road, D22 E092",
     "websiteUrl": "https://www.mcgettiganscookhouse.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 313.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3012,
-    "frontObservationPointLon": -6.4186,
-    "facadeWidthM": 17.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-mchughs-wine-and-dine-raheny-way-660917581",
@@ -9355,13 +9112,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://mehfil.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 83.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3833,
-    "frontObservationPointLon": -6.4009,
-    "facadeWidthM": 16
+    "status": "unavailable"
   },
   {
     "id": "restaurants-merrion-inn-node-1426051343",
@@ -10762,7 +10513,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3333,
     "frontObservationPointLon": -6.2441,
-    "facadeWidthM": 6.8
+    "facadeWidthM": 6.8,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-san-sab-way-679933306",
@@ -10858,13 +10613,7 @@
     "locationLabel": "Saint Margaret's Road",
     "websiteUrl": "https://shallots.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 107.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4035,
-    "frontObservationPointLon": -6.3026,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-siam-node-13048660594",
@@ -10898,13 +10647,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://www.siamthai.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 357.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4521,
-    "frontObservationPointLon": -6.1532,
-    "facadeWidthM": 9.3,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -11285,13 +11028,7 @@
     "locationLabel": "Unit 1, First Floor New Street",
     "websiteUrl": "https://sushida.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 83.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4519,
-    "frontObservationPointLon": -6.154,
-    "facadeWidthM": 16.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-tadka-house-node-2980320131",
@@ -11721,7 +11458,11 @@
     "facadeInferenceSource": "osm-building-facade",
     "frontObservationPointLat": 53.3384,
     "frontObservationPointLon": -6.2553,
-    "facadeWidthM": 9.2
+    "facadeWidthM": 9.2,
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    }
   },
   {
     "id": "restaurants-the-green-hen-node-3359270763",
@@ -11760,13 +11501,7 @@
     "locationLabel": "Dublin",
     "websiteUrl": "https://thegreenery.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 16.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4507,
-    "frontObservationPointLon": -6.1446,
-    "facadeWidthM": 10.5,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "burger",
@@ -11788,13 +11523,7 @@
     "websiteUrl": "https://www.guineapigrestaurant.ie",
     "instagramUrl": "https://instagram.com/guineapigrestaurant",
     "solarMode": "facade",
-    "frontBearingDeg": 120.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2764,
-    "frontObservationPointLon": -6.1034,
-    "facadeWidthM": 5.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-hairy-lemon-node-4558745794",
@@ -11902,13 +11631,7 @@
     "locationLabel": "14a Fade Street, Dublin",
     "websiteUrl": "https://www.marketbar.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 203.4,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3421,
-    "frontObservationPointLon": -6.2641,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12246,6 +11969,10 @@
     "frontObservationPointLat": 53.3466,
     "frontObservationPointLon": -6.2638,
     "facadeWidthM": 11.9,
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    },
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -12959,13 +12686,7 @@
     "locationLabel": "205A Emmet Road, Dublin 8, D08 XW61",
     "websiteUrl": "https://www.kari.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 192.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3395,
-    "frontObservationPointLon": -6.3203,
-    "facadeWidthM": 10.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-food-village-node-9606287668",
@@ -12979,13 +12700,7 @@
     "locationLabel": "Dublin Airport",
     "websiteUrl": "https://foodvillage.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 225.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4272,
-    "frontObservationPointLon": -6.2454,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-akstsuki-node-658492356",
@@ -13192,13 +12907,7 @@
     "locationLabel": "Unit 2, Adelphi Boulevard, Dundalk, Co. Louth, A91 EY90",
     "websiteUrl": "https://www.adelphijade.ie/",
     "solarMode": "facade",
-    "frontBearingDeg": 200.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.0045,
-    "frontObservationPointLon": -6.4044,
-    "facadeWidthM": 13.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-atami-node-3152620285",
@@ -13212,13 +12921,7 @@
     "locationLabel": "21A Park Street",
     "websiteUrl": "https://www.atamidundalk.com",
     "solarMode": "facade",
-    "frontBearingDeg": 130.3,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.0025,
-    "frontObservationPointLon": -6.4035,
-    "facadeWidthM": 9.4,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -15115,22 +14818,12 @@
     "regionLabel": "Greystones",
     "locationLabel": "Church Road, Greystones, Wicklow",
     "websiteUrl": "https://www.buoyskitchen.com",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 241.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.144,
-    "frontObservationPointLon": -6.061,
-    "facadeWidthM": 10.6,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.144,
-    "outdoorObservationPointLon": -6.0611,
-    "outdoorAreaWidthM": 10.6,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -15148,13 +14841,7 @@
     "locationLabel": "Church Road, A63 HW80",
     "websiteUrl": "https://camile.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 36.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1449,
-    "frontObservationPointLon": -6.0637,
-    "facadeWidthM": 15.6,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -15172,13 +14859,7 @@
     "locationLabel": "Meridian Point Shopping Centre, A63 HD43",
     "websiteUrl": "https://chakra.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 310.9,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1442,
-    "frontObservationPointLon": -6.0631,
-    "facadeWidthM": 14.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-enzo-node-13020989069",
@@ -15192,13 +14873,7 @@
     "locationLabel": "Greystones Shopping Centre",
     "websiteUrl": "https://www.ensopizza.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 261.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1451,
-    "frontObservationPointLon": -6.0765,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "pizza"
@@ -15218,13 +14893,7 @@
     "locationLabel": "38 Church Road, A63 HV05",
     "websiteUrl": "https://www.ichiban.ie/?l=en",
     "solarMode": "facade",
-    "frontBearingDeg": 36.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1449,
-    "frontObservationPointLon": -6.0637,
-    "facadeWidthM": 15.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-sonnys-node-5281904982",
@@ -15238,13 +14907,7 @@
     "locationLabel": "Church Road, A63 X920",
     "websiteUrl": "https://www.sonnys.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 221.4,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1456,
-    "frontObservationPointLon": -6.0644,
-    "facadeWidthM": 10.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -15262,13 +14925,7 @@
     "locationLabel": "Victoria Road, A63 H670",
     "websiteUrl": "https://www.harbourkitchen.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 50.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1499,
-    "frontObservationPointLon": -6.0662,
-    "facadeWidthM": 5.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -15286,13 +14943,7 @@
     "locationLabel": "Church Road, Greystones, Wicklow",
     "websiteUrl": "https://www.thehungrymonk.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 51.3,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1446,
-    "frontObservationPointLon": -6.063,
-    "facadeWidthM": 11.7,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -15310,13 +14961,7 @@
     "locationLabel": "Greystones",
     "websiteUrl": "https://yamasgreekrestaurant.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 217.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.1444,
-    "frontObservationPointLon": -6.0621,
-    "facadeWidthM": 5.7
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kirbys-node-9922900961",
@@ -15402,13 +15047,7 @@
     "websiteUrl": "https://www.30churchstreethowth.com",
     "instagramUrl": "https://instagram.com/30churchstreet",
     "solarMode": "facade",
-    "frontBearingDeg": 183.4,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3871,
-    "frontObservationPointLon": -6.0659,
-    "facadeWidthM": 9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-aqua-node-862041778",
@@ -15422,13 +15061,7 @@
     "locationLabel": "1 West Pier, Howth, Dublin, D13 H2V4",
     "websiteUrl": "https://aqua.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 127.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3922,
-    "frontObservationPointLon": -6.0694,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-beshoffs-the-market-way-51915228",
@@ -15441,22 +15074,12 @@
     "regionLabel": "Howth",
     "locationLabel": "17-18 West Pier, Howth, Dublin, D13 V9V0",
     "websiteUrl": "https://www.beshoffs.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 125.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3895,
-    "frontObservationPointLon": -6.0727,
-    "facadeWidthM": 16.2,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.3895,
-    "outdoorObservationPointLon": -6.0727,
-    "outdoorAreaWidthM": 16.2,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "restaurants-the-brass-monkey-node-1225556177",
@@ -15469,22 +15092,12 @@
     "regionLabel": "Howth",
     "locationLabel": "12 West Pier, Howth, Dublin, D13 T1X6",
     "websiteUrl": "https://www.brassmonkey.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 125.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3903,
-    "frontObservationPointLon": -6.0718,
-    "facadeWidthM": 18,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.3903,
-    "outdoorObservationPointLon": -6.0718,
-    "outdoorAreaWidthM": 18,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "restaurants-the-house-node-2753831586",
@@ -15497,22 +15110,12 @@
     "regionLabel": "Howth",
     "locationLabel": "4 Main Street, Howth, Dublin, D13 V2F9",
     "websiteUrl": "https://www.thehouse-howth.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 148.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3859,
-    "frontObservationPointLon": -6.0653,
-    "facadeWidthM": 6,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
-    },
-    "outdoorObservationPointLat": 53.3859,
-    "outdoorObservationPointLon": -6.0652,
-    "outdoorAreaWidthM": 6,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1"
+    }
   },
   {
     "id": "restaurants-wrights-findlater-way-233883868",
@@ -15525,22 +15128,12 @@
     "regionLabel": "Howth",
     "locationLabel": "Harbour Road, Howth, Dublin, D13 T045",
     "websiteUrl": "https://findlater.ie",
-    "solarMode": "outdoor-area",
-    "frontBearingDeg": 13.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3886,
-    "frontObservationPointLon": -6.0724,
-    "facadeWidthM": 11.7,
+    "solarMode": "facade",
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
     },
-    "outdoorObservationPointLat": 53.3887,
-    "outdoorObservationPointLon": -6.0724,
-    "outdoorAreaWidthM": 11.7,
-    "outdoorAreaInferenceSource": "front-outdoor-seating-facade-derived-v1",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -16189,13 +15782,7 @@
     "locationLabel": "Killarney",
     "websiteUrl": "https://www.muckrosspark.com/yew-tree-restaurant.html",
     "solarMode": "facade",
-    "frontBearingDeg": 291.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0251,
-    "frontObservationPointLon": -9.4899,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -16213,13 +15800,7 @@
     "locationLabel": "Century Complex, Leckview Lane, Letterkenny, Co. Donegal, F92 DA02",
     "websiteUrl": "https://centurycinemas.net/bar-and-grill.aspx",
     "solarMode": "facade",
-    "frontBearingDeg": 51.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9435,
-    "frontObservationPointLon": -7.7355,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-lemon-tree-node-1461574426",
@@ -16233,13 +15814,7 @@
     "locationLabel": "Unit 32-34 Lower Main Street, Letterkenny, Donegal, F92 EK13",
     "websiteUrl": "https://www.thelemontreerestaurant.com",
     "solarMode": "facade",
-    "frontBearingDeg": 133.5,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9487,
-    "frontObservationPointLon": -7.7369,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-yellow-pepper-node-793930543",
@@ -16253,13 +15828,7 @@
     "locationLabel": "Letterkenny",
     "websiteUrl": "https://www.yellowpepperrestaurant.com",
     "solarMode": "facade",
-    "frontBearingDeg": 225,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9493,
-    "frontObservationPointLon": -7.7348,
-    "facadeWidthM": 8.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-warehouse-bar-and-kitchen-node-1361483713",
@@ -16273,13 +15842,7 @@
     "locationLabel": "High Road, Letterkenny, Donegal, F92 NFX9",
     "websiteUrl": "https://www.mcgettiganshotel.com",
     "solarMode": "facade",
-    "frontBearingDeg": 67,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9519,
-    "frontObservationPointLon": -7.7358,
-    "facadeWidthM": 4.5,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "limited",
       "confidence": "confirmed"
@@ -16692,13 +16255,7 @@
     "locationLabel": "Annadale Cottage, Leixlip Road, Lucan, County Dublin",
     "websiteUrl": "https://annadalecottagelucan.ie/",
     "solarMode": "facade",
-    "frontBearingDeg": 19.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3553,
-    "frontObservationPointLon": -6.4602,
-    "facadeWidthM": 6.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-belfry-and-co-cafe-node-12417387522",
@@ -16712,13 +16269,7 @@
     "locationLabel": "Unit 7 The Crossings West, Lucan, K78 T6C2",
     "websiteUrl": "https://www.belfryco.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 93.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3377,
-    "frontObservationPointLon": -6.4699,
-    "facadeWidthM": 18,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -16736,13 +16287,7 @@
     "locationLabel": "9 Saint James Terrace, Malahide, K36 KR66",
     "websiteUrl": "https://www.bonappetit.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 93.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4516,
-    "frontObservationPointLon": -6.1518,
-    "facadeWidthM": 7.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-avenue-way-42417311",
@@ -16756,13 +16301,7 @@
     "locationLabel": "1 Main Street, Maynooth, Co. Kildare, W23 DX49",
     "websiteUrl": "https://avenuecafe.ie/",
     "solarMode": "facade",
-    "frontBearingDeg": 63,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.382,
-    "frontObservationPointLon": -6.5886,
-    "facadeWidthM": 13.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-delhi-darbar-node-352673566",
@@ -16776,13 +16315,7 @@
     "locationLabel": "W23 X8Y6",
     "websiteUrl": "https://delhidarbarindian.ie/maynooth",
     "solarMode": "facade",
-    "frontBearingDeg": 64.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3814,
-    "frontObservationPointLon": -6.5931,
-    "facadeWidthM": 14.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-ely-wine-store-way-42453155",
@@ -16796,13 +16329,7 @@
     "locationLabel": "Main Street",
     "websiteUrl": "https://www.elywinebar.ie/location/ely-wine-store",
     "solarMode": "facade",
-    "frontBearingDeg": 63.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3824,
-    "frontObservationPointLon": -6.5889,
-    "facadeWidthM": 7.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-orient-node-628964753",
@@ -16816,13 +16343,7 @@
     "locationLabel": "Maynooth",
     "websiteUrl": "https://www.theorient.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 156.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3814,
-    "frontObservationPointLon": -6.5924,
-    "facadeWidthM": 4.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-picaderos-way-42452202",
@@ -16836,13 +16357,7 @@
     "locationLabel": "Main Street, Maynooth",
     "websiteUrl": "https://www.picaderos.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 153.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3822,
-    "frontObservationPointLon": -6.5894,
-    "facadeWidthM": 8.2
+    "status": "unavailable"
   },
   {
     "id": "restaurants-cush-midleton-way-615824937",
@@ -17272,13 +16787,7 @@
     "locationLabel": "30 Railway Street, Navan, C15 AC04",
     "websiteUrl": "https://www.crave.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 60.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.6512,
-    "frontObservationPointLon": -6.6875,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-minato-way-144822653",
@@ -17292,13 +16801,7 @@
     "locationLabel": "Preston Pl, Abbeyland South, Navan, C15 NY98",
     "websiteUrl": "https://www.minatonavan.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 326.6,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.6526,
-    "frontObservationPointLon": -6.6868,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-zucchinis-node-409740222",
@@ -17313,13 +16816,7 @@
     "websiteUrl": "https://zucchinisnavan.ie",
     "instagramUrl": "https://instagram.com/zucchinisnavan",
     "solarMode": "facade",
-    "frontBearingDeg": 246.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.6632,
-    "frontObservationPointLon": -6.6775,
-    "facadeWidthM": 6.3,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -17836,13 +17333,7 @@
     "websiteUrl": "https://smokinbones.ie",
     "instagramUrl": "https://instagram.com/smokinbones_ie",
     "solarMode": "facade",
-    "frontBearingDeg": 315.5,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4494,
-    "frontObservationPointLon": -6.2239,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-anjappar-chettinad-indian-restaurant-node-5250588240",
@@ -17856,13 +17347,7 @@
     "locationLabel": "Unit 7, Belgard Square West, Tallaght, Dublin",
     "websiteUrl": "https://www.anjappar.ie/",
     "solarMode": "facade",
-    "frontBearingDeg": 106.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2863,
-    "frontObservationPointLon": -6.3751,
-    "facadeWidthM": 9.4
+    "status": "unavailable"
   },
   {
     "id": "restaurants-baja-burrito-bar-node-5001970789",
@@ -17916,13 +17401,7 @@
     "locationLabel": "Castlemaine Road, Tralee, V92DF38",
     "websiteUrl": "https://www.gallysathome.com",
     "solarMode": "facade",
-    "frontBearingDeg": 357.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2582,
-    "frontObservationPointLon": -9.6898,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-grill-and-thrill-family-restaurant-node-12745770901",
@@ -17936,13 +17415,7 @@
     "locationLabel": "7 Castle Street Lower, V92 VP93",
     "websiteUrl": "https://www.grillandthrill.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 199.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2694,
-    "frontObservationPointLon": -9.7044,
-    "facadeWidthM": 8.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-indian-castle-and-takeaway-node-12952115853",
@@ -17956,13 +17429,7 @@
     "locationLabel": "21 Castle Street Upper, Tralee, V92 Y578",
     "websiteUrl": "https://indiancastletralee.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 185.3,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.269,
-    "frontObservationPointLon": -9.701,
-    "facadeWidthM": 5.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-kyoto-node-12925927839",
@@ -17976,13 +17443,7 @@
     "locationLabel": "11 Denny Street, Tralee, V92 YFH0",
     "websiteUrl": "https://www.kyototralee.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 34.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2686,
-    "frontObservationPointLon": -9.7062,
-    "facadeWidthM": 12.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-lana-tralee-asian-street-food-node-12745609501",
@@ -17997,13 +17458,7 @@
     "websiteUrl": "https://lanathai.ie/restaurants/tralee",
     "instagramUrl": "https://instagram.com/lanaasianstreetfood",
     "solarMode": "facade",
-    "frontBearingDeg": 303.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2695,
-    "frontObservationPointLon": -9.7043,
-    "facadeWidthM": 6.2,
+    "status": "unavailable",
     "wheelchairAccess": {
       "status": "yes",
       "confidence": "confirmed"
@@ -18021,13 +17476,7 @@
     "locationLabel": "Tralee, V92 N97C",
     "websiteUrl": "https://pagodachineserestaraunttralee.com",
     "solarMode": "facade",
-    "frontBearingDeg": 359.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2644,
-    "frontObservationPointLon": -9.6787,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-shack-restaurant-and-takeway-node-12794530202",
@@ -18042,13 +17491,7 @@
     "websiteUrl": "https://www.burgershacktralee.com",
     "instagramUrl": "https://instagram.com/burgershacktralee",
     "solarMode": "facade",
-    "frontBearingDeg": 195.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2779,
-    "frontObservationPointLon": -9.703,
-    "facadeWidthM": 14.4,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "burger"
@@ -18068,13 +17511,7 @@
     "locationLabel": "50 Boherbee, V92 YW71",
     "websiteUrl": "https://www.ummesgrill.ie",
     "solarMode": "facade",
-    "frontBearingDeg": 277.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2691,
-    "frontObservationPointLon": -9.6974,
-    "facadeWidthM": 10.6,
+    "status": "unavailable",
     "foodTags": {
       "tags": [
         "burger",
@@ -21903,13 +21340,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Block 3 Blanchardstown Corporate Park",
     "solarMode": "facade",
-    "frontBearingDeg": 306.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4099,
-    "frontObservationPointLon": -6.3691,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bella-cucina-way-1002067888",
@@ -21922,13 +21353,7 @@
     "regionLabel": "Dalkey",
     "locationLabel": "22 Castle Street, Dalkey",
     "solarMode": "facade",
-    "frontBearingDeg": 117.1,
-    "shadeClearanceDeg": 22.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2775,
-    "frontObservationPointLon": -6.1041,
-    "facadeWidthM": 7.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-belvedere-grill-node-5590668029",
@@ -21960,13 +21385,7 @@
     "regionLabel": "Dublin Airport",
     "locationLabel": "Dublin Airport",
     "solarMode": "facade",
-    "frontBearingDeg": 27.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4265,
-    "frontObservationPointLon": -6.2397,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-biang-biang-node-12660741671",
@@ -22093,13 +21512,7 @@
     "regionLabel": "Bray",
     "locationLabel": "7 Strand Road, Bray, Wicklow, A98 C5D0",
     "solarMode": "facade",
-    "frontBearingDeg": 69.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2052,
-    "frontObservationPointLon": -6.1009,
-    "facadeWidthM": 5.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-brasa-steak-house-node-5333712576",
@@ -22283,13 +21696,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "73 Ashtown Village",
     "solarMode": "facade",
-    "frontBearingDeg": 181.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3758,
-    "frontObservationPointLon": -6.332,
-    "facadeWidthM": 9.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-canteen-restaurant-node-6887307364",
@@ -22302,13 +21709,7 @@
     "regionLabel": "Celbridge",
     "locationLabel": "4 Main Street, Celbridge, Kildare",
     "solarMode": "facade",
-    "frontBearingDeg": 298.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3402,
-    "frontObservationPointLon": -6.5383,
-    "facadeWidthM": 4.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-canton-city-node-2940666207",
@@ -22378,13 +21779,7 @@
     "regionLabel": "Castleknock",
     "locationLabel": "Castleknock",
     "solarMode": "facade",
-    "frontBearingDeg": 213.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3724,
-    "frontObservationPointLon": -6.3606,
-    "facadeWidthM": 14.4
+    "status": "unavailable"
   },
   {
     "id": "restaurants-catch-22-node-9399425577",
@@ -22435,13 +21830,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Ongar Square",
     "solarMode": "facade",
-    "frontBearingDeg": 41.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3952,
-    "frontObservationPointLon": -6.4391,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-florence-food-co-way-64714944",
@@ -22454,13 +21843,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Upper Main Street, Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 109.4,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9519,
-    "frontObservationPointLon": -7.7358,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-forge-wood-fired-pizza-node-13075845100",
@@ -22473,12 +21856,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "8 Ashe Street, Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 304.8,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 52.2703,
-    "frontObservationPointLon": -9.7036,
-    "facadeWidthM": 7
+    "status": "unavailable"
   },
   {
     "id": "restaurants-gourmet-sushi-node-13085098474",
@@ -22491,13 +21869,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "6 Courthouse Lane, Tralee, V92 EY16",
     "solarMode": "facade",
-    "frontBearingDeg": 104.2,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2695,
-    "frontObservationPointLon": -9.7034,
-    "facadeWidthM": 16.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-harpur-eleven-node-10891936663",
@@ -22609,13 +21981,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "The Square, Tralee, V92 H603",
     "solarMode": "facade",
-    "frontBearingDeg": 34.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2686,
-    "frontObservationPointLon": -9.7062,
-    "facadeWidthM": 12.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-lord-kenmares-restaurant-node-4953164346",
@@ -22742,13 +22108,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "3 The Square, Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 15.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2688,
-    "frontObservationPointLon": -9.7064,
-    "facadeWidthM": 15.7
+    "status": "unavailable"
   },
   {
     "id": "restaurants-pot-belly-food-truck-node-13137570647",
@@ -22784,13 +22144,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "3 Ivy Terrace, Tralee, V92 TPX8",
     "solarMode": "facade",
-    "frontBearingDeg": 202.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2673,
-    "frontObservationPointLon": -9.709,
-    "facadeWidthM": 12.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-river-bar-and-restaurant-node-10884397271",
@@ -22822,13 +22176,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Clash Cross, Tralee, V92 RY6V",
     "solarMode": "facade",
-    "frontBearingDeg": 170.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2694,
-    "frontObservationPointLon": -9.6895,
-    "facadeWidthM": 11.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-salvadors-and-robertinos-node-5176709522",
@@ -22898,13 +22246,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "33 The Mall, V92 AFP5",
     "solarMode": "facade",
-    "frontBearingDeg": 287.3,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2698,
-    "frontObservationPointLon": -9.7063,
-    "facadeWidthM": 6.8
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-flesk-node-2334686486",
@@ -22993,13 +22335,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Paddy Harte Road, Letterkenny, Donegal, F92 FK15",
     "solarMode": "facade",
-    "frontBearingDeg": 136.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9468,
-    "frontObservationPointLon": -7.7335,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-vendricks-node-6719044125",
@@ -23050,13 +22386,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 199.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2694,
-    "frontObservationPointLon": -9.7044,
-    "facadeWidthM": 8.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-bonfire-indian-curry-house-node-11886434226",
@@ -23126,13 +22456,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 17.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.269,
-    "frontObservationPointLon": -9.7078,
-    "facadeWidthM": 11.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-chillishaker-node-1295051269",
@@ -23145,13 +22469,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 126.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9525,
-    "frontObservationPointLon": -7.7303,
-    "facadeWidthM": 9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-chinatown-express-node-11898380270",
@@ -23221,13 +22539,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 299.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9514,
-    "frontObservationPointLon": -7.7337,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-everest-kitchen-node-11893674170",
@@ -23373,13 +22685,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 165.4,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2693,
-    "frontObservationPointLon": -9.6906,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-il-pomo-doro-node-2437511723",
@@ -23392,13 +22698,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 297.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2675,
-    "frontObservationPointLon": -9.7092,
-    "facadeWidthM": 11.4
+    "status": "unavailable"
   },
   {
     "id": "restaurants-indian-royale-node-1229166868",
@@ -23411,13 +22711,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 290.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9496,
-    "frontObservationPointLon": -7.7374,
-    "facadeWidthM": 5.2
+    "status": "unavailable"
   },
   {
     "id": "restaurants-la-fantasia-node-1494151335",
@@ -23430,13 +22724,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 209.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9509,
-    "frontObservationPointLon": -7.7336,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-la-rambla-node-5176729422",
@@ -23582,13 +22870,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 62.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.2691,
-    "frontObservationPointLon": -9.6901,
-    "facadeWidthM": 13.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-no-forty-one-node-11898435433",
@@ -23620,13 +22902,7 @@
     "regionLabel": "Killarney",
     "locationLabel": "Killarney",
     "solarMode": "facade",
-    "frontBearingDeg": 212.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 52.0429,
-    "frontObservationPointLon": -9.4993,
-    "facadeWidthM": 13
+    "status": "unavailable"
   },
   {
     "id": "restaurants-piccolo-pizza-node-2974936752",
@@ -23658,13 +22934,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 109.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9438,
-    "frontObservationPointLon": -7.6969,
-    "facadeWidthM": 14.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-royal-court-chinese-restaurant-and-takeaway-node-12009290096",
@@ -23715,13 +22985,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 291.3,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9467,
-    "frontObservationPointLon": -7.7103,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-sherwood-inn-node-11883512201",
@@ -23753,12 +23017,7 @@
     "regionLabel": "Tralee",
     "locationLabel": "Tralee",
     "solarMode": "facade",
-    "frontBearingDeg": 358.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "bearing-shadow-v1",
-    "frontObservationPointLat": 52.2754,
-    "frontObservationPointLon": -9.7825,
-    "facadeWidthM": 7
+    "status": "unavailable"
   },
   {
     "id": "restaurants-spice-temple-node-11891415077",
@@ -23942,13 +23201,7 @@
     "regionLabel": "Letterkenny",
     "locationLabel": "Letterkenny",
     "solarMode": "facade",
-    "frontBearingDeg": 203.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.9467,
-    "frontObservationPointLon": -7.7413,
-    "facadeWidthM": 7.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-tulsi-restaurant-node-3039405914",
@@ -24000,13 +23253,7 @@
     "locationLabel": "Ludlow Street, Navan, Meath",
     "websiteUrl": "https://www.copperspicenavan.com/",
     "solarMode": "facade",
-    "frontBearingDeg": 80.6,
-    "shadeClearanceDeg": 17.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.6526,
-    "frontObservationPointLon": -6.6835,
-    "facadeWidthM": 9.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-enos-bar-grill-and-lounge-node-5308540305",
@@ -24019,13 +23266,7 @@
     "regionLabel": "Dundalk",
     "locationLabel": "5 Roden Place, Dundalk",
     "solarMode": "facade",
-    "frontBearingDeg": 170.3,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 54.0047,
-    "frontObservationPointLon": -6.399,
-    "facadeWidthM": 9.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-fratellis-node-4443713586",
@@ -24038,13 +23279,7 @@
     "regionLabel": "Swords",
     "locationLabel": "Main Street, Swords",
     "solarMode": "facade",
-    "frontBearingDeg": 113.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4584,
-    "frontObservationPointLon": -6.2206,
-    "facadeWidthM": 8.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-grand-foods-way-767976130",
@@ -24057,13 +23292,7 @@
     "regionLabel": "Bray",
     "locationLabel": "36 Main Street, Bray",
     "solarMode": "facade",
-    "frontBearingDeg": 291.7,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2022,
-    "frontObservationPointLon": -6.11,
-    "facadeWidthM": 6.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-green-straw-node-5478154107",
@@ -24077,13 +23306,7 @@
     "locationLabel": "Main Street",
     "websiteUrl": "https://www.greenstrawswords.com/",
     "solarMode": "facade",
-    "frontBearingDeg": 105.9,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4579,
-    "frontObservationPointLon": -6.2209,
-    "facadeWidthM": 17.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-indus-node-12554611501",
@@ -24096,13 +23319,7 @@
     "regionLabel": "Drogheda",
     "locationLabel": "Bryanstown",
     "solarMode": "facade",
-    "frontBearingDeg": 141,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.7086,
-    "frontObservationPointLon": -6.3359,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-jasmine-house-way-767877835",
@@ -24115,13 +23332,7 @@
     "regionLabel": "Bray",
     "locationLabel": "85 Main Street, Bray",
     "solarMode": "facade",
-    "frontBearingDeg": 111.1,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2026,
-    "frontObservationPointLon": -6.1101,
-    "facadeWidthM": 7.4
+    "status": "unavailable"
   },
   {
     "id": "restaurants-ko-san-thai-gastro-bar-way-1370309958",
@@ -24134,13 +23345,7 @@
     "regionLabel": "Swords",
     "locationLabel": "17 Main Street, Swords",
     "solarMode": "facade",
-    "frontBearingDeg": 201.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4584,
-    "frontObservationPointLon": -6.2198,
-    "facadeWidthM": 17.8,
+    "status": "unavailable",
     "outdoorArea": {
       "type": "outdoor-seating",
       "confidence": "confirmed"
@@ -24157,13 +23362,7 @@
     "regionLabel": "Bray",
     "locationLabel": "Main Street, Bray",
     "solarMode": "facade",
-    "frontBearingDeg": 206,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2015,
-    "frontObservationPointLon": -6.11,
-    "facadeWidthM": 12.2
+    "status": "unavailable"
   },
   {
     "id": "restaurants-la-piazza-way-767877834",
@@ -24176,13 +23375,7 @@
     "regionLabel": "Bray",
     "locationLabel": "84 Main Street, Bray",
     "solarMode": "facade",
-    "frontBearingDeg": 112.4,
-    "shadeClearanceDeg": 12.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.2025,
-    "frontObservationPointLon": -6.1101,
-    "facadeWidthM": 7.1
+    "status": "unavailable"
   },
   {
     "id": "restaurants-akayu-node-10032226792",
@@ -24845,13 +24038,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Sweeney Mews",
     "solarMode": "facade",
-    "frontBearingDeg": 129.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.395,
-    "frontObservationPointLon": -6.4398,
-    "facadeWidthM": 17
+    "status": "unavailable"
   },
   {
     "id": "restaurants-chewbrew-node-5355455280",
@@ -24921,13 +24108,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "2 Westend Village, Dublin",
     "solarMode": "facade",
-    "frontBearingDeg": 235.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3889,
-    "frontObservationPointLon": -6.3895,
-    "facadeWidthM": 11.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-choys-node-12180268991",
@@ -24940,13 +24121,7 @@
     "regionLabel": "Celbridge",
     "locationLabel": "English Row, Celbridge",
     "solarMode": "facade",
-    "frontBearingDeg": 294.5,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3384,
-    "frontObservationPointLon": -6.5396,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-cinnamon-way-922852942",
@@ -24997,13 +24172,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Walkinstown Road",
     "solarMode": "facade",
-    "frontBearingDeg": 20,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3213,
-    "frontObservationPointLon": -6.3313,
-    "facadeWidthM": 13.6
+    "status": "unavailable"
   },
   {
     "id": "restaurants-cocu-kitchen-node-3044810381",
@@ -25035,13 +24204,7 @@
     "regionLabel": "Coolquay",
     "locationLabel": "Coolquay",
     "solarMode": "facade",
-    "frontBearingDeg": 150.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.4588,
-    "frontObservationPointLon": -6.3497,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-copper-alley-bistro-node-1419171136",
@@ -25111,13 +24274,7 @@
     "regionLabel": "Blanchardstown",
     "locationLabel": "9 Main Street, Blanchardstown",
     "solarMode": "facade",
-    "frontBearingDeg": 120.8,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3861,
-    "frontObservationPointLon": -6.3762,
-    "facadeWidthM": 4.5
+    "status": "unavailable"
   },
   {
     "id": "restaurants-courtneys-node-269920213",
@@ -25130,13 +24287,7 @@
     "regionLabel": "Lucan",
     "locationLabel": "Leixlip Road, Lucan, Dublin, K78 HF83",
     "solarMode": "facade",
-    "frontBearingDeg": 355.7,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3563,
-    "frontObservationPointLon": -6.4502,
-    "facadeWidthM": 15.9
+    "status": "unavailable"
   },
   {
     "id": "restaurants-courtyard-cafe-node-2324134998",
@@ -25149,13 +24300,7 @@
     "regionLabel": "Celbridge",
     "locationLabel": "Celbridge, Kildare, W23 V9H3",
     "solarMode": "facade",
-    "frontBearingDeg": 101.2,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3489,
-    "frontObservationPointLon": -6.5307,
-    "facadeWidthM": 6.4
+    "status": "unavailable"
   },
   {
     "id": "restaurants-crabby-jos-node-4777021621",
@@ -25168,13 +24313,7 @@
     "regionLabel": "Howth",
     "locationLabel": "14 West Pier, Howth, Dublin, D13 YD93",
     "solarMode": "facade",
-    "frontBearingDeg": 125.9,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3899,
-    "frontObservationPointLon": -6.0723,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-credo-way-449364757",
@@ -25225,13 +24364,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Sutton Cross, D13 P3Y8",
     "solarMode": "facade",
-    "frontBearingDeg": 8.1,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3888,
-    "frontObservationPointLon": -6.1104,
-    "facadeWidthM": 16.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-dlepak-way-249630726",
@@ -25244,13 +24377,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "34 Manor Road",
     "solarMode": "facade",
-    "frontBearingDeg": 191.1,
-    "shadeClearanceDeg": 7.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.3514,
-    "frontObservationPointLon": -6.3687,
-    "facadeWidthM": 7.3
+    "status": "unavailable"
   },
   {
     "id": "restaurants-d1-node-2997622560",
@@ -25491,13 +24618,7 @@
     "regionLabel": "Dublin",
     "locationLabel": "Ongar Square",
     "solarMode": "facade",
-    "frontBearingDeg": 130.6,
-    "shadeClearanceDeg": 2.5,
-    "sunGeometryProfileSource": "osm-building-shadow-v1",
-    "facadeInferenceSource": "osm-building-facade",
-    "frontObservationPointLat": 53.395,
-    "frontObservationPointLon": -6.4391,
-    "facadeWidthM": 18
+    "status": "unavailable"
   },
   {
     "id": "restaurants-the-pigeon-house-way-374958547",
@@ -25517,5 +24638,19 @@
     "frontObservationPointLat": 53.3599,
     "frontObservationPointLon": -6.1958,
     "facadeWidthM": 13.4
+  },
+  {
+    "id": "restaurants-el-grito-taqueria-node-4302534684",
+    "name": "El Grito Taqueria",
+    "placeTypeId": "restaurant",
+    "appId": "ie",
+    "lat": 53.357355,
+    "lon": -6.256651,
+    "regionId": "dublin",
+    "regionLabel": "Dublin",
+    "locationLabel": "20 Mountjoy Square East, Dublin, D01 K3T1",
+    "websiteUrl": "https://elgrito.eu/",
+    "solarMode": "facade",
+    "status": "unavailable"
   }
 ]
