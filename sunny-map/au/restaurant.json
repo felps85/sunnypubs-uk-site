@@ -1,0 +1,20 @@
+[
+  {
+    "id": "restaurants-brae-4285-cape-otway-road-birregurra-victoria-3242",
+    "name": "Brae",
+    "placeTypeId": "restaurant",
+    "appId": "au",
+    "lat": -38.3468859,
+    "lon": 143.8072688,
+    "regionId": "vic",
+    "regionLabel": "Victoria",
+    "locationLabel": "4285 Cape Otway Road, Birregurra, Victoria 3242",
+    "websiteUrl": "https://braerestaurant.com/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "restaurant-grade",
+      "confidence": "confirmed"
+    }
+  }
+]

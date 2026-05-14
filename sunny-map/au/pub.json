@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "arbory-bar-and-eatery-melbourne-au",
+    "name": "Arbory Bar & Eatery",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.8189716,
+    "lon": 144.9661678,
+    "displayLat": -37.8189716,
+    "displayLon": 144.9661678,
+    "city": "Melbourne",
+    "town": "Melbourne",
+    "county": "VIC",
+    "addressText": "Flinders Walk",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://arbory.com.au",
+    "instagramUrl": "https://instagram.com/arboryeatery",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "beach-road-hotel-bondi-beach-au",
+    "name": "Beach Road Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -33.8863532,
+    "lon": 151.2727004,
+    "displayLat": -33.8863532,
+    "displayLon": 151.2727004,
+    "city": "Sydney",
+    "town": "Bondi Beach",
+    "county": "NSW",
+    "addressText": "2026",
+    "regionId": "sydney",
+    "regionLabel": "Sydney",
+    "websiteUrl": "https://www.beachroadhotel.com.au",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "belgian-beer-cafe-perth-au",
+    "name": "Belgian Beer Cafe",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.9519237,
+    "lon": 115.85535,
+    "displayLat": -31.9519237,
+    "displayLon": 115.85535,
+    "city": "Perth",
+    "town": "Perth",
+    "county": "WA",
+    "addressText": "Perth, WA",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://www.belgianbeer.com.au",
+    "instagramUrl": "https://instagram.com/belgianbeercafewa",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "black-pearl-fitzroy-au",
+    "name": "Black Pearl",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.7980085,
+    "lon": 144.9787362,
+    "displayLat": -37.7980085,
+    "displayLon": 144.9787362,
+    "city": "Melbourne",
+    "town": "Fitzroy",
+    "county": "VIC",
+    "addressText": "304 Brunswick Street, Fitzroy, VIC 3065, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://www.blackpearlbar.com.au/",
+    "instagramUrl": "https://instagram.com/blackpearlfitzroy",
+    "solarMode": "facade",
+    "status": "unavailable"
+  },
+  {
+    "id": "blackbird-bar-brisbane-city-au",
+    "name": "Blackbird Bar",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -27.4685,
+    "lon": 153.0301,
+    "displayLat": -27.4685,
+    "displayLon": 153.0301,
+    "city": "Brisbane",
+    "town": "Brisbane City",
+    "county": "QLD",
+    "addressText": "123 Eagle St, Brisbane City QLD 4000, Australia",
+    "regionId": "brisbane",
+    "regionLabel": "Brisbane",
+    "websiteUrl": "https://blackbirdbrisbane.com.au/",
+    "instagramUrl": "https://instagram.com/blackbirdbrisbane",
+    "solarMode": "facade",
+    "frontBearingDeg": 252.8,
+    "shadeClearanceDeg": 2.5,
+    "sunGeometryProfileSource": "osm-building-shadow-v1",
+    "facadeInferenceSource": "osm-building-facade",
+    "frontObservationPointLat": -27.4684,
+    "frontObservationPointLon": 153.0302,
+    "facadeWidthM": 4.5,
+    "outdoorArea": {
+      "type": "terrace",
+      "confidence": "confirmed"
+    },
+    "outdoorObservationPointLat": -27.4684,
+    "outdoorObservationPointLon": 153.0302,
+    "outdoorAreaWidthM": 4.5,
+    "outdoorAreaInferenceSource": "front-terrace-facade-derived-v1",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "corner-hotel-richmond-au",
+    "name": "Corner Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.8248528,
+    "lon": 144.9926214,
+    "displayLat": -37.8248528,
+    "displayLon": 144.9926214,
+    "city": "Melbourne",
+    "town": "Richmond",
+    "county": "VIC",
+    "addressText": "57 Swan Street, Richmond, VIC 3121, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://cornerhotel.com/",
+    "instagramUrl": "https://instagram.com/cornerhotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "crown-and-anchor-hotel-adelaide-au",
+    "name": "Crown & Anchor Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -34.9236948,
+    "lon": 138.6084748,
+    "displayLat": -34.9236948,
+    "displayLon": 138.6084748,
+    "city": "Adelaide",
+    "town": "Adelaide",
+    "county": "SA",
+    "addressText": "196 Grenfell Street, Adelaide, SA 5000",
+    "regionId": "adelaide",
+    "regionLabel": "Adelaide",
+    "websiteUrl": "https://www.crownandanchorhotel.com.au",
+    "instagramUrl": "https://instagram.com/thecrankerhotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "darwin-railway-club-parap-au",
+    "name": "Darwin Railway Club",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -12.4340792,
+    "lon": 130.8444558,
+    "displayLat": -12.4340792,
+    "displayLon": 130.8444558,
+    "city": "Darwin",
+    "town": "Parap",
+    "county": "NT",
+    "addressText": "17 Sommerville Gardens, Parap, NT 0820",
+    "regionId": "darwin",
+    "regionLabel": "Darwin",
+    "websiteUrl": "https://www.darwinrailwayclub.org",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "edgars-inn-ainslie-au",
+    "name": "Edgars Inn",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -35.2625237,
+    "lon": 149.1450353,
+    "displayLat": -35.2625237,
+    "displayLon": 149.1450353,
+    "city": "Canberra",
+    "town": "Ainslie",
+    "county": "ACT",
+    "addressText": "1-2 Edgar Street, Ainslie, ACT 2602",
+    "regionId": "canberra",
+    "regionLabel": "Canberra",
+    "websiteUrl": "https://www.edgarsinn.com.au",
+    "instagramUrl": "https://instagram.com/edgarsinn",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "fortune-of-war-the-rocks-au",
+    "name": "Fortune of War",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -33.8604442,
+    "lon": 151.2084338,
+    "displayLat": -33.8604442,
+    "displayLon": 151.2084338,
+    "city": "Sydney",
+    "town": "The Rocks",
+    "county": "NSW",
+    "addressText": "137 George Street",
+    "regionId": "sydney",
+    "regionLabel": "Sydney",
+    "websiteUrl": "https://www.fortuneofwar.com.au",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "garden-state-hotel-melbourne-au",
+    "name": "Garden State Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.8153755,
+    "lon": 144.971045,
+    "displayLat": -37.8153755,
+    "displayLon": 144.971045,
+    "city": "Melbourne",
+    "town": "Melbourne",
+    "county": "VIC",
+    "addressText": "101 Flinders Lane, Melbourne, VIC 3000, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://gardenstatehotel.com.au/",
+    "instagramUrl": "https://instagram.com/gardenstatehotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "gilbert-street-hotel-adelaide-au",
+    "name": "Gilbert Street Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -34.9343323,
+    "lon": 138.5970776,
+    "displayLat": -34.9343323,
+    "displayLon": 138.5970776,
+    "city": "Adelaide",
+    "town": "Adelaide",
+    "county": "SA",
+    "addressText": "88 Gilbert Street, Adelaide SA 5000, Australia",
+    "regionId": "adelaide",
+    "regionLabel": "Adelaide",
+    "websiteUrl": "https://www.gilbertsthotel.com.au/",
+    "instagramUrl": "https://instagram.com/gilbertstreethotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "great-northern-hotel-carlton-north-au",
+    "name": "Great Northern Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.782004,
+    "lon": 144.97350800000004,
+    "displayLat": -37.782004,
+    "displayLon": 144.97350800000004,
+    "city": "Melbourne",
+    "town": "Carlton North",
+    "county": "VIC",
+    "addressText": "644 Rathdowne Street, Carlton North VIC 3054, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://www.gnh.net.au/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "sportsScreenings": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "king-omalleys-canberra-au",
+    "name": "King O'Malley's",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -35.2784671,
+    "lon": 149.1311691,
+    "displayLat": -35.2784671,
+    "displayLon": 149.1311691,
+    "city": "Canberra",
+    "town": "Canberra",
+    "county": "ACT",
+    "addressText": "131 City Walk",
+    "regionId": "canberra",
+    "regionLabel": "Canberra",
+    "websiteUrl": "https://kingomalleys.com.au",
+    "instagramUrl": "https://instagram.com/kingomalleys",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "market-grounds-perth-au",
+    "name": "Market Grounds",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.949454,
+    "lon": 115.855594,
+    "displayLat": -31.949454,
+    "displayLon": 115.855594,
+    "city": "Perth",
+    "town": "Perth",
+    "county": "WA",
+    "addressText": "10 Telethon Avenue, Perth, WA 6000, Australia",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://www.marketgrounds.com.au/",
+    "instagramUrl": "https://instagram.com/marketgroundsperth",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "morrison-hotel-brisbane-au",
+    "name": "Morrison Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -27.4854502,
+    "lon": 153.0306867,
+    "displayLat": -27.4854502,
+    "displayLon": 153.0306867,
+    "city": "Brisbane",
+    "town": "Brisbane",
+    "county": "QLD",
+    "addressText": "640 Stanley Street, Woolloongabba, 4102",
+    "regionId": "brisbane",
+    "regionLabel": "Brisbane",
+    "websiteUrl": "https://morrisonhotel.com.au",
+    "instagramUrl": "https://instagram.com/Themorrisonhotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "mr-percivals-brisbane-city-au",
+    "name": "Mr Percival's",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -27.4622341,
+    "lon": 153.03513870000006,
+    "displayLat": -27.4622341,
+    "displayLon": 153.03513870000006,
+    "city": "Brisbane",
+    "town": "Brisbane City",
+    "county": "QLD",
+    "addressText": "5 Boundary Street, Brisbane City QLD 4000, Australia",
+    "regionId": "brisbane",
+    "regionLabel": "Brisbane",
+    "websiteUrl": "https://mrpercivals.com.au/",
+    "instagramUrl": "https://instagram.com/mrpercivals",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "osbourne-hotel-fortitude-valley-au",
+    "name": "Osbourne Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -27.4564862,
+    "lon": 153.0367577,
+    "displayLat": -27.4564862,
+    "displayLon": 153.0367577,
+    "city": "Brisbane",
+    "town": "Fortitude Valley",
+    "county": "QLD",
+    "addressText": "Fortitude Valley, QLD",
+    "regionId": "brisbane",
+    "regionLabel": "Brisbane",
+    "websiteUrl": "https://osbournehotel.com.au",
+    "instagramUrl": "https://instagram.com/osbournehotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "rosemount-hotel-north-perth-au",
+    "name": "Rosemount Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.9308969,
+    "lon": 115.8588857,
+    "displayLat": -31.9308969,
+    "displayLon": 115.8588857,
+    "city": "Perth",
+    "town": "North Perth",
+    "county": "WA",
+    "addressText": "459 Fitzgerald Street, North Perth, WA 6006",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://rosemounthotel.com.au/contact",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "sail-and-anchor-fremantle-au",
+    "name": "Sail and Anchor",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -32.0559921,
+    "lon": 115.7486818,
+    "displayLat": -32.0559921,
+    "displayLon": 115.7486818,
+    "city": "Perth",
+    "town": "Fremantle",
+    "county": "WA",
+    "addressText": "64 South Terrace, Fremantle, WA 6160",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://www.sailandanchor.com.au",
+    "instagramUrl": "https://instagram.com/sailandanchorwa",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "shambles-brewery-hobart-au",
+    "name": "Shambles Brewery",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -42.8784714,
+    "lon": 147.3205539,
+    "displayLat": -42.8784714,
+    "displayLon": 147.3205539,
+    "city": "Hobart",
+    "town": "Hobart",
+    "county": "TAS",
+    "addressText": "222 Elizabeth Street, Hobart TAS 7000, Australia",
+    "regionId": "hobart",
+    "regionLabel": "Hobart",
+    "websiteUrl": "https://shamblesbrewery.com.au/",
+    "instagramUrl": "https://instagram.com/shamblesbrewery",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "telegraph-hotel-hobart-hobart-au",
+    "name": "Telegraph Hotel Hobart",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -42.8842271,
+    "lon": 147.3314652,
+    "displayLat": -42.8842271,
+    "displayLon": 147.3314652,
+    "city": "Hobart",
+    "town": "Hobart",
+    "county": "TAS",
+    "addressText": "19 Morrison Street, Hobart TAS 7000",
+    "regionId": "hobart",
+    "regionLabel": "Hobart",
+    "websiteUrl": "https://telegraphhotelhobart.com.au",
+    "instagramUrl": "https://instagram.com/telegraph.hotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-carrington-surry-hills-au",
+    "name": "The Carrington",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -33.8877,
+    "lon": 151.2152189,
+    "displayLat": -33.8877,
+    "displayLon": 151.2152189,
+    "city": "Sydney",
+    "town": "Surry Hills",
+    "county": "NSW",
+    "addressText": "565 Bourke Street, 2010",
+    "regionId": "sydney",
+    "regionLabel": "Sydney",
+    "websiteUrl": "https://thecarringtonsydney.com",
+    "instagramUrl": "https://instagram.com/thecarringtonsydney",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-catfish-fitzroy-au",
+    "name": "The Catfish",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.8057842,
+    "lon": 144.9751564,
+    "displayLat": -37.8057842,
+    "displayLon": 144.9751564,
+    "city": "Melbourne",
+    "town": "Fitzroy",
+    "county": "VIC",
+    "addressText": "30 Gertrude Street, Fitzroy VIC 3065, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://thecatfish.com.au/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-courthouse-hotel-newtown-au",
+    "name": "The Courthouse Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -33.8960431,
+    "lon": 151.1783326,
+    "displayLat": -33.8960431,
+    "displayLon": 151.1783326,
+    "city": "Sydney",
+    "town": "Newtown",
+    "county": "NSW",
+    "addressText": "202 Australia Street, Newtown, 2042",
+    "regionId": "sydney",
+    "regionLabel": "Sydney",
+    "websiteUrl": "https://www.thecourty.com.au",
+    "instagramUrl": "https://instagram.com/courthousehotel",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "petFriendly": {
+      "status": "pet-friendly",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-curtin-carlton-au",
+    "name": "The Curtin",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.8061581,
+    "lon": 144.9657057,
+    "displayLat": -37.8061581,
+    "displayLon": 144.9657057,
+    "city": "Melbourne",
+    "town": "Carlton",
+    "county": "VIC",
+    "addressText": "29 Lygon St, Carlton VIC 3053, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://www.johncurtinhotel.com/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-globe-perth-perth-au",
+    "name": "The Globe Perth",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.9516181,
+    "lon": 115.8585466,
+    "displayLat": -31.9516181,
+    "displayLon": 115.8585466,
+    "city": "Perth",
+    "town": "Perth",
+    "county": "WA",
+    "addressText": "495-497 Wellington Street, Perth, WA 6000",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://theglobeperth.com.au",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-golden-sheaf-double-bay-au",
+    "name": "The Golden Sheaf",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -33.8776353,
+    "lon": 151.2435544,
+    "displayLat": -33.8776353,
+    "displayLon": 151.2435544,
+    "city": "Sydney",
+    "town": "Double Bay",
+    "county": "NSW",
+    "addressText": "Double Bay, NSW",
+    "regionId": "sydney",
+    "regionLabel": "Sydney",
+    "websiteUrl": "https://thegoldensheaf.com.au",
+    "instagramUrl": "https://instagram.com/goldensheaf",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-guildford-hotel-guildford-au",
+    "name": "The Guildford Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.8996328,
+    "lon": 115.9685434,
+    "displayLat": -31.8996328,
+    "displayLon": 115.9685434,
+    "city": "Perth",
+    "town": "Guildford",
+    "county": "WA",
+    "addressText": "159 James St, Guildford WA 6055, Australia",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://theguildfordhotel.com.au/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "sportsScreenings": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-imperial-erskineville-au",
+    "name": "The Imperial Erskineville",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -33.8991723,
+    "lon": 151.1826169,
+    "displayLat": -33.8991723,
+    "displayLon": 151.1826169,
+    "city": "Sydney",
+    "town": "Erskineville",
+    "county": "NSW",
+    "addressText": "35 Erskineville Rd, Erskineville NSW 2043, Australia",
+    "regionId": "sydney",
+    "regionLabel": "Sydney",
+    "websiteUrl": "https://imperialerskineville.com.au/",
+    "instagramUrl": "https://instagram.com/imperialerskineville",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "roof-terrace",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "dj": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-normanby-hotel-red-hill-au",
+    "name": "The Normanby Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -27.4589812,
+    "lon": 153.0141314,
+    "displayLat": -27.4589812,
+    "displayLon": 153.0141314,
+    "city": "Brisbane",
+    "town": "Red Hill",
+    "county": "QLD",
+    "addressText": "1 Musgrave Road",
+    "regionId": "brisbane",
+    "regionLabel": "Brisbane",
+    "websiteUrl": "https://thenormanby.com.au",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "parking": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-old-bar-fitzroy-au",
+    "name": "The Old Bar",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -37.798362,
+    "lon": 144.977083,
+    "displayLat": -37.798362,
+    "displayLon": 144.977083,
+    "city": "Melbourne",
+    "town": "Fitzroy",
+    "county": "VIC",
+    "addressText": "74-76 Johnston St, Fitzroy VIC 3065, Australia",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://www.theoldbar.com.au/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-paddo-tavern-paddington-au",
+    "name": "The Paddo Tavern",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -27.4621937,
+    "lon": 153.0066074,
+    "displayLat": -27.4621937,
+    "displayLon": 153.0066074,
+    "city": "Brisbane",
+    "town": "Paddington",
+    "county": "QLD",
+    "addressText": "186 Given Terrace, Paddington QLD 4064, Australia",
+    "regionId": "brisbane",
+    "regionLabel": "Brisbane",
+    "websiteUrl": "https://thepaddo.com.au/",
+    "instagramUrl": "https://instagram.com/paddotavern",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "sportsScreenings": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-royal-hotel-perth-au",
+    "name": "The Royal Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.9513379,
+    "lon": 115.8578523,
+    "displayLat": -31.9513379,
+    "displayLon": 115.8578523,
+    "city": "Perth",
+    "town": "Perth",
+    "county": "WA",
+    "addressText": "531 Wellington St, Perth WA 6000, Australia",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://theroyalhotelperth.com.au/",
+    "instagramUrl": "https://instagram.com/theroyalperth",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "the-windsor-hotel-south-perth-au",
+    "name": "The Windsor Hotel South Perth",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -31.973304,
+    "lon": 115.85284649999994,
+    "displayLat": -31.973304,
+    "displayLon": 115.85284649999994,
+    "city": "Perth",
+    "town": "South Perth",
+    "county": "WA",
+    "addressText": "112 Mill Point Road, South Perth WA 6151, Australia",
+    "regionId": "perth",
+    "regionLabel": "Perth",
+    "websiteUrl": "https://www.windsorhotelsouthperth.com/",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "outdoor-seating",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    },
+    "liveMusic": {
+      "status": "yes",
+      "confidence": "confirmed"
+    },
+    "sportsScreenings": {
+      "status": "yes",
+      "confidence": "confirmed"
+    }
+  },
+  {
+    "id": "union-club-hotel-fitzroy-au",
+    "name": "Union Club Hotel",
+    "placeTypeId": "pub",
+    "appId": "au",
+    "lat": -38.339948,
+    "lon": 143.587335,
+    "displayLat": -38.339948,
+    "displayLon": 143.587335,
+    "city": "Melbourne",
+    "town": "Fitzroy",
+    "county": "VIC",
+    "addressText": "Fitzroy, VIC",
+    "regionId": "melbourne",
+    "regionLabel": "Melbourne",
+    "websiteUrl": "https://unionclubhotel.com.au",
+    "instagramUrl": "https://instagram.com/unionclubfitzroy",
+    "solarMode": "facade",
+    "status": "unavailable",
+    "outdoorArea": {
+      "type": "beer-garden",
+      "confidence": "confirmed"
+    },
+    "foodOffer": {
+      "category": "full-menu",
+      "confidence": "confirmed"
+    }
+  }
+]
