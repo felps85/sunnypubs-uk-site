@@ -1,5 +1,5 @@
 const SHELL_CACHE_NAME = "sunny-pubs-shell-v3";
-const STATIC_DATA_CACHE_NAME = "sunny-pubs-static-data-v1";
+const STATIC_DATA_CACHE_NAME = "sunny-pubs-static-data-v2";
 const PRECACHE_URLS = [
   "/",
   "/site.webmanifest",
@@ -95,12 +95,21 @@ function isRuntimeFunctionRequest(requestUrl) {
   return requestUrl.pathname.startsWith("/functions/");
 }
 
+function isSunshineApiRequest(requestUrl) {
+  return requestUrl.pathname.startsWith("/api/sunshine/");
+}
+
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
   const requestUrl = new URL(event.request.url);
   if (requestUrl.origin !== self.location.origin) return;
 
   if (isRuntimeFunctionRequest(requestUrl)) {
+    event.respondWith(fetch(event.request));
+    return;
+  }
+
+  if (isSunshineApiRequest(requestUrl)) {
     event.respondWith(fetch(event.request));
     return;
   }
