@@ -2,16 +2,30 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Redirecting…</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-  </head>
-  <body>
+    <meta name="robots" content="noindex, follow" />
+    <meta name="theme-color" content="#f6c65b" />
+    <link rel="canonical" href="https://sunnypubs.live/uk/" />
+    <meta http-equiv="refresh" content="0; url=https://sunnypubs.live/uk/" />
+    <title>Sunny Pubs has moved</title>
     <script>
-      (function () {
-        var target = window.location.pathname + window.location.search + window.location.hash;
-        window.sessionStorage.setItem("sunny-spa-redirect", target);
-        window.location.replace("/");
+      (() => {
+        const targetOrigin = "https://sunnypubs.live";
+        const legacyMarket = "uk";
+        const path = window.location.pathname || "/";
+        const segments = path.replace(/^\/+|\/+$/g, "").split("/").filter(Boolean);
+        const firstSegment = segments[0];
+        const hasMarketPrefix = firstSegment === "ie" || firstSegment === "uk";
+        const targetPath = path === "/" ? `/${legacyMarket}/` : hasMarketPrefix ? path : `/${legacyMarket}${path.startsWith("/") ? path : `/${path}`}`;
+        window.location.replace(`${targetOrigin}${targetPath}${window.location.search}${window.location.hash}`);
       })();
     </script>
+  </head>
+  <body>
+    <main>
+      <h1>Sunny Pubs has moved</h1>
+      <p>The UK app now lives on the shared Sunny Pubs site.</p>
+      <p><a href="https://sunnypubs.live/uk/">Continue to Sunny Pubs</a></p>
+    </main>
   </body>
-  </html>
+</html>
