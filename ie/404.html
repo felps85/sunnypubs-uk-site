@@ -5,27 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex, follow" />
     <meta name="theme-color" content="#f6c65b" />
-    <link rel="canonical" href="https://sunnypubs.live/uk/" />
-    <meta http-equiv="refresh" content="0; url=https://sunnypubs.live/uk/" />
+    <link rel="canonical" href="https://sunnypubs.live/" />
+    <meta http-equiv="refresh" content="0; url=https://sunnypubs.live/" />
     <title>Sunny Pubs has moved</title>
     <script>
       (() => {
         const targetOrigin = "https://sunnypubs.live";
-        const legacyMarket = "uk";
         const path = window.location.pathname || "/";
-        const segments = path.replace(/^\/+|\/+$/g, "").split("/").filter(Boolean);
-        const firstSegment = segments[0];
-        const hasMarketPrefix = firstSegment === "ie" || firstSegment === "uk";
-        const targetPath = path === "/" ? `/${legacyMarket}/` : hasMarketPrefix ? path : `/${legacyMarket}${path.startsWith("/") ? path : `/${path}`}`;
-        window.location.replace(`${targetOrigin}${targetPath}${window.location.search}${window.location.hash}`);
+        const target = new URL(path + window.location.search + window.location.hash, targetOrigin);
+        window.location.replace(target.toString());
       })();
     </script>
   </head>
   <body>
     <main>
       <h1>Sunny Pubs has moved</h1>
-      <p>The UK app now lives on the shared Sunny Pubs site.</p>
-      <p><a href="https://sunnypubs.live/uk/">Continue to Sunny Pubs</a></p>
+      <p>Redirecting you to the shared Sunny Pubs app.</p>
+      <p><a href="https://sunnypubs.live/">Continue to Sunny Pubs</a></p>
     </main>
   </body>
 </html>
